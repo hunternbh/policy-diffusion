@@ -97,5 +97,29 @@
       "source": "ZAF_BO",
       "locator": "Official Beneficial Ownership page, launch/mandatory filing and affected-company explanations."
     }
+  },
+  "disclosure_classification": {
+    "event_id": "ZAF_BENEFICIAL_OWNERSHIP_0025",
+    "iso3": "ZAF",
+    "original_family": "BENEFICIAL_OWNERSHIP",
+    "event_type": "implementation",
+    "event_year": 2023,
+    "analysis_class": "BENEFICIAL_OWNERSHIP",
+    "analysis_label": "Beneficial-ownership registers",
+    "topic_coverage": {
+      "E": "not_applicable",
+      "S": "not_applicable",
+      "G": "not_applicable"
+    },
+    "information_audience": "CIPC; regulated access",
+    "obligation": "mandatory_in_scope",
+    "standard_family": null,
+    "tax_reporting_subtype": null,
+    "classification_evidence": "inherited_source_scope",
+    "kstz_full_ESG_rule": "All E,S,G must be required for the relevant issuer population; last topic date governs. Comply-or-explain remains mandatory. Publication year alone is insufficient.",
+    "kstz_legal_equivalence_verified": false,
+    "voluntary_not_inferred_from_missing_or_explain": true,
+    "first_full_ESG_date": null,
+    "reported_KSTZ_benchmark_year": 2010
   }
 }

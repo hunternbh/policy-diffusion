@@ -84,5 +84,29 @@
     "global_history_status": "incomplete_census_unknown_nonadoption_retained",
     "original_record_preserved": true,
     "legal_date_status": "inherited_recorded_date_with_basis_preserved"
+  },
+  "disclosure_classification": {
+    "event_id": "MLT_AUDIT_REPORTING_0085",
+    "iso3": "MLT",
+    "original_family": "AUDIT_REPORTING",
+    "event_type": "implementation",
+    "event_year": 2016,
+    "analysis_class": "AUDIT_REPORTING",
+    "analysis_label": "Expanded auditor reporting",
+    "topic_coverage": {
+      "E": "not_applicable",
+      "S": "not_applicable",
+      "G": "not_applicable"
+    },
+    "information_audience": "public",
+    "obligation": "mandatory_in_scope",
+    "standard_family": null,
+    "tax_reporting_subtype": null,
+    "classification_evidence": "inherited_source_scope",
+    "kstz_full_ESG_rule": "All E,S,G must be required for the relevant issuer population; last topic date governs. Comply-or-explain remains mandatory. Publication year alone is insufficient.",
+    "kstz_legal_equivalence_verified": false,
+    "voluntary_not_inferred_from_missing_or_explain": true,
+    "first_full_ESG_date": null,
+    "reported_KSTZ_benchmark_year": null
   }
 }

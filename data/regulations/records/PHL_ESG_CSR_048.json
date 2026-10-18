@@ -105,5 +105,29 @@
     "derived_case_year": 2019,
     "first_reporting_year": 2019,
     "reporting_boundary_precision": "year_only_exact_issuer_fiscal_dates_unassigned"
+  },
+  "disclosure_classification": {
+    "event_id": "PHL_ESG_CSR_048",
+    "iso3": "PHL",
+    "original_family": "ESG_CSR",
+    "event_type": "issuance",
+    "event_year": 2019,
+    "analysis_class": "ESG_SCOPED",
+    "analysis_label": "Multi-topic sustainability",
+    "topic_coverage": {
+      "E": "EESG_framework_named_last_topic_mandatory_date_unverified",
+      "S": "EESG_framework_named_last_topic_mandatory_date_unverified",
+      "G": "EESG_framework_named_last_topic_mandatory_date_unverified"
+    },
+    "information_audience": "public/investors",
+    "obligation": "comply_or_explain_required_response",
+    "standard_family": null,
+    "tax_reporting_subtype": null,
+    "classification_evidence": "SEC_MC4_2019_multi_topic_reporting_obligation_verified",
+    "kstz_full_ESG_rule": "All E,S,G must be required for the relevant issuer population; last topic date governs. Comply-or-explain remains mandatory. Publication year alone is insufficient.",
+    "kstz_legal_equivalence_verified": false,
+    "voluntary_not_inferred_from_missing_or_explain": true,
+    "first_full_ESG_date": null,
+    "reported_KSTZ_benchmark_year": 2011
   }
 }

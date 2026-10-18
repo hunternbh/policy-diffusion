@@ -1,2169 +1,547 @@
 {
-  "title": "Disclosure Regulation Stock Liquidity and Policy Diffusion Around the World",
-  "subtitle": "Reviewed empirical draft: legal scope, observed filings and rerun evidence,18October2026",
-  "abstract": "We examine stock liquidity and regulatory diffusion across fourteen policy families using 1,055,142 security-years in 90 jurisdictions. A source review preserves 273 source objects and distinguishes legal dates, issuer scope and actual filings. The revised record has 360 dated country-family cases, including the Philippines FY 2019 reporting rule. Recomputing 3,330 country weighting and robustness cells leaves the 30 original primary comparisons unchanged to numerical precision: economic weighting remains consequential and no uniform liquidity benefit is established. A recovered Compustat research extract contains 104,305 firm-years for 11,601 issuers; 35,213 local SEC annual filings supply observed filing dates. However, the quote export has no historical ISINs. Strict issuer-linked liquidity tests therefore remain unavailable; provisional current-identifier tests are separately disclosed with their sample failures. Revised JIBS-inspired models censor scope/enforcement weakening histories. Across 442 stable diffusion coefficients,0 pass the broad Holm correction. The evidence remains exploratory and conditional on documented histories.",
+  "title": "Disclosure Regulation, Stock Liquidity and International Diffusion",
+  "subtitle": "October 2026",
+  "abstract": "We examine how disclosure regulation relates to stock liquidity and international regulatory diffusion. The sample covers 1,055,142 security-years in 90 jurisdictions and distinguishes policies by information content, audience and reporting obligation. Liquidity comparisons vary across policy classes and country weights. The IFRS log-spread contrast changes from -0.147 with equal-country weights to -0.014 with GDP weights; the confidential tax-reporting contrast changes from -0.057 to 0.103. These results do not establish a common liquidity benefit. We distinguish mandatory E, S and G reporting from climate-only requirements and voluntary disclosure, and examine competition, learning, emulation and financial dependence in national implementation decisions. An isolated negative legal-origin-peer association survives broad adjustment in a status model, while the primary timing estimates do not establish the predicted diffusion channels. The evidence describes policy-environment associations; incomplete issuer eligibility and country histories limit causal interpretation.",
   "sections": [
     [
       "1 Introduction",
       [
-        "This version incorporates a legal-source and issuer-data review. Sections 4-5 and Tables 1-9 retain the frozen prior-release comparisons for continuity; Section 5A and Appendix D report the independently rerun results and current data limits. The reviewed 360-case file is distinct from the original 359-case file, which remains unchanged.",
-        "Investors face an expanding set of rules governing the information that companies provide about their financial position, sustainability risks, ownership, taxes and business relationships. These rules can alter both the content of corporate information and the institutions through which it reaches markets. Their capital market consequences need not be uniform. A public financial report, a confidential submission to a tax authority and the creation of an audit oversight body change different parts of the information environment. Understanding these differences requires a common set of market outcomes together with a careful account of what each regulation requires.",
-        "We study disclosure regulation in two parts. The first examines stock liquidity around documented policy implementations across fourteen regulatory families. The second examines the timing of independent national implementations and the information that countries could have obtained from prior implementations elsewhere. Linking these questions makes it possible to distinguish the market consequences of regulation from the international processes through which regulation spreads. A policy may be attractive because connected countries have adopted it, because their markets have improved, or because its adoption conveys legitimacy. These explanations require different empirical measures.",
-        "Our outcome analysis follows the measurement logic of Krueger, Sautner, Tang and Zhong (2023). We construct annual quoted spreads, price impact and the fraction of zero-return days from daily equity records. Their study shows how a global disclosure sample can connect average liquidity estimates to differences in implementation, enforcement and existing information provision. We extend the research setting beyond ESG reporting, while preserving the distinction between a policy's legal existence and the population of firms to which it applies. The current draft reports calendar-year market evidence. It does not reproduce their fiscal-year firm panel or their full accounting and analyst control set.",
-        "Our diffusion analysis draws on Koning, Mertens and Roosenboom (2018). We distinguish trade competition, relative foreign success, peer emulation and financial dependence. These constructs require separate networks and signals. We first retain the original portfolio-exposure exercise, then construct the export and geographic measures used in their JIBS design and partial emulation/dependence proxies. No observed network association is treated as a causal diffusion mechanism.",
-        "The expanded setting also exposes limits that can remain less visible in a single-policy study. Several regulatory families share legal acts and coordinated implementation dates. Some require public disclosure, whereas others provide information primarily to regulators. Several apply only to large multinational groups, extractive companies or digital-asset activities. Moreover, an incomplete inventory of policies cannot establish that an unrecorded country was untreated. Our analysis retains those distinctions rather than increasing the apparent sample by assigning missing histories to the control group.",
-        "The expanded tests show why weighting matters. The IFRS spread comparison is negative under equal-country and GDP weights, but its magnitude falls sharply with GDP weighting. Confidential country-by-country reporting reverses sign. Audit-reporting comparisons become negative with GDP weighting, while several other families remain positive or lack support. The JIBS-inspired models produce several raw associations, including financial dependence and recorded timing, but none survives correction across the full new test matrix.",
-        "This draft contributes a common measurement framework, a source-linked policy register and initial empirical comparisons. It also establishes which additional data are needed for a credible causal analysis. The liquidity comparisons condition on documented policy cases and use later recorded implementations as controls where support exists. The implementation-timing models condition on documented independent national cases. These estimates describe the available evidence; neither design presently identifies the unconditional effect of global regulatory adoption. The distinction is consequential for both the interpretation of results and the next stage of the paper."
+        "Investors increasingly obtain corporate information through rules governing financial statements, sustainability reporting, ownership transparency and tax disclosure. These rules differ in what they require, which entities they cover and who can read the resulting information. A financial statement available to investors and a confidential tax report submitted to a revenue authority need not have the same capital-market consequences. Understanding those differences is central to assessing the economic role of disclosure regulation.",
+        "We examine two related questions. First, how does stock liquidity change around the implementation of disclosure-related policies? Second, are national implementation decisions associated with policies and outcomes observed abroad? We study liquidity because it measures an economically relevant feature of the information environment and can be constructed consistently across countries. We then distinguish exposure to foreign implementation from information about earlier implementers' outcomes.",
+        "The market sample contains 1,055,142 security-years for 99,100 quote identifiers in 90 jurisdictions during 2000-2025. The regulatory data contain 353 documented country-class cases with implementation years through 2025. We classify information content separately from reporting standards and distinguish a mandatory reporting response from voluntary participation. This treatment of scope is especially important for sustainability rules: a climate requirement is not a mandate covering all environmental, social and governance topics.",
+        "Disclosure may improve liquidity by reducing information asymmetry, facilitating comparison and attracting informed participation. Its benefits can be smaller when firms already provide the relevant information, when compliance is weak or when processing costs are high. Rules that provide information only to public authorities operate through a different channel. The sign and magnitude of market responses are therefore empirical questions rather than consequences of the regulatory label.",
+        "Our liquidity comparisons show substantial variation across policy classes. With equal-country weights, the IFRS log-spread contrast is -0.147, equivalent to -13.7 percent. With GDP weights, it is -0.014. Confidential tax country-by-country reporting has an equal-country contrast of -0.057, but a GDP-weighted contrast of 0.103. Economic weighting thus changes both magnitudes and, in some settings, signs. These differences caution against interpreting a negative market-wide comparison as a general disclosure benefit.",
+        "For international diffusion, we follow Koning, Mertens and Roosenboom (2018) in distinguishing competition, learning, emulation and coercion. Export-pattern similarity measures potential competition; relative outcomes among geographic neighbours measure potential learning; language and institutional peers measure potential emulation; and external financial dependence measures a possible coercion channel. The estimated associations depend on the available countries and legal histories. One of 425 stable focal coefficients passes a Holm adjustment across the complete model family: a negative legal-origin-peer association in a controlled linear probability model of recorded status. The primary timing models do not establish the predicted channels.",
+        "The analysis relates to two accounting questions. Krueger, Sautner, Tang and Zhong (2023) examine mandatory ESG reporting and show how implementation and information environments can shape liquidity responses. We extend the economic comparison to disclosure obligations with different audiences and scopes. Koning et al. (2018) examine the diffusion of IFRS; we ask whether similar mechanisms are observable across a broader set of regulatory choices. The resulting evidence concerns documented policy environments, rather than an identified average effect on every eligible issuer."
       ]
     ],
     [
-      "2 Economic mechanisms and empirical predictions",
+      "2 Hypothesis Development",
       [
-        "Disclosure can improve secondary-market liquidity when it reduces differences in information among traders. Diamond and Verrecchia (1991) explain how public information can affect liquidity, participation and the cost of capital. More accessible information about firm fundamentals can lower adverse selection, attract participation and reduce transaction costs. Financial reporting, structured filing formats and public nonfinancial reports may operate through this channel. Yet additional disclosure can be costly to produce or process. Standardized requirements may provide little new information for firms that already disclose extensively, and superficially compliant reports may change neither investor beliefs nor trading. The sign and magnitude of the liquidity response are therefore empirical questions.",
-        "Our first prediction is that rules producing incremental public information for eligible firms are followed by lower quoted spreads and price impact. A lower fraction of zero-return days provides complementary evidence of improved trading activity. This prediction is conditional on actual information reaching investors. It does not imply that confidential country-by-country tax reporting or oversight-body establishment should have the same effect as a public reporting mandate. An association for those families could reflect indirect enforcement, overlapping reforms or wider changes in the market.",
-        "A second prediction concerns implementation. Requirements with broad relevant coverage, credible enforcement and clear reporting obligations should be more likely to change the information environment. Issuing authority and the possibility of explaining noncompliance can help describe those differences, as in Krueger et al. However, the concepts must be coded within each family. Environmental norms may be pertinent to ESG reporting but need not measure enforcement of beneficial ownership registration or digital-asset rules. The expanded paper should test economically relevant interactions rather than repeat identical moderator variables across unrelated regulations.",
-        "For diffusion, competition predicts that a country's regulatory choices respond to choices by countries competing for economic resources. Koning et al. measure such competition through similarity in export patterns and, alternatively, membership in the same investment-risk class. Our current portfolio network instead measures financial exposure. Holdings in a prior implementer can transmit information or reflect common investment opportunities, but they do not by themselves establish that two destinations compete. We therefore describe the resulting coefficient as an exposure association.",
-        "Learning predicts that the experience of earlier implementers influences later choices. A liquidity-based success signal connects the two parts of our study more closely than a general measure of economic growth. However, an observed decline in spreads may arise from a market cycle, changing securities in the sample or another reform. The present signal captures information that could have been visible abroad. A later design will estimate foreign policy benefits using historical data only, separate them from common shocks, and prevent information from the focal country from entering its own signal.",
-        "Emulation and coercion remain distinct predictions. Emulation concerns acceptance among relevant peers or professional communities, independently of demonstrated economic success. Coercion concerns pressure from actors with authority or resources, including explicit policy conditions. Shared-language exposure can be a candidate peer measure, while international lending can be a candidate dependence measure. Neither constitutes a verified mechanism without family-specific validation. This draft therefore does not attach emulation or coercion labels to generic geographic proximity or to unverified credit variables."
+        "2.1 Disclosure and liquidity",
+        "Public disclosure can reduce adverse selection by making information more widely available. The mechanism links reporting to trading costs: when investors are less concerned that counterparties possess superior information, quoted spreads and price impact should decline. Diamond and Verrecchia (1991) provide a theoretical basis for this prediction. More comparable financial and nonfinancial reports may also reduce the cost of evaluating firms across markets.",
+        "The competing argument is that additional requirements generate little useful information. Firms may already disclose the relevant facts, respond superficially, or produce information that is costly to interpret. A mandate can also impose compliance costs without changing beliefs about firm value. We therefore expect liquidity improvements when an obligation supplies incremental, credible public information to investors, while allowing the response to differ across policies and firms.",
+        "2.2 Reporting scope and implementation",
+        "Information content, legal obligation and issuer coverage are separate dimensions. A climate report may discuss governance of climate risks without requiring broad governance or social disclosure. A CSR spending obligation is not itself a disclosure mandate. A comply-or-explain rule requires a reporting response even when the firm does not follow the recommended practice. Conversely, a voluntary framework does not become mandatory because firms can use it to satisfy another reporting requirement. These distinctions determine which firms receive a treatment and when.",
+        "The information audience also matters. Public country-by-country tax reporting can inform investors and other outside users directly. Confidential country-by-country reports support tax administrations' risk assessment and are exchanged subject to confidentiality and appropriate-use safeguards. Any liquidity association for the latter can reflect enforcement, tax uncertainty or concurrent reforms, rather than direct investor access. We expect stronger direct-information effects where the relevant information is both public and incremental, but differences between policy-class coefficients alone do not identify that channel.",
+        "2.3 International diffusion",
+        "Competition can induce a country to respond when rival destinations adopt a reporting regime. Learning instead predicts a response to favourable outcomes among earlier implementers. Emulation predicts adoption among accepted institutional or professional peers, including when economic success is uncertain. Coercion requires an actor with resources or authority to influence the national choice. These mechanisms imply different explanatory variables and cannot be inferred from a single measure of foreign exposure.",
+        "Following Koning et al. (2018), we relate implementation timing to prior policies among export competitors, relative growth or liquidity outcomes among geographic neighbours, peer-country implementation and external financial dependence. The learning prediction is particularly relevant to the connection between the two parts of the analysis: foreign outcomes must precede the domestic decision, and an observed liquidity gain must be distinguished from a causal benefit of the foreign rule."
       ]
     ],
     [
-      "3 Policy and market data",
+      "3 Data and Research Design",
       [
-        "The policy register groups capital-market-relevant rules into IFRS, ESG and CSR reporting, climate disclosure, ISSB-based reporting, XBRL filing, governance disclosure, beneficial ownership, confidential country-by-country reporting, public country-by-country reporting, expanded audit reporting, audit oversight, extractive-payment disclosure, supply-chain rules and digital-asset regulation. Table 1 separates dated implementations from published proxies, future schedules and coordinated reference records. These categories describe evidence and event type. They do not imply that all events have the same treatment intensity or economic content.",
-        "The accompanying regulation archive serializes all 441 event records into a master JSON register and one JSON file per event, with fourteen family indices. Each record preserves its original CSV fields, source URL, locator, date distinctions and verification status. These records include implementations, amendments, published proxies and other events; they are not a count of unique statutes. The separate inherited ESG register contains 51 document codings. They may overlap the expanded events and do not add verified implementation cases to the estimation sample.",
-        "The archive contains 273 preserved source objects. Of 441 expanded events,424 link to full saved original/official-source or author-repository text,6 are excerpt-only and 11 lack readable source content. Source availability is distinct from legal verification; the 39 author-repository proxies retain their original status.",
-        "The archive records 4,815 examined PDF pages and 206 OCR page attempts. All 51 flagged OCR pages and 33 heuristic blank images received assistant visual dispositions; no flags remain unreviewed. One corrupted trailing fragment remains unusable, with the complete ASX alternative linked. This is readability review, not human legal or translation certification. All 29 previous source gaps have documented retrieval-review outcomes, including unresolved access failures.",
-        "The register is a collection of documented implementations rather than an exhaustive history of nonadoption. Every family retains an incomplete-census flag. The absence of a record consequently does not identify an untreated country. The first empirical comparisons use countries with dated records in the same family, retaining later cases as potential controls only before their recorded implementation. Earlier unrecorded obligations cannot be ruled out by that rule alone. We accordingly refer to first recorded implementation rather than verified first adoption throughout the empirical results.",
-        "Date meaning is equally important. The register contains reporting-period starts and ends, compliance deadlines, legal application dates and institutional establishment dates. A first fiscal year is not a first public filing date. The expanded study ultimately requires separate announcement, enactment, application, reporting and publication fields. The current calculations retain the register's event year and examine liquidity in calendar year g+1, relative to calendar year g-1. This convention is transparent and comparable across observed cases, but it is an approximation to information availability.",
-        "Two differences within the existing ESG records illustrate the importance of scope. The register contains an official Indian implementation record for 2012, while the supplied Krueger manuscript uses 2015 to represent the extension from the largest one hundred to the largest five hundred listed firms. The two dates answer different coverage questions. The inventory also includes literature-based ESG proxies that do not correspond exactly to the thirty-five-country estimation sample in the supplied manuscript. We keep those proxies out of the dated-implementation analysis. Their presence is not a substitute for a new legal audit.",
-        "The daily equity source consists of five Datastream Parquet collections. We use the complete calendar years 2000 through 2025 and exclude partial 2026 observations. The records provide quote identifiers, listing and company-country fields, prices, bid and ask quotes, local-currency total returns, trading volume in shares, and market capitalization. The raw collection remains on the external drive; the project contains links to it. All derived annual files and screening audits are stored separately from the raw data.",
-        "We select equity securities flagged as major securities and primary country quotes, require the quote identifier to equal the primary quote identifier, and match trading country to company country under the source's country-code type. We remove observations after available delisting dates and apply a limited name screen for funds, warrants, depositary receipts and preferred securities. This is not the complete historical-constituent and industry screen in Krueger et al. The sample retains inactive securities present in the source, but we cannot establish that the extract exhaustively covers every historical listing.",
-        "The raw files can contain several historical ISIN mappings for the same quote and trading date. Identical economic observations are collapsed using the quote identifier, date, country, price, quote, return, volume and market-capitalization fields. We do not count additional static identifiers as additional trading observations. If economic observations conflict at the same quote-date key, the key is excluded rather than selecting an arbitrary value. The yearly audit reports the remaining conflicts and checks recorded returns against changes in the total-return index. A boundary-window probe finds differences concentrated in Monday observations from several markets; unavailable local trading dates are a possible explanation. We retain vendor returns and leave full trading-calendar reconciliation open, rather than overwrite them with returns across observed-date gaps.",
-        "Daily prices below USD 0.10 are excluded. Returns above 200 percent and abnormal adjacent return reversals are removed following the thresholds described in Krueger et al. Daily quoted spreads require nonnegative bid and ask prices and an ask at least as large as the bid. Dollar trading value is the closing USD price times volume in shares; observations below USD 100 do not enter price impact. We infer active country trading dates from at least five selected securities with positive volume, allowing the trading week to differ across countries.",
-        "Annual spread is the median daily relative spread. Annual price impact is the median absolute decimal total return divided by USD trading value, rescaled to match the units described in the reference paper. Spread and impact are winsorized at the first and ninety-ninth percentiles within each year and enter the comparisons in logarithms. We require at least one hundred twenty valid daily observations for each measure. Price impact and zero-return fractions additionally require variation in closing prices.",
-        "The zero-return outcome divides zero-return days by observed valid-return days on the inferred country trading calendar. It does not reproduce a denominator from a separately audited exchange calendar. An audit of the separate LSEG ESG files locates 175,506 fiscal year-end dates for 15,592 Datastream codes. These cover a subset and still require a validated historical link to the quote panel. The inspected ESG field definitions do not provide the full assets, profitability, debt, analyst and guidance control set. These differences are recorded in the analysis JSON and prevent an exact replication claim. Table 2 reports coverage and distributions for the measures that are actually constructed.",
-        "The screened annual files contain 1,055,142 security-years for 99,100 distinct quote identifiers in 90 jurisdictions. Log spreads are available in 662,316 security-years, log price impact in 755,877, and the zero-return fraction in 795,229. The common three-outcome sample contains 636,960 observations. These counts describe the market-data build and are not the number of firms treated by a policy. Table 2 shows the corresponding distributions, while Figure 2 makes the time variation in coverage visible. The country comparisons further require thirty securities with a valid observation in both comparison years."
+        "3.1 Regulation and treatment classification",
+        "Table 1 classifies the policies by information content and audience. Sustainability rules are separated into multi-topic reporting, climate reporting, financial-sector climate requirements, sustainability-related financial reporting and ISSB-informed sector requirements. ISSB identifies a standards family; local climate-first application is classified as climate reporting. Duplicate records for Australia's initial AASB S2 climate obligation count as one country-topic implementation.",
+        "We apply the mandatory-versus-voluntary distinction used by Krueger et al. (2023). Their ESG treatment begins only when disclosure covering all E, S and G topics is required; for gradual introductions, the last topic determines the date. Comply-or-explain remains in their mandatory category. Their firm-level voluntary-disclosure proxy is I/B/E/S earnings guidance, rather than voluntary ESG reporting. We retain their 35 treated and 30 never-coded countries as a separate 2002-2020 benchmark. Author-workbook publication years and topic-specific rules are not promoted into independently verified full-ESG adoption dates.",
+        "The distinction is substantive in India: the official 2012 business-responsibility rule covers the largest 100 listed firms, whereas Krueger et al. use the 2015 expansion to 500 firms. The Philippine 2019 reporting circular requires the first report with the 2019 annual report submitted in 2020. These are scope and information-timing differences, not interchangeable dates. Exact issuer fiscal boundaries are used only where observed.",
+        "Confidential tax CbCR comprises BEPS Action 13 reporting to tax authorities. Public tax CbCR in the register comprises general multinational income-tax reporting, including EU and Australian regimes. Banking disclosures under Article 89 of the EU Capital Requirements Directive are a distinct public regime and are not represented by an identified event in this register. Extractive-payment reports concern payments to governments and remain separate from income-tax CbCR. Group thresholds, entity roles and jurisdictional scope do not make every listed equity an eligible reporting entity.",
+        "3.2 Market data and liquidity measures",
+        "Daily Datastream records provide prices, bid and ask quotes, local-currency total returns, volume and market capitalization. We retain major equity securities and primary country quotes, match trading and company-country classifications, and exclude observations after available delisting dates. Identical economic observations at a quote-date key are collapsed; conflicting observations are excluded. USD prices below 0.10, extreme returns and adjacent reversal observations are screened, and price-impact observations require at least USD 100 of trading value.",
+        "Annual quoted spread is the median relative bid-ask spread. Price impact is the median absolute decimal return divided by USD trading value; a fixed rescaling sets its units. Both enter in logarithms after within-year 1/99 winsorization. The zero-return fraction measures zero-return days among observed valid-return days on the inferred trading calendar. Each measure requires at least 120 valid daily observations; impact and zero returns also require price variation. These are calendar-year outcomes, whereas Krueger et al. align outcomes to firm fiscal years.",
+        "3.3 Liquidity comparisons",
+        "Let g denote a country's first recorded implementation year within a policy class. For each outcome, we retain the same securities in g-1 and g+1 and calculate their mean change within country. A country contributes only with at least 30 balanced securities. We subtract the corresponding mean change in at least three countries whose recorded implementation occurs after the comparison window. Already implemented countries do not serve as untreated controls. Supported cohorts are aggregated by treated-country mass under equal weights or by predetermined economic mass under the alternative weights.",
+        "GDP and sampled-market-cap weights are measured in g-1. GDP-matched equal-weight comparisons separate the effect of changing weights from changing data coverage. We also construct profiles using the same securities, countries and cohorts from g-3 through g+3. These comparisons condition on recorded cases and approximate exposure at the national market level. They are not an eligible-firm treatment effect or a complete implementation of a staggered difference-in-differences estimator.",
+        "3.4 International implementation models",
+        "The diffusion unit is a documented independent country-class-year. First-event models end at the first recorded implementation; repeated-status models examine recorded implementation status. Common legal waves are distinguished from independent national choices. Missing country histories remain unknown. Status observations are censored where documented scope or enforcement changes prevent a stable interpretation, including the USA beneficial-ownership narrowing and German supply-chain reporting-review suspension in 2025.",
+        "Export competitors are the five countries with the most similar export-destination patterns in raw COW data. Geographic learning uses ten nearby countries and compares earlier with later documented implementers using lagged GDP or liquidity outcomes. Language, legal-origin and IGO networks provide separate peer measures. Lagged IMF credit, including SDR allocations, and net aid relative to GDP measure financial dependence. All explanatory signals precede the focal year. Logit models include family-year strata and country-clustered covariance; controlled models add lagged GDP per capita, growth and trade/GDP. Minimum support is 50 rows, 15 countries, 10 ones and 10 zeros. We retain failed fits and adjust across all stable focal coefficients."
       ]
     ],
     [
-      "4 Liquidity around documented implementations",
+      "4 Empirical Results",
       [
-        "The results in this section describe the frozen weighting/mechanism release preceding the source review. Updated review-conditioned reruns and their differences are reported in Section 5A and Appendix D.",
-        "We begin with annual quoted spreads, price impact and zero-return fractions following the measurement logic of Krueger et al. (2023). Table 3 retains the initial equal-country comparisons. The follow-up fixes the same supporting quote identifiers within each country between g-1 and g+1, requires thirty paired quotes per country and at least three later-case controls per cohort, and compares equal-country results with alternative country weights. Missing histories do not supply never-treated observations.",
-        "GDP weights answer a different aggregation question from equal-country weights. We use current USD GDP, constant 2015 USD GDP and constant 2021 international-dollar PPP GDP measured at g-1. We also use baseline sampled-quote market capitalization and balanced-quote counts. We normalize weights separately in each cohort arm and aggregate cohorts by treated weight mass. Equal-country results on exactly the same eligible country/cohort cells distinguish lost GDP coverage from weighting changes. Economic size does not resolve endogenous timing, firm eligibility or concurrent reforms.",
-        "The IFRS log-spread comparison changes from -0.147 (-13.7%) to -0.014 (-1.4%) under constant-GDP weights. Confidential CbCR changes from -0.057 (-5.6%) to 0.103 (+10.8%). These reversals and attenuations demonstrate sensitivity to economic composition; they cannot establish a common policy benefit.",
-        "Audit reporting changes from a positive equal-country spread contrast to a negative GDP-weighted contrast. Its GDP-weighted cluster-deletion range remains below zero in the baseline. This is a descriptive candidate for further investigation, not formal evidence of a policy effect: coordinated cases, sample composition and unobserved overlapping changes can still drive it. Figure 3 and Table 4 show all families, including unsupported comparisons, rather than selecting the negative estimates.",
-        "We add a principal-component illiquidity index, log traded value relative to market capitalization and daily-return volatility. PC1 is estimated once on 57,097 complete observations during 2000-2004, with frozen standardization and loadings applied to all years. It explains 67.8 percent of reference covariance and increases with illiquidity. Some policies precede this calibration window, so it is a retrospective measurement reference. Table 5 reports the added outcomes. Traded value divided by median market cap is an activity ratio rather than exact share turnover.",
-        "The frozen follow-up plan specifies fourteen configurations: baseline, quote-cap weighting, median quote changes, common-three-outcome support,200-day availability, removal of the lowest pre-cap quintile, raw proxies,5/95 winsorization, independent treated cases, independent cases in both arms, known-other-family event exclusions, crisis-window exclusions, pretrend extrapolation and average post-years 1-3. We disclose all 3,330 planned weighting/robustness cells:2,314 are supported and 1,016 are unavailable or inapplicable. These are related analyses, not 3,330 independent experiments. No filters are combined opportunistically.",
-        "Figure 4 uses the same quotes, countries and cohorts observed at every year from g-3 through g+3, with later-case controls implementing after g+3 and g-1 as reference. The balanced profiles repair the varying-support limitation of Appendix A 1, but descriptive pre-period patterns do not establish parallel trends. Figure 5 and Table A5 disclose the robustness grid. An additional, explicitly exploratory income split applies each pre-year median GDPpc threshold to both comparison arms; its full 180-cell table includes unsupported groups.",
-        "The separate published-ESG benchmark retains the supplied 35 treated and 30 never-coded countries only during 2002-2020. Its equal-country log-spread comparison is-0.016 and its constant-GDP comparison is-0.052. Current-USD GDP weighting produces a different sign, illustrating that vintage/currency composition and eligible support matter even in the reference sample. This is a calendar benchmark using published dates, not a fiscal-year replication of Krueger et al. Formal liquidity p-values are withheld; assignment-cluster deletion ranges remain sensitivity diagnostics, not confidence intervals."
+        "4.1 Liquidity around implementation",
+        "Table 2 reports the supported liquidity comparisons. Its equal-country and GDP-weighted columns use the same outcome definitions but answer different aggregation questions. Negative log-spread and price-impact values indicate relative improvements in liquidity; a lower zero-return fraction indicates less nontrading. The brackets report treated-country support for each cell. Classes without the required balanced securities or later-case controls have no reported coefficient.",
+        "The IFRS log-spread comparison is -0.147 with equal-country weights and -0.014 with GDP weights. For confidential tax CbCR, the corresponding comparisons are -0.057 and 0.103. Figure 1 places these values alongside the other supported classes and the separate full-ESG benchmark. There is no consistent liquidity improvement across classes and aggregation schemes. In particular, a confidential tax-reporting association cannot be interpreted as evidence that investors directly receive the report.",
+        "The classification prevents two misleading inferences. First, a climate-only mandate is not evidence of a full E, S and G treatment. Second, recent public multinational-tax reporting cannot be assigned the earlier history of confidential tax CbCR or banking transparency. National market averages also dilute obligations that cover only large issuers, multinational groups or particular activities. The table describes those policy environments without imposing uniform issuer eligibility.",
+        "4.2 Weighting and identification",
+        "The differences between equal-country and GDP-weighted estimates are economically substantial. Country weights determine which markets drive the contrast; they do not resolve endogenous implementation or concurrent reforms. The accompanying GDP-matched comparisons, concentration measures and assignment-cluster deletions show the extent to which results depend on coverage and a small number of countries. A cluster-deletion range is a sensitivity diagnostic rather than a confidence interval.",
+        "Timing creates an additional identification issue. Announcement, legal application, the first covered reporting period and public availability can occur in different years. Even balanced seven-year profiles cannot establish parallel trends when eligibility and earlier obligations are incompletely observed. Historical quote-to-issuer links and fiscal filing dates do not support a verified global firm assignment. An auxiliary current-identifier match also lacks the minimum confirmed comparison-arm support. Consequently, we report descriptive market comparisons and do not attach causal liquidity p-values.",
+        "4.3 International diffusion",
+        "Table 3 reports the pooled first-event timing models and controlled alternatives. The export-competition coefficient is 0.395 (raw p = 0.144); relative-GDP-growth learning is -0.409 (p = 0.558); and language-peer exposure is 0.014 (p = 0.962). These associations are imprecise. Financial dependence has a coefficient of -0.669 (raw p = 0.0005). Its sign is negative, which does not support the predicted positive coercion channel.",
+        "Figure 2 compares first-event timing with recorded-status associations. The models use different samples because network coverage, economic data and legal histories differ. Of 425 stable focal coefficients, one passes the broad Holm adjustment. A narrower four-primary-mechanism adjustment is reported separately in the underlying tables; it is not substituted for the full-matrix adjustment. The financial-dependence measure also includes SDR allocations and unverified policy conditionality, so an association does not establish pressure to adopt a particular rule.",
+        "The coefficient surviving broad adjustment is legal-origin-peer exposure in the controlled linear probability status model: -0.546, with a standard error of 0.129 and Holm p = 0.033. Its sample contains 880 country-class-years from 62 countries. The negative sign runs against positive emulation, and the result concerns accumulated recorded status rather than the timing of an independent decision. It does not establish that legal peers cause policy convergence.",
+        "The link from liquidity to diffusion is therefore unresolved. An observed foreign liquidity improvement can reflect common market conditions or other reforms, and the usable learning samples are small. The evidence does not establish that countries adopt disclosure rules because they observe causal capital-market benefits abroad. Repeated adoption status and the timing of an independent decision remain different outcomes."
       ]
     ],
     [
-      "5 International implementation timing",
+      "5 Conclusion",
       [
-        "The results in this section describe the frozen weighting/mechanism release preceding the source review. Updated review-conditioned reruns and their differences are reported in Section 5A and Appendix D.",
-        "The initial portfolio-exposure exercise is preserved in Tables 6-7. Its two stable exposure-only fits are imprecise; learning fits were unstable. Portfolio exposure is not the export-competition construct in Koning et al. (2018). The expansion therefore builds separate mechanism measures and reports their relation to the supplied JIBS design in Table 8.",
-        "For competition we select the five most correlated export-destination patterns using raw COW trade flows and at least twenty jointly observed destinations. Missing/negative flows are not converted to zero. Fixed 2000 peers are available from 2001; fixed 2013 peers enter only from 2014; annual lagged flows stop at 2014 and therefore focal 2015. We calculate adoption shares only among documented dated peers, require at least three of five (four in a stricter sensitivity), and include unknown-peer coverage. The global adoption fraction remains bounded by the separately retained unknown-neighbour share.",
-        "For learning, the ten nearest geographic neighbours are selected independently of policy status. Earlier cases have recorded implementation by t-2; comparison cases implement after t-1. We compare median GDP growth, and GDPpc growth in an alternative, observed at t-1, requiring at least one measured earlier and later case and 80 percent signal coverage in each group. Liquidity-change versions use the same temporal rule. A further foreign-success proxy uses balanced g-1 to g+1 foreign contrasts available by t-1 and excludes the focal country and its assignment cluster from foreign controls. These remain observed conditional comparisons, not causal estimates of foreign policy success.",
-        "For emulation we use separate language, legal-origin and generic IGO peer measures. These do not reproduce the Berry cultural/administrative composite or policy-specific IFAC professional advocacy. Financial dependence uses lagged IMF credit including SDR allocations and net aid relative to GDP, separately and combined. Missing higher-income reporting is retained as missing; no observed loan condition is inferred from these financial stocks and flows.",
-        "We fit first recorded implementation timing among documented independent cases and a repeated absorbing recorded-status index for comparison with JIBS. The latter is an index built from recorded implementation dates, not an audited full legal history. Single-mechanism logits include family-year strata and peer-coverage terms. Controlled variants add lagged log GDPpc, GDP growth and trade/GDP. We also fit combined four-mechanism specifications and same-sample linear probability models. Constant-outcome strata are excluded; minimum support is 50 rows,15 countries,10 ones and 10 zeros. Designs must be full rank and fits must converge without warnings or invalid standard errors.",
-        "The fixed matrix contains 1,190 designs and 2,992 focal-coefficient cells including LPM counterparts and unsupported fits. There are 442 stable focal coefficients across 412 models. Of these,77 have raw p below 0.05, but none passes Holm correction across all 442 estimable coefficients. These counts do not describe independent hypotheses. Failed and unsupported specifications, exact samples and model diagnostics are retained.",
-        "In the pooled timing baseline, the export-competitor coefficient is 0.395 (raw p 0.144), relative-GDP-growth learning is-0.409 (p 0.558), language-peer exposure is 0.096 (p 0.749), and combined credit/aid dependence is-0.696 (p 0.000226). The latter passes the separately identified four-primary-coefficient Holm family (p 0.000905), but its all-test Holm p is 0.0995 and its sign is negative. It cannot establish policy-specific coercion. The baseline samples range from 72 rows/31 countries for learning to 372 rows/67 countries for language exposure. Sample changes across measures and controls constrain comparison.",
-        "Table 9 and Figure 6 contrast timing and recorded-status associations. The pooled benchmarked-liquidity-success status coefficient is negative, with raw p 0.0041 and all-test Holm p 1.000; its first-event timing counterpart lacks the fixed support. This distinction matters because accumulated status and the timing of an independent national decision ask different questions. The present evidence does not establish that foreign liquidity benefits caused regulatory diffusion. It identifies which mechanism measures can now be formed and where legal-history and source coverage still prevent a credible test."
+        "We examine disclosure-related policies with a common set of liquidity measures while distinguishing their content, audience and scope. Liquidity comparisons differ across policy classes and are sensitive to economic weighting. Confidential tax reporting, public multinational-tax reporting, climate requirements and full E, S and G mandates are economically different treatments. Combining them under a common disclosure label obscures the relevant information channel.",
+        "The international evidence provides no robust account of diffusion through competition, learning, emulation or coercion across the full specification family. These findings identify the limits of aggregate comparisons rather than evidence that disclosure cannot improve markets. A causal analysis requires verified issuer eligibility, public-report timing and complete policy histories, together with designs that distinguish policy changes from the forces that select countries into them."
+      ]
+    ]
+  ],
+  "structured_sections": [
+    [
+      "1 Introduction",
+      [
+        [
+          "",
+          [
+            "Investors increasingly obtain corporate information through rules governing financial statements, sustainability reporting, ownership transparency and tax disclosure. These rules differ in what they require, which entities they cover and who can read the resulting information. A financial statement available to investors and a confidential tax report submitted to a revenue authority need not have the same capital-market consequences. Understanding those differences is central to assessing the economic role of disclosure regulation.",
+            "We examine two related questions. First, how does stock liquidity change around the implementation of disclosure-related policies? Second, are national implementation decisions associated with policies and outcomes observed abroad? We study liquidity because it measures an economically relevant feature of the information environment and can be constructed consistently across countries. We then distinguish exposure to foreign implementation from information about earlier implementers' outcomes.",
+            "The market sample contains 1,055,142 security-years for 99,100 quote identifiers in 90 jurisdictions during 2000-2025. The regulatory data contain 353 documented country-class cases with implementation years through 2025. We classify information content separately from reporting standards and distinguish a mandatory reporting response from voluntary participation. This treatment of scope is especially important for sustainability rules: a climate requirement is not a mandate covering all environmental, social and governance topics.",
+            "Disclosure may improve liquidity by reducing information asymmetry, facilitating comparison and attracting informed participation. Its benefits can be smaller when firms already provide the relevant information, when compliance is weak or when processing costs are high. Rules that provide information only to public authorities operate through a different channel. The sign and magnitude of market responses are therefore empirical questions rather than consequences of the regulatory label.",
+            "Our liquidity comparisons show substantial variation across policy classes. With equal-country weights, the IFRS log-spread contrast is -0.147, equivalent to -13.7 percent. With GDP weights, it is -0.014. Confidential tax country-by-country reporting has an equal-country contrast of -0.057, but a GDP-weighted contrast of 0.103. Economic weighting thus changes both magnitudes and, in some settings, signs. These differences caution against interpreting a negative market-wide comparison as a general disclosure benefit.",
+            "For international diffusion, we follow Koning, Mertens and Roosenboom (2018) in distinguishing competition, learning, emulation and coercion. Export-pattern similarity measures potential competition; relative outcomes among geographic neighbours measure potential learning; language and institutional peers measure potential emulation; and external financial dependence measures a possible coercion channel. The estimated associations depend on the available countries and legal histories. One of 425 stable focal coefficients passes a Holm adjustment across the complete model family: a negative legal-origin-peer association in a controlled linear probability model of recorded status. The primary timing models do not establish the predicted channels.",
+            "The analysis relates to two accounting questions. Krueger, Sautner, Tang and Zhong (2023) examine mandatory ESG reporting and show how implementation and information environments can shape liquidity responses. We extend the economic comparison to disclosure obligations with different audiences and scopes. Koning et al. (2018) examine the diffusion of IFRS; we ask whether similar mechanisms are observable across a broader set of regulatory choices. The resulting evidence concerns documented policy environments, rather than an identified average effect on every eligible issuer."
+          ]
+        ]
       ]
     ],
     [
-      "5A Legal scope, observed filings and review-conditioned reruns",
+      "2 Hypothesis Development",
       [
-        "The legal review separates an obligation from a dated issuer exposure. Ireland SI 560/2016 and SI 110/2019 exempt regulated-market-listed companies and entities subject to equivalent ownership-transparency standards. The 2016 internal register and 2019 central filing are different events; the incumbent central deadline is 22 November 2019, rather than every issuer filing in 2016. A listing venue and incorporation match is still required. The French 2017 decree confirms 1 August commencement and the incumbent transition before 1 April 2018, but does not alone resolve historical statutory exemptions. Auditor oversight events do not create a common issuer-filing deadline. Digital-token whitepapers likewise do not automatically bind ordinary equity issuers.",
-        "The recovered Philippine SEC MC 4 supplies a useful timing correction. Its 2019 issuance requires the first sustainability report forFY 2019, submitted with the 2020 annual report. This adds a reviewed case without replacing the published ESG paper's 2011 proxy. An unknown country history remains unknown. For repeated-status diffusion sensitivities, the USA beneficial-ownership regime is censored from its 2025 domestic-scope narrowing, and German supply-chain status from the 2025 reporting-review suspension. Neither is coded as complete national nonadoption or enacted repeal; first-event dates are retained.",
-        "The rerun preserves all 3,330 country weighting/robustness cells (2,314 supported and 1,016 unavailable), together with 720 balanced-profile cells. All 30 original primary comparisons reproduce within 3.1e-16. The added Philippine case does not supply three later control countries for strict ESG comparisons. More source coverage therefore does not mechanically create identification. The GDP-weighting sign/magnitude sensitivities remain the same, and these country-level comparisons describe a policy environment rather than matched eligible issuers.",
-        "The financial-source search examined 44,370 structured-data headers and 1,103 all-data workbooks. It found a Worldscope item dictionary but no global Worldscope fundamentals panel. An existing Compustat/CRSP/analyst-linked research extract contains 104,305 firm-years for 11,601 issuers over fiscal years 2001-2023, plus historical CUSIP/CIK links. This selected sample is not a global issuer census. Original financial columns and fiscal dates are preserved; financial-size thresholds are not assigned by guessing units, currency, group structure or geographic nexus.",
-        "Local SEC ZIPs yield 35,213 annual 10-K submissions in 2017-2021. Header filing dates and period ends are separate from fiscal-year labels. Current-period DEI contexts verify 8,138 filer-category and 7,078 EGC declarations. Missing or conflicting declarations stay unknown. PCAOB CAM eligibility uses fiscal years ending on/after 30 June 2019 for large accelerated filers and 15 December 2020 for remaining eligible companies, with EGC and entity-class exceptions. Legal eligibility does not prove CAM communication, and SEC submission may follow earlier investor publication.",
-        "The quote export's historical ISIN2 field is entirely blank. Accordingly, the strict historical-issuer liquidity design is not estimable. A separate current-ISIN sensitivity yields 13,122 candidate quote/financial/SEC matches for 3,635 issuers. It requires matching fiscal-end CUSIPs and SEC CIK/period ends, screens company names at 0.80 similarity and excludes changing financial CUSIP/CIK histories. These screens do not establish a historical quote mapping. Of 72 prespecified provisional contrast cells,0 meet the minimum of 30 issuers in each arm. Unsupported cells, actual dates, observed flags and exact memberships remain in the audit; no provisional match is promoted to a verified global treatment assignment.",
-        "The review-conditioned JIBS rerun attempts 1,190 designs and retains 2,992 focal-coefficient cells, including failures. It obtains 442 stable coefficients in 412 models; 77 raw p-values are below 0.05 and 0 pass Holm correction across the stable matrix. The primary pooled first-event logit associations are Export competitors: 0.395, raw p 0.1438; Relative GDP growth: -0.409, raw p 0.5584; Language peers: 0.096, raw p 0.7491; Credit + aid / GDP: -0.696, raw p 0.0002. Nominal intervals and the separately identified narrow primary Holm family are reported in Table D4. These conditional associations do not establish competitive pressure, learning from foreign liquidity gains or policy-linked coercion.",
-        "Completing a source-review disposition does not complete a global legal history. The review matrix gives every event an explicit filing-field status and data requirement. Twelve targeted event records receive inspected source-clause annotations; the others retain inherited verification levels and explicit unresolved issuer conditions. Worldwide first public reports, historical issuer identifiers, bindingness, exemptions and complete nonadoption histories remain missing inputs. Further causal tests require those inputs rather than additional favourable-outcome specifications."
+        [
+          "2.1 Disclosure and liquidity",
+          [
+            "Public disclosure can reduce adverse selection by making information more widely available. The mechanism links reporting to trading costs: when investors are less concerned that counterparties possess superior information, quoted spreads and price impact should decline. Diamond and Verrecchia (1991) provide a theoretical basis for this prediction. More comparable financial and nonfinancial reports may also reduce the cost of evaluating firms across markets.",
+            "The competing argument is that additional requirements generate little useful information. Firms may already disclose the relevant facts, respond superficially, or produce information that is costly to interpret. A mandate can also impose compliance costs without changing beliefs about firm value. We therefore expect liquidity improvements when an obligation supplies incremental, credible public information to investors, while allowing the response to differ across policies and firms."
+          ]
+        ],
+        [
+          "2.2 Reporting scope and implementation",
+          [
+            "Information content, legal obligation and issuer coverage are separate dimensions. A climate report may discuss governance of climate risks without requiring broad governance or social disclosure. A CSR spending obligation is not itself a disclosure mandate. A comply-or-explain rule requires a reporting response even when the firm does not follow the recommended practice. Conversely, a voluntary framework does not become mandatory because firms can use it to satisfy another reporting requirement. These distinctions determine which firms receive a treatment and when.",
+            "The information audience also matters. Public country-by-country tax reporting can inform investors and other outside users directly. Confidential country-by-country reports support tax administrations' risk assessment and are exchanged subject to confidentiality and appropriate-use safeguards. Any liquidity association for the latter can reflect enforcement, tax uncertainty or concurrent reforms, rather than direct investor access. We expect stronger direct-information effects where the relevant information is both public and incremental, but differences between policy-class coefficients alone do not identify that channel."
+          ]
+        ],
+        [
+          "2.3 International diffusion",
+          [
+            "Competition can induce a country to respond when rival destinations adopt a reporting regime. Learning instead predicts a response to favourable outcomes among earlier implementers. Emulation predicts adoption among accepted institutional or professional peers, including when economic success is uncertain. Coercion requires an actor with resources or authority to influence the national choice. These mechanisms imply different explanatory variables and cannot be inferred from a single measure of foreign exposure.",
+            "Following Koning et al. (2018), we relate implementation timing to prior policies among export competitors, relative growth or liquidity outcomes among geographic neighbours, peer-country implementation and external financial dependence. The learning prediction is particularly relevant to the connection between the two parts of the analysis: foreign outcomes must precede the domestic decision, and an observed liquidity gain must be distinguished from a causal benefit of the foreign rule."
+          ]
+        ]
       ]
     ],
     [
-      "6 Identification and extension to the firm level",
+      "3 Data and Research Design",
       [
-        "The follow-up completes the feasible weighting, factor, balanced-profile and mechanism analyses using observed local/public inputs. Table A6 separates those completed tasks from missing data and legal validation. All source-paper tables and writing/method guidance remain in the reference JSON, now linked to the expanded methods and results. Clear definitions, table-specific sample explanations and restrained interpretation follow the reference papers; their prose is not copied.",
-        "The main unresolved identification work is at the issuer-policy boundary: first mandatory filing dates, fiscal alignment, eligibility and compliance, firm accounting/analyst controls, enforcement and voluntary disclosure. Incomplete country-family histories prevent a verified worldwide untreated census or an ordered legal-status model. The current static quote universe does not establish survival-free historical selection.",
-        "Historical IFAC advocacy, EIU risk peers, the full Berry composite, verified lending conditions and adoption-trigger series remain unavailable. The current source review leaves 11 events without readable source material and 6 excerpt-only; all 51 prior OCR flags have visual dispositions. Twelve event records have targeted source-clause annotations. These completed review steps do not establish comprehensive legal verification."
+        [
+          "3.1 Regulation and treatment classification",
+          [
+            "Table 1 classifies the policies by information content and audience. Sustainability rules are separated into multi-topic reporting, climate reporting, financial-sector climate requirements, sustainability-related financial reporting and ISSB-informed sector requirements. ISSB identifies a standards family; local climate-first application is classified as climate reporting. Duplicate records for Australia's initial AASB S2 climate obligation count as one country-topic implementation.",
+            "We apply the mandatory-versus-voluntary distinction used by Krueger et al. (2023). Their ESG treatment begins only when disclosure covering all E, S and G topics is required; for gradual introductions, the last topic determines the date. Comply-or-explain remains in their mandatory category. Their firm-level voluntary-disclosure proxy is I/B/E/S earnings guidance, rather than voluntary ESG reporting. We retain their 35 treated and 30 never-coded countries as a separate 2002-2020 benchmark. Author-workbook publication years and topic-specific rules are not promoted into independently verified full-ESG adoption dates.",
+            "The distinction is substantive in India: the official 2012 business-responsibility rule covers the largest 100 listed firms, whereas Krueger et al. use the 2015 expansion to 500 firms. The Philippine 2019 reporting circular requires the first report with the 2019 annual report submitted in 2020. These are scope and information-timing differences, not interchangeable dates. Exact issuer fiscal boundaries are used only where observed.",
+            "Confidential tax CbCR comprises BEPS Action 13 reporting to tax authorities. Public tax CbCR in the register comprises general multinational income-tax reporting, including EU and Australian regimes. Banking disclosures under Article 89 of the EU Capital Requirements Directive are a distinct public regime and are not represented by an identified event in this register. Extractive-payment reports concern payments to governments and remain separate from income-tax CbCR. Group thresholds, entity roles and jurisdictional scope do not make every listed equity an eligible reporting entity."
+          ]
+        ],
+        [
+          "3.2 Market data and liquidity measures",
+          [
+            "Daily Datastream records provide prices, bid and ask quotes, local-currency total returns, volume and market capitalization. We retain major equity securities and primary country quotes, match trading and company-country classifications, and exclude observations after available delisting dates. Identical economic observations at a quote-date key are collapsed; conflicting observations are excluded. USD prices below 0.10, extreme returns and adjacent reversal observations are screened, and price-impact observations require at least USD 100 of trading value.",
+            "Annual quoted spread is the median relative bid-ask spread. Price impact is the median absolute decimal return divided by USD trading value; a fixed rescaling sets its units. Both enter in logarithms after within-year 1/99 winsorization. The zero-return fraction measures zero-return days among observed valid-return days on the inferred trading calendar. Each measure requires at least 120 valid daily observations; impact and zero returns also require price variation. These are calendar-year outcomes, whereas Krueger et al. align outcomes to firm fiscal years."
+          ]
+        ],
+        [
+          "3.3 Liquidity comparisons",
+          [
+            "Let g denote a country's first recorded implementation year within a policy class. For each outcome, we retain the same securities in g-1 and g+1 and calculate their mean change within country. A country contributes only with at least 30 balanced securities. We subtract the corresponding mean change in at least three countries whose recorded implementation occurs after the comparison window. Already implemented countries do not serve as untreated controls. Supported cohorts are aggregated by treated-country mass under equal weights or by predetermined economic mass under the alternative weights.",
+            "GDP and sampled-market-cap weights are measured in g-1. GDP-matched equal-weight comparisons separate the effect of changing weights from changing data coverage. We also construct profiles using the same securities, countries and cohorts from g-3 through g+3. These comparisons condition on recorded cases and approximate exposure at the national market level. They are not an eligible-firm treatment effect or a complete implementation of a staggered difference-in-differences estimator."
+          ]
+        ],
+        [
+          "3.4 International implementation models",
+          [
+            "The diffusion unit is a documented independent country-class-year. First-event models end at the first recorded implementation; repeated-status models examine recorded implementation status. Common legal waves are distinguished from independent national choices. Missing country histories remain unknown. Status observations are censored where documented scope or enforcement changes prevent a stable interpretation, including the USA beneficial-ownership narrowing and German supply-chain reporting-review suspension in 2025.",
+            "Export competitors are the five countries with the most similar export-destination patterns in raw COW data. Geographic learning uses ten nearby countries and compares earlier with later documented implementers using lagged GDP or liquidity outcomes. Language, legal-origin and IGO networks provide separate peer measures. Lagged IMF credit, including SDR allocations, and net aid relative to GDP measure financial dependence. All explanatory signals precede the focal year. Logit models include family-year strata and country-clustered covariance; controlled models add lagged GDP per capita, growth and trade/GDP. Minimum support is 50 rows, 15 countries, 10 ones and 10 zeros. We retain failed fits and adjust across all stable focal coefficients."
+          ]
+        ]
       ]
     ],
     [
-      "7 Conclusion",
+      "4 Empirical Results",
       [
-        "Disclosure regulations differ in information audience, eligible firms and implementation structures. Expanded liquidity comparisons reflect those differences, but economic weighting can also change their sign and magnitude. IFRS attenuation and the confidential-CbCR reversal show why the paper cannot infer a common market benefit from negative equal-country coefficients. Audit reporting provides a negative GDP-weighted descriptive comparison that warrants source- and eligibility-specific investigation.",
-        "The JIBS framework helps separate trade competition, foreign success, peer emulation and financial dependence. New proxies make substantially more of that framework measurable, while the full test matrix yields no coefficient that survives the broad multiplicity correction. A negative financial-dependence timing association survives only the narrower primary family. Neither result identifies a diffusion mechanism. Firm eligibility, complete legal histories and historically available information are the remaining requirements for linking capital-market effects to subsequent policy decisions."
+        [
+          "4.1 Liquidity around implementation",
+          [
+            "Table 2 reports the supported liquidity comparisons. Its equal-country and GDP-weighted columns use the same outcome definitions but answer different aggregation questions. Negative log-spread and price-impact values indicate relative improvements in liquidity; a lower zero-return fraction indicates less nontrading. The brackets report treated-country support for each cell. Classes without the required balanced securities or later-case controls have no reported coefficient.",
+            "The IFRS log-spread comparison is -0.147 with equal-country weights and -0.014 with GDP weights. For confidential tax CbCR, the corresponding comparisons are -0.057 and 0.103. Figure 1 places these values alongside the other supported classes and the separate full-ESG benchmark. There is no consistent liquidity improvement across classes and aggregation schemes. In particular, a confidential tax-reporting association cannot be interpreted as evidence that investors directly receive the report.",
+            "The classification prevents two misleading inferences. First, a climate-only mandate is not evidence of a full E, S and G treatment. Second, recent public multinational-tax reporting cannot be assigned the earlier history of confidential tax CbCR or banking transparency. National market averages also dilute obligations that cover only large issuers, multinational groups or particular activities. The table describes those policy environments without imposing uniform issuer eligibility."
+          ]
+        ],
+        [
+          "4.2 Weighting and identification",
+          [
+            "The differences between equal-country and GDP-weighted estimates are economically substantial. Country weights determine which markets drive the contrast; they do not resolve endogenous implementation or concurrent reforms. The accompanying GDP-matched comparisons, concentration measures and assignment-cluster deletions show the extent to which results depend on coverage and a small number of countries. A cluster-deletion range is a sensitivity diagnostic rather than a confidence interval.",
+            "Timing creates an additional identification issue. Announcement, legal application, the first covered reporting period and public availability can occur in different years. Even balanced seven-year profiles cannot establish parallel trends when eligibility and earlier obligations are incompletely observed. Historical quote-to-issuer links and fiscal filing dates do not support a verified global firm assignment. An auxiliary current-identifier match also lacks the minimum confirmed comparison-arm support. Consequently, we report descriptive market comparisons and do not attach causal liquidity p-values."
+          ]
+        ],
+        [
+          "4.3 International diffusion",
+          [
+            "Table 3 reports the pooled first-event timing models and controlled alternatives. The export-competition coefficient is 0.395 (raw p = 0.144); relative-GDP-growth learning is -0.409 (p = 0.558); and language-peer exposure is 0.014 (p = 0.962). These associations are imprecise. Financial dependence has a coefficient of -0.669 (raw p = 0.0005). Its sign is negative, which does not support the predicted positive coercion channel.",
+            "Figure 2 compares first-event timing with recorded-status associations. The models use different samples because network coverage, economic data and legal histories differ. Of 425 stable focal coefficients, one passes the broad Holm adjustment. A narrower four-primary-mechanism adjustment is reported separately in the underlying tables; it is not substituted for the full-matrix adjustment. The financial-dependence measure also includes SDR allocations and unverified policy conditionality, so an association does not establish pressure to adopt a particular rule.",
+            "The coefficient surviving broad adjustment is legal-origin-peer exposure in the controlled linear probability status model: -0.546, with a standard error of 0.129 and Holm p = 0.033. Its sample contains 880 country-class-years from 62 countries. The negative sign runs against positive emulation, and the result concerns accumulated recorded status rather than the timing of an independent decision. It does not establish that legal peers cause policy convergence.",
+            "The link from liquidity to diffusion is therefore unresolved. An observed foreign liquidity improvement can reflect common market conditions or other reforms, and the usable learning samples are small. The evidence does not establish that countries adopt disclosure rules because they observe causal capital-market benefits abroad. Repeated adoption status and the timing of an independent decision remain different outcomes."
+          ]
+        ]
+      ]
+    ],
+    [
+      "5 Conclusion",
+      [
+        [
+          "",
+          [
+            "We examine disclosure-related policies with a common set of liquidity measures while distinguishing their content, audience and scope. Liquidity comparisons differ across policy classes and are sensitive to economic weighting. Confidential tax reporting, public multinational-tax reporting, climate requirements and full E, S and G mandates are economically different treatments. Combining them under a common disclosure label obscures the relevant information channel.",
+            "The international evidence provides no robust account of diffusion through competition, learning, emulation or coercion across the full specification family. These findings identify the limits of aggregate comparisons rather than evidence that disclosure cannot improve markets. A causal analysis requires verified issuer eligibility, public-report timing and complete policy histories, together with designs that distinguish policy changes from the forces that select countries into them."
+          ]
+        ]
       ]
     ]
   ],
   "references": [
     "Amihud, Y. 2002. Illiquidity and stock returns: Cross-section and time-series effects. Journal of Financial Markets 5: 31-56.",
-    "Callaway, B., and P. H. C. Sant'Anna. 2021. Difference-in-Differences with Multiple Time Periods. Journal of Econometrics 225: 200-230. DOI: 10.1016/j.jeconom.2020.12.001.",
-    "Diamond, D. W., and R. E. Verrecchia. 1991. Disclosure, Liquidity, and the Cost of Capital. Journal of Finance 46: 1325-1359. DOI: 10.1111/j.1540-6261.1991.tb04620.x.",
+    "Callaway, B., and P. H. C. Sant'Anna. 2021. Difference-in-Differences with Multiple Time Periods. Journal of Econometrics 225: 200-230.",
+    "Diamond, D. W., and R. E. Verrecchia. 1991. Disclosure, Liquidity, and the Cost of Capital. Journal of Finance 46: 1325-1359.",
     "Ince, O. S., and R. B. Porter. 2006. Individual Equity Return Data from Thomson Datastream: Handle with Care! Journal of Financial Research 29: 463-479.",
-    "Koning, M., G. Mertens, and P. Roosenboom. 2018. Drivers of institutional change around the world: The case of IFRS. Journal of International Business Studies 49: 249-271. DOI: 10.1057/s41267-017-0123-7.",
-    "Krueger, P., Z. Sautner, D. Y. Tang, and R. Zhong. 2023. The Effects of Mandatory ESG Disclosure Around the World. Supplied January 2023 manuscript, ECGI Finance Working Paper 754/2021, February 2023 cover. Published version: Journal of Accounting Research (2024), DOI: 10.1111/1475-679X.12548. The supplied version controls the detailed reference comparison.",
-    "Barbieri, K., and O. M. G. Keshk. 2016. Correlates of War Project Trade Data Set Codebook, Version4.0. Raw dyadic flows,1870-2014. https://correlatesofwar.org/data-sets/bilateral-trade/",
-    "Mayer, T., and S. Zignago. 2011. Notes on CEPII distances measures: The GeoDist database. CEPII Working Paper2011-25. Archived GeoDist distances and official languages. https://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele_item.asp?id=6",
-    "Pevehouse, J., R. McManus, and T. Nordstrom. 2019. Correlates of War International Governmental Organizations Data Set, Version3.0 Codebook. https://correlatesofwar.org/data-sets/IGOs/",
-    "World Bank. 2026. World Development Indicators and International Debt Statistics, retrieved18 October2026, release metadata8 October2026. GDP, growth, trade, IMF credit including SDR and net aid. Raw API responses, indicator codes and hashes archived in the follow-up release. https://api.worldbank.org/v2/",
-    "Holm, S. 1979. A simple sequentially rejective multiple test procedure. Scandinavian Journal of Statistics6:65-70.",
-    "Philippines Securities and Exchange Commission.2019. Memorandum Circular4, Sustainability Reporting Guidelines for Publicly Listed Companies. Official circular copy preserved from Asian Development Bank Law and Policy Reform repository.",
-    "Public Company Accounting Oversight Board.2018. Staff guidance: Changes to the Auditor's Report Effective for Audits of Fiscal Years Ending on or After December15,2017 (August23 update), page8.",
-    "Ireland.2016,2019. SI560/2016 and SI110/2019: beneficial ownership of corporate entities. Regulations3(2) and4(2), respectively, and2019 Regulations1,20-21.",
-    "Australia.2018. Modern Slavery Act2018, as made, sections2,5 and13. Official Federal Register original preserved.",
-    "US Securities and Exchange Commission.2021. EDGAR Filer Manual, VolumeII, version58, section5.2.5.12: SEC boolean ballot-box transformations."
+    "Koning, M., G. Mertens, and P. Roosenboom. 2018. Drivers of institutional change around the world: The case of IFRS. Journal of International Business Studies 49: 249-271.",
+    "Krueger, P., Z. Sautner, D. Y. Tang, and R. Zhong. 2023. The Effects of Mandatory ESG Disclosure Around the World. January working paper, ECGI Finance Working Paper 754/2021.",
+    "Holm, S. 1979. A simple sequentially rejective multiple test procedure. Scandinavian Journal of Statistics 6: 65-70.",
+    "OECD. 2015. Transfer Pricing Documentation and Country-by-Country Reporting, Action 13 - 2015 Final Report. OECD/G20 Base Erosion and Profit Shifting Project.",
+    "European Union. 2021. Directive (EU) 2021/2101 on disclosure of income tax information by certain undertakings and branches. Article 1.",
+    "European Union. 2013. Directive 2013/36/EU. Article 89: Country-by-country reporting by institutions.",
+    "SEBI. 2013. Frequently Asked Questions on Business Responsibility Reports. Press release 48/2013, 10 May.",
+    "Philippines Securities and Exchange Commission. 2019. Memorandum Circular 4: Sustainability Reporting Guidelines for Publicly-Listed Companies.",
+    "Barbieri, K., and O. M. G. Keshk. 2016. Correlates of War Project Trade Data Set Codebook, Version 4.0.",
+    "Mayer, T., and S. Zignago. 2011. Notes on CEPII distances measures: The GeoDist database. CEPII Working Paper 2011-25.",
+    "Pevehouse, J. C., T. Nordstrom, R. W. McManus, and A. S. Jamison. 2019. Tracking organizations in the world: The Correlates of War IGO Version 3.0 datasets. Journal of Peace Research 57: 492-503."
   ],
   "tables": [
     {
-      "title": "Table 1 Policy coverage and documented implementation cases",
+      "title": "Table 1 Disclosure content, audience and sample coverage",
       "columns": [
-        "Policy family",
-        "Dated cases",
-        "Independent cases",
-        "Proxy records",
-        "Future schedules"
+        "Policy class",
+        "Content and audience",
+        "Country-class cases"
       ],
       "rows": [
         [
-          "IFRS",
-          36,
-          11,
-          0,
-          0
+          "Financial reporting (IFRS)",
+          "Public consolidated financial statements; listed/consolidation scope.",
+          36
         ],
         [
-          "ESG and CSR",
-          1,
-          1,
-          39,
-          0
+          "Governance disclosure",
+          "Public governance/compliance statements; not full ESG by itself.",
+          12
         ],
         [
-          "Climate",
-          3,
-          3,
-          0,
-          0
+          "Multi-topic sustainability",
+          "Multi-topic sustainability reports; observed India/Philippines scope, not a global full-ESG date census.",
+          2
         ],
         [
-          "ISSB",
-          17,
-          17,
-          0,
+          "Climate reporting",
+          "Public climate information, including local climate-first/S2 rules; not broad mandatory E+S+G.",
           6
         ],
         [
-          "XBRL",
-          4,
-          4,
-          0,
-          0
-        ],
-        [
-          "Governance",
-          12,
-          12,
-          0,
-          0
-        ],
-        [
-          "Beneficial ownership",
-          18,
-          12,
-          0,
-          0
-        ],
-        [
-          "Confidential CbCR",
-          120,
-          93,
-          0,
-          0
-        ],
-        [
-          "Public CbCR",
-          28,
-          1,
-          0,
-          0
-        ],
-        [
-          "Audit reporting",
-          36,
-          9,
-          0,
-          0
-        ],
-        [
-          "Audit oversight",
-          35,
-          7,
-          0,
-          0
-        ],
-        [
-          "Extractive payments",
-          9,
-          4,
-          0,
-          0
-        ],
-        [
-          "Supply chain",
-          8,
-          8,
-          0,
+          "Climate: financial institutions",
+          "Climate reporting confined to financial institutions.",
           1
         ],
         [
-          "Digital assets",
-          32,
-          4,
-          0,
-          0
-        ]
-      ],
-      "note": "This table preserves the original 359-case release. Appendix D reports the reviewed 360-case rerun. Dated cases are not a complete global adoption census. Independent cases follow the recorded national-choice flag. Proxy and future-schedule records are excluded from the dated-case estimates. Coordinated reference dates and other events are separately retained in the source CSV. All fourteen families have incomplete-census flags."
-    },
-    {
-      "title": "Table 2 Security year outcome distributions",
-      "columns": [
-        "Outcome",
-        "N",
-        "Mean",
-        "SD",
-        "Median",
-        "P 95"
-      ],
-      "rows": [
-        [
-          "spread",
-          "662,316",
-          "0.016",
-          "0.024",
-          "0.006",
-          "0.061"
-        ],
-        [
-          "impact",
-          "763,729",
-          "123.846",
-          "404.371",
-          "4.754",
-          "657.203"
-        ],
-        [
-          "zero fraction",
-          "795,229",
-          "0.119",
-          "0.153",
-          "0.064",
-          "0.400"
-        ],
-        [
-          "log spread",
-          "662,316",
-          "-5.074",
-          "1.436",
-          "-5.047",
-          "-2.803"
-        ],
-        [
-          "log impact",
-          "755,877",
-          "1.516",
-          "3.079",
-          "1.603",
-          "6.500"
-        ]
-      ],
-      "note": "Distributions are outcome-specific after annual screens. Spread and price impact are winsorized within year at 1 and 99 percent. Price impact uses decimal returns and USD trading value with the reference-paper rescaling. Zero fraction uses observed valid returns, not an independently audited exchange-calendar denominator. Raw quote identifiers are the unit; no complete historical issuer consolidation is claimed."
-    },
-    {
-      "title": "Table 3 Liquidity comparisons conditional on documented cases",
-      "columns": [
-        "Family",
-        "Outcome",
-        "Change",
-        "Treated countries",
-        "Cohorts",
-        "Policy clusters",
-        "Cluster deletion range"
-      ],
-      "rows": [
-        [
-          "IFRS",
-          "Log spread",
-          "-0.147",
-          20,
-          5,
-          12,
-          "-0.293 to 0.011"
-        ],
-        [
-          "IFRS",
-          "Log impact",
-          "-0.167",
-          21,
-          5,
-          12,
-          "-0.297 to 0.128"
-        ],
-        [
-          "IFRS",
-          "Zero fraction",
-          "-0.028",
-          22,
-          5,
-          12,
-          "-0.032 to -0.023"
-        ],
-        [
-          "ESG and CSR",
-          "Log spread",
-          "Not estimated",
-          "-",
-          "-",
-          "-",
-          "-"
-        ],
-        [
-          "ESG and CSR",
-          "Log impact",
-          "Not estimated",
-          "-",
-          "-",
-          "-",
-          "-"
-        ],
-        [
-          "ESG and CSR",
-          "Zero fraction",
-          "Not estimated",
-          "-",
-          "-",
-          "-",
-          "-"
-        ],
-        [
-          "Climate",
-          "Log spread",
-          "Not estimated",
-          "-",
-          "-",
-          "-",
-          "-"
-        ],
-        [
-          "Climate",
-          "Log impact",
-          "Not estimated",
-          "-",
-          "-",
-          "-",
-          "-"
-        ],
-        [
-          "Climate",
-          "Zero fraction",
-          "Not estimated",
-          "-",
-          "-",
-          "-",
-          "-"
-        ],
-        [
-          "ISSB",
-          "Log spread",
-          "0.061",
-          1,
-          1,
-          6,
-          "-0.024 to 0.147"
-        ],
-        [
-          "ISSB",
-          "Log impact",
-          "-0.001",
-          1,
-          1,
-          6,
-          "-0.151 to 0.075"
-        ],
-        [
-          "ISSB",
-          "Zero fraction",
-          "0.011",
-          1,
-          1,
-          6,
-          "0.009 to 0.014"
-        ],
-        [
-          "XBRL",
-          "Log spread",
-          "Not estimated",
-          "-",
-          "-",
-          "-",
-          "-"
-        ],
-        [
-          "XBRL",
-          "Log impact",
-          "Not estimated",
-          "-",
-          "-",
-          "-",
-          "-"
-        ],
-        [
-          "XBRL",
-          "Zero fraction",
-          "Not estimated",
-          "-",
-          "-",
-          "-",
-          "-"
-        ],
-        [
-          "Governance",
-          "Log spread",
-          "0.030",
-          5,
-          3,
-          10,
-          "-0.030 to 0.260"
-        ],
-        [
-          "Governance",
-          "Log impact",
-          "0.162",
-          5,
-          3,
-          11,
-          "0.034 to 0.341"
-        ],
-        [
-          "Governance",
-          "Zero fraction",
-          "0.019",
-          5,
-          3,
-          11,
-          "0.014 to 0.028"
-        ],
-        [
-          "Beneficial ownership",
-          "Log spread",
-          "0.032",
-          11,
-          5,
-          10,
-          "-0.007 to 0.091"
-        ],
-        [
-          "Beneficial ownership",
-          "Log impact",
-          "-0.052",
-          11,
-          5,
-          10,
-          "-0.143 to 0.052"
-        ],
-        [
-          "Beneficial ownership",
-          "Zero fraction",
-          "0.008",
-          11,
-          5,
-          11,
-          "0.004 to 0.013"
-        ],
-        [
-          "Confidential CbCR",
-          "Log spread",
-          "-0.057",
-          42,
-          4,
-          33,
-          "-0.101 to -0.028"
-        ],
-        [
-          "Confidential CbCR",
-          "Log impact",
-          "-0.166",
-          42,
-          4,
-          33,
-          "-0.233 to -0.103"
-        ],
-        [
-          "Confidential CbCR",
-          "Zero fraction",
-          "-0.002",
-          43,
-          4,
-          35,
-          "-0.008 to 0.003"
-        ],
-        [
-          "Public CbCR",
-          "Log spread",
-          "Not estimated",
-          "-",
-          "-",
-          "-",
-          "-"
-        ],
-        [
-          "Public CbCR",
-          "Log impact",
-          "Not estimated",
-          "-",
-          "-",
-          "-",
-          "-"
-        ],
-        [
-          "Public CbCR",
-          "Zero fraction",
-          "Not estimated",
-          "-",
-          "-",
-          "-",
-          "-"
-        ],
-        [
-          "Audit reporting",
-          "Log spread",
-          "0.025",
-          20,
-          2,
-          10,
-          "-0.112 to 0.038"
-        ],
-        [
-          "Audit reporting",
-          "Log impact",
-          "0.199",
-          20,
-          2,
-          10,
-          "0.183 to 0.488"
-        ],
-        [
-          "Audit reporting",
-          "Zero fraction",
-          "0.000",
-          20,
-          2,
-          10,
-          "-0.012 to 0.005"
-        ],
-        [
-          "Audit oversight",
-          "Log spread",
-          "0.029",
-          4,
-          3,
-          6,
-          "-0.100 to 0.103"
-        ],
-        [
-          "Audit oversight",
-          "Log impact",
-          "0.014",
-          6,
-          4,
-          8,
-          "-0.195 to 0.126"
-        ],
-        [
-          "Audit oversight",
-          "Zero fraction",
-          "-0.002",
-          6,
-          4,
-          8,
-          "-0.016 to 0.002"
-        ],
-        [
-          "Extractive payments",
-          "Log spread",
-          "0.210",
-          1,
-          1,
-          4,
-          "0.219 to 0.229"
-        ],
-        [
-          "Extractive payments",
-          "Log impact",
-          "0.499",
-          1,
-          1,
-          4,
-          "0.505 to 0.522"
-        ],
-        [
-          "Extractive payments",
-          "Zero fraction",
-          "-0.011",
-          1,
-          1,
-          4,
-          "-0.011 to -0.009"
-        ],
-        [
-          "Supply chain",
-          "Log spread",
-          "0.066",
-          4,
-          4,
-          8,
-          "0.028 to 0.095"
-        ],
-        [
-          "Supply chain",
-          "Log impact",
-          "-0.143",
-          4,
-          4,
-          8,
-          "-0.225 to -0.039"
-        ],
-        [
-          "Supply chain",
-          "Zero fraction",
-          "-0.013",
-          4,
-          4,
-          8,
-          "-0.018 to -0.009"
-        ],
-        [
-          "Digital assets",
-          "Log spread",
-          "0.016",
-          2,
-          2,
-          4,
-          "-0.002 to 0.045"
-        ],
-        [
-          "Digital assets",
-          "Log impact",
-          "0.260",
-          2,
-          2,
-          4,
-          "0.015 to 0.526"
-        ],
-        [
-          "Digital assets",
-          "Zero fraction",
-          "-0.017",
-          2,
-          2,
-          4,
-          "-0.024 to -0.011"
-        ]
-      ],
-      "note": "Outcome year g+1 versus g-1, balancing securities within each country and comparison. Later recorded cases must implement after the outcome year. Each country requires at least 30 balanced securities and each cohort at least three control countries. Cohorts are weighted by contributing treated-country counts. Estimates are log points for spread/impact and fractions for zero returns. The range deletes one recorded assignment cluster at a time and recalculates supported comparisons; it is a sensitivity range, not a confidence interval. Cohort composition can change across deletions. Formal liquidity-effect inference is withheld. Detailed country cells and deletion support are in the CSV release."
-    },
-    {
-      "title": "Table 4 Log spread comparisons under alternative country weights",
-      "columns": [
-        "Family",
-        "Equal",
-        "GDP-matched equal",
-        "Constant GDP",
-        "Market cap",
-        "GDP effective N",
-        "Largest GDP weight %"
-      ],
-      "rows": [
-        [
-          "Audit oversight",
-          "0.029",
-          "0.029",
-          "-0.109",
-          "-0.077",
-          "1.5",
-          "80.1"
-        ],
-        [
-          "Audit reporting",
-          "0.025",
-          "0.025",
-          "-0.058",
-          "-0.066",
-          "9.3",
-          "19.3"
-        ],
-        [
-          "Beneficial ownership",
-          "0.032",
-          "0.032",
-          "0.067",
-          "0.100",
-          "7.1",
-          "21.4"
-        ],
-        [
-          "Confidential CbCR",
-          "-0.057",
-          "-0.057",
-          "0.103",
-          "0.115",
-          "8.6",
-          "26.9"
-        ],
-        [
-          "Public CbCR",
-          "-",
-          "-",
-          "-",
-          "-",
-          "-",
-          "-"
-        ],
-        [
-          "Climate",
-          "-",
-          "-",
-          "-",
-          "-",
-          "-",
-          "-"
-        ],
-        [
-          "Digital assets",
-          "0.016",
-          "0.016",
-          "-0.030",
-          "-0.027",
-          "2.0",
-          "54.3"
-        ],
-        [
-          "ESG and CSR",
-          "-",
-          "-",
-          "-",
-          "-",
-          "-",
-          "-"
-        ],
-        [
-          "Extractive payments",
-          "0.210",
-          "0.210",
-          "0.159",
-          "0.157",
-          "1.0",
-          "100.0"
-        ],
-        [
-          "Governance",
-          "0.030",
-          "0.030",
-          "0.226",
-          "0.254",
-          "2.4",
-          "59.2"
-        ],
-        [
-          "IFRS",
-          "-0.147",
-          "-0.147",
-          "-0.014",
-          "-0.181",
-          "9.9",
-          "17.2"
-        ],
-        [
-          "ISSB",
-          "0.061",
-          "0.104",
-          "-0.155",
-          "-0.096",
-          "1.0",
-          "100.0"
-        ],
-        [
-          "Supply chain",
-          "0.066",
-          "0.066",
-          "0.004",
-          "0.028",
-          "1.9",
-          "70.7"
-        ],
-        [
-          "XBRL",
-          "-",
-          "-",
-          "-",
-          "-",
-          "-",
-          "-"
-        ],
-        [
-          "Published ESG benchmark",
-          "-0.016",
-          "-0.012",
-          "-0.052",
-          "-0.104",
-          "9.8",
-          "22.9"
-        ]
-      ],
-      "note": "Year g+1 versus g-1. GDP and market-cap weights are fixed at g-1, normalized in each cohort arm; cohorts receive treated weight mass. GDP-matched equal uses the exact country/cohort cells with observed GDP but retains equal-country aggregation. Effective N=1/sum(squared treated-country weight shares); it is not a sampling degrees-of-freedom count. Market cap sums sampled quotes, not the full national market. A dash is unsupported. The published ESG benchmark remains separate. All six weighting schemes and three original outcomes are released in CSV."
-    },
-    {
-      "title": "Table 5 Additional market outcomes",
-      "columns": [
-        "Family",
-        "PC1 equal",
-        "PC1 GDP",
-        "Trading/cap equal",
-        "Trading/cap GDP",
-        "Volatility equal",
-        "Volatility GDP"
-      ],
-      "rows": [
-        [
-          "Audit oversight",
-          "0.102",
-          "-0.125",
-          "-0.067",
-          "0.079",
-          "-0.003",
-          "-0.004"
-        ],
-        [
-          "Audit reporting",
-          "0.057",
-          "-0.094",
-          "-0.207",
-          "-0.139",
-          "-0.000",
-          "-0.000"
-        ],
-        [
-          "Beneficial ownership",
-          "0.032",
-          "0.120",
-          "-0.101",
-          "-0.191",
-          "-0.000",
-          "-0.000"
-        ],
-        [
-          "Confidential CbCR",
-          "-0.083",
-          "0.086",
-          "-0.013",
-          "-0.191",
-          "-0.001",
-          "-0.003"
-        ],
-        [
-          "Public CbCR",
-          "-",
-          "-",
-          "-",
-          "-",
-          "-",
-          "-"
-        ],
-        [
-          "Climate",
-          "-",
-          "-",
-          "-",
-          "-",
-          "-",
-          "-"
-        ],
-        [
-          "Digital assets",
-          "0.007",
-          "-0.107",
-          "-0.144",
-          "-0.109",
-          "0.001",
-          "-0.000"
-        ],
-        [
-          "ESG and CSR",
-          "-",
-          "-",
-          "-",
-          "-",
-          "-",
-          "-"
-        ],
-        [
-          "Extractive payments",
-          "0.220",
-          "0.161",
-          "-0.107",
-          "-0.077",
-          "0.002",
-          "0.001"
-        ],
-        [
-          "Governance",
-          "0.085",
-          "0.298",
-          "-0.113",
-          "-0.105",
-          "0.002",
-          "0.005"
-        ],
-        [
-          "IFRS",
-          "-0.289",
-          "-0.107",
-          "0.221",
-          "0.217",
-          "0.003",
-          "0.002"
-        ],
-        [
-          "ISSB",
-          "0.073",
-          "-0.129",
-          "-0.506",
-          "-0.538",
-          "-0.009",
-          "-0.009"
-        ],
-        [
-          "Supply chain",
-          "-0.024",
-          "-0.138",
-          "0.087",
-          "0.100",
-          "0.001",
-          "-0.002"
-        ],
-        [
-          "XBRL",
-          "-",
-          "-",
-          "-",
-          "-",
-          "-",
-          "-"
-        ],
-        [
-          "Published ESG benchmark",
-          "-0.061",
-          "-0.153",
-          "-0.022",
-          "0.023",
-          "-0.001",
-          "-0.005"
-        ]
-      ],
-      "note": "Each cell applies the baseline balanced-quote comparison. PC1 uses the original three proxies standardized on 57,097 complete 2000-2004 observations. Loadings are spread 0.651, impact 0.579 and zero returns 0.491; variance explained is 67.8 percent. Higher PC1 is more illiquid. This is a frozen retrospective measurement reference, not universally pretreatment. Trading/cap is log annual dollar traded value / annual median USD market cap; it is not exact share turnover. Volatility is daily-return SD, decimal units, with 120 valid days and price variation."
-    },
-    {
-      "title": "Table 6 Implementation timing sample support",
-      "columns": [
-        "Family",
-        "Risk rows",
-        "Observed inputs",
-        "Identifying rows",
-        "Events",
-        "Exposure model"
-      ],
-      "rows": [
-        [
-          "IFRS",
-          96,
-          0,
-          0,
-          0,
-          "Not estimated"
-        ],
-        [
-          "ESG and CSR",
-          12,
-          0,
-          0,
-          0,
-          "Not estimated"
-        ],
-        [
-          "Climate",
-          70,
-          0,
-          0,
-          0,
-          "Not estimated"
-        ],
-        [
-          "ISSB",
-          298,
-          0,
-          0,
-          0,
-          "Not estimated"
-        ],
-        [
-          "XBRL",
-          35,
-          0,
-          0,
-          0,
-          "Not estimated"
-        ],
-        [
-          "Governance",
-          54,
-          0,
-          0,
-          0,
-          "Not estimated"
-        ],
-        [
-          "Beneficial ownership",
-          242,
-          29,
-          0,
-          0,
-          "Not estimated"
-        ],
-        [
-          "Confidential CbCR",
-          1752,
-          448,
-          61,
-          31,
-          "Fitted"
-        ],
-        [
-          "Public CbCR",
-          24,
-          0,
-          0,
-          0,
-          "Not estimated"
-        ],
-        [
-          "Audit reporting",
-          150,
-          61,
-          0,
-          0,
-          "Not estimated"
-        ],
-        [
-          "Audit oversight",
-          46,
-          16,
-          9,
-          3,
-          "Not estimated"
-        ],
-        [
-          "Extractive payments",
-          74,
-          3,
-          0,
-          0,
-          "Not estimated"
-        ],
-        [
-          "Supply chain",
-          156,
-          5,
-          0,
-          0,
-          "Not estimated"
-        ],
-        [
-          "Digital assets",
-          76,
-          0,
-          0,
-          0,
-          "Not estimated"
-        ]
-      ],
-      "note": "Risk rows belong to documented independent cases only. Observed-input rows meet the 80 percent portfolio classification rule and observed market-control requirements. Identifying rows also remove constant-outcome family-year strata. Estimates require at least 50 rows, 15 countries and 10 events. The learning model has its own signal-coverage attrition in the accompanying CSV. A non-estimated family can have zero rows because all dated focal cases are coordinated."
-    },
-    {
-      "title": "Table 7 Conditional implementation timing estimates",
-      "columns": [
-        "Sample",
-        "Model",
-        "Term",
-        "Log odds",
-        "SE",
-        "Raw p",
-        "Rows / events"
-      ],
-      "rows": [
-        [
-          "Confidential CbCR",
-          "exposure",
-          "exposure",
-          "0.951",
-          "1.447",
-          "0.511",
-          "61 / 31"
-        ],
-        [
-          "Pooled supported cases",
-          "exposure",
-          "exposure",
-          "1.478",
-          "1.592",
-          "0.353",
-          "70 / 34"
-        ],
-        [
-          "Confidential CbCR",
-          "Exposure and learning",
-          "Unstable",
-          "Withheld",
-          "Missing",
-          "- ",
-          "52 / 27"
-        ],
-        [
-          "Pooled supported cases",
-          "Exposure and learning",
-          "Unstable",
-          "Withheld",
-          "Missing",
-          "- ",
-          "59 / 29"
-        ]
-      ],
-      "note": "Original portfolio-exposure exercise, retained for comparison with the new JIBS-inspired tests. Standardized logit coefficients with country-clustered SE. Controls are unclassified portfolio weight and observed lagged market variables; family-year effects included. Learning uses pre-focal market dates; publication lags and historical quote coverage remain unaudited. Extreme learning slopes and invalid SE are withheld. The pooled sample covers audit oversight and confidential CbCR. CSVs retain odds ratios, Holm p-values, samples and failed-fit diagnostics."
-    },
-    {
-      "title": "Table 8 JIBS constructs and the implemented expansion",
-      "columns": [
-        "Mechanism",
-        "Koning et al. (2018)",
-        "Implemented measure and boundary"
-      ],
-      "rows": [
-        [
-          "Competition",
-          "Adoption fraction among five countries with the most similar export patterns; EIU risk peers as alternative",
-          "COW raw exports: five highest Pearson correlations with at least 20 common observed destinations; fixed 2000, fixed 2013 from 2014, and annual-lag to 2015. At least 3/5 dated policy peers (4/5 sensitivity). Unknown peers and bounds retained. EIU data unavailable."
-        ],
-        [
-          "Learning",
-          "Among ten geographic neighbours, median GDP growth of prior adopters exceeds nonadopters; GDPpc alternative",
-          "Ten GeoDist capital-distance neighbours, priorG<=t-2 versus laterG>t-1, signals datedt-1; GDP/GDPpc, liquidity changes, and foreign benchmarked contrasts excluding the focal country/cluster from controls. Require 80 percent signal coverage per relevant group."
-        ],
-        [
-          "Emulation",
-          "Berry cultural/administrative composite; IFAC professional-advocacy membership alternative",
-          "Official-language and legal-origin peer adoption fractions plus fixed 2000 generic IGO similarity. Partial separate proxies: religion/composite and historical IFAC advocacy remain missing."
-        ],
-        [
-          "Coercion",
-          "IMF credits and foreign aid relative to GDP; positive-resource indicator alternative",
-          "Lagged IMFcredit+SDR/GDP, net aid/GDP, sum and complete-case positive indicator. SDR is not verified conditional lending; aid and credit measures do not establish pressure for any policy."
-        ]
-      ],
-      "note": "All focal features precede the focal calendar year. Contemporary data vintages and historical country/quote availability are not audited as real-time information sets. Geographic/language snapshots and legal-origin classifications are disclosed. The original JIBS main logit includes time effects without domestic controls; our single-mechanism baseline follows that choice and adds controlled and same-sample LPM sensitivities. The supplied JIBS paper remains the authority for its original design."
-    },
-    {
-      "title": "Table 9 Pooled JIBS-inspired mechanism associations",
-      "columns": [
-        "Design",
-        "Measure",
-        "Controls",
-        "Beta",
-        "SE",
-        "Raw p",
-        "All-test Holm p",
-        "Rows / countries"
-      ],
-      "rows": [
-        [
-          "Timing",
-          "Export competitors",
-          "No",
-          "0.395",
-          "0.266",
-          "0.144",
-          "1.000",
-          "206/57"
-        ],
-        [
-          "Timing",
-          "Export competitors",
-          "Yes",
-          "-0.051",
-          "0.328",
-          "0.877",
-          "1.000",
-          "191/54"
-        ],
-        [
-          "Timing",
-          "Relative GDP growth",
-          "No",
-          "-0.409",
-          "0.692",
-          "0.558",
-          "1.000",
-          "72/31"
-        ],
-        [
-          "Timing",
-          "Relative GDP growth",
-          "Yes",
-          "-0.754",
-          "0.859",
-          "0.388",
-          "1.000",
-          "67/29"
-        ],
-        [
-          "Timing",
-          "Language peers",
-          "No",
-          "0.096",
-          "0.298",
-          "0.749",
-          "1.000",
-          "372/67"
-        ],
-        [
-          "Timing",
-          "Language peers",
-          "Yes",
-          "-0.128",
-          "0.301",
-          "0.672",
-          "1.000",
-          "312/54"
-        ],
-        [
-          "Timing",
-          "Credit + aid / GDP",
-          "No",
-          "-0.696",
-          "0.175",
-          "0.000",
-          "0.100",
-          "243/50"
-        ],
-        [
-          "Timing",
-          "Credit + aid / GDP",
-          "Yes",
-          "-0.698",
-          "0.351",
-          "0.053",
-          "1.000",
-          "228/47"
-        ],
-        [
-          "Status",
-          "Export competitors",
-          "No",
-          "0.420",
-          "0.367",
-          "0.257",
-          "1.000",
-          "516/57"
-        ],
-        [
-          "Status",
-          "Export competitors",
-          "Yes",
-          "-0.262",
-          "0.388",
-          "0.503",
-          "1.000",
-          "488/54"
-        ],
-        [
-          "Status",
-          "Relative GDP growth",
-          "No",
-          "0.423",
-          "0.416",
-          "0.313",
-          "1.000",
-          "256/63"
-        ],
-        [
-          "Status",
-          "Relative GDP growth",
-          "Yes",
-          "0.264",
-          "0.431",
-          "0.544",
-          "1.000",
-          "233/59"
-        ],
-        [
-          "Status",
-          "Language peers",
-          "No",
-          "-0.686",
-          "0.525",
-          "0.196",
-          "1.000",
-          "992/67"
-        ],
-        [
-          "Status",
-          "Language peers",
-          "Yes",
-          "-0.867",
-          "0.612",
-          "0.162",
-          "1.000",
-          "877/55"
-        ],
-        [
-          "Status",
-          "Credit + aid / GDP",
-          "No",
-          "-0.785",
-          "0.247",
-          "0.003",
-          "1.000",
-          "505/50"
-        ],
-        [
-          "Status",
-          "Credit + aid / GDP",
-          "Yes",
-          "-0.774",
-          "0.384",
-          "0.050",
-          "1.000",
-          "472/47"
-        ]
-      ],
-      "note": "Logit with family-year strata and country-cluster covariance; t reference countries-1 df. Constant-outcome strata are removed. Continuous focal measures are standardized within the exact fitted sample; binary relative-growth learning remains 0/1. Controls: lagged log GDPpc, GDP growth and trade/GDP, plus peer-unknown coverage where relevant. Timing conditions on documented independent implementations; status is an absorbing recorded-date index, not a verified worldwide adoption census. Holm spans every 442 stable focal coefficient in the new logit/LPM matrix. Samples differ across rows; controlled changes cannot be attributed solely to controls. The full release includes exact row memberships, all families, combined models, LPM, benchmark sensitivities and failures."
-    },
-    {
-      "title": "Table A1 Log spread comparisons by calendar horizon",
-      "columns": [
-        "Family",
-        "g-2",
-        "g",
-        "g+1",
-        "g+2"
-      ],
-      "rows": [
-        [
-          "IFRS",
-          "0.098",
-          "-0.156",
-          "-0.147",
-          "-0.074"
-        ],
-        [
-          "ESG and CSR",
-          "-",
-          "-",
-          "-",
-          "-"
-        ],
-        [
-          "Climate",
-          "-",
-          "-",
-          "-",
-          "-"
-        ],
-        [
-          "ISSB",
-          "-0.023",
-          "-0.076",
-          "0.061",
-          "-"
-        ],
-        [
-          "XBRL",
-          "-",
-          "-0.065",
-          "-",
-          "-"
-        ],
-        [
-          "Governance",
-          "-0.029",
-          "0.056",
-          "0.030",
-          "-0.198"
-        ],
-        [
-          "Beneficial ownership",
-          "0.021",
-          "-0.003",
-          "0.032",
-          "0.025"
-        ],
-        [
-          "Confidential CbCR",
-          "0.086",
-          "0.006",
-          "-0.057",
-          "-0.034"
-        ],
-        [
-          "Public CbCR",
-          "0.029",
-          "-0.187",
-          "-",
-          "-"
-        ],
-        [
-          "Audit reporting",
-          "-0.067",
-          "0.050",
-          "0.025",
-          "-0.099"
-        ],
-        [
-          "Audit oversight",
-          "-0.008",
-          "0.069",
-          "0.029",
-          "0.059"
-        ],
-        [
-          "Extractive payments",
-          "-0.054",
-          "0.055",
-          "0.210",
-          "-"
-        ],
-        [
-          "Supply chain",
-          "0.028",
-          "-0.026",
-          "0.066",
-          "0.053"
-        ],
-        [
-          "Digital assets",
-          "-0.069",
-          "-0.030",
-          "0.016",
-          "0.042"
-        ]
-      ],
-      "note": "Every column compares its indicated outcome year with g-1. Different columns can use different countries/cohorts and balanced securities; this is not a balanced event study. Negative values are relative improvements in log spread. A dash indicates insufficient support under the fixed rules. The g+1 column is primary; pre-period cells do not verify parallel trends."
-    },
-    {
-      "title": "Table A2 Test status and data requirements",
-      "columns": [
-        "Test",
-        "Current status",
-        "Required extension"
-      ],
-      "rows": [
-        [
-          "Public versus confidential channel",
-          "Classified in policy register",
-          "Eligible firms, first public availability and policy-specific effects"
-        ],
-        [
-          "Issuer and compliance heterogeneity",
-          "Design specified",
-          "Audited family-specific issuer and bindingness history"
-        ],
-        [
-          "Formal and informal enforcement",
-          "Design specified",
-          "Predetermined measures relevant to each family"
-        ],
-        [
-          "Voluntary firm disclosure",
-          "Not estimated",
-          "Guidance or comparable actual disclosure data"
-        ],
-        [
-          "Clean cohort and event study",
-          "Balanced descriptive profiles completed",
-          "Verified treatment histories, balanced eligibility, anticipation and simultaneous inference"
-        ],
-        [
-          "Adoption-trigger diagnostics",
-          "Not estimated",
-          "Family-relevant attention and incident series"
-        ],
-        [
-          "Competition",
-          "Export-competitor tests completed",
-          "EIU risk peers unavailable; global histories incomplete"
-        ],
-        [
-          "Learning",
-          "GDP/GDPpc and liquidity proxies tested",
-          "Historical information availability; timing liquidity samples remain sparse"
-        ],
-        [
-          "Emulation",
-          "Language/legal/IGO proxies tested",
-          "Full cultural composite and historical IFAC advocacy unavailable"
-        ],
-        [
-          "Coercion",
-          "Financial-dependence proxies tested",
-          "Verified policy-specific lending conditions unavailable"
-        ],
-        [
-          "Ordinal adoption status",
-          "Not estimated",
-          "Comparable ordered legal status and proportional-odds diagnostics"
-        ]
-      ],
-      "note": "Status describes this release. A planned or unavailable test is not reported as completed. Detailed source-paper methods, robustness checks and writing guidance are in reference-papers-and-expanded-study.json."
-    },
-    {
-      "title": "Table A3 Published ESG coding calendar year benchmark",
-      "columns": [
-        "Outcome",
-        "Change",
-        "Treated countries",
-        "Cohorts",
-        "Assignment cluster deletion range"
-      ],
-      "rows": [
-        [
-          "Log spread",
-          "-0.016",
-          27,
-          12,
-          "-0.085 to 0.019"
-        ],
-        [
-          "Log impact",
-          "-0.087",
-          29,
-          14,
-          "-0.148 to -0.040"
-        ],
-        [
-          "Zero fraction",
-          "-0.006",
-          29,
-          14,
-          "-0.009 to -0.002"
-        ]
-      ],
-      "note": "Source sample: supplied Krueger 2023 Table 1, PDF 49-50. Published 35 adopters and 30 never-coded countries, with calendar market outcomes restricted to 2002-2020. France lacks the required baseline within this restricted market window. Balanced-security g+1 versus g-1 comparisons use later/never-coded controls,30 securities per country and 3 control countries per cohort. Known NFRD countries share an assignment cluster. The range is a deletion sensitivity, not a confidence interval. No full accounting controls, fiscal alignment or source analyst-screened sample are reproduced. The benchmark is separate from verified implementation estimates."
-    },
-    {
-      "title": "Table A4 Regulation event JSON and source availability",
-      "columns": [
-        "Family",
-        "Event records",
-        "Saved source and text",
-        "Derivative or excerpt only",
-        "No readable source"
-      ],
-      "rows": [
-        [
-          "IFRS",
-          37,
-          37,
-          0,
-          0
-        ],
-        [
-          "XBRL",
-          4,
-          4,
-          0,
-          0
-        ],
-        [
-          "ESG and CSR",
-          41,
-          41,
-          0,
-          0
+          "Sustainability-related financial reporting",
+          "Material sustainability-related financial information under local S1/S2 or equivalents; topic coverage depends on materiality.",
+          6
         ],
         [
-          "Climate",
-          3,
-          2,
-          0,
+          "ISSB-informed sector reporting",
+          "ISSB-informed bank reporting; full standards alignment not established.",
           1
         ],
         [
-          "Governance",
-          14,
-          12,
-          0,
-          2
+          "Structured financial filing",
+          "Structured financial filings; a reporting format rather than a sustainability topic.",
+          4
         ],
         [
-          "Beneficial ownership",
-          24,
-          22,
-          0,
-          2
+          "Expanded auditor reporting",
+          "Public auditor reports; KAM/CAM scope and filer exceptions.",
+          36
         ],
         [
-          "Confidential CbCR",
-          120,
-          120,
-          0,
-          0
+          "Audit oversight / rotation",
+          "Regulator/auditor oversight, registration or rotation; institutional channel.",
+          35
         ],
         [
-          "Public CbCR",
-          44,
-          40,
-          1,
-          3
+          "Beneficial-ownership registers",
+          "Ownership registers; access restrictions and listed-company exemptions vary.",
+          18
         ],
         [
-          "Audit reporting",
-          38,
-          37,
-          0,
-          1
+          "Confidential tax CbCR",
+          "Tax authorities; BEPS Action 13 group-level tax information, not public disclosure.",
+          120
         ],
         [
-          "Audit oversight",
-          38,
-          38,
-          0,
-          0
+          "Public tax CbCR: general MNEs",
+          "Public general-MNE income-tax reports; not bank Article 89 or extractive-payment reporting.",
+          28
         ],
         [
-          "Extractive payments",
-          10,
-          8,
-          0,
-          2
-        ],
-        [
-          "Supply chain",
-          11,
-          9,
-          2,
-          0
-        ],
-        [
-          "Digital assets",
-          33,
-          30,
-          3,
-          0
-        ],
-        [
-          "ISSB",
-          24,
-          24,
-          0,
-          0
-        ]
-      ],
-      "note": "Source preservation audit on 18 October 2026. The 441 records include 359 dated estimation cases and other event types; they are not 441 unique statutes. Saved source and text includes original or linked official documents and 39 author-repository-backed published proxies. Partial excerpts are not complete archived originals. No-readable-source includes inaccessible, unreadable and metadata-only captures. Counts are event-weighted: many events can refer to one source. All fourteen policy histories remain incomplete."
-    },
-    {
-      "title": "Table A5 GDP-weighted robustness coverage across expanded families",
-      "columns": [
-        "Configuration",
-        "Cells",
-        "Supported",
-        "Negative",
-        "Positive",
-        "Families"
-      ],
-      "rows": [
-        [
-          "baseline",
-          42,
-          30,
-          15,
-          15,
-          10
-        ],
-        [
-          "cap weighted quotes",
-          42,
-          30,
-          13,
-          17,
-          10
-        ],
-        [
-          "median quote change",
-          42,
-          30,
-          14,
-          16,
-          10
-        ],
-        [
-          "common three outcome sample",
-          42,
-          30,
-          15,
-          15,
-          10
-        ],
-        [
-          "at least 200 days",
-          42,
-          27,
-          12,
-          15,
+          "Extractive-payment reporting",
+          "Public sector/project payments to governments; activity/size restrictions.",
           9
         ],
         [
-          "exclude bottom cap quintile",
-          42,
-          30,
-          14,
-          16,
-          10
-        ],
-        [
-          "unwinsorized proxies",
-          42,
-          30,
-          17,
-          13,
-          10
-        ],
-        [
-          "five ninetyfive winsorized proxies",
-          42,
-          30,
-          16,
-          14,
-          10
-        ],
-        [
-          "independent treated cases",
-          42,
-          30,
-          15,
-          15,
-          10
-        ],
-        [
-          "independent cases both arms",
-          42,
-          24,
-          12,
-          12,
+          "Supply-chain reporting / due diligence",
+          "Public statements/plans and due-diligence duties; nexus and size thresholds.",
           8
         ],
         [
-          "exclude known other family events in window",
-          42,
-          24,
-          11,
-          13,
-          8
+          "Token-offer / digital-asset rules",
+          "Token-offer/market-service rules; not automatic treatment of ordinary equity issuers.",
+          31
         ],
         [
-          "exclude crisis windows 2008 2009 2020 2021",
-          42,
-          30,
-          14,
-          16,
-          10
-        ],
-        [
-          "pretrend extrapolation adjustment",
-          42,
-          29,
-          11,
-          18,
-          10
-        ],
-        [
-          "post years 1 to 3 average",
-          42,
-          23,
-          11,
-          12,
-          8
+          "Full E+S+G benchmark",
+          "Krueger et al. author-coded mandates, including comply-or-explain; separate 2002-2020 comparison sample.",
+          35
         ]
       ],
-      "note": "Counts refer to related descriptive cells across the original three outcomes and fourteen families; they are not independent experiments. The full grid retains each cell including failures. Configurations are applied separately, without searching combinations. PC1, equal-country counterparts, matched baselines and published ESG benchmark are in the released full matrix. Figure 5 shows GDP-weighted log-spread values for every family and configuration."
+      "note": "Counts refer to documented first country-class implementation years through 2025 and are not counts of unique statutes or eligible firms. The classified inventory contains 353 such cases; the 35-country full-ESG benchmark is separate and not added to that total. The benchmark also contains 30 author-never-coded controls. Climate and ISSB are not double-counted when they describe the same country-topic obligation. CSR expenditure alone is not an ESG disclosure mandate. No banking public-CbCR event is identified in the current general-MNE public-CbCR register."
     },
     {
-      "title": "Table A6 Completion audit and unresolved inputs",
+      "title": "Table 2 Liquidity comparisons by disclosure class",
       "columns": [
-        "Workstream",
-        "Current status",
-        "Evidence or remaining requirement"
+        "Policy class",
+        "Log spread\nEqual",
+        "Log spread\nGDP",
+        "Log impact\nEqual",
+        "Log impact\nGDP",
+        "Zero fraction\nEqual",
+        "Zero fraction\nGDP"
       ],
       "rows": [
         [
-          "GDP and market-size weights",
-          "Completed",
-          "Six country weighting schemes; matched support, concentration and cluster deletions."
+          "Financial reporting (IFRS)",
+          "-0.147\n[20]",
+          "-0.014\n[20]",
+          "-0.167\n[21]",
+          "0.056\n[21]",
+          "-0.028\n[22]",
+          "-0.033\n[22]"
         ],
         [
-          "Factor, secondary outcomes and robustness",
-          "Completed",
-          "PC1, traded value/cap, volatility; 14 configurations; balanced seven-year profiles; income split."
+          "Governance disclosure",
+          "0.030\n[5]",
+          "0.226\n[5]",
+          "0.162\n[5]",
+          "0.376\n[5]",
+          "0.019\n[5]",
+          "0.035\n[5]"
         ],
         [
-          "JIBS competition and learning",
-          "Implemented with disclosed coverage",
-          "Five export peers; geographic relative GDP/GDPpc growth; lagged liquidity and foreign benchmark signals. Sparse learning cells remain unsupported."
+          "Climate reporting",
+          "0.083\n[2]",
+          "-0.133\n[2]",
+          "-0.003\n[2]",
+          "-0.670\n[2]",
+          "-0.016\n[2]",
+          "-0.002\n[2]"
         ],
         [
-          "Emulation and financial dependence",
-          "Partial observable proxies completed",
-          "Language/legal/IGO and credit/aid measures. Full Berry composite, IFAC advocacy, EIU and verified loan conditions unavailable."
+          "Sustainability-related financial reporting",
+          "0.045\n[1]",
+          "-0.161\n[1]",
+          "0.052\n[1]",
+          "-0.174\n[1]",
+          "0.009\n[1]",
+          "0.001\n[1]"
         ],
         [
-          "Firm-level causal design",
-          "Strict historical-link test unavailable",
-          "Compustat and SEC dates recovered; historical quote ISIN2 absent. Provisional tests fail 30-issuer control support. Global eligibility, complete untreated histories and publication timing remain unresolved."
+          "Expanded auditor reporting",
+          "0.025\n[20]",
+          "-0.058\n[20]",
+          "0.199\n[20]",
+          "0.070\n[20]",
+          "0.000\n[20]",
+          "-0.012\n[20]"
         ],
         [
-          "Policy-source verification",
-          "OCR and source-gap review dispositions complete",
-          "11 events still lack readable source; 6 excerpt-only. All 51 OCR flags visually disposed; 12 targeted clause reviews. Global legal history remains incomplete."
+          "Audit oversight / rotation",
+          "0.029\n[4]",
+          "-0.109\n[4]",
+          "0.014\n[6]",
+          "-0.143\n[6]",
+          "-0.002\n[6]",
+          "-0.000\n[6]"
         ],
         [
-          "Other source-paper tests",
-          "Unfinished: required inputs missing",
-          "Policy-specific enforcement, voluntary guidance, triggers, IFAC histories and ordered legal status. No synthetic replacements."
+          "Beneficial-ownership registers",
+          "0.032\n[11]",
+          "0.067\n[11]",
+          "-0.052\n[11]",
+          "0.149\n[11]",
+          "0.008\n[11]",
+          "0.011\n[11]"
+        ],
+        [
+          "Confidential tax CbCR",
+          "-0.057\n[42]",
+          "0.103\n[42]",
+          "-0.166\n[42]",
+          "-0.054\n[42]",
+          "-0.002\n[43]",
+          "0.008\n[43]"
+        ],
+        [
+          "Extractive-payment reporting",
+          "0.210\n[1]",
+          "0.159\n[1]",
+          "0.499\n[1]",
+          "0.483\n[1]",
+          "-0.011\n[1]",
+          "-0.017\n[1]"
+        ],
+        [
+          "Supply-chain reporting / due diligence",
+          "0.066\n[4]",
+          "0.004\n[4]",
+          "-0.143\n[4]",
+          "-0.378\n[4]",
+          "-0.013\n[4]",
+          "-0.017\n[4]"
+        ],
+        [
+          "Token-offer / digital-asset rules",
+          "0.016\n[2]",
+          "-0.030\n[2]",
+          "0.260\n[2]",
+          "0.155\n[2]",
+          "-0.017\n[2]",
+          "-0.029\n[2]"
+        ],
+        [
+          "Full ESG (published benchmark)",
+          "-0.016\n[27]",
+          "-0.052\n[26]",
+          "-0.087\n[29]",
+          "-0.360\n[28]",
+          "-0.006\n[29]",
+          "-0.006\n[28]"
         ]
       ],
-      "note": "This update completes feasible tests with the observed inputs and discloses all failures. It does not mark unavailable data, legal verification or source-review tasks complete. Original security/portfolio rows and source-document corpus remain local. All 441 expanded events and 51 inherited document codings remain in the source-linked JSON register."
+      "note": "Each coefficient compares the balanced-security change from g-1 to g+1 with at least three later-case control countries. Brackets give treated-country support for that cell. Securities require at least 120 valid daily observations and countries at least 30 balanced securities. GDP weights use constant-2015-USD GDP in g-1; GDP-matched equal comparisons and exact cohort/assignment-cluster counts are provided online. The ESG benchmark is restricted to 2002-2020 and uses author-coded dates and controls. Multi-topic sustainability, financial-sector climate, ISSB-informed sector reporting, public general-MNE CbCR and XBRL lack the required support and are omitted from the coefficient rows. Estimates are descriptive national-market contrasts; no causal liquidity p-values are reported."
     },
     {
-      "title": "Table D1 Source and issuer-data review",
+      "title": "Table 3 International diffusion mechanisms",
       "columns": [
-        "Item",
-        "Count",
-        "Interpretation"
-      ],
-      "rows": [
-        [
-          "Policy event JSONs",
-          441,
-          "All preserve original fields and source hashes"
-        ],
-        [
-          "Reviewed dated country-family cases",
-          360,
-          "Original 359-case input retained"
-        ],
-        [
-          "Full saved source/text events",
-          424,
-          "Includes 39 published-proxy author files"
-        ],
-        [
-          "Excerpt-only / no readable source",
-          "6 / 11",
-          "Access/substantive gaps remain explicit"
-        ],
-        [
-          "OCR flags / prior source gaps reviewed",
-          "51 /29",
-          "Assistant dispositions; no blanket legal verification"
-        ],
-        [
-          "Compustat financial firm-years / issuers",
-          "104,305 /11,601",
-          "Selected fiscal 2001-2023 research sample"
-        ],
-        [
-          "SEC annual submissions / issuer CIKs",
-          "35,213 /9,275",
-          "Local 2017-2021 ZIPs; bounded cover prefixes"
-        ],
-        [
-          "Verified historical quote ISIN rows",
-          0,
-          "Strict issuer-linked liquidity test unavailable"
-        ],
-        [
-          "Provisional quote/financial/SEC rows",
-          13122,
-          "Current ISIN; not a verified historical mapping"
-        ]
-      ],
-      "note": "Full source files and financial/security observations remain local. Original legal dates and first public investor availability are distinct. Global issuer eligibility and complete country histories are not certified."
-    },
-    {
-      "title": "Table D2 Provisional candidate links by actual SEC filing year",
-      "columns": [
-        "Filing year",
-        "CAM required",
-        "EGC exempt",
-        "Not yet required",
-        "Unknown cover/scope",
-        "Entity class excluded"
-      ],
-      "rows": [
-        [
-          2017,
-          0,
-          0,
-          0,
-          2589,
-          23
-        ],
-        [
-          2018,
-          0,
-          1,
-          6,
-          2585,
-          22
-        ],
-        [
-          2019,
-          82,
-          16,
-          171,
-          2265,
-          21
-        ],
-        [
-          2020,
-          1169,
-          64,
-          200,
-          1145,
-          21
-        ],
-        [
-          2021,
-          1940,
-          150,
-          5,
-          626,
-          21
-        ]
-      ],
-      "note": "Counts are candidate quote-financial filing observations, not unique historical issuers. Filer/EGC facts require current-period context and explicit transformations. Missing flags are unknown. Excluded entity classes are conservatively withheld, including unresolved investment-company/BDC subclassifications. CAM paragraphs have not been verified."
-    },
-    {
-      "title": "Table D3 Actual-filing-year provisional log-spread tests",
-      "columns": [
-        "Cohort",
-        "Specification",
-        "Required arm",
-        "EGC arm",
-        "Contrast",
-        "Status"
-      ],
-      "rows": [
-        [
-          2019,
-          "equal issuer",
-          23,
-          3,
-          "-",
-          "Insufficient support"
-        ],
-        [
-          2019,
-          "pre market cap weight",
-          23,
-          3,
-          "-",
-          "Insufficient support"
-        ],
-        [
-          2019,
-          "known december fiscal end only",
-          0,
-          2,
-          "-",
-          "Insufficient support"
-        ],
-        [
-          2019,
-          "pretrend adjusted",
-          22,
-          0,
-          "-",
-          "Insufficient support"
-        ],
-        [
-          2020,
-          "equal issuer",
-          372,
-          13,
-          "-",
-          "Insufficient support"
-        ],
-        [
-          2020,
-          "pre market cap weight",
-          372,
-          13,
-          "-",
-          "Insufficient support"
-        ],
-        [
-          2020,
-          "known december fiscal end only",
-          326,
-          10,
-          "-",
-          "Insufficient support"
-        ],
-        [
-          2020,
-          "pretrend adjusted",
-          350,
-          4,
-          "-",
-          "Insufficient support"
-        ],
-        [
-          2021,
-          "equal issuer",
-          0,
-          0,
-          "-",
-          "Insufficient support"
-        ],
-        [
-          2021,
-          "pre market cap weight",
-          0,
-          0,
-          "-",
-          "Insufficient support"
-        ],
-        [
-          2021,
-          "known december fiscal end only",
-          0,
-          0,
-          "-",
-          "Insufficient support"
-        ],
-        [
-          2021,
-          "pretrend adjusted",
-          0,
-          0,
-          "-",
-          "Insufficient support"
-        ]
-      ],
-      "note": "Each contrast compares g+1 with g-1, using explicitly EGC-exempt controls and observed CAM-required treated firms; at least 30 issuers per arm. No 2022 SEC archive exists, so the 2021 post-status check fails. Current-identifier/name screens remain provisional. All 72 outcome/specification/cohort cells, including every unsupported cell, are in the CSV. No causal liquidity p-values are reported."
-    },
-    {
-      "title": "Table D4 Review-conditioned pooled JIBS mechanism associations",
-      "columns": [
-        "Design",
         "Measure",
-        "Log odds",
+        "Design",
+        "Controls",
+        "Coefficient\n(SE)",
         "Raw p",
-        "Primary Holm",
-        "All-test Holm",
+        "Holm p",
         "Rows / countries"
       ],
       "rows": [
         [
-          "Timing",
           "Export competitors",
-          "0.395",
+          "Timing logit",
+          "No",
+          "0.395\n(0.266)",
           "0.1438",
-          "0.4315",
-          "1.0000",
-          "206 /57"
+          "1.000",
+          "206 / 57"
         ],
         [
-          "Timing",
           "Relative GDP growth",
-          "-0.409",
+          "Timing logit",
+          "No",
+          "-0.409\n(0.692)",
           "0.5584",
-          "1.0000",
-          "1.0000",
-          "72 /31"
+          "1.000",
+          "72 / 31"
         ],
         [
-          "Timing",
           "Language peers",
-          "0.096",
-          "0.7491",
-          "1.0000",
-          "1.0000",
-          "372 /67"
+          "Timing logit",
+          "No",
+          "0.014\n(0.290)",
+          "0.9617",
+          "1.000",
+          "375 / 65"
         ],
         [
-          "Timing",
           "Credit + aid / GDP",
-          "-0.696",
-          "0.0002",
-          "0.0009",
-          "0.1020",
-          "245 /50"
+          "Timing logit",
+          "No",
+          "-0.669\n(0.177)",
+          "0.0005",
+          "0.193",
+          "242 / 48"
         ],
         [
-          "History-censored status",
           "Export competitors",
-          "0.420",
-          "0.2568",
-          "-",
-          "1.0000",
-          "516 /57"
+          "Timing logit",
+          "Yes",
+          "-0.051\n(0.328)",
+          "0.8771",
+          "1.000",
+          "191 / 54"
         ],
         [
-          "History-censored status",
           "Relative GDP growth",
-          "0.423",
-          "0.3134",
-          "-",
-          "1.0000",
-          "256 /63"
+          "Timing logit",
+          "Yes",
+          "-0.754\n(0.859)",
+          "0.3878",
+          "1.000",
+          "67 / 29"
         ],
         [
-          "History-censored status",
           "Language peers",
-          "-0.686",
-          "0.1959",
-          "-",
-          "1.0000",
-          "992 /67"
+          "Timing logit",
+          "Yes",
+          "-0.107\n(0.301)",
+          "0.7241",
+          "1.000",
+          "316 / 53"
         ],
         [
-          "History-censored status",
           "Credit + aid / GDP",
-          "-0.784",
-          "0.0027",
-          "-",
-          "1.0000",
-          "519 /50"
+          "Timing logit",
+          "Yes",
+          "-0.656\n(0.350)",
+          "0.0676",
+          "1.000",
+          "228 / 45"
+        ],
+        [
+          "Legal-origin peers",
+          "Status LPM",
+          "Yes",
+          "-0.546\n(0.129)",
+          "0.0001",
+          "0.033",
+          "880 / 62"
         ]
       ],
-      "note": "Single-mechanism logits without economic controls; family-year strata and country clustering. Nominal t reference uses countries-1 df. The narrow Holm family contains four first-event coefficients only. Broad Holm covers all 442 stable coefficients, including LPM sensitivities. USA domestic beneficial-ownership and German supply-chain status are censored from 2025; ever-recorded peer measures do not become verified active-scope histories."
+      "note": "Pooled documented independent country-class cases. All models include family-year strata; controlled specifications add lagged log GDP per capita, GDP growth and trade/GDP. Country-clustered SE appear in parentheses; nominal p-values use countries-1 degrees of freedom. Continuous focal variables are standardized within each estimation sample; relative-growth learning is binary. The broad Holm family covers all 425 stable focal coefficients, including alternate proxies and LPM specifications. The legal-origin status row is the only broad-adjustment discovery and is a linear probability coefficient, not log odds. Samples differ across rows. Full coefficients, narrow-primary adjustments, failures and exact memberships are retained in companion results."
     }
-  ]
+  ],
+  "figures": [
+    {
+      "name": "figure1-liquidity-weighting",
+      "title": "Figure 1 Liquidity comparisons under equal-country and GDP weights",
+      "note": "Points compare g+1 with g-1 among documented cases. Connecting lines show changes in economic weighting, not uncertainty. Country and cohort support can differ across outcomes. All supported classes and the separate full-ESG benchmark are shown.",
+      "height": 289
+    },
+    {
+      "name": "figure2-diffusion-mechanisms",
+      "title": "Figure 2 Timing and recorded-status associations",
+      "note": "Uncontrolled single-mechanism logits with family-year strata and country-clustered covariance. Bars are nominal 95 percent t intervals, not simultaneous intervals. Samples differ across measures and designs. The legal-origin status LPM discovery in Table 3 is an alternative proxy/model and is not one of the four plotted primary measures.",
+      "height": 205
+    }
+  ],
+  "pages": 13,
+  "research_scope": "Descriptive policy-environment associations; no claim of an eligible-firm causal treatment effect."
 }

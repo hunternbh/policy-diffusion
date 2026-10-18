@@ -1,0 +1,24 @@
+{
+  "analysis_class": "SUSTAINABILITY_FINANCIAL",
+  "label": "Sustainability-related financial reporting",
+  "record_ids": [
+    "BRA_ISSB_0199",
+    "CHL_ISSB_0200",
+    "GHA_ISSB_0201",
+    "JPN_ISSB_0203",
+    "KEN_ISSB_0205",
+    "MEX_ISSB_0207",
+    "NGA_ISSB_0208",
+    "PAK_ISSB_0209",
+    "PHL_ISSB_0210",
+    "QAT_ISSB_0211",
+    "LKA_ISSB_0214",
+    "TWN_ISSB_0215",
+    "TZA_ISSB_0216",
+    "TUR_ISSB_0217",
+    "ZMB_ISSB_0218",
+    "ZWE_ISSB_0219",
+    "BRA_ISSB_0220"
+  ],
+  "note": "Topic/audience classification; source events, phases and amendments remain distinct. Country-topic first-event duplicates are collapsed only in the estimation case file."
+}

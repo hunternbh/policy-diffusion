@@ -1,0 +1,15 @@
+{
+  "analysis_class": "CLIMATE_DISCLOSURE",
+  "label": "Climate reporting",
+  "record_ids": [
+    "GBR_CLIMATE_042",
+    "NZL_CLIMATE_043",
+    "AUS_CLIMATE_044",
+    "AUS_ISSB_0197",
+    "HKG_ISSB_0202",
+    "JOR_ISSB_0204",
+    "MYS_ISSB_0206",
+    "SGP_ISSB_0213"
+  ],
+  "note": "Topic/audience classification; source events, phases and amendments remain distinct. Country-topic first-event duplicates are collapsed only in the estimation case file."
+}

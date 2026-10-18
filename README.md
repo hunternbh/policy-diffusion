@@ -1,13 +1,11 @@
-# Policy diffusion: reviewed empirical report
+# Disclosure regulation, liquidity and international diffusion
 
-Live: https://hunternbh.github.io/policy-diffusion/#reviewed-results
+https://hunternbh.github.io/policy-diffusion/
 
-18October2026 reviewed working draft:33-page paper,19 tables,8 figures,2 equations, full manuscript, source-linked441-event JSON register and all aggregate rerun outputs.
+Research paper: 13pages,3tables,2figures. The paper follows an investor-information question, competing predictions, sample/design, liquidity results, identification and diffusion. Version chronology and research-completion checklists are outside the manuscript.
 
-The review derives360 dated cases while retaining the original359-case release. All3,330 country weighting/robustness cells were recomputed;30 primary comparisons reproduce to numerical precision. Revised1,190 diffusion designs retain2,992 coefficient cells;0 of442 stable coefficients pass broad Holm correction. Selected Compustat financials and35,213 local SEC annual filings were recovered. Historical quote ISIN2 is entirely blank. The strict historical issuer test is unavailable; all72 provisional current-identifier cells fail the fixed30-issuer control-arm minimum. Unknown status is never substituted as untreated.
+The register classifies441event records by topic, audience and obligation. Mandatory E+S+G, comply-or-explain, climate-first reporting and voluntary firm disclosure are distinct. Confidential Action13 CbCR, public general-MNE tax reporting, banking Article89 (not yet inventoried) and extractive payments are distinguished. Same-country climate/ISSB duplicates are collapsed in analysis only. Table1 counts353country-class cases through2025, with no future-schedule column; the35-country published ESG benchmark remains separate.
 
-Source coverage:424 events with full saved text (including39 author-file proxies),6 excerpt-only,11 without readable source. All51 prior OCR flags and33 blank candidates have assistant visual dispositions;29 source gaps have review outcomes with access/verification limitations explicit. Twelve event records have targeted clause annotations; global legal verification remains incomplete.
+Classification-conditioned comparisons and the complete diffusion matrix are in data/primary and downloads/primary-findings.zip. One of425stable focal coefficients passes broad Holm adjustment: a negative legal-peer coefficient in a controlled status LPM. Primary timing models do not establish the predicted mechanisms. Liquidity estimates are descriptive policy-environment comparisons, not eligible-firm causal effects.
 
-The latest review and rerun aggregates are in `data/reviewed/` and `downloads/reviewed-tests.zip`. Prior weighting tables remain in `data/expanded/` for comparison. Local vendor issuer rows, portfolios, raw research literature, full regulation corpus and SEC cover excerpts are excluded from public distribution. No causal market or diffusion effect is established. No blanket license over third-party inputs is asserted.
-
-GitHub Pages serves main branch root.
+Licensed quote/issuer data and full third-party source documents remain local. GitHub Pages serves main branch root. Prior aggregate analyses remain available in their existing directories as supporting records.

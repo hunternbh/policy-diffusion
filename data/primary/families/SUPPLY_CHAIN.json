@@ -1,0 +1,18 @@
+{
+  "analysis_class": "SUPPLY_CHAIN",
+  "label": "Supply-chain reporting / due diligence",
+  "record_ids": [
+    "USA_SUPPLY_CHAIN_0153",
+    "GBR_SUPPLY_CHAIN_0154",
+    "FRA_SUPPLY_CHAIN_0155",
+    "AUS_SUPPLY_CHAIN_0156",
+    "NOR_SUPPLY_CHAIN_0157",
+    "DEU_SUPPLY_CHAIN_0158",
+    "CHE_SUPPLY_CHAIN_0159",
+    "CAN_SUPPLY_CHAIN_0160",
+    "FRA_SUPPLY_CHAIN_0161",
+    "DEU_SUPPLY_CHAIN_0162",
+    "EUU_SUPPLY_CHAIN_0163"
+  ],
+  "note": "Topic/audience classification; source events, phases and amendments remain distinct. Country-topic first-event duplicates are collapsed only in the estimation case file."
+}

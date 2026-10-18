@@ -1,0 +1,20 @@
+Measure,Design,Controls,"Coefficient
+(SE)",Raw p,Holm p,Rows / countries
+Export competitors,Timing logit,No,"0.395
+(0.266)",0.1438,1.000,206 / 57
+Relative GDP growth,Timing logit,No,"-0.409
+(0.692)",0.5584,1.000,72 / 31
+Language peers,Timing logit,No,"0.014
+(0.290)",0.9617,1.000,375 / 65
+Credit + aid / GDP,Timing logit,No,"-0.669
+(0.177)",0.0005,0.193,242 / 48
+Export competitors,Timing logit,Yes,"-0.051
+(0.328)",0.8771,1.000,191 / 54
+Relative GDP growth,Timing logit,Yes,"-0.754
+(0.859)",0.3878,1.000,67 / 29
+Language peers,Timing logit,Yes,"-0.107
+(0.301)",0.7241,1.000,316 / 53
+Credit + aid / GDP,Timing logit,Yes,"-0.656
+(0.350)",0.0676,1.000,228 / 45
+Legal-origin peers,Status LPM,Yes,"-0.546
+(0.129)",0.0001,0.033,880 / 62

@@ -1,0 +1,22 @@
+{
+  "source": "reference-papers-and-expanded-study.json/reference_papers/krueger_2023_local/writing_analysis",
+  "logic": [
+    "Investor information problem and regulatory response",
+    "Competing mechanisms and directional predictions",
+    "Sample, treatment scope and liquidity measurement",
+    "Baseline market comparisons and economic magnitudes",
+    "Identification, weighting and timing qualifications",
+    "Diffusion mechanisms linking foreign experience to national decisions",
+    "Conclusion tied to measured results"
+  ],
+  "main_table_count": 3,
+  "main_figure_count": 2,
+  "excluded_from_research_narrative": [
+    "Version chronology",
+    "Completion checklists",
+    "File recovery and OCR work logs",
+    "Superseded comparison tables",
+    "Future-schedule column"
+  ],
+  "wording": "Original prose; rhetorical sequence follows the writing-analysis JSON. Positive findings from the reference paper are not imported into this study."
+}

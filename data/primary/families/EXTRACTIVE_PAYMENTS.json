@@ -1,0 +1,17 @@
+{
+  "analysis_class": "EXTRACTIVE_PAYMENTS",
+  "label": "Extractive-payment reporting",
+  "record_ids": [
+    "NOR_EXTRACTIVE_PAYMENTS_0143",
+    "GBR_EXTRACTIVE_PAYMENTS_0144",
+    "CAN_EXTRACTIVE_PAYMENTS_0145",
+    "FRA_EXTRACTIVE_PAYMENTS_0146",
+    "DEU_EXTRACTIVE_PAYMENTS_0147",
+    "NLD_EXTRACTIVE_PAYMENTS_0148",
+    "SWE_EXTRACTIVE_PAYMENTS_0149",
+    "CHE_EXTRACTIVE_PAYMENTS_0150",
+    "USA_EXTRACTIVE_PAYMENTS_0151",
+    "FRA_EXTRACTIVE_PAYMENTS_0152"
+  ],
+  "note": "Topic/audience classification; source events, phases and amendments remain distinct. Country-topic first-event duplicates are collapsed only in the estimation case file."
+}

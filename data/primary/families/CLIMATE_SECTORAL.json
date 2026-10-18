@@ -1,0 +1,8 @@
+{
+  "analysis_class": "CLIMATE_SECTORAL",
+  "label": "Climate: financial institutions",
+  "record_ids": [
+    "RWA_ISSB_0212"
+  ],
+  "note": "Topic/audience classification; source events, phases and amendments remain distinct. Country-topic first-event duplicates are collapsed only in the estimation case file."
+}

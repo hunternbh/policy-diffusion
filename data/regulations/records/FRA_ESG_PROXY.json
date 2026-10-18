@@ -87,5 +87,29 @@
     "global_history_status": "incomplete_census_unknown_nonadoption_retained",
     "original_record_preserved": true,
     "legal_date_status": "inherited_recorded_date_with_basis_preserved"
+  },
+  "disclosure_classification": {
+    "event_id": "FRA_ESG_PROXY",
+    "iso3": "FRA",
+    "original_family": "ESG_CSR",
+    "event_type": "published_proxy",
+    "event_year": 2001,
+    "analysis_class": "ESG_SCOPED",
+    "analysis_label": "Multi-topic sustainability",
+    "topic_coverage": {
+      "E": "unverified_from_publication_year_alone",
+      "S": "unverified_from_publication_year_alone",
+      "G": "unverified_from_publication_year_alone"
+    },
+    "information_audience": "public/investors",
+    "obligation": "author_coded_mandate_legal_scope_not_independently_verified",
+    "standard_family": null,
+    "tax_reporting_subtype": null,
+    "classification_evidence": "author_released_coding_not_independent_legal_verification",
+    "kstz_full_ESG_rule": "All E,S,G must be required for the relevant issuer population; last topic date governs. Comply-or-explain remains mandatory. Publication year alone is insufficient.",
+    "kstz_legal_equivalence_verified": false,
+    "voluntary_not_inferred_from_missing_or_explain": true,
+    "first_full_ESG_date": null,
+    "reported_KSTZ_benchmark_year": 2001
   }
 }

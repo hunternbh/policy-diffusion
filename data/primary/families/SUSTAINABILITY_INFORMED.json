@@ -1,0 +1,8 @@
+{
+  "analysis_class": "SUSTAINABILITY_INFORMED",
+  "label": "ISSB-informed sector reporting",
+  "record_ids": [
+    "BGD_ISSB_0198"
+  ],
+  "note": "Topic/audience classification; source events, phases and amendments remain distinct. Country-topic first-event duplicates are collapsed only in the estimation case file."
+}

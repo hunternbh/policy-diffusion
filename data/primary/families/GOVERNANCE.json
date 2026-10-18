@@ -1,0 +1,21 @@
+{
+  "analysis_class": "GOVERNANCE",
+  "label": "Governance disclosure",
+  "record_ids": [
+    "GBR_GOVERNANCE_0001",
+    "DEU_GOVERNANCE_0002",
+    "SGP_GOVERNANCE_0003",
+    "AUS_GOVERNANCE_0004",
+    "NLD_GOVERNANCE_0005",
+    "HKG_GOVERNANCE_0006",
+    "IND_GOVERNANCE_0007",
+    "MYS_GOVERNANCE_0008",
+    "CAN_GOVERNANCE_0009",
+    "SWE_GOVERNANCE_0010",
+    "ZAF_GOVERNANCE_0011",
+    "JPN_GOVERNANCE_0012",
+    "GBR_GOVERNANCE_0013",
+    "GBR_GOVERNANCE_0014"
+  ],
+  "note": "Topic/audience classification; source events, phases and amendments remain distinct. Country-topic first-event duplicates are collapsed only in the estimation case file."
+}

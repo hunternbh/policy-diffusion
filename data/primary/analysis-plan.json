@@ -1,0 +1,173 @@
+{
+  "created_at_utc": "2026-10-18T19:01:15.808924+00:00",
+  "status": "Exploratory follow-up, fixed before new weighted comparisons and mechanism fits. Prior first-draft results were already observed; this is not a preregistration.",
+  "objective": "Measure economically interpretable capital-market associations and test differentiated diffusion mechanisms without selecting models for favorable signs or p-values.",
+  "scope": "Retain all14 families and the separate published ESG calendar benchmark. Missing legal histories remain unknown. No expansion of verified treatment status without source review.",
+  "liquidity": {
+    "outcomes_primary": [
+      "log_spread",
+      "log_impact",
+      "zero_fraction"
+    ],
+    "outcomes_additional": [
+      "illiquidity_pc1",
+      "log_trading_value_to_cap",
+      "return_volatility"
+    ],
+    "factor": "PC1 of standardized original three proxies; fit only on complete2000-2004 quote observations, freeze means/scales/loadings, orient positive illiquidity; report loadings/variance and complete-case counts.",
+    "additional_measure_definition": "Log annual USD traded value divided by within-year median USD market capitalization, requiring120 impact days and positive denominator; not exact share turnover. Daily-return SD requires120 return days and price variation.",
+    "country_weights": [
+      "equal_country",
+      "gdp_constant_usd",
+      "gdp_current_usd",
+      "gdp_ppp_constant",
+      "baseline_market_cap",
+      "balanced_security_count"
+    ],
+    "weight_timing": "GDP and market cap fixed at g-1 for treated and control countries. Normalize within cohort arms; aggregate cohorts by treated weight mass. Each weighted design has an equal-country comparison on exactly its eligible country/cohort support.",
+    "primary_comparison": "g+1 versus g-1; same quote-country units observed in both years; at least30 units per country and3 later-case control countries per cohort.",
+    "within_country_primary": "Equal quote weights.",
+    "robustness_configurations": [
+      "baseline"
+    ],
+    "robustness_matrix": "Baseline: all6 outcomes x all6 country weights, plus same-sample equal baselines. Other configurations: original three proxies plus factor x equal-country and constant-GDP weights; no arbitrary Cartesian combinations of filters.",
+    "balanced_dynamic_profile": "Quotes and countries observed at every g-3..g+3; controls have recorded G>g+3; g-1 reference; compare equal and constant-GDP weights. Constant supporting sample within each family-outcome profile.",
+    "sensitivity": "Assignment-cluster deletion ranges, concentration, maximum treated weight, effective weighted treated-country count; ranges are not confidence intervals. Report every unsupported cell and attrition.",
+    "formal_inference": "No causal-effect p-values from the incomplete case inventory. Do not relabel deletion ranges as confidence intervals or descriptive event profiles as validated causal event studies."
+  },
+  "diffusion": {
+    "source_reference": "Koning, Mertens and Roosenboom2018 JIBS, supplied PDF pages7-10,Tables2-5. Primary source trade measure is mean adoption among five most correlated export-pattern competitors; learning is relative median GDP growth among ten geographic neighbors; cultural/admin peers are distinct from expert-community IFAC advocacy.",
+    "samples": [
+      "each_supported_family",
+      "pooled_documented_independent_cases",
+      "published_ESG_window_sensitivity"
+    ],
+    "outcome_models": [
+      "first_recorded_implementation_timing",
+      "absorbing_recorded_implementation_status_JIBS_comparison"
+    ],
+    "source_coverage": "Conditional on documented cases. Exclude coordinated focal cases using existing national-choice flag. Main competitor share is among observed dated neighbors only, requiring3of5 known neighbors; report missing fraction and bounds. Strict sensitivity requires4of5. Neighbors are selected before inspecting policy adoption status.",
+    "networks": [
+      "top5_export_pattern_correlation_fixed2000",
+      "top5_export_pattern_correlation_fixed2013_post2013_only",
+      "top5_export_pattern_correlation_annual_lag_through2015",
+      "ten_geographic_neighbors",
+      "common_official_language_peer_exposure",
+      "same_legal_origin_peer_exposure",
+      "top10_IGO_membership_similarity_fixed2000"
+    ],
+    "trade_data": "COW raw directional flows, not smoothed series. Negative/missing flows remain missing; Pearson correlation on at least20 jointly observed destination markets. Deterministic ISO tie break. No future-year trade weights.",
+    "mechanism_measures": [
+      "trade_competitor_exposure",
+      "geographic_relative_GDP_growth_success_binary",
+      "geographic_relative_GDP_per_capita_growth_success_binary",
+      "geographic_relative_liquidity_improvement_binary",
+      "geographic_relative_liquidity_improvement_continuous",
+      "geographic_benchmarked_foreign_liquidity_success_excluding_focal_country",
+      "language_peer_exposure",
+      "legal_origin_peer_exposure",
+      "IGO_peer_exposure",
+      "IMF_credit_and_SDR_percent_GDP_proxy",
+      "net_aid_percent_GDP_proxy",
+      "combined_credit_and_aid_percent_GDP_JIBS_proxy",
+      "IMF_or_aid_positive_indicator"
+    ],
+    "learning": "Foreign recorded G<=t-2; growth or liquidity observed no later than t-1; later-case comparators recorded G>t-1. Geographic nearest10 selected independently of policy data. Require at least one measured earlier and later case and80percent signal coverage in both groups. Missing comparison groups remain missing. Benchmarked success uses g-1..g+1 balanced-quote contrasts available by t-1, excludes focal-country and its assignment cluster from foreign controls; at least3 remaining controls.",
+    "coercion": "WDI credit series includes SDR allocations; aid is not policy conditionality. Preserve missing observations, including nonreporting higher-income countries. Report standalone components and combined author-style proxy; no claim of verified coercion.",
+    "emulation": "Language, legal-origin and general IGO peer exposure are partial proxies. No claim to reproduce Berry cultural/admin composite without religion or to replace IFAC professional advocacy. Historical source availability/snapshot limits retained.",
+    "specifications": [
+      "single_mechanism_with_family_year_strata",
+      "single_mechanism_with_family_year_strata_and_lagged_log_GDPpc_GDPgrowth_tradeGDP",
+      "combined_four_mechanisms_with_same_nuisance_controls",
+      "linear_probability_sensitivity_same_sample"
+    ],
+    "likelihood": "Binomial logit; family-year stratum fixed effects, after excluding constant-outcome strata. Country-cluster covariance, Student-t reference with countries-1df. LPM uses same sample and fixed effects. Standardize continuous slopes within exact estimation sample; record all dropped constant nuisance terms and rank checks.",
+    "minimum_support": {
+      "rows": 50,
+      "countries": 15,
+      "events": 10,
+      "nonevents": 10
+    },
+    "stability": "Converged, no estimation warnings, finite coefficients/SE, abs coefficient below25 and full-rank design; otherwise retain diagnostics and withhold interpretation.",
+    "multiplicity": "Holm across every estimable new focal coefficient, with raw and adjusted p-values. Also identify the narrower primary family. Single and combined fits and LPM sensitivity are disclosed, never chosen for significance.",
+    "no_real_time_claim": "Feature calendar dates precede focal year; historical releases, current vintage revisions and historical quote selection remain unaudited. Fixed2000 and fixed2013 networks are distinct specifications, not imputed annual observations."
+  },
+  "unfinished_items": "Attempt factor, weighting, balanced event profiles, observable moderators, mechanisms and source gaps feasible from supplied/public inputs. Firm-level eligibility/fiscal filing alignment, full global untreated histories, EIUrisk data, historical IFAC advocacy, verified loan conditions, ordered policy-status scale, analyst/accounting controls and trigger series remain unavailable unless actually recovered. Report their exact status; never manufacture them.",
+  "publication": "Update manuscript, JSON methods/results, tables/figures and existing public HTML. Preserve prior release and all results, including null, unstable and unsupported fits.",
+  "baseline_input_hashes": {
+    "09-expanded-policy-paper/2026-10-18/data/security-year-liquidity.parquet": "9cf75b0191df9658d02cd4073501fdd2ac8f4edf551a1646258192d2bcd15755",
+    "09-expanded-policy-paper/2026-10-18/data/dated-policy-cases.csv": "78acf5d500fed252cf2ffbc16616a03f35099a7188b6b8d4e75d421c514a2579",
+    "09-expanded-policy-paper/2026-10-18/tables/table3-conditional-liquidity-comparisons.csv": "2b04663328820008d3c48079a2b8ce702d78970554de6b97cc24138461e8a5ac",
+    "09-expanded-policy-paper/2026-10-18/tables/table7-expanded-conditional-timing-models.csv": "898948800bc500a557f4f158fa734f06c49fab38a7de1b77f513382fce54bfe7"
+  },
+  "legal_review_followup": {
+    "frozen_at": "2026-10-18T22:41:10.789905+00:00",
+    "purpose": "Exploratory review-conditioned rerun; not preregistration. Freeze before new outcome fits.",
+    "reviewed_case_delta": {
+      "added": [
+        [
+          "PHL",
+          "ESG_CSR",
+          2019
+        ]
+      ],
+      "removed": [],
+      "changed_existing_G": []
+    },
+    "country_interpretation": "Recorded policy-environment comparisons; issuer eligibility not assumed for all equities. Unknown countries are never controls.",
+    "history_rule": "Censor repeated status from scope/enforcement weakening year (USA beneficial ownership2025; Germany supply chain2025); do not call remaining foreign-company regime absent. First-event clocks unchanged. Peer shares remain ever-recorded implementation shares, not active-scope measures.",
+    "issuer_primary": "Strict historical-ISIN2 matched analysis requires observed historical identifiers. If no identifiers, record not estimable, never silently substitute current ISIN.",
+    "issuer_exploratory": "Separately labelled provisional current-ISIN CUSIP join to historical financial-period-end records and exact SEC CIK/period-end; retain name-match scores and reject names below0.80 and issuers with changing CUSIP in2016-2022. Actual filing date and inline filer/EGC declarations; no missing flag imputation.",
+    "issuer_outcomes": [
+      "log_spread",
+      "log_impact",
+      "zero_fraction",
+      "illiquidity_pc1",
+      "log_trading_value_to_cap",
+      "return_volatility"
+    ],
+    "issuer_cohorts": [
+      2019,
+      2020,
+      2021
+    ],
+    "issuer_pre_post": [
+      -1,
+      1
+    ],
+    "issuer_specs": [
+      "equal_issuer",
+      "pre_market_cap_weight",
+      "known_december_fiscal_end_only",
+      "pretrend_adjusted"
+    ],
+    "issuer_controls": "EGC explicitly true in cohort and post year; no required CAM observation anywhere in available archive. Treated explicitly non-EGC at first observed required filing and post; require prior-year SEC filing, no prior required observation. One representative quote per issuer selected by pre-period cap, not outcome; balanced annual outcome availability.",
+    "issuer_support": "At least30 unique issuers in each arm. No formal causal liquidity p-values; nominal issuer bootstrap95% intervals (999 draws,seed20261018) are descriptive uncertainty, not identification or simultaneous bands.",
+    "issuer_financials": "Report original observed assets/revenue/employees and fiscal dates. No raw financial threshold assignment without verified units/currency/scope; no current-dated backfill or use of processed ratios.",
+    "multiplicity": "Retain complete country matrix and all diffusion failures. Holm across all stable rerun diffusion focal coefficients; separately disclosed four-primary-coefficient family. Provisional issuer contrast grid has no causal significance claims.",
+    "outstanding_data": [
+      "No global Worldscope fundamentals panel found.",
+      "Historical quote ISIN2 entirely blank; current-ISIN linkage provisional.",
+      "Vendor historical universe and historical real-time macro vintages not verified.",
+      "Full legal nonadoption histories, exemptions, sanctions, and actual worldwide filing dates incomplete."
+    ]
+  },
+  "legal_review_input_sha256": {
+    "09-expanded-policy-paper\\2026-10-18\\data\\dated-policy-cases.csv": "78acf5d500fed252cf2ffbc16616a03f35099a7188b6b8d4e75d421c514a2579",
+    "13-legal-eligibility-and-history-review\\2026-10-18\\data\\reviewed-dated-policy-cases.csv": "ec22a62c498b66dba9eae6ee141b2b13a0c096b6aafceca336735edb0b01cdef",
+    "13-legal-eligibility-and-history-review\\2026-10-18\\data\\issuer-financials-and-historical-identifiers.parquet": "1a822cf2a6a8ed6a5cdcd046b9ae0b51e7cb79f67c07c2115ab3ef6fa4614bea",
+    "13-legal-eligibility-and-history-review\\2026-10-18\\data\\us-quote-historical-identifiers.parquet": "0a79091d0959459a71d8856ea11fa68effc84c83c36bcb53176cb7a9994fda9c",
+    "12-expanded-liquidity-and-diffusion-tests\\2026-10-18\\tables\\liquidity-weighting-and-robustness.csv": "3c1bac5e0ea6b4738751a2a177fab20aefd669e32760c47b7e581c00080f2895",
+    "12-expanded-liquidity-and-diffusion-tests\\2026-10-18\\tables\\jibs-mechanism-models-all.csv": "caa08521fdc288d8b591e396b9d6882f34aa173d6d639b1a1f6ad26471de6bc4"
+  },
+  "classification_followup": {
+    "frozen_at": "2026-10-18T23:42:12.021592+00:00",
+    "family_rule": "16topic/audience classes; ISSB climate-first rules are climate, not automatic full ESG. Same-country same-topic first events collapse.",
+    "case_file_sha256": "6303862f474bca5701d3d933c2948751d343cb3b877cb542747d0efa2c47d421",
+    "original441rows_preserved": true,
+    "configs": "All six fixed country weights and six outcomes; balanced profiles. No sign-based selection.",
+    "benchmark_coordination": "Assign EU_NFRD to EU benchmark countries coded2016or2017;2017-only restriction incorrectly missed2016author dates. Published treatment years unchanged.",
+    "diffusion": "Same complete fixed model matrix and diagnostics; economic feature definitions unchanged; scope/enforcement censoring from prior legal review retained.",
+    "main_tables": "Three result-oriented tables and two figures; full sensitivity/model/source records online, no completion checklists in paper."
+  }
+}

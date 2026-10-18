@@ -1,0 +1,11 @@
+{
+  "analysis_class": "XBRL",
+  "label": "Structured financial filing",
+  "record_ids": [
+    "GBR_XBRL_038",
+    "JPN_XBRL_039",
+    "USA_XBRL_040",
+    "SGP_XBRL_041"
+  ],
+  "note": "Topic/audience classification; source events, phases and amendments remain distinct. Country-topic first-event duplicates are collapsed only in the estimation case file."
+}

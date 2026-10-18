@@ -84,5 +84,29 @@
     "global_history_status": "incomplete_census_unknown_nonadoption_retained",
     "original_record_preserved": true,
     "legal_date_status": "inherited_recorded_date_with_basis_preserved"
+  },
+  "disclosure_classification": {
+    "event_id": "BGR_CBCR_PUBLIC_0050",
+    "iso3": "BGR",
+    "original_family": "CBCR_PUBLIC",
+    "event_type": "coordinated_reference",
+    "event_year": 2024,
+    "analysis_class": "CBCR_PUBLIC",
+    "analysis_label": "Public tax CbCR: general MNEs",
+    "topic_coverage": {
+      "E": "not_applicable",
+      "S": "not_applicable",
+      "G": "not_applicable"
+    },
+    "information_audience": "public_tax_transparency",
+    "obligation": "unresolved_or_event_specific",
+    "standard_family": null,
+    "tax_reporting_subtype": "general_MNE_public_income_tax_reporting",
+    "classification_evidence": "inherited_source_scope",
+    "kstz_full_ESG_rule": "All E,S,G must be required for the relevant issuer population; last topic date governs. Comply-or-explain remains mandatory. Publication year alone is insufficient.",
+    "kstz_legal_equivalence_verified": false,
+    "voluntary_not_inferred_from_missing_or_explain": true,
+    "first_full_ESG_date": null,
+    "reported_KSTZ_benchmark_year": null
   }
 }
