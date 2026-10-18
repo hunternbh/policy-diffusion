@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0",
+  "family": "CLIMATE",
+  "event_records": 3,
+  "implementation_event_records": 3,
+  "published_proxy_records": 0,
+  "records_with_saved_readable_source_file": 2,
+  "records_with_excerpt_only": 0,
+  "records_without_readable_source_or_excerpt": 1,
+  "archive_status_counts": {
+    "original_source_saved_text_available": 2,
+    "source_unavailable": 1
+  },
+  "record_ids": [
+    "GBR_CLIMATE_042",
+    "NZL_CLIMATE_043",
+    "AUS_CLIMATE_044"
+  ],
+  "global_census_complete": false
+}

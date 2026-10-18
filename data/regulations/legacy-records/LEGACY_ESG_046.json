@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "record_id": "LEGACY_ESG_046",
+  "record_kind": "legacy_esg_document_coding",
+  "country": "Slovenia",
+  "family": "ESG_CSR",
+  "regulation_name": "Slovenian Commercial Companies Act ZGD-1J",
+  "issuer": "National Assembly",
+  "requirements": "Non-financial statements for large public-interest entities.",
+  "year_passed_as_recorded": "2017",
+  "effective_date_as_recorded": "2017",
+  "document_name": "slovenia-esg.pdf",
+  "document_ids": [
+    "doc-47d18da416d4df7c2d71"
+  ],
+  "source_file_saved": true,
+  "source_text_available": true,
+  "verification_status": "inherited_legacy_coding_not_reconciled_with_expanded_events",
+  "original_csv_record": {
+    "Country": "Slovenia",
+    "Document": "slovenia-esg.pdf",
+    "Regulation Type": "ESG",
+    "Regulation Name": "Slovenian Commercial Companies Act ZGD-1J",
+    "Issuer": "National Assembly",
+    "Requirements": "Non-financial statements for large public-interest entities.",
+    "Year Passed": "2017",
+    "Effective Date": "2017"
+  },
+  "warning": "Separate inherited coding. May overlap expanded events; not additional verified implementations and not used to expand the estimation sample."
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "record_id": "LEGACY_ESG_034",
+  "record_kind": "legacy_esg_document_coding",
+  "country": "Netherlands",
+  "family": "ESG_CSR",
+  "regulation_name": "Act implementing the Directive on disclosure of non-financial information and diversity",
+  "issuer": "Dutch Government",
+  "requirements": "Non-financial statement (environmental\t social\t employee\t human rights\t anti-corruption) and diversity policy for large PIEs.",
+  "year_passed_as_recorded": "2017",
+  "effective_date_as_recorded": "1/1/2017",
+  "document_name": "netherlands-sg.pdf",
+  "document_ids": [
+    "doc-4e479e5727cdc8fddd50"
+  ],
+  "source_file_saved": true,
+  "source_text_available": true,
+  "verification_status": "inherited_legacy_coding_not_reconciled_with_expanded_events",
+  "original_csv_record": {
+    "Country": "Netherlands",
+    "Document": "netherlands-sg.pdf",
+    "Regulation Type": "Social/Governance",
+    "Regulation Name": "Act implementing the Directive on disclosure of non-financial information and diversity",
+    "Issuer": "Dutch Government",
+    "Requirements": "Non-financial statement (environmental\t social\t employee\t human rights\t anti-corruption) and diversity policy for large PIEs.",
+    "Year Passed": "2017",
+    "Effective Date": "1/1/2017"
+  },
+  "warning": "Separate inherited coding. May overlap expanded events; not additional verified implementations and not used to expand the estimation sample."
+}

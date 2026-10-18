@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "record_id": "LEGACY_ESG_013",
+  "record_kind": "legacy_esg_document_coding",
+  "country": "Canada",
+  "family": "ESG_CSR",
+  "regulation_name": "NI 58-101",
+  "issuer": "Canadian Securities Administrators",
+  "requirements": "Disclose corporate governance practices including board independence, mandate, and ethical conduct",
+  "year_passed_as_recorded": "2005",
+  "effective_date_as_recorded": "6/30/2005",
+  "document_name": "canada-esg.pdf",
+  "document_ids": [
+    "doc-09cd4ac1d95a727ce39d"
+  ],
+  "source_file_saved": true,
+  "source_text_available": true,
+  "verification_status": "inherited_legacy_coding_not_reconciled_with_expanded_events",
+  "original_csv_record": {
+    "Country": "Canada",
+    "Document": "canada-esg.pdf",
+    "Regulation Type": "Regulation",
+    "Regulation Name": "NI 58-101",
+    "Issuer": "Canadian Securities Administrators",
+    "Requirements": "Disclose corporate governance practices including board independence, mandate, and ethical conduct",
+    "Year Passed": "2005",
+    "Effective Date": "6/30/2005"
+  },
+  "warning": "Separate inherited coding. May overlap expanded events; not additional verified implementations and not used to expand the estimation sample."
+}

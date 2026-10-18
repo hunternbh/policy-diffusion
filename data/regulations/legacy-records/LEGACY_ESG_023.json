@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "record_id": "LEGACY_ESG_023",
+  "record_kind": "legacy_esg_document_coding",
+  "country": "Greece",
+  "family": "ESG_CSR",
+  "regulation_name": "Law 3487/2006",
+  "issuer": "Hellenic Republic",
+  "requirements": "Transparency in annual and consolidated accounts; management reporting and auditing standards.",
+  "year_passed_as_recorded": "2006",
+  "effective_date_as_recorded": "11-Sep-06",
+  "document_name": "greece-esg.pdf",
+  "document_ids": [
+    "doc-7dae92e27025770144c3"
+  ],
+  "source_file_saved": true,
+  "source_text_available": true,
+  "verification_status": "inherited_legacy_coding_not_reconciled_with_expanded_events",
+  "original_csv_record": {
+    "Country": "Greece",
+    "Document": "greece-esg.pdf",
+    "Regulation Type": "Law",
+    "Regulation Name": "Law 3487/2006",
+    "Issuer": "Hellenic Republic",
+    "Requirements": "Transparency in annual and consolidated accounts; management reporting and auditing standards.",
+    "Year Passed": "2006",
+    "Effective Date": "11-Sep-06"
+  },
+  "warning": "Separate inherited coding. May overlap expanded events; not additional verified implementations and not used to expand the estimation sample."
+}

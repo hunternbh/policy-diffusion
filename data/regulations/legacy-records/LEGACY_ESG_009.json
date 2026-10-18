@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "record_id": "LEGACY_ESG_009",
+  "record_kind": "legacy_esg_document_coding",
+  "country": "Belgium",
+  "family": "ESG_CSR",
+  "regulation_name": "VLAREM II",
+  "issuer": "Flemish regional government",
+  "requirements": "Disclose production processes\t emission levels\t evaluation thereof\t and waste products",
+  "year_passed_as_recorded": "1992",
+  "effective_date_as_recorded": "12/14/1992",
+  "document_name": "belgium-e.png",
+  "document_ids": [
+    "doc-3eb96e34d23e7ddac0ea"
+  ],
+  "source_file_saved": true,
+  "source_text_available": true,
+  "verification_status": "inherited_legacy_coding_not_reconciled_with_expanded_events",
+  "original_csv_record": {
+    "Country": "Belgium",
+    "Document": "belgium-e.png",
+    "Regulation Type": "Decree",
+    "Regulation Name": "VLAREM II",
+    "Issuer": "Flemish regional government",
+    "Requirements": "Disclose production processes\t emission levels\t evaluation thereof\t and waste products",
+    "Year Passed": "1992",
+    "Effective Date": "12/14/1992"
+  },
+  "warning": "Separate inherited coding. May overlap expanded events; not additional verified implementations and not used to expand the estimation sample."
+}

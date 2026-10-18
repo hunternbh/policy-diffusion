@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "record_id": "LEGACY_ESG_015",
+  "record_kind": "legacy_esg_document_coding",
+  "country": "Cyprus",
+  "family": "ESG_CSR",
+  "regulation_name": "Law N. 51(I)/2017",
+  "issuer": "Parliament of Cyprus",
+  "requirements": "Transposition of EU Directive 2014/95/EU for disclosure of non-financial and diversity information",
+  "year_passed_as_recorded": "2017",
+  "effective_date_as_recorded": "6/2/2017",
+  "document_name": "cyprus-2017-esg.pdf",
+  "document_ids": [
+    "doc-4bbc96a4a6b9eecc54f1"
+  ],
+  "source_file_saved": true,
+  "source_text_available": true,
+  "verification_status": "inherited_legacy_coding_not_reconciled_with_expanded_events",
+  "original_csv_record": {
+    "Country": "Cyprus",
+    "Document": "cyprus-2017-esg.pdf",
+    "Regulation Type": "Law",
+    "Regulation Name": "Law N. 51(I)/2017",
+    "Issuer": "Parliament of Cyprus",
+    "Requirements": "Transposition of EU Directive 2014/95/EU for disclosure of non-financial and diversity information",
+    "Year Passed": "2017",
+    "Effective Date": "6/2/2017"
+  },
+  "warning": "Separate inherited coding. May overlap expanded events; not additional verified implementations and not used to expand the estimation sample."
+}

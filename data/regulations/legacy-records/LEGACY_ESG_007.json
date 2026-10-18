@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "record_id": "LEGACY_ESG_007",
+  "record_kind": "legacy_esg_document_coding",
+  "country": "Austria",
+  "family": "ESG_CSR",
+  "regulation_name": "Sustainability and Diversity Improvement Act (NaDiVeG)",
+  "issuer": "Austrian Federal Government",
+  "requirements": "Non-financial statement on environmental\t social\t human rights\t and anti-corruption matters.",
+  "year_passed_as_recorded": "2017",
+  "effective_date_as_recorded": "2017",
+  "document_name": "austria-es.pdf",
+  "document_ids": [
+    "doc-00796dc0e9376ac78df1"
+  ],
+  "source_file_saved": true,
+  "source_text_available": true,
+  "verification_status": "inherited_legacy_coding_not_reconciled_with_expanded_events",
+  "original_csv_record": {
+    "Country": "Austria",
+    "Document": "austria-es.pdf",
+    "Regulation Type": "Mandatory",
+    "Regulation Name": "Sustainability and Diversity Improvement Act (NaDiVeG)",
+    "Issuer": "Austrian Federal Government",
+    "Requirements": "Non-financial statement on environmental\t social\t human rights\t and anti-corruption matters.",
+    "Year Passed": "2017",
+    "Effective Date": "2017"
+  },
+  "warning": "Separate inherited coding. May overlap expanded events; not additional verified implementations and not used to expand the estimation sample."
+}

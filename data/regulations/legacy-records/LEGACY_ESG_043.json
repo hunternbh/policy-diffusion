@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "record_id": "LEGACY_ESG_043",
+  "record_kind": "legacy_esg_document_coding",
+  "country": "Qatar",
+  "family": "ESG_CSR",
+  "regulation_name": "Governance Code 2016",
+  "issuer": "QFMA",
+  "requirements": "Compliance with governance standards and an annual report.",
+  "year_passed_as_recorded": "2016",
+  "effective_date_as_recorded": "2016",
+  "document_name": "qatar-g.pdf",
+  "document_ids": [
+    "doc-1d8e2d07b2d2827f1f8a"
+  ],
+  "source_file_saved": true,
+  "source_text_available": true,
+  "verification_status": "inherited_legacy_coding_not_reconciled_with_expanded_events",
+  "original_csv_record": {
+    "Country": "Qatar",
+    "Document": "qatar-g.pdf",
+    "Regulation Type": "Governance",
+    "Regulation Name": "Governance Code 2016",
+    "Issuer": "QFMA",
+    "Requirements": "Compliance with governance standards and an annual report.",
+    "Year Passed": "2016",
+    "Effective Date": "2016"
+  },
+  "warning": "Separate inherited coding. May overlap expanded events; not additional verified implementations and not used to expand the estimation sample."
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "family": "BENEFICIAL_OWNERSHIP",
+  "event_records": 24,
+  "implementation_event_records": 18,
+  "published_proxy_records": 0,
+  "records_with_saved_readable_source_file": 17,
+  "records_with_excerpt_only": 1,
+  "records_without_readable_source_or_excerpt": 6,
+  "archive_status_counts": {
+    "original_source_saved_text_available": 17,
+    "source_unavailable": 6,
+    "readable_derivative_or_excerpt_only": 1
+  },
+  "record_ids": [
+    "GBR_BENEFICIAL_OWNERSHIP_0015",
+    "SGP_BENEFICIAL_OWNERSHIP_0016",
+    "HKG_BENEFICIAL_OWNERSHIP_0017",
+    "AUT_BENEFICIAL_OWNERSHIP_0018",
+    "IRL_BENEFICIAL_OWNERSHIP_0019",
+    "FRA_BENEFICIAL_OWNERSHIP_0020",
+    "DEU_BENEFICIAL_OWNERSHIP_0021",
+    "NLD_BENEFICIAL_OWNERSHIP_0022",
+    "CAN_BENEFICIAL_OWNERSHIP_0023",
+    "USA_BENEFICIAL_OWNERSHIP_0024",
+    "ZAF_BENEFICIAL_OWNERSHIP_0025",
+    "MYS_BENEFICIAL_OWNERSHIP_0026",
+    "IND_BENEFICIAL_OWNERSHIP_0027",
+    "IDN_BENEFICIAL_OWNERSHIP_0028",
+    "KEN_BENEFICIAL_OWNERSHIP_0029",
+    "COL_BENEFICIAL_OWNERSHIP_0030",
+    "NGA_BENEFICIAL_OWNERSHIP_0031",
+    "SWE_BENEFICIAL_OWNERSHIP_0032",
+    "GBR_BENEFICIAL_OWNERSHIP_0033",
+    "SGP_BENEFICIAL_OWNERSHIP_0034",
+    "IRL_BENEFICIAL_OWNERSHIP_0035",
+    "CAN_BENEFICIAL_OWNERSHIP_0036",
+    "USA_BENEFICIAL_OWNERSHIP_0037",
+    "IRL_BENEFICIAL_OWNERSHIP_0038"
+  ],
+  "global_census_complete": false
+}

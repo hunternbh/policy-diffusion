@@ -4,7 +4,7 @@ Public companion to **Disclosure Regulation, Stock Liquidity and Policy Diffusio
 
 Website: https://hunternbh.github.io/policy-diffusion/
 
-The HTML includes both PDF figures, both equations, all eight tables, the complete manuscript text, an interactive view of primary liquidity comparisons, and aggregate CSV/PDF downloads.
+The HTML includes both PDF figures, both equations, all nine tables, the complete manuscript text, an interactive view of primary liquidity comparisons, and aggregate CSV/PDF downloads.
 
 ## Interpretation
 
@@ -14,7 +14,7 @@ These are preliminary descriptive comparisons conditional on documented cases. M
 
 - `index.html`, `assets/report.css`, `assets/report.js`: buildless static website.
 - `assets/`: original report figures/equations and vector figure PDFs.
-- `downloads/paper.pdf`: original 18-page paper.
+- `downloads/paper.pdf`: original 20-page paper.
 - `data/`: aggregate result tables, report data and manuscript text/table snapshots.
 - `downloads/aggregate-tables.zip`: aggregate CSV bundle.
 
@@ -27,3 +27,7 @@ Serve this directory with `python -m http.server 8767`, then open http://127.0.0
 ## Hosting
 
 GitHub Pages serves the `main` branch root; `.nojekyll` disables Jekyll processing.
+
+## Regulation register update
+
+The source archive update adds 441 event JSONs, fourteen family indices, 51 separate inherited ESG document JSONs, a master register, source/document manifests, explicit source gaps, and searchable catalogue controls. Original documents and full-text/OCR outputs remain in the local project archive. Downloadable metadata distinguishes saved originals, linked sources, author repository data, excerpts and unavailable material. Legal coding and empirical estimates are unchanged.

@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "record_id": "LEGACY_ESG_037",
+  "record_kind": "legacy_esg_document_coding",
+  "country": "Nigeria",
+  "family": "ESG_CSR",
+  "regulation_name": "Financial Reporting Council of Nigeria Act, 2011",
+  "issuer": "Federal Government of Nigeria",
+  "requirements": "Establishment of the FRCN to develop, publish, and enforce accounting, auditing, and corporate governance standards.",
+  "year_passed_as_recorded": "2011",
+  "effective_date_as_recorded": "3-Jun-11",
+  "document_name": "nigeria-g3.pdf",
+  "document_ids": [
+    "doc-c8bb33f24d1477b3f291"
+  ],
+  "source_file_saved": true,
+  "source_text_available": true,
+  "verification_status": "inherited_legacy_coding_not_reconciled_with_expanded_events",
+  "original_csv_record": {
+    "Country": "Nigeria",
+    "Document": "nigeria-g3.pdf",
+    "Regulation Type": "Financial Reporting / Corporate Governance",
+    "Regulation Name": "Financial Reporting Council of Nigeria Act, 2011",
+    "Issuer": "Federal Government of Nigeria",
+    "Requirements": "Establishment of the FRCN to develop, publish, and enforce accounting, auditing, and corporate governance standards.",
+    "Year Passed": "2011",
+    "Effective Date": "3-Jun-11"
+  },
+  "warning": "Separate inherited coding. May overlap expanded events; not additional verified implementations and not used to expand the estimation sample."
+}

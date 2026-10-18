@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "record_id": "LEGACY_ESG_026",
+  "record_kind": "legacy_esg_document_coding",
+  "country": "Hungary",
+  "family": "ESG_CSR",
+  "regulation_name": "Member State Implementation of Directive 2014/95/EU",
+  "issuer": "GRI / CSR Europe",
+  "requirements": "Implementation overview of EU Directive 2014/95/EU for non-financial information.",
+  "year_passed_as_recorded": "2017",
+  "effective_date_as_recorded": "2017",
+  "document_name": "hungary-esg.pdf",
+  "document_ids": [
+    "doc-7d74c5909efe90c65622"
+  ],
+  "source_file_saved": true,
+  "source_text_available": true,
+  "verification_status": "inherited_legacy_coding_not_reconciled_with_expanded_events",
+  "original_csv_record": {
+    "Country": "Hungary",
+    "Document": "hungary-esg.pdf",
+    "Regulation Type": "Overview",
+    "Regulation Name": "Member State Implementation of Directive 2014/95/EU",
+    "Issuer": "GRI / CSR Europe",
+    "Requirements": "Implementation overview of EU Directive 2014/95/EU for non-financial information.",
+    "Year Passed": "2017",
+    "Effective Date": "2017"
+  },
+  "warning": "Separate inherited coding. May overlap expanded events; not additional verified implementations and not used to expand the estimation sample."
+}

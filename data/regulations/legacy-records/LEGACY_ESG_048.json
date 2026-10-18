@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "record_id": "LEGACY_ESG_048",
+  "record_kind": "legacy_esg_document_coding",
+  "country": "Spain",
+  "family": "ESG_CSR",
+  "regulation_name": "Resolución de 25 de marzo de 2002 sobre aspectos medioambientales en las cuentas anuales",
+  "issuer": "Instituto de Contabilidad y Auditoría de Cuentas (ICAC)",
+  "requirements": "Mandatory disclosure of environmental obligations, contingencies, assets, and expenses in annual accounts.",
+  "year_passed_as_recorded": "2002",
+  "effective_date_as_recorded": "5-Apr-02",
+  "document_name": "spain-e.pdf",
+  "document_ids": [
+    "doc-83021293a8e323c39b6b"
+  ],
+  "source_file_saved": true,
+  "source_text_available": true,
+  "verification_status": "inherited_legacy_coding_not_reconciled_with_expanded_events",
+  "original_csv_record": {
+    "Country": "Spain",
+    "Document": "spain-e.pdf",
+    "Regulation Type": "Environmental Accounting",
+    "Regulation Name": "Resolución de 25 de marzo de 2002 sobre aspectos medioambientales en las cuentas anuales",
+    "Issuer": "Instituto de Contabilidad y Auditoría de Cuentas (ICAC)",
+    "Requirements": "Mandatory disclosure of environmental obligations, contingencies, assets, and expenses in annual accounts.",
+    "Year Passed": "2002",
+    "Effective Date": "5-Apr-02"
+  },
+  "warning": "Separate inherited coding. May overlap expanded events; not additional verified implementations and not used to expand the estimation sample."
+}

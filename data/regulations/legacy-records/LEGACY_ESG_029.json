@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "record_id": "LEGACY_ESG_029",
+  "record_kind": "legacy_esg_document_coding",
+  "country": "Ireland",
+  "family": "ESG_CSR",
+  "regulation_name": "European Union (Disclosure of Non-Financial and Diversity Information) Regulations 2017",
+  "issuer": "Minister for Jobs",
+  "requirements": "Mandatory non-financial and diversity information disclosure for large undertakings.",
+  "year_passed_as_recorded": "2017",
+  "effective_date_as_recorded": "21-Aug-17",
+  "document_name": "ireland-esg.pdf",
+  "document_ids": [
+    "doc-2522cf97ea9798a1b268"
+  ],
+  "source_file_saved": true,
+  "source_text_available": true,
+  "verification_status": "inherited_legacy_coding_not_reconciled_with_expanded_events",
+  "original_csv_record": {
+    "Country": "Ireland",
+    "Document": "ireland-esg.pdf",
+    "Regulation Type": "Regulations",
+    "Regulation Name": "European Union (Disclosure of Non-Financial and Diversity Information) Regulations 2017",
+    "Issuer": "Minister for Jobs",
+    "Requirements": "Mandatory non-financial and diversity information disclosure for large undertakings.",
+    "Year Passed": "2017",
+    "Effective Date": "21-Aug-17"
+  },
+  "warning": "Separate inherited coding. May overlap expanded events; not additional verified implementations and not used to expand the estimation sample."
+}

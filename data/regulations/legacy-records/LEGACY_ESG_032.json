@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "record_id": "LEGACY_ESG_032",
+  "record_kind": "legacy_esg_document_coding",
+  "country": "Malaysia",
+  "family": "ESG_CSR",
+  "regulation_name": "Malaysian Code on Corporate Governance (Revised 2007)",
+  "issuer": "Securities Commission Malaysia",
+  "requirements": "Principles and best practices on board composition, audit committees, and internal audit; mandatory reporting for listed companies.",
+  "year_passed_as_recorded": "2007",
+  "effective_date_as_recorded": "10/1/2007",
+  "document_name": "msia-g.pdf",
+  "document_ids": [
+    "doc-f7f47985fd04e385e3c0"
+  ],
+  "source_file_saved": true,
+  "source_text_available": true,
+  "verification_status": "inherited_legacy_coding_not_reconciled_with_expanded_events",
+  "original_csv_record": {
+    "Country": "Malaysia",
+    "Document": "msia-g.pdf",
+    "Regulation Type": "Governance",
+    "Regulation Name": "Malaysian Code on Corporate Governance (Revised 2007)",
+    "Issuer": "Securities Commission Malaysia",
+    "Requirements": "Principles and best practices on board composition, audit committees, and internal audit; mandatory reporting for listed companies.",
+    "Year Passed": "2007",
+    "Effective Date": "10/1/2007"
+  },
+  "warning": "Separate inherited coding. May overlap expanded events; not additional verified implementations and not used to expand the estimation sample."
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "record_id": "LEGACY_ESG_016",
+  "record_kind": "legacy_esg_document_coding",
+  "country": "Cyprus",
+  "family": "ESG_CSR",
+  "regulation_name": "Cyprus Corporate Governance Code",
+  "issuer": "Cyprus Stock Exchange",
+  "requirements": "Disclosure of corporate governance practices (5th Revised Edition)",
+  "year_passed_as_recorded": "2019",
+  "effective_date_as_recorded": "1/1/2019",
+  "document_name": "cyprus-esg.pdf",
+  "document_ids": [
+    "doc-a6a70e0d2d594c2e9666"
+  ],
+  "source_file_saved": true,
+  "source_text_available": true,
+  "verification_status": "inherited_legacy_coding_not_reconciled_with_expanded_events",
+  "original_csv_record": {
+    "Country": "Cyprus",
+    "Document": "cyprus-esg.pdf",
+    "Regulation Type": "Code",
+    "Regulation Name": "Cyprus Corporate Governance Code",
+    "Issuer": "Cyprus Stock Exchange",
+    "Requirements": "Disclosure of corporate governance practices (5th Revised Edition)",
+    "Year Passed": "2019",
+    "Effective Date": "1/1/2019"
+  },
+  "warning": "Separate inherited coding. May overlap expanded events; not additional verified implementations and not used to expand the estimation sample."
+}

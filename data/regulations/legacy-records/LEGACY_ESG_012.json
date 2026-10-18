@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "record_id": "LEGACY_ESG_012",
+  "record_kind": "legacy_esg_document_coding",
+  "country": "Brazil",
+  "family": "ESG_CSR",
+  "regulation_name": "Report or Explain",
+  "issuer": "BM&FBOVESPA",
+  "requirements": "Engagement of listed companies to report social and environmental actions or explain why not",
+  "year_passed_as_recorded": "2011",
+  "effective_date_as_recorded": "5/1/2012",
+  "document_name": "brazil-sg2.pdf",
+  "document_ids": [
+    "doc-7bc785fdcdf12180ada4"
+  ],
+  "source_file_saved": true,
+  "source_text_available": true,
+  "verification_status": "inherited_legacy_coding_not_reconciled_with_expanded_events",
+  "original_csv_record": {
+    "Country": "Brazil",
+    "Document": "brazil-sg2.pdf",
+    "Regulation Type": "Recommendation",
+    "Regulation Name": "Report or Explain",
+    "Issuer": "BM&FBOVESPA",
+    "Requirements": "Engagement of listed companies to report social and environmental actions or explain why not",
+    "Year Passed": "2011",
+    "Effective Date": "5/1/2012"
+  },
+  "warning": "Separate inherited coding. May overlap expanded events; not additional verified implementations and not used to expand the estimation sample."
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "record_id": "LEGACY_ESG_040",
+  "record_kind": "legacy_esg_document_coding",
+  "country": "Poland",
+  "family": "ESG_CSR",
+  "regulation_name": "Polish Accounting Act amendment (transposition of Directive 2014/95/EU)",
+  "issuer": "Polish Government",
+  "requirements": "Large entities must disclose non-financial information on environmental, social, employee, human rights, and anti-corruption.",
+  "year_passed_as_recorded": "2016",
+  "effective_date_as_recorded": "1/1/2017",
+  "document_name": "poland-esg.pdf",
+  "document_ids": [
+    "doc-5758241498bb19c8678c"
+  ],
+  "source_file_saved": true,
+  "source_text_available": true,
+  "verification_status": "inherited_legacy_coding_not_reconciled_with_expanded_events",
+  "original_csv_record": {
+    "Country": "Poland",
+    "Document": "poland-esg.pdf",
+    "Regulation Type": "ESG",
+    "Regulation Name": "Polish Accounting Act amendment (transposition of Directive 2014/95/EU)",
+    "Issuer": "Polish Government",
+    "Requirements": "Large entities must disclose non-financial information on environmental, social, employee, human rights, and anti-corruption.",
+    "Year Passed": "2016",
+    "Effective Date": "1/1/2017"
+  },
+  "warning": "Separate inherited coding. May overlap expanded events; not additional verified implementations and not used to expand the estimation sample."
+}

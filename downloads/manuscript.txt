@@ -39,6 +39,12 @@ Emulation and coercion remain distinct predictions. Emulation concerns acceptanc
 
 The policy register groups capital-market-relevant rules into IFRS, ESG and CSR reporting, climate disclosure, ISSB-based reporting, XBRL filing, governance disclosure, beneficial ownership, confidential country-by-country reporting, public country-by-country reporting, expanded audit reporting, audit oversight, extractive-payment disclosure, supply-chain rules and digital-asset regulation. Table 1 separates dated implementations from published proxies, future schedules and coordinated reference records. These categories describe evidence and event type. They do not imply that all events have the same treatment intensity or economic content.
 
+The accompanying regulation archive serializes all 441 event records into a master JSON register and one JSON file per event, with fourteen family indices. Each record preserves its original CSV fields, source URL, locator, date distinctions and verification status. These records include implementations, amendments, published proxies and other events; they are not a count of unique statutes. The separate inherited ESG register contains 51 document codings. They may overlap the expanded events and do not add verified implementation cases to the estimation sample.
+
+The source archive contains 258 unique preserved files or responses linked to 151 recorded source URLs after removing fragments. SHA-256 hashes identify saved objects, while retrieval logs retain failed requests and relocated official documents. Of the 441 events, 373 have an original or linked official source with readable text and 39 published-proxy records have saved author repository files. Eleven records have only a saved text derivative or partial excerpt; eighteen lack readable source content, including metadata-only captures. All 51 inherited ESG document records have saved files and extracted text. Saving a response or reading an author workbook does not independently verify a legal date or establish a complete global policy history.
+
+The extraction pass examined 4,593 PDF pages. Tesseract was run on 206 page images when native text was sparse or corrupted, including image-only sources. Original files, page-level text, requested OCR languages, word-confidence diagnostics and searchable derivatives are retained separately. An image-ink heuristic flags 33 likely blank images; 51 nonblank or low-confidence OCR pages require review. Extraction and archiving are reproducibility steps, rather than legal or translation verification. Table A4 reports source availability by family. No treatment coding or empirical estimate is revised by this archival pass.
+
 The register is a collection of documented implementations rather than an exhaustive history of nonadoption. Every family retains an incomplete-census flag. The absence of a record consequently does not identify an untreated country. The first empirical comparisons use countries with dated records in the same family, retaining later cases as potential controls only before their recorded implementation. Earlier unrecorded obligations cannot be ruled out by that rule alone. We accordingly refer to first recorded implementation rather than verified first adoption throughout the empirical results.
 
 Date meaning is equally important. The register contains reporting-period starts and ends, compliance deadlines, legal application dates and institutional establishment dates. A first fiscal year is not a first public filing date. The expanded study ultimately requires separate announcement, enactment, application, reporting and publication fields. The current calculations retain the register's event year and examine liquidity in calendar year g+1, relative to calendar year g-1. This convention is transparent and comparable across observed cases, but it is an approximation to information availability.
@@ -287,4 +293,22 @@ Log spread | -0.016 | 27 | 12 | -0.085 to 0.019
 Log impact | -0.087 | 29 | 14 | -0.148 to -0.040
 Zero fraction | -0.006 | 29 | 14 | -0.009 to -0.002
 Source sample: supplied Krueger 2023 Table 1, PDF 49-50. Published 35 adopters and 30 never-coded countries, with calendar market outcomes restricted to2002-2020. France lacks the required baseline within this restricted market window. Balanced-security g+1 versus g-1 comparisons use later/never-coded controls,30 securities per country and 3 control countries per cohort. Known NFRD countries share an assignment cluster. The range is a deletion sensitivity, not a confidence interval. No full accounting controls, fiscal alignment or source analyst-screened sample are reproduced. The benchmark is separate from verified implementation estimates.
+
+Table A4 Regulation event JSON and source availability
+Family | Event records | Saved source and text | Derivative or excerpt only | No readable source
+IFRS | 37 | 37 | 0 | 0
+XBRL | 4 | 4 | 0 | 0
+Climate | 3 | 2 | 0 | 1
+ESG and CSR | 41 | 40 | 0 | 1
+Confidential CbCR | 120 | 120 | 0 | 0
+Governance | 14 | 12 | 0 | 2
+Beneficial ownership | 24 | 17 | 1 | 6
+Public CbCR | 44 | 40 | 1 | 3
+Audit reporting | 38 | 34 | 2 | 2
+Audit oversight | 38 | 36 | 1 | 1
+Extractive payments | 10 | 8 | 0 | 2
+Supply chain | 11 | 8 | 3 | 0
+Digital assets | 33 | 30 | 3 | 0
+ISSB | 24 | 24 | 0 | 0
+Source preservation audit on18 October 2026. The 441 records include 359 dated estimation cases and other event types; they are not 441 unique statutes. Saved source and text includes original or linked official documents and 39 author-repository-backed published proxies. Partial excerpts are not complete archived originals. No-readable-source includes inaccessible, unreadable and metadata-only captures. Counts are event-weighted: many events can refer to one source. All fourteen policy histories remain incomplete.
 

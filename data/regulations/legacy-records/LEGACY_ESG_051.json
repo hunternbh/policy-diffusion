@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "record_id": "LEGACY_ESG_051",
+  "record_kind": "legacy_esg_document_coding",
+  "country": "Taiwan",
+  "family": "ESG_CSR",
+  "regulation_name": "Rules Governing the Preparation and Filing of CSR Reports by Listed Companies",
+  "issuer": "TWSE / TPEx / Financial Supervisory Committee (FSC)",
+  "requirements": "Mandatory CSR reporting for food, chemical, and financial sectors or large firms; adoption of GRI guidelines; external assurance for food/beverage sector.",
+  "year_passed_as_recorded": "2014",
+  "effective_date_as_recorded": "Nov-14",
+  "document_name": "taiwan-es.pdf",
+  "document_ids": [
+    "doc-d0120519c6a2c05157ce"
+  ],
+  "source_file_saved": true,
+  "source_text_available": true,
+  "verification_status": "inherited_legacy_coding_not_reconciled_with_expanded_events",
+  "original_csv_record": {
+    "Country": "Taiwan",
+    "Document": "taiwan-es.pdf",
+    "Regulation Type": "CSR Disclosure",
+    "Regulation Name": "Rules Governing the Preparation and Filing of CSR Reports by Listed Companies",
+    "Issuer": "TWSE / TPEx / Financial Supervisory Committee (FSC)",
+    "Requirements": "Mandatory CSR reporting for food, chemical, and financial sectors or large firms; adoption of GRI guidelines; external assurance for food/beverage sector.",
+    "Year Passed": "2014",
+    "Effective Date": "Nov-14"
+  },
+  "warning": "Separate inherited coding. May overlap expanded events; not additional verified implementations and not used to expand the estimation sample."
+}

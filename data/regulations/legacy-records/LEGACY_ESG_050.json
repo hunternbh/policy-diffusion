@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "record_id": "LEGACY_ESG_050",
+  "record_kind": "legacy_esg_document_coding",
+  "country": "Sweden",
+  "family": "ESG_CSR",
+  "regulation_name": "The Swedish Corporate Governance Code",
+  "issuer": "Swedish Corporate Governance Board",
+  "requirements": "\"Comply or explain\" principle; rules on board composition, independence, committees, and mandatory corporate governance reports.",
+  "year_passed_as_recorded": "2015",
+  "effective_date_as_recorded": "1-Nov-15",
+  "document_name": "sweden-sg.pdf",
+  "document_ids": [
+    "doc-be761a2b83f6a414a0ca"
+  ],
+  "source_file_saved": true,
+  "source_text_available": true,
+  "verification_status": "inherited_legacy_coding_not_reconciled_with_expanded_events",
+  "original_csv_record": {
+    "Country": "Sweden",
+    "Document": "sweden-sg.pdf",
+    "Regulation Type": "Corporate Governance",
+    "Regulation Name": "The Swedish Corporate Governance Code",
+    "Issuer": "Swedish Corporate Governance Board",
+    "Requirements": "\"Comply or explain\" principle; rules on board composition, independence, committees, and mandatory corporate governance reports.",
+    "Year Passed": "2015",
+    "Effective Date": "1-Nov-15"
+  },
+  "warning": "Separate inherited coding. May overlap expanded events; not additional verified implementations and not used to expand the estimation sample."
+}

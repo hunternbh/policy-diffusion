@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0",
+  "family": "XBRL",
+  "event_records": 4,
+  "implementation_event_records": 4,
+  "published_proxy_records": 0,
+  "records_with_saved_readable_source_file": 4,
+  "records_with_excerpt_only": 0,
+  "records_without_readable_source_or_excerpt": 0,
+  "archive_status_counts": {
+    "original_source_saved_text_available": 3,
+    "linked_official_source_saved_text_available": 1
+  },
+  "record_ids": [
+    "GBR_XBRL_038",
+    "JPN_XBRL_039",
+    "USA_XBRL_040",
+    "SGP_XBRL_041"
+  ],
+  "global_census_complete": false
+}

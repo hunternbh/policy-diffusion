@@ -1,0 +1,50 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Expanded regulation event",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "record_id",
+    "record_kind",
+    "iso3",
+    "family",
+    "event_type",
+    "event_year",
+    "dates",
+    "source_evidence",
+    "original_csv_record"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": "1.0"
+    },
+    "record_id": {
+      "type": "string"
+    },
+    "record_kind": {
+      "const": "expanded_policy_event"
+    },
+    "event_year": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "independent_national_choice": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "source_evidence": {
+      "type": "object",
+      "required": [
+        "source_key",
+        "recorded_url",
+        "archive_status",
+        "document_ids"
+      ]
+    }
+  },
+  "additionalProperties": true
+}

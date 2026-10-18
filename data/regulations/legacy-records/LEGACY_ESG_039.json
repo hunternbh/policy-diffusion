@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "record_id": "LEGACY_ESG_039",
+  "record_kind": "legacy_esg_document_coding",
+  "country": "Peru",
+  "family": "ESG_CSR",
+  "regulation_name": "Resolution No. 033-2015-SMV/01",
+  "issuer": "Peruvian Securities Authority (SMV)",
+  "requirements": "Listed companies are required to disclose an annual sustainability report.",
+  "year_passed_as_recorded": "2015",
+  "effective_date_as_recorded": "2015",
+  "document_name": "peru-esg.pdf",
+  "document_ids": [
+    "doc-d058f5a99a1a90b467bc"
+  ],
+  "source_file_saved": true,
+  "source_text_available": true,
+  "verification_status": "inherited_legacy_coding_not_reconciled_with_expanded_events",
+  "original_csv_record": {
+    "Country": "Peru",
+    "Document": "peru-esg.pdf",
+    "Regulation Type": "ESG",
+    "Regulation Name": "Resolution No. 033-2015-SMV/01",
+    "Issuer": "Peruvian Securities Authority (SMV)",
+    "Requirements": "Listed companies are required to disclose an annual sustainability report.",
+    "Year Passed": "2015",
+    "Effective Date": "2015"
+  },
+  "warning": "Separate inherited coding. May overlap expanded events; not additional verified implementations and not used to expand the estimation sample."
+}

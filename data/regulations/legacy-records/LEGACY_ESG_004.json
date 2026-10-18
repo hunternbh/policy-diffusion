@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "record_id": "LEGACY_ESG_004",
+  "record_kind": "legacy_esg_document_coding",
+  "country": "Australia",
+  "family": "ESG_CSR",
+  "regulation_name": "ASX Corporate Governance Principles and Recommendations",
+  "issuer": "ASX Corporate Governance Council",
+  "requirements": "10 core principles including management oversight\tethics\t financial integrity\t and risk management.",
+  "year_passed_as_recorded": "2003",
+  "effective_date_as_recorded": "1-Jul-03",
+  "document_name": "australia-g.pdf",
+  "document_ids": [
+    "doc-49184645e31f19648c23"
+  ],
+  "source_file_saved": true,
+  "source_text_available": true,
+  "verification_status": "inherited_legacy_coding_not_reconciled_with_expanded_events",
+  "original_csv_record": {
+    "Country": "Australia",
+    "Document": "australia-g.pdf",
+    "Regulation Type": "Code",
+    "Regulation Name": "ASX Corporate Governance Principles and Recommendations",
+    "Issuer": "ASX Corporate Governance Council",
+    "Requirements": "10 core principles including management oversight\tethics\t financial integrity\t and risk management.",
+    "Year Passed": "2003",
+    "Effective Date": "1-Jul-03"
+  },
+  "warning": "Separate inherited coding. May overlap expanded events; not additional verified implementations and not used to expand the estimation sample."
+}

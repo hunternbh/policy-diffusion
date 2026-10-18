@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "family": "ISSB",
+  "event_records": 24,
+  "implementation_event_records": 17,
+  "published_proxy_records": 0,
+  "records_with_saved_readable_source_file": 24,
+  "records_with_excerpt_only": 0,
+  "records_without_readable_source_or_excerpt": 0,
+  "archive_status_counts": {
+    "original_source_saved_text_available": 24
+  },
+  "record_ids": [
+    "AUS_ISSB_0197",
+    "BGD_ISSB_0198",
+    "BRA_ISSB_0199",
+    "CHL_ISSB_0200",
+    "GHA_ISSB_0201",
+    "HKG_ISSB_0202",
+    "JPN_ISSB_0203",
+    "JOR_ISSB_0204",
+    "KEN_ISSB_0205",
+    "MYS_ISSB_0206",
+    "MEX_ISSB_0207",
+    "NGA_ISSB_0208",
+    "PAK_ISSB_0209",
+    "PHL_ISSB_0210",
+    "QAT_ISSB_0211",
+    "RWA_ISSB_0212",
+    "SGP_ISSB_0213",
+    "LKA_ISSB_0214",
+    "TWN_ISSB_0215",
+    "TZA_ISSB_0216",
+    "TUR_ISSB_0217",
+    "ZMB_ISSB_0218",
+    "ZWE_ISSB_0219",
+    "BRA_ISSB_0220"
+  ],
+  "global_census_complete": false
+}

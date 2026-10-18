@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "record_id": "LEGACY_ESG_047",
+  "record_kind": "legacy_esg_document_coding",
+  "country": "South Africa",
+  "family": "ESG_CSR",
+  "regulation_name": "King Code of Governance Principles (King III)",
+  "issuer": "King Committee / Institute of Directors in Southern Africa",
+  "requirements": "\"Apply or explain\" approach; integrated reporting of economic, social, and environmental performance; ethical leadership and board responsibilities.",
+  "year_passed_as_recorded": "2009",
+  "effective_date_as_recorded": "1-Mar-10",
+  "document_name": "south-africa-esg.pdf",
+  "document_ids": [
+    "doc-f768527756122e608d43"
+  ],
+  "source_file_saved": true,
+  "source_text_available": true,
+  "verification_status": "inherited_legacy_coding_not_reconciled_with_expanded_events",
+  "original_csv_record": {
+    "Country": "South Africa",
+    "Document": "south-africa-esg.pdf",
+    "Regulation Type": "Corporate Governance",
+    "Regulation Name": "King Code of Governance Principles (King III)",
+    "Issuer": "King Committee / Institute of Directors in Southern Africa",
+    "Requirements": "\"Apply or explain\" approach; integrated reporting of economic, social, and environmental performance; ethical leadership and board responsibilities.",
+    "Year Passed": "2009",
+    "Effective Date": "1-Mar-10"
+  },
+  "warning": "Separate inherited coding. May overlap expanded events; not additional verified implementations and not used to expand the estimation sample."
+}

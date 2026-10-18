@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "record_id": "LEGACY_ESG_020",
+  "record_kind": "legacy_esg_document_coding",
+  "country": "Finland",
+  "family": "ESG_CSR",
+  "regulation_name": "Finnish Corporate Governance Code 2015",
+  "issuer": "Securities Market Association",
+  "requirements": "Governance recommendations for listed companies on a \"comply or explain\" basis.",
+  "year_passed_as_recorded": "2015",
+  "effective_date_as_recorded": "1-Jan-16",
+  "document_name": "finland-esg2.pdf",
+  "document_ids": [
+    "doc-1c3daf119a07e47dbcdb"
+  ],
+  "source_file_saved": true,
+  "source_text_available": true,
+  "verification_status": "inherited_legacy_coding_not_reconciled_with_expanded_events",
+  "original_csv_record": {
+    "Country": "Finland",
+    "Document": "finland-esg2.pdf",
+    "Regulation Type": "Code",
+    "Regulation Name": "Finnish Corporate Governance Code 2015",
+    "Issuer": "Securities Market Association",
+    "Requirements": "Governance recommendations for listed companies on a \"comply or explain\" basis.",
+    "Year Passed": "2015",
+    "Effective Date": "1-Jan-16"
+  },
+  "warning": "Separate inherited coding. May overlap expanded events; not additional verified implementations and not used to expand the estimation sample."
+}

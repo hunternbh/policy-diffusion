@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "record_id": "LEGACY_ESG_024",
+  "record_kind": "legacy_esg_document_coding",
+  "country": "Greece",
+  "family": "ESG_CSR",
+  "regulation_name": "Law 3016/2002",
+  "issuer": "Hellenic Republic",
+  "requirements": "Administration of listed firms, board responsibilities, internal regulation, and audit.",
+  "year_passed_as_recorded": "2002",
+  "effective_date_as_recorded": "17-May-02",
+  "document_name": "greece-unconfirmed.pdf",
+  "document_ids": [
+    "doc-ce1fb41737513645364e"
+  ],
+  "source_file_saved": true,
+  "source_text_available": true,
+  "verification_status": "inherited_legacy_coding_not_reconciled_with_expanded_events",
+  "original_csv_record": {
+    "Country": "Greece",
+    "Document": "greece-unconfirmed.pdf",
+    "Regulation Type": "Law",
+    "Regulation Name": "Law 3016/2002",
+    "Issuer": "Hellenic Republic",
+    "Requirements": "Administration of listed firms, board responsibilities, internal regulation, and audit.",
+    "Year Passed": "2002",
+    "Effective Date": "17-May-02"
+  },
+  "warning": "Separate inherited coding. May overlap expanded events; not additional verified implementations and not used to expand the estimation sample."
+}

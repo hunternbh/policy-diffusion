@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "record_id": "LEGACY_ESG_010",
+  "record_kind": "legacy_esg_document_coding",
+  "country": "Belgium",
+  "family": "ESG_CSR",
+  "regulation_name": "Belgian Corporate Governance Code",
+  "issuer": "Corporate Governance Committee",
+  "requirements": "Board composition, independence, remuneration report, and \"comply or explain\" disclosure",
+  "year_passed_as_recorded": "2009",
+  "effective_date_as_recorded": "1/1/2009",
+  "document_name": "belgium-sg.pdf",
+  "document_ids": [
+    "doc-818b808594a28de6fd8a"
+  ],
+  "source_file_saved": true,
+  "source_text_available": true,
+  "verification_status": "inherited_legacy_coding_not_reconciled_with_expanded_events",
+  "original_csv_record": {
+    "Country": "Belgium",
+    "Document": "belgium-sg.pdf",
+    "Regulation Type": "Code",
+    "Regulation Name": "Belgian Corporate Governance Code",
+    "Issuer": "Corporate Governance Committee",
+    "Requirements": "Board composition, independence, remuneration report, and \"comply or explain\" disclosure",
+    "Year Passed": "2009",
+    "Effective Date": "1/1/2009"
+  },
+  "warning": "Separate inherited coding. May overlap expanded events; not additional verified implementations and not used to expand the estimation sample."
+}

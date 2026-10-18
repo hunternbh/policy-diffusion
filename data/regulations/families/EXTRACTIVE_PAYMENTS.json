@@ -1,0 +1,27 @@
+{
+  "schema_version": "1.0",
+  "family": "EXTRACTIVE_PAYMENTS",
+  "event_records": 10,
+  "implementation_event_records": 9,
+  "published_proxy_records": 0,
+  "records_with_saved_readable_source_file": 8,
+  "records_with_excerpt_only": 0,
+  "records_without_readable_source_or_excerpt": 2,
+  "archive_status_counts": {
+    "original_source_saved_text_available": 8,
+    "source_unavailable": 2
+  },
+  "record_ids": [
+    "NOR_EXTRACTIVE_PAYMENTS_0143",
+    "GBR_EXTRACTIVE_PAYMENTS_0144",
+    "CAN_EXTRACTIVE_PAYMENTS_0145",
+    "FRA_EXTRACTIVE_PAYMENTS_0146",
+    "DEU_EXTRACTIVE_PAYMENTS_0147",
+    "NLD_EXTRACTIVE_PAYMENTS_0148",
+    "SWE_EXTRACTIVE_PAYMENTS_0149",
+    "CHE_EXTRACTIVE_PAYMENTS_0150",
+    "USA_EXTRACTIVE_PAYMENTS_0151",
+    "FRA_EXTRACTIVE_PAYMENTS_0152"
+  ],
+  "global_census_complete": false
+}

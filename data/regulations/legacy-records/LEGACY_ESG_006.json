@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "record_id": "LEGACY_ESG_006",
+  "record_kind": "legacy_esg_document_coding",
+  "country": "Australia",
+  "family": "ESG_CSR",
+  "regulation_name": "Corporations Act 2001 - Section 300B",
+  "issuer": "Commonwealth of Australia",
+  "requirements": "Objectives\t strategy\t and performance measures for companies limited by guarantee.",
+  "year_passed_as_recorded": "2001",
+  "effective_date_as_recorded": "2001",
+  "document_name": "australia-s.pdf",
+  "document_ids": [
+    "doc-e9a54907b7ee2ae5770a"
+  ],
+  "source_file_saved": true,
+  "source_text_available": true,
+  "verification_status": "inherited_legacy_coding_not_reconciled_with_expanded_events",
+  "original_csv_record": {
+    "Country": "Australia",
+    "Document": "australia-s.pdf",
+    "Regulation Type": "Act",
+    "Regulation Name": "Corporations Act 2001 - Section 300B",
+    "Issuer": "Commonwealth of Australia",
+    "Requirements": "Objectives\t strategy\t and performance measures for companies limited by guarantee.",
+    "Year Passed": "2001",
+    "Effective Date": "2001"
+  },
+  "warning": "Separate inherited coding. May overlap expanded events; not additional verified implementations and not used to expand the estimation sample."
+}

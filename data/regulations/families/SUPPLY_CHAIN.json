@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "family": "SUPPLY_CHAIN",
+  "event_records": 11,
+  "implementation_event_records": 8,
+  "published_proxy_records": 0,
+  "records_with_saved_readable_source_file": 8,
+  "records_with_excerpt_only": 3,
+  "records_without_readable_source_or_excerpt": 0,
+  "archive_status_counts": {
+    "original_source_saved_text_available": 8,
+    "readable_derivative_or_excerpt_only": 3
+  },
+  "record_ids": [
+    "USA_SUPPLY_CHAIN_0153",
+    "GBR_SUPPLY_CHAIN_0154",
+    "FRA_SUPPLY_CHAIN_0155",
+    "AUS_SUPPLY_CHAIN_0156",
+    "NOR_SUPPLY_CHAIN_0157",
+    "DEU_SUPPLY_CHAIN_0158",
+    "CHE_SUPPLY_CHAIN_0159",
+    "CAN_SUPPLY_CHAIN_0160",
+    "FRA_SUPPLY_CHAIN_0161",
+    "DEU_SUPPLY_CHAIN_0162",
+    "EUU_SUPPLY_CHAIN_0163"
+  ],
+  "global_census_complete": false
+}

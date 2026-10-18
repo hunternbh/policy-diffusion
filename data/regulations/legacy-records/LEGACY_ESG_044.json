@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "record_id": "LEGACY_ESG_044",
+  "record_kind": "legacy_esg_document_coding",
+  "country": "Romania",
+  "family": "ESG_CSR",
+  "regulation_name": "Order No. 1.938 of 2016",
+  "issuer": "Ministry of Public Finance",
+  "requirements": "Non-financial disclosures for large entities.",
+  "year_passed_as_recorded": "2016",
+  "effective_date_as_recorded": "2016",
+  "document_name": "romania-es.pdf",
+  "document_ids": [
+    "doc-7d74c5909efe90c65622"
+  ],
+  "source_file_saved": true,
+  "source_text_available": true,
+  "verification_status": "inherited_legacy_coding_not_reconciled_with_expanded_events",
+  "original_csv_record": {
+    "Country": "Romania",
+    "Document": "romania-es.pdf",
+    "Regulation Type": "Environmental & Social",
+    "Regulation Name": "Order No. 1.938 of 2016",
+    "Issuer": "Ministry of Public Finance",
+    "Requirements": "Non-financial disclosures for large entities.",
+    "Year Passed": "2016",
+    "Effective Date": "2016"
+  },
+  "warning": "Separate inherited coding. May overlap expanded events; not additional verified implementations and not used to expand the estimation sample."
+}

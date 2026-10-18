@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "record_id": "LEGACY_ESG_021",
+  "record_kind": "legacy_esg_document_coding",
+  "country": "France",
+  "family": "ESG_CSR",
+  "regulation_name": "Loi NRE (Nouvelles Régulations Économiques)",
+  "issuer": "République Française",
+  "requirements": "Financial, competition, and company law; includes social and environmental activity disclosure.",
+  "year_passed_as_recorded": "2001",
+  "effective_date_as_recorded": "16-May-01",
+  "document_name": "france-esg.pdf",
+  "document_ids": [
+    "doc-c8a63846f6d889cb5e51"
+  ],
+  "source_file_saved": true,
+  "source_text_available": true,
+  "verification_status": "inherited_legacy_coding_not_reconciled_with_expanded_events",
+  "original_csv_record": {
+    "Country": "France",
+    "Document": "france-esg.pdf",
+    "Regulation Type": "Law",
+    "Regulation Name": "Loi NRE (Nouvelles Régulations Économiques)",
+    "Issuer": "République Française",
+    "Requirements": "Financial, competition, and company law; includes social and environmental activity disclosure.",
+    "Year Passed": "2001",
+    "Effective Date": "16-May-01"
+  },
+  "warning": "Separate inherited coding. May overlap expanded events; not additional verified implementations and not used to expand the estimation sample."
+}

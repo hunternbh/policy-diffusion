@@ -1,0 +1,3725 @@
+{
+  "schema_version": "1.0",
+  "publication_scope": "Metadata only. Original documents and OCR outputs are retained in the local project archive.",
+  "documents": [
+    {
+      "document_id": "doc-dcb48859973110860d66",
+      "sha256": "dcb48859973110860d663752a42aa94d5c12b7bc836461ae04c72590b82dbe14",
+      "bytes": 2859893,
+      "archive_path": "documents/dcb48859973110860d663752a42aa94d5c12b7bc836461ae04c72590b82dbe14.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "06-capital-market-disclosure-research/outputs/research_project/sources/oecd_cbcr_2025.pdf",
+        "06-capital-market-disclosure-research/work/sources/oecd_cbcr_2025.pdf"
+      ],
+      "urls": [
+        "https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/09/country-by-country-reporting-compilation-of-2025-peer-review-reports_997d5e6a/e3c07579-en.pdf"
+      ],
+      "roles": [
+        "existing_supporting_document"
+      ]
+    },
+    {
+      "document_id": "doc-5623a538be25b881f60a",
+      "sha256": "5623a538be25b881f60a37847a46d87dcd7eb402b95e0b6a1cb83e9e5a4fdac9",
+      "bytes": 70033,
+      "archive_path": "documents/5623a538be25b881f60a37847a46d87dcd7eb402b95e0b6a1cb83e9e5a4fdac9.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "06-capital-market-disclosure-research/outputs/research_project/sources/Readme_KSTZ September 2023.pdf",
+        "06-capital-market-disclosure-research/work/sources/Readme_KSTZ September 2023.pdf"
+      ],
+      "urls": [
+        "https://osf.io/download/x5ecp/"
+      ],
+      "roles": [
+        "existing_supporting_document"
+      ]
+    },
+    {
+      "document_id": "doc-61cd082f09a85c10e9fe",
+      "sha256": "61cd082f09a85c10e9fe68450c0ff21b448b7324a01478724919fe89a7bddd87",
+      "bytes": 196817,
+      "archive_path": "documents/61cd082f09a85c10e9fe68450c0ff21b448b7324a01478724919fe89a7bddd87.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "06-capital-market-disclosure-research/work/sources/KSTZ_working_paper.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "existing_supporting_document"
+      ]
+    },
+    {
+      "document_id": "doc-72794e671ac1c8287001",
+      "sha256": "72794e671ac1c82870014c364601bb6bf07631d7fe03b1babbc22ae53aba90dd",
+      "bytes": 88544,
+      "archive_path": "documents/72794e671ac1c82870014c364601bb6bf07631d7fe03b1babbc22ae53aba90dd.png",
+      "format": "png",
+      "original_locations": [
+        "06-capital-market-disclosure-research/work/source_qa/oecd_page_120.png"
+      ],
+      "urls": [],
+      "roles": [
+        "source_qa_image"
+      ]
+    },
+    {
+      "document_id": "doc-621bdfe1175cebbc81f7",
+      "sha256": "621bdfe1175cebbc81f71fd1a5edd2cb90383699d8101d6816c391f7a6e340b9",
+      "bytes": 88676,
+      "archive_path": "documents/621bdfe1175cebbc81f71fd1a5edd2cb90383699d8101d6816c391f7a6e340b9.png",
+      "format": "png",
+      "original_locations": [
+        "06-capital-market-disclosure-research/work/source_qa/oecd_page_17.png"
+      ],
+      "urls": [],
+      "roles": [
+        "source_qa_image"
+      ]
+    },
+    {
+      "document_id": "doc-1e167f6a8ec2105174d0",
+      "sha256": "1e167f6a8ec2105174d05bbc47c63ace9c6350f3a1ba4d09ba3a2bd0ce5c42c9",
+      "bytes": 82515,
+      "archive_path": "documents/1e167f6a8ec2105174d05bbc47c63ace9c6350f3a1ba4d09ba3a2bd0ce5c42c9.png",
+      "format": "png",
+      "original_locations": [
+        "06-capital-market-disclosure-research/work/source_qa/oecd_page_236.png"
+      ],
+      "urls": [],
+      "roles": [
+        "source_qa_image"
+      ]
+    },
+    {
+      "document_id": "doc-42253f40dfbdca99be75",
+      "sha256": "42253f40dfbdca99be751cb68d948fe90fbbf70ad1127f4f9f9c64585ce29ebb",
+      "bytes": 86906,
+      "archive_path": "documents/42253f40dfbdca99be751cb68d948fe90fbbf70ad1127f4f9f9c64585ce29ebb.png",
+      "format": "png",
+      "original_locations": [
+        "06-capital-market-disclosure-research/work/source_qa/oecd_page_58.png"
+      ],
+      "urls": [],
+      "roles": [
+        "source_qa_image"
+      ]
+    },
+    {
+      "document_id": "doc-e00bc7ff69f0d5c25e62",
+      "sha256": "e00bc7ff69f0d5c25e6242b10bd5c4db433cb16d43c9c3cbb2ab8a158392d0ab",
+      "bytes": 18306,
+      "archive_path": "documents/e00bc7ff69f0d5c25e6242b10bd5c4db433cb16d43c9c3cbb2ab8a158392d0ab.txt",
+      "format": "txt",
+      "original_locations": [
+        "06-capital-market-disclosure-research/work/sources/ifrs/argentina.txt"
+      ],
+      "urls": [
+        "https://www.ifrs.org/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction/argentina/"
+      ],
+      "roles": [
+        "existing_supporting_document"
+      ]
+    },
+    {
+      "document_id": "doc-c3c17b4fe1cead9fc690",
+      "sha256": "c3c17b4fe1cead9fc690148d0a84bc5eb51d71d43e3f5f110fe75e7d72797a88",
+      "bytes": 19819,
+      "archive_path": "documents/c3c17b4fe1cead9fc690148d0a84bc5eb51d71d43e3f5f110fe75e7d72797a88.txt",
+      "format": "txt",
+      "original_locations": [
+        "06-capital-market-disclosure-research/work/sources/ifrs/australia.txt"
+      ],
+      "urls": [
+        "https://www.ifrs.org/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction/australia/"
+      ],
+      "roles": [
+        "existing_supporting_document"
+      ]
+    },
+    {
+      "document_id": "doc-c7ea89ed1d124a6f5898",
+      "sha256": "c7ea89ed1d124a6f5898be84ed216f4b5e95c35735d5989ce382a0d6d89444d0",
+      "bytes": 22436,
+      "archive_path": "documents/c7ea89ed1d124a6f5898be84ed216f4b5e95c35735d5989ce382a0d6d89444d0.txt",
+      "format": "txt",
+      "original_locations": [
+        "06-capital-market-disclosure-research/work/sources/ifrs/brazil.txt"
+      ],
+      "urls": [
+        "https://www.ifrs.org/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction/brazil/"
+      ],
+      "roles": [
+        "existing_supporting_document"
+      ]
+    },
+    {
+      "document_id": "doc-8a2fcdfe6f662e359885",
+      "sha256": "8a2fcdfe6f662e3598851c96e629be4ac1b3086d55fa7db9e0aec04a1630aec6",
+      "bytes": 23639,
+      "archive_path": "documents/8a2fcdfe6f662e3598851c96e629be4ac1b3086d55fa7db9e0aec04a1630aec6.txt",
+      "format": "txt",
+      "original_locations": [
+        "06-capital-market-disclosure-research/work/sources/ifrs/canada.txt"
+      ],
+      "urls": [
+        "https://www.ifrs.org/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction/canada/"
+      ],
+      "roles": [
+        "existing_supporting_document"
+      ]
+    },
+    {
+      "document_id": "doc-0b2e1d60d0a365613f4a",
+      "sha256": "0b2e1d60d0a365613f4a7caa940293396e71135ed5c2c2b3a55062d84c0e72e8",
+      "bytes": 13367,
+      "archive_path": "documents/0b2e1d60d0a365613f4a7caa940293396e71135ed5c2c2b3a55062d84c0e72e8.txt",
+      "format": "txt",
+      "original_locations": [
+        "06-capital-market-disclosure-research/work/sources/ifrs/chile.txt"
+      ],
+      "urls": [
+        "https://www.ifrs.org/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction/chile/"
+      ],
+      "roles": [
+        "existing_supporting_document"
+      ]
+    },
+    {
+      "document_id": "doc-5192b0bebbe3ff2f6cae",
+      "sha256": "5192b0bebbe3ff2f6cae87f98fe40177ea101b3a7cd50b47fa4e8805118277e2",
+      "bytes": 13438,
+      "archive_path": "documents/5192b0bebbe3ff2f6cae87f98fe40177ea101b3a7cd50b47fa4e8805118277e2.txt",
+      "format": "txt",
+      "original_locations": [
+        "06-capital-market-disclosure-research/work/sources/ifrs/china.txt"
+      ],
+      "urls": [],
+      "roles": [
+        "existing_supporting_document"
+      ]
+    },
+    {
+      "document_id": "doc-5e35c3cb07488a3da245",
+      "sha256": "5e35c3cb07488a3da2450ddb689709f231f2e41d38223c5cd5f6c3e878cfff08",
+      "bytes": 16677,
+      "archive_path": "documents/5e35c3cb07488a3da2450ddb689709f231f2e41d38223c5cd5f6c3e878cfff08.txt",
+      "format": "txt",
+      "original_locations": [
+        "06-capital-market-disclosure-research/work/sources/ifrs/chinese-taipei.txt"
+      ],
+      "urls": [],
+      "roles": [
+        "existing_supporting_document"
+      ]
+    },
+    {
+      "document_id": "doc-e5055c9c9550456c7955",
+      "sha256": "e5055c9c9550456c795530e8d00347f49a8dcbaa2279649256d3f01b8507abd3",
+      "bytes": 19748,
+      "archive_path": "documents/e5055c9c9550456c795530e8d00347f49a8dcbaa2279649256d3f01b8507abd3.txt",
+      "format": "txt",
+      "original_locations": [
+        "06-capital-market-disclosure-research/work/sources/ifrs/hong-kong-sar.txt"
+      ],
+      "urls": [
+        "https://www.ifrs.org/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction/hong-kong-sar/"
+      ],
+      "roles": [
+        "existing_supporting_document"
+      ]
+    },
+    {
+      "document_id": "doc-52be2ada23814bb62671",
+      "sha256": "52be2ada23814bb6267112645a6893211b835071a893f9e9f38d1f01691d3545",
+      "bytes": 16157,
+      "archive_path": "documents/52be2ada23814bb6267112645a6893211b835071a893f9e9f38d1f01691d3545.txt",
+      "format": "txt",
+      "original_locations": [
+        "06-capital-market-disclosure-research/work/sources/ifrs/india.txt"
+      ],
+      "urls": [],
+      "roles": [
+        "existing_supporting_document"
+      ]
+    },
+    {
+      "document_id": "doc-18e4b97609c19fbff911",
+      "sha256": "18e4b97609c19fbff911ab06fe564267edc0883092bfbfc65f9390695734aaa0",
+      "bytes": 16050,
+      "archive_path": "documents/18e4b97609c19fbff911ab06fe564267edc0883092bfbfc65f9390695734aaa0.txt",
+      "format": "txt",
+      "original_locations": [
+        "06-capital-market-disclosure-research/work/sources/ifrs/indonesia.txt"
+      ],
+      "urls": [],
+      "roles": [
+        "existing_supporting_document"
+      ]
+    },
+    {
+      "document_id": "doc-752631dfa482aa60cd25",
+      "sha256": "752631dfa482aa60cd25a0bce709d94cc6537b09593fefd9f5daee509a7d3a0c",
+      "bytes": 19731,
+      "archive_path": "documents/752631dfa482aa60cd25a0bce709d94cc6537b09593fefd9f5daee509a7d3a0c.txt",
+      "format": "txt",
+      "original_locations": [
+        "06-capital-market-disclosure-research/work/sources/ifrs/israel.txt"
+      ],
+      "urls": [
+        "https://www.ifrs.org/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction/israel/"
+      ],
+      "roles": [
+        "existing_supporting_document"
+      ]
+    },
+    {
+      "document_id": "doc-84c44f02c77405c1d381",
+      "sha256": "84c44f02c77405c1d38110721ede2e316596678e2c3ae9ff0eff8ae552c6cbff",
+      "bytes": 15311,
+      "archive_path": "documents/84c44f02c77405c1d38110721ede2e316596678e2c3ae9ff0eff8ae552c6cbff.txt",
+      "format": "txt",
+      "original_locations": [
+        "06-capital-market-disclosure-research/work/sources/ifrs/japan.txt"
+      ],
+      "urls": [
+        "https://www.ifrs.org/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction/japan/"
+      ],
+      "roles": [
+        "existing_supporting_document"
+      ]
+    },
+    {
+      "document_id": "doc-874c7dcf5c68ec04883d",
+      "sha256": "874c7dcf5c68ec04883ddb7fe7bb9aaa0ca9721667dbc3d527d86e3844e37039",
+      "bytes": 2239,
+      "archive_path": "documents/874c7dcf5c68ec04883ddb7fe7bb9aaa0ca9721667dbc3d527d86e3844e37039.txt",
+      "format": "txt",
+      "original_locations": [
+        "06-capital-market-disclosure-research/work/sources/ifrs/korea-south.txt",
+        "06-capital-market-disclosure-research/work/sources/ifrs/turkey.txt"
+      ],
+      "urls": [],
+      "roles": [
+        "existing_supporting_document"
+      ]
+    },
+    {
+      "document_id": "doc-9b149d4fbdee52db19eb",
+      "sha256": "9b149d4fbdee52db19eb585e39ddcedd817958d7e7e5c2435d315e91778168b1",
+      "bytes": 17115,
+      "archive_path": "documents/9b149d4fbdee52db19eb585e39ddcedd817958d7e7e5c2435d315e91778168b1.txt",
+      "format": "txt",
+      "original_locations": [
+        "06-capital-market-disclosure-research/work/sources/ifrs/malaysia.txt"
+      ],
+      "urls": [
+        "https://www.ifrs.org/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction/malaysia/"
+      ],
+      "roles": [
+        "existing_supporting_document"
+      ]
+    },
+    {
+      "document_id": "doc-f6c91ddb0a32b80d8702",
+      "sha256": "f6c91ddb0a32b80d8702c4c7c54bdf9aeb7d3c2b536e32707b9bf0e5d9480474",
+      "bytes": 12104,
+      "archive_path": "documents/f6c91ddb0a32b80d8702c4c7c54bdf9aeb7d3c2b536e32707b9bf0e5d9480474.txt",
+      "format": "txt",
+      "original_locations": [
+        "06-capital-market-disclosure-research/work/sources/ifrs/mexico.txt"
+      ],
+      "urls": [
+        "https://www.ifrs.org/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction/mexico/"
+      ],
+      "roles": [
+        "existing_supporting_document"
+      ]
+    },
+    {
+      "document_id": "doc-e20ef81f451cebb97930",
+      "sha256": "e20ef81f451cebb9793009826ba2786c627f5cc9f14cbd6e1bc121b9aba23f62",
+      "bytes": 15074,
+      "archive_path": "documents/e20ef81f451cebb9793009826ba2786c627f5cc9f14cbd6e1bc121b9aba23f62.txt",
+      "format": "txt",
+      "original_locations": [
+        "06-capital-market-disclosure-research/work/sources/ifrs/new-zealand.txt"
+      ],
+      "urls": [
+        "https://www.ifrs.org/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction/new-zealand/"
+      ],
+      "roles": [
+        "existing_supporting_document"
+      ]
+    },
+    {
+      "document_id": "doc-418f4283a7e6f0daf060",
+      "sha256": "418f4283a7e6f0daf060b7169faa2199c4c61ab624271c13e05e86d42faef2f6",
+      "bytes": 14115,
+      "archive_path": "documents/418f4283a7e6f0daf060b7169faa2199c4c61ab624271c13e05e86d42faef2f6.txt",
+      "format": "txt",
+      "original_locations": [
+        "06-capital-market-disclosure-research/work/sources/ifrs/south-africa.txt"
+      ],
+      "urls": [
+        "https://www.ifrs.org/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction/south-africa/"
+      ],
+      "roles": [
+        "existing_supporting_document"
+      ]
+    },
+    {
+      "document_id": "doc-21d0a8cb3436ff0de844",
+      "sha256": "21d0a8cb3436ff0de84440ba74d9e0a5db40119c5905213dc4223f1284eab577",
+      "bytes": 11737,
+      "archive_path": "documents/21d0a8cb3436ff0de84440ba74d9e0a5db40119c5905213dc4223f1284eab577.txt",
+      "format": "txt",
+      "original_locations": [
+        "06-capital-market-disclosure-research/work/sources/ifrs/switzerland.txt"
+      ],
+      "urls": [],
+      "roles": [
+        "existing_supporting_document"
+      ]
+    },
+    {
+      "document_id": "doc-3b6b3569373a04ee1a14",
+      "sha256": "3b6b3569373a04ee1a141610edb4e5b3bcae1b35a9cbaca7765f8c30404ef9d1",
+      "bytes": 15810,
+      "archive_path": "documents/3b6b3569373a04ee1a141610edb4e5b3bcae1b35a9cbaca7765f8c30404ef9d1.txt",
+      "format": "txt",
+      "original_locations": [
+        "06-capital-market-disclosure-research/work/sources/ifrs/united-states.txt"
+      ],
+      "urls": [],
+      "roles": [
+        "existing_supporting_document"
+      ]
+    },
+    {
+      "document_id": "doc-afbc3aacd9d453d439e3",
+      "sha256": "afbc3aacd9d453d439e315dc293432adbb60fad74e0aad304bd458cca91ab36a",
+      "bytes": 27595,
+      "archive_path": "documents/afbc3aacd9d453d439e315dc293432adbb60fad74e0aad304bd458cca91ab36a.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/argentina-sg.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-ce11e5650719d77b5ebb",
+      "sha256": "ce11e5650719d77b5ebb748f629bea6f7ef348ad4aae9217ad182d369a600854",
+      "bytes": 9764,
+      "archive_path": "documents/ce11e5650719d77b5ebb748f629bea6f7ef348ad4aae9217ad182d369a600854.txt",
+      "format": "txt",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/argentina-sg.txt"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-4a5db15f6738b1d23b01",
+      "sha256": "4a5db15f6738b1d23b013a2ae0462d9a2fbde5064d86fe13c081da0f5e9261b6",
+      "bytes": 268617,
+      "archive_path": "documents/4a5db15f6738b1d23b013a2ae0462d9a2fbde5064d86fe13c081da0f5e9261b6.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/australia-2003-g.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-67c17204ec3af6e5aed8",
+      "sha256": "67c17204ec3af6e5aed866a887aaf15df08aa0ff2404a52c9d9945db6b83463e",
+      "bytes": 9979544,
+      "archive_path": "documents/67c17204ec3af6e5aed866a887aaf15df08aa0ff2404a52c9d9945db6b83463e.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/australia-corporations-act.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-c32bec45f2c9f4035af0",
+      "sha256": "c32bec45f2c9f4035af070fba70ad6d56d2ebc105e0b6ba49c6c61cd3519e9f0",
+      "bytes": 121186,
+      "archive_path": "documents/c32bec45f2c9f4035af070fba70ad6d56d2ebc105e0b6ba49c6c61cd3519e9f0.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/australia-e.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-49184645e31f19648c23",
+      "sha256": "49184645e31f19648c23c4cd2200bd4df89e1bb45c03d434c56a508b629c4ba0",
+      "bytes": 4402471,
+      "archive_path": "documents/49184645e31f19648c23c4cd2200bd4df89e1bb45c03d434c56a508b629c4ba0.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/australia-g.pdf"
+      ],
+      "urls": [
+        "https://www.asx.com.au/content/dam/asx/about/corporate-governance-council/principles-and-recommendations-march-2003.pdf"
+      ],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-cba6df48eb22881548f4",
+      "sha256": "cba6df48eb22881548f48a481b18e42c698995a7883779bccb7584e515f0c5bb",
+      "bytes": 468112,
+      "archive_path": "documents/cba6df48eb22881548f48a481b18e42c698995a7883779bccb7584e515f0c5bb.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/australia-s-2.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-e9a54907b7ee2ae5770a",
+      "sha256": "e9a54907b7ee2ae5770a20ce4c44ccbbac50fdf9e3db5b6d26edbd8557ace25b",
+      "bytes": 111058,
+      "archive_path": "documents/e9a54907b7ee2ae5770a20ce4c44ccbbac50fdf9e3db5b6d26edbd8557ace25b.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/australia-s.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-00796dc0e9376ac78df1",
+      "sha256": "00796dc0e9376ac78df15b673f5d2a913286ee314507de7935279fc264cc9291",
+      "bytes": 500003,
+      "archive_path": "documents/00796dc0e9376ac78df15b673f5d2a913286ee314507de7935279fc264cc9291.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/austria-es.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-1309fd8a43025e92ef4b",
+      "sha256": "1309fd8a43025e92ef4b4e3e97338fe8cf4038e2d65eacad44ae3b19393fd21b",
+      "bytes": 955046,
+      "archive_path": "documents/1309fd8a43025e92ef4b4e3e97338fe8cf4038e2d65eacad44ae3b19393fd21b.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/austria-g.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-3eb96e34d23e7ddac0ea",
+      "sha256": "3eb96e34d23e7ddac0ea52a18b79113f8a3e9d18a846ea14407c7d4f03cca6bb",
+      "bytes": 514167,
+      "archive_path": "documents/3eb96e34d23e7ddac0ea52a18b79113f8a3e9d18a846ea14407c7d4f03cca6bb.png",
+      "format": "png",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/belgium-e.png"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-818b808594a28de6fd8a",
+      "sha256": "818b808594a28de6fd8ab84c4187ead106c7196a0a06c6bed817c97c621537c6",
+      "bytes": 185190,
+      "archive_path": "documents/818b808594a28de6fd8ab84c4187ead106c7196a0a06c6bed817c97c621537c6.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/belgium-sg.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-344250cea1788baa31c5",
+      "sha256": "344250cea1788baa31c54bc0c4a45ab8ccccdd916967bfe7838a8074f92b1a98",
+      "bytes": 332505,
+      "archive_path": "documents/344250cea1788baa31c54bc0c4a45ab8ccccdd916967bfe7838a8074f92b1a98.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/brazil-sg.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-7bc785fdcdf12180ada4",
+      "sha256": "7bc785fdcdf12180ada448e63ad24c0d7c570472e1c5dae35fbeb2f6f7c05fae",
+      "bytes": 1054813,
+      "archive_path": "documents/7bc785fdcdf12180ada448e63ad24c0d7c570472e1c5dae35fbeb2f6f7c05fae.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/brazil-sg2.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-09cd4ac1d95a727ce39d",
+      "sha256": "09cd4ac1d95a727ce39dccb7ec957714e99b17cedecf8118e85d4b79d615bfe7",
+      "bytes": 187036,
+      "archive_path": "documents/09cd4ac1d95a727ce39dccb7ec957714e99b17cedecf8118e85d4b79d615bfe7.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/canada-esg.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-6835e2b170962da518e7",
+      "sha256": "6835e2b170962da518e716c9b974e6a18565d55e059358c38a81570686dba7d6",
+      "bytes": 46389,
+      "archive_path": "documents/6835e2b170962da518e716c9b974e6a18565d55e059358c38a81570686dba7d6.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/canada-tsx-timelydisclosure.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-98190f06bd81abf833d4",
+      "sha256": "98190f06bd81abf833d4bca30337ecb4ce8eedcf647ed4911a8ee60890805074",
+      "bytes": 1091660,
+      "archive_path": "documents/98190f06bd81abf833d4bca30337ecb4ce8eedcf647ed4911a8ee60890805074.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/canada-tsx.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-6bc980af1aadf46305c1",
+      "sha256": "6bc980af1aadf46305c1d44f53df4a019724c60787660f5c216ccc7447dd4b3e",
+      "bytes": 3853102,
+      "archive_path": "documents/6bc980af1aadf46305c1d44f53df4a019724c60787660f5c216ccc7447dd4b3e.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/chile-esg.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-4bbc96a4a6b9eecc54f1",
+      "sha256": "4bbc96a4a6b9eecc54f1603c66d3e3c233124902ea612d63ff93fe3586e8d770",
+      "bytes": 45874,
+      "archive_path": "documents/4bbc96a4a6b9eecc54f1603c66d3e3c233124902ea612d63ff93fe3586e8d770.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/cyprus-2017-esg.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-a6a70e0d2d594c2e9666",
+      "sha256": "a6a70e0d2d594c2e9666cb4b93f8230843c5c4531852a74b7126de2bbd74e993",
+      "bytes": 223188,
+      "archive_path": "documents/a6a70e0d2d594c2e9666cb4b93f8230843c5c4531852a74b7126de2bbd74e993.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/cyprus-esg.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-5d7318b9e03994fbbbc9",
+      "sha256": "5d7318b9e03994fbbbc9838eb652873c4c0e8d3338fe0414e2ed52373c973299",
+      "bytes": 228864,
+      "archive_path": "documents/5d7318b9e03994fbbbc9838eb652873c4c0e8d3338fe0414e2ed52373c973299.doc",
+      "format": "doc",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/cyprus-esg2.doc"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-5ddbe4189b95133e8cc3",
+      "sha256": "5ddbe4189b95133e8cc32023a2eb10a52e4aaf73344a7dcf6c097c7ec7694657",
+      "bytes": 60953,
+      "archive_path": "documents/5ddbe4189b95133e8cc32023a2eb10a52e4aaf73344a7dcf6c097c7ec7694657.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/denmark-esg.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-0870c06acaf6fb38c21f",
+      "sha256": "0870c06acaf6fb38c21fadc84c5f395f66115dd825ceab517acbce282dd0066a",
+      "bytes": 428021,
+      "archive_path": "documents/0870c06acaf6fb38c21fadc84c5f395f66115dd825ceab517acbce282dd0066a.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/denmark-esg2.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-68d090e79fc4574a52a4",
+      "sha256": "68d090e79fc4574a52a454134dd1a2c4d642f1dc6dcd1c02898c2835cd53d9b7",
+      "bytes": 294101,
+      "archive_path": "documents/68d090e79fc4574a52a454134dd1a2c4d642f1dc6dcd1c02898c2835cd53d9b7.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/finland-esg.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-1c3daf119a07e47dbcdb",
+      "sha256": "1c3daf119a07e47dbcdbc3ec236cfc7270cd0e81a6701e5ce4d3c9fff209698d",
+      "bytes": 371242,
+      "archive_path": "documents/1c3daf119a07e47dbcdbc3ec236cfc7270cd0e81a6701e5ce4d3c9fff209698d.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/finland-esg2.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-c8a63846f6d889cb5e51",
+      "sha256": "c8a63846f6d889cb5e51de3bd7233068d94785bb2d3ec61602eee83ae434f778",
+      "bytes": 718626,
+      "archive_path": "documents/c8a63846f6d889cb5e51de3bd7233068d94785bb2d3ec61602eee83ae434f778.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/france-esg.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-e7d52bf6465081dbe789",
+      "sha256": "e7d52bf6465081dbe7890bcceab196a4d463606320cf95dba2305d4e7eb30888",
+      "bytes": 185113,
+      "archive_path": "documents/e7d52bf6465081dbe7890bcceab196a4d463606320cf95dba2305d4e7eb30888.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/germany-esg.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-7dae92e27025770144c3",
+      "sha256": "7dae92e27025770144c3acb87135d618331bf103c9f95866aecccd09262b01fb",
+      "bytes": 139083,
+      "archive_path": "documents/7dae92e27025770144c3acb87135d618331bf103c9f95866aecccd09262b01fb.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/greece-esg.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-ce1fb41737513645364e",
+      "sha256": "ce1fb41737513645364e09643deffec9d83bae109b031f73835964f0b8c0e8c6",
+      "bytes": 62269,
+      "archive_path": "documents/ce1fb41737513645364e09643deffec9d83bae109b031f73835964f0b8c0e8c6.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/greece-unconfirmed.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-7400ab2c33bb5d251165",
+      "sha256": "7400ab2c33bb5d251165ecd7d56967383813fd48490cf0d80712ed18fb1300c5",
+      "bytes": 108313,
+      "archive_path": "documents/7400ab2c33bb5d251165ecd7d56967383813fd48490cf0d80712ed18fb1300c5.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/hongkong-esg.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-7d74c5909efe90c65622",
+      "sha256": "7d74c5909efe90c6562213776c0a834e3c7670053f4cebce235fdb8d211f5e69",
+      "bytes": 3998603,
+      "archive_path": "documents/7d74c5909efe90c6562213776c0a834e3c7670053f4cebce235fdb8d211f5e69.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/hungary-esg.pdf",
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/romania-es.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-911af6f1330ed3a8ccd5",
+      "sha256": "911af6f1330ed3a8ccd5b4588dffe80211b5e65ac2b7f482a7eb8cc3b85c65c5",
+      "bytes": 110957,
+      "archive_path": "documents/911af6f1330ed3a8ccd5b4588dffe80211b5e65ac2b7f482a7eb8cc3b85c65c5.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/hungary-esg2.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-0bcd14f2763afaf43617",
+      "sha256": "0bcd14f2763afaf43617752a0228addd7978b26686735cbfa218e283bd60f835",
+      "bytes": 430498,
+      "archive_path": "documents/0bcd14f2763afaf43617752a0228addd7978b26686735cbfa218e283bd60f835.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/indonesia-es.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-2522cf97ea9798a1b268",
+      "sha256": "2522cf97ea9798a1b268245f24d50fe4dd3ce02fa366ebf6bc599050ab8226d8",
+      "bytes": 143342,
+      "archive_path": "documents/2522cf97ea9798a1b268245f24d50fe4dd3ce02fa366ebf6bc599050ab8226d8.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/ireland-esg.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-144fa59a1f9c0cdef4b2",
+      "sha256": "144fa59a1f9c0cdef4b25cc1b5729a7655bdacda1c6daa1b81efefd5ecc0c267",
+      "bytes": 818722,
+      "archive_path": "documents/144fa59a1f9c0cdef4b25cc1b5729a7655bdacda1c6daa1b81efefd5ecc0c267.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/italy-2016.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-28dfc9e7eeaef2e85308",
+      "sha256": "28dfc9e7eeaef2e853082cd5a1d036344679fe0bf65b8281f29e7bbdffaad330",
+      "bytes": 88613,
+      "archive_path": "documents/28dfc9e7eeaef2e853082cd5a1d036344679fe0bf65b8281f29e7bbdffaad330.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/korea-esg.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-21e1a62394a9ceeb57d9",
+      "sha256": "21e1a62394a9ceeb57d9ccb00529abdb2ef070d543cdaba3f6bf1ce047f09948",
+      "bytes": 403567,
+      "archive_path": "documents/21e1a62394a9ceeb57d9ccb00529abdb2ef070d543cdaba3f6bf1ce047f09948.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/malta-esg.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-f7f47985fd04e385e3c0",
+      "sha256": "f7f47985fd04e385e3c0711dd8547418de7212a3d837495f8bd80471710768e3",
+      "bytes": 89472,
+      "archive_path": "documents/f7f47985fd04e385e3c0711dd8547418de7212a3d837495f8bd80471710768e3.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/msia-g.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-4e479e5727cdc8fddd50",
+      "sha256": "4e479e5727cdc8fddd50a1645218dbe172a4e08cd5cd8300b82df1a4c68e8971",
+      "bytes": 878465,
+      "archive_path": "documents/4e479e5727cdc8fddd50a1645218dbe172a4e08cd5cd8300b82df1a4c68e8971.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/netherlands-sg.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-2ec4c4258af6b09f9c82",
+      "sha256": "2ec4c4258af6b09f9c82d69bd56d91badf187b27b7bcf9f408d1b9d537ee85cf",
+      "bytes": 3751715,
+      "archive_path": "documents/2ec4c4258af6b09f9c82d69bd56d91badf187b27b7bcf9f408d1b9d537ee85cf.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/nigeria-g.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-8a3a6e2dc4c0dbdfcf85",
+      "sha256": "8a3a6e2dc4c0dbdfcf85869dc5920792edd23d376aa8169cbc5e8f9f567a2d35",
+      "bytes": 429408,
+      "archive_path": "documents/8a3a6e2dc4c0dbdfcf85869dc5920792edd23d376aa8169cbc5e8f9f567a2d35.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/nigeria-g2.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-c8bb33f24d1477b3f291",
+      "sha256": "c8bb33f24d1477b3f29137fcf85ae4e9c49b0716de48839cf5f940744c8822d9",
+      "bytes": 1884131,
+      "archive_path": "documents/c8bb33f24d1477b3f29137fcf85ae4e9c49b0716de48839cf5f940744c8822d9.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/nigeria-g3.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-dac5af8f639b6b8b8675",
+      "sha256": "dac5af8f639b6b8b867510385cbf32e6eb51ff380f07a19318b5946d121350a7",
+      "bytes": 1436863,
+      "archive_path": "documents/dac5af8f639b6b8b867510385cbf32e6eb51ff380f07a19318b5946d121350a7.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/norway-g.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-d058f5a99a1a90b467bc",
+      "sha256": "d058f5a99a1a90b467bcce3b3169bd64eab5fb62aa9fce1ed39cefc10ef7efa8",
+      "bytes": 281061,
+      "archive_path": "documents/d058f5a99a1a90b467bcce3b3169bd64eab5fb62aa9fce1ed39cefc10ef7efa8.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/peru-esg.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-5758241498bb19c8678c",
+      "sha256": "5758241498bb19c8678c05c542bc1acd65139feed51224edef2feb7b7c14b65a",
+      "bytes": 188637,
+      "archive_path": "documents/5758241498bb19c8678c05c542bc1acd65139feed51224edef2feb7b7c14b65a.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/poland-esg.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-98c9f63522b80417e32d",
+      "sha256": "98c9f63522b80417e32d958b92e115da5c2a73928f40105c8cdfe8519ef587f2",
+      "bytes": 83637,
+      "archive_path": "documents/98c9f63522b80417e32d958b92e115da5c2a73928f40105c8cdfe8519ef587f2.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/portugal-g.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-9d4d5f82a2d226c784c8",
+      "sha256": "9d4d5f82a2d226c784c8b5f64d7f4c3f69d3549d39fe69c03eda8f40e8294356",
+      "bytes": 135560,
+      "archive_path": "documents/9d4d5f82a2d226c784c8b5f64d7f4c3f69d3549d39fe69c03eda8f40e8294356.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/portugal-s.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-1d8e2d07b2d2827f1f8a",
+      "sha256": "1d8e2d07b2d2827f1f8a110d1a833b0e1f10e986e5be3fca6f32f0c1e3d399d9",
+      "bytes": 1412119,
+      "archive_path": "documents/1d8e2d07b2d2827f1f8a110d1a833b0e1f10e986e5be3fca6f32f0c1e3d399d9.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/qatar-g.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-868056e8a3564f830001",
+      "sha256": "868056e8a3564f830001ad017469398449d6827fc214cc66e305f94408b5e2a1",
+      "bytes": 407980,
+      "archive_path": "documents/868056e8a3564f830001ad017469398449d6827fc214cc66e305f94408b5e2a1.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/sg-e.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-47d18da416d4df7c2d71",
+      "sha256": "47d18da416d4df7c2d710fa41be22a34a1644c01d58300c47ce09b9916a68aea",
+      "bytes": 101664,
+      "archive_path": "documents/47d18da416d4df7c2d710fa41be22a34a1644c01d58300c47ce09b9916a68aea.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/slovenia-esg.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-f768527756122e608d43",
+      "sha256": "f768527756122e608d4378dc636b9d42f506165149cb7e8e353ab25170b80442",
+      "bytes": 1647119,
+      "archive_path": "documents/f768527756122e608d4378dc636b9d42f506165149cb7e8e353ab25170b80442.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/south-africa-esg.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-83021293a8e323c39b6b",
+      "sha256": "83021293a8e323c39b6ba5815ad2f52980123782ea6f0534fc234b739bc3a9c9",
+      "bytes": 180742,
+      "archive_path": "documents/83021293a8e323c39b6ba5815ad2f52980123782ea6f0534fc234b739bc3a9c9.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/spain-e.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-2ca1b3679a736fcde491",
+      "sha256": "2ca1b3679a736fcde49190a9126582630029b15106188a4b5083220fa0b36099",
+      "bytes": 66226838,
+      "archive_path": "documents/2ca1b3679a736fcde49190a9126582630029b15106188a4b5083220fa0b36099.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/spain-sg.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-be761a2b83f6a414a0ca",
+      "sha256": "be761a2b83f6a414a0ca031b10ef25184b0d4cf594dadf092cea60d9ebec187d",
+      "bytes": 313119,
+      "archive_path": "documents/be761a2b83f6a414a0ca031b10ef25184b0d4cf594dadf092cea60d9ebec187d.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/sweden-sg.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-d0120519c6a2c05157ce",
+      "sha256": "d0120519c6a2c05157ce177bd972cb27855622b2c1e8585bda1adac95a5ec22c",
+      "bytes": 2314027,
+      "archive_path": "documents/d0120519c6a2c05157ce177bd972cb27855622b2c1e8585bda1adac95a5ec22c.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/taiwan-es.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-0f924e3603f647b0f07a",
+      "sha256": "0f924e3603f647b0f07a770b3837cf2d0f455d6fe6fca5ceff1c79dad11dbfb5",
+      "bytes": 87575,
+      "archive_path": "documents/0f924e3603f647b0f07a770b3837cf2d0f455d6fe6fca5ceff1c79dad11dbfb5.txt",
+      "format": "txt",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-llm-parsed/esg_conflicts_and_regulations.txt"
+      ],
+      "urls": [],
+      "roles": [
+        "existing_supporting_document"
+      ]
+    },
+    {
+      "document_id": "doc-e8b9d692b88a994352fa",
+      "sha256": "e8b9d692b88a994352fa2859522647e2048f72f3c666bda7c1a6a8d3e5cf238c",
+      "bytes": 1924817,
+      "archive_path": "documents/e8b9d692b88a994352fa2859522647e2048f72f3c666bda7c1a6a8d3e5cf238c.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/deprecated/338-1496-1-PB.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-6715277ca65feddf3281",
+      "sha256": "6715277ca65feddf32816e67403f804a9da3a55ae2ff6156c8205bceba43b3f2",
+      "bytes": 1388429,
+      "archive_path": "documents/6715277ca65feddf32816e67403f804a9da3a55ae2ff6156c8205bceba43b3f2.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/deprecated/Annex2.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-ce9a493c64812c4bce36",
+      "sha256": "ce9a493c64812c4bce3600b75ff70aa5d9ebfaeaf7f2b3b853758be21a1ebff4",
+      "bytes": 788018,
+      "archive_path": "documents/ce9a493c64812c4bce3600b75ff70aa5d9ebfaeaf7f2b3b853758be21a1ebff4.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/deprecated/austria-g.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-8de1f3cf61e20304355f",
+      "sha256": "8de1f3cf61e20304355f0f97a52a36dc106c641865b84561ee919ac0b07b31bc",
+      "bytes": 1233499,
+      "archive_path": "documents/8de1f3cf61e20304355f0f97a52a36dc106c641865b84561ee919ac0b07b31bc.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/deprecated/DP_Sustainability_Information_in_Annual_Reports_08125122008561444.pdf"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-e1abb921daf551235059",
+      "sha256": "e1abb921daf55123505962ffd15c3f324d7261de8c4c3ad9c7907d24f4214bf4",
+      "bytes": 6532,
+      "archive_path": "documents/e1abb921daf55123505962ffd15c3f324d7261de8c4c3ad9c7907d24f4214bf4.txt",
+      "format": "txt",
+      "original_locations": [
+        "07-environmental-disclosure-mechanisms/source-documents-esg-regulations/deprecated/list.txt"
+      ],
+      "urls": [],
+      "roles": [
+        "legacy_regulation_source"
+      ]
+    },
+    {
+      "document_id": "doc-b2adcab53ae0be0aa029",
+      "sha256": "b2adcab53ae0be0aa029b128a1c0d386757bbfa58fe1d40beaed0dae0cfb84d7",
+      "bytes": 22091,
+      "archive_path": "documents/b2adcab53ae0be0aa029b128a1c0d386757bbfa58fe1d40beaed0dae0cfb84d7.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://asic.gov.au/about-asic/news-centre/find-a-media-release/2024-releases/24-205mr-asic-urges-businesses-to-prepare-for-mandatory-climate-reporting/"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-208e908f7cccda907a2c",
+      "sha256": "208e908f7cccda907a2c0e671467d46b9168b0916223c0e695a136f1668dd67d",
+      "bytes": 83657,
+      "archive_path": "documents/208e908f7cccda907a2c0e671467d46b9168b0916223c0e695a136f1668dd67d.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://asic.gov.au/regulatory-resources/financial-reporting-and-audit/auditors/audit-inspection-and-surveillance-programs/"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-f89e76de1db1ffe082aa",
+      "sha256": "f89e76de1db1ffe082aaa2de39edfe22a5820f7ce0e436a784b0eded82f08725",
+      "bytes": 100905,
+      "archive_path": "documents/f89e76de1db1ffe082aaa2de39edfe22a5820f7ce0e436a784b0eded82f08725.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://ayuda.dgii.gov.do/conversations/precios-de-transferencia/ca4632-cundo-se-debe-remitir-el-reporte-pas-por-pas/65a7ceddd39ae90f841fe196"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-544ab604cfe5ca052c4d",
+      "sha256": "544ab604cfe5ca052c4d104f2586aa0cd193547d9b686a33c2d3fb1b87215cb0",
+      "bytes": 278363,
+      "archive_path": "documents/544ab604cfe5ca052c4d104f2586aa0cd193547d9b686a33c2d3fb1b87215cb0.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://boconference.cac.gov.ng/"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-2a45bd117110674a150c",
+      "sha256": "2a45bd117110674a150c5e2363506316f2c0aefe1c0dd0b7c3789f884bcb6025",
+      "bytes": 3814750,
+      "archive_path": "documents/2a45bd117110674a150c5e2363506316f2c0aefe1c0dd0b7c3789f884bcb6025.pdf",
+      "format": "pdf",
+      "original_locations": [],
+      "urls": [
+        "https://brs.go.ke/wp-content/uploads/2023/01/Final-Annual-Report-1.pdf"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-57da1643c5c71f14c6d5",
+      "sha256": "57da1643c5c71f14c6d59c40c70e8dcd26665de4b4a0aea6809c137a6e564bbc",
+      "bytes": 169475,
+      "archive_path": "documents/57da1643c5c71f14c6d59c40c70e8dcd26665de4b4a0aea6809c137a6e564bbc.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://commission.europa.eu/business-economy-euro/doing-business-eu/company-law-and-corporate-governance_en"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-a6e239eaa0bc2cbaf020",
+      "sha256": "a6e239eaa0bc2cbaf020f22b110b4576f6c576ccfadc5e48459b5d0780279e18",
+      "bytes": 10682,
+      "archive_path": "documents/a6e239eaa0bc2cbaf020f22b110b4576f6c576ccfadc5e48459b5d0780279e18.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://conteudo.cvm.gov.br/legislacao/resolucoes/anexos/200/resol244.htm"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-99805cec2f2a8bb703b8",
+      "sha256": "99805cec2f2a8bb703b83062319591533ebb60312dba1721200b51d1876c8035",
+      "bytes": 5310108,
+      "archive_path": "documents/99805cec2f2a8bb703b83062319591533ebb60312dba1721200b51d1876c8035.pdf",
+      "format": "pdf",
+      "original_locations": [],
+      "urls": [
+        "https://cpab-ccrc.ca/docs/default-source/annual-reports/2024-annual-report-en.pdf"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-4d979c28b83d95de79d0",
+      "sha256": "4d979c28b83d95de79d02c5c56e0a603910cc36102e1ccc1479cc73a765cd7ee",
+      "bytes": 140075,
+      "archive_path": "documents/4d979c28b83d95de79d02c5c56e0a603910cc36102e1ccc1479cc73a765cd7ee.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://cpab-ccrc.ca/who-we-are/media/2026/03/11/cpab-advances-transparency-with-publication-of-individual-firm-inspection-reports"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-f623643105a30c044f56",
+      "sha256": "f623643105a30c044f56a026cdcd794a19ed530645a30c16d8cfd9f03445c037",
+      "bytes": 16712,
+      "archive_path": "documents/f623643105a30c044f56a026cdcd794a19ed530645a30c16d8cfd9f03445c037.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://dcgk.de/app.php/de/kommission/praxis-impulse/deteilansicht/transparenz-und-publizitaetsgesetz-in-kraft-getreten.html"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-0794abe5f8088cfd34e8",
+      "sha256": "0794abe5f8088cfd34e8e50bb5f9f7828b20a3c505f702e4b51be3bbb0631b57",
+      "bytes": 2346,
+      "archive_path": "documents/0794abe5f8088cfd34e8e50bb5f9f7828b20a3c505f702e4b51be3bbb0631b57.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2023-220219336"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-900ccfeff1b17a8426f8",
+      "sha256": "900ccfeff1b17a8426f8273844163b4ae870481d845612c14623024ca74704b8",
+      "bytes": 47365,
+      "archive_path": "documents/900ccfeff1b17a8426f8273844163b4ae870481d845612c14623024ca74704b8.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://erhvervsstyrelsen.dk/vejledning-indberetning-af-indkomstskatteoplysninger-i-regnskab-special-med-land-land-taksonomien"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-31cdc3741a0590bb6e67",
+      "sha256": "31cdc3741a0590bb6e67bebb8e92aae666e34767bf5d7063b12ac1eeae96394c",
+      "bytes": 268658,
+      "archive_path": "documents/31cdc3741a0590bb6e67bebb8e92aae666e34767bf5d7063b12ac1eeae96394c.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://eur-lex.europa.eu/eli/reg/2002/1606/oj"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-52f850feebb9296b18f4",
+      "sha256": "52f850feebb9296b18f4a7eb2af59aa65e3bb64bca7405eef9a3bdf262c67790",
+      "bytes": 1041274,
+      "archive_path": "documents/52f850feebb9296b18f4a7eb2af59aa65e3bb64bca7405eef9a3bdf262c67790.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013L0034"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-2ed2412ea75ebfba67a5",
+      "sha256": "2ed2412ea75ebfba67a54ed3ec03afbe999aceeca010a208c42a7a0c228a71ae",
+      "bytes": 368363,
+      "archive_path": "documents/2ed2412ea75ebfba67a54ed3ec03afbe999aceeca010a208c42a7a0c228a71ae.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021L2101"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-c6899e4d3dc15cedc530",
+      "sha256": "c6899e4d3dc15cedc5308cb63b997a4d67ae4ba5652543c61ff7ee27336e2b08",
+      "bytes": 641940,
+      "archive_path": "documents/c6899e4d3dc15cedc5308cb63b997a4d67ae4ba5652543c61ff7ee27336e2b08.pdf",
+      "format": "pdf",
+      "original_locations": [],
+      "urls": [
+        "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014R0537"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-54c58166dd261089e43b",
+      "sha256": "54c58166dd261089e43b0d0112179d0f487d1cdd4429777c777a231740c39c98",
+      "bytes": 164977,
+      "archive_path": "documents/54c58166dd261089e43b0d0112179d0f487d1cdd4429777c777a231740c39c98.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/public-country-country-reporting_en"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-b7ba0b5596757d3d7e6d",
+      "sha256": "b7ba0b5596757d3d7e6ddb32cd7e49ddd6bf93e97439c0ef8e5a473e5b62fe0d",
+      "bytes": 381888,
+      "archive_path": "documents/b7ba0b5596757d3d7e6ddb32cd7e49ddd6bf93e97439c0ef8e5a473e5b62fe0d.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://irba.co.za/legislation/"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-15abffc76fdc400fdf9a",
+      "sha256": "15abffc76fdc400fdf9a504ab69d7ae11a3e3030d09aad1a30a8b6f518cd9509",
+      "bytes": 25255,
+      "archive_path": "documents/15abffc76fdc400fdf9a504ab69d7ae11a3e3030d09aad1a30a8b6f518cd9509.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://ised-isde.canada.ca/site/corporations-canada/en/how-find-information-about-individuals-significant-control"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-229ad81aff5cefdbf1a1",
+      "sha256": "229ad81aff5cefdbf1a1307bcc560313199fd82da750c4974203db5186ea443f",
+      "bytes": 18735,
+      "archive_path": "documents/229ad81aff5cefdbf1a1307bcc560313199fd82da750c4974203db5186ea443f.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://lois-laws.justice.gc.ca/eng/acts/F-10.6/index.html"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-270b77971d6e8a395803",
+      "sha256": "270b77971d6e8a395803e3f347a339fe5b8075c77960450fe5487c00c69f5b08",
+      "bytes": 63665,
+      "archive_path": "documents/270b77971d6e8a395803e3f347a339fe5b8075c77960450fe5487c00c69f5b08.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://lovdata.no/dokument/NLE/lov/2021-06-18-99"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-eba8e0678fdb14f2bd58",
+      "sha256": "eba8e0678fdb14f2bd587e48d086ea262fe8f4f1de35c14df064021a14d0360b",
+      "bytes": 60519,
+      "archive_path": "documents/eba8e0678fdb14f2bd587e48d086ea262fe8f4f1de35c14df064021a14d0360b.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://lovdata.no/forskrift/2013-12-20-1682"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-967191ef440b247f9194",
+      "sha256": "967191ef440b247f91945b0f3c5a8e499aa31c8fa3047cdf0e23f6abb42150ab",
+      "bytes": 1402562,
+      "archive_path": "documents/967191ef440b247f91945b0f3c5a8e499aa31c8fa3047cdf0e23f6abb42150ab.pdf",
+      "format": "pdf",
+      "original_locations": [],
+      "urls": [
+        "https://media.frc.org.uk/documents/Extended_auditors_reports_A_review_of_experience_in_the_first_year.pdf"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-d6c14b9c6496a80353a6",
+      "sha256": "d6c14b9c6496a80353a68f144422914ee7ed3d96710f847307c2185bba22373c",
+      "bytes": 83760,
+      "archive_path": "documents/d6c14b9c6496a80353a68f144422914ee7ed3d96710f847307c2185bba22373c.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_07_82_1290.html"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-67f07ec1a705f706f0a5",
+      "sha256": "67f07ec1a705f706f0a5305dcc3e061d168ae39113a0fae4ab6fe96d55a25092",
+      "bytes": 42619,
+      "archive_path": "documents/67f07ec1a705f706f0a5305dcc3e061d168ae39113a0fae4ab6fe96d55a25092.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://natural-resources.canada.ca/minerals-mining/services-mining-industry/extractive-sector-transparency/information-estma"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-70b31d82b366ee679e58",
+      "sha256": "70b31d82b366ee679e5806a2eee0dadcf7e66b423d6d2cbfe1f9d919dc1538f5",
+      "bytes": 51457,
+      "archive_path": "documents/70b31d82b366ee679e5806a2eee0dadcf7e66b423d6d2cbfe1f9d919dc1538f5.pdf",
+      "format": "pdf",
+      "original_locations": [],
+      "urls": [
+        "https://oag.ca.gov/sites/all/files/agweb/pdfs/cybersafety/sb_657_bill_ch556.pdf"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-185604818b2f43bab5ff",
+      "sha256": "185604818b2f43bab5ffb6a9b93f481d2b739fc22853611c62d4f65322665dd3",
+      "bytes": 4207,
+      "archive_path": "documents/185604818b2f43bab5ffb6a9b93f481d2b739fc22853611c62d4f65322665dd3.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://osf.io/syn8t/"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-b885128bbbc66024859e",
+      "sha256": "b885128bbbc66024859e7c7c7dc6e03aa82a4685992eed1f02a2bbc3ab4cc0b5",
+      "bytes": 29341,
+      "archive_path": "documents/b885128bbbc66024859e7c7c7dc6e03aa82a4685992eed1f02a2bbc3ab4cc0b5.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://portal.ahu.go.id/id/detail/75-berita-lainnya/3060-ditjen-ahu-gelar-dua-webinar-terkait-pemilik-manfaat-yayasan-atau-perkumpulan-dan-kebijakan-pendirian-yayasan-oleh-warga-negara-asing"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-f372a0cf00d3edbca0ee",
+      "sha256": "f372a0cf00d3edbca0ee95115bcb5cacda1d70098ec18f33e837c2a96be499ec",
+      "bytes": 27457,
+      "archive_path": "documents/f372a0cf00d3edbca0ee95115bcb5cacda1d70098ec18f33e837c2a96be499ec.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://ris.bka.gv.at/eli/bgbl/i/2024/83/P1/NOR40263892"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-b42d3f8be6972e695ffe",
+      "sha256": "b42d3f8be6972e695ffef076b522874bc0be21e0f8792369090b9c01213f2eac",
+      "bytes": 605667,
+      "archive_path": "documents/b42d3f8be6972e695ffef076b522874bc0be21e0f8792369090b9c01213f2eac.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://rulebook.sgx.com/rulebook/report-committee-and-code-corporate-governance"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-13eb4fd000285e6fd54d",
+      "sha256": "13eb4fd000285e6fd54d4867061b9f43c24c49966cbd5acb57a609224f998070",
+      "bytes": 205905,
+      "archive_path": "documents/13eb4fd000285e6fd54d4867061b9f43c24c49966cbd5acb57a609224f998070.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://standards.xrb.govt.nz/standards-navigator/isa-nz-701/"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-45d6e23f4393dd307247",
+      "sha256": "45d6e23f4393dd307247defb3971d1c28762f95c02ed8edb01b7f951c0b43b9b",
+      "bytes": 57572,
+      "archive_path": "documents/45d6e23f4393dd307247defb3971d1c28762f95c02ed8edb01b7f951c0b43b9b.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://v1.irba.co.za/guidance-to-ras/technical-guidance-for-auditors/auditing-standards-and-guides/the-new-and-revised-auditor-reporting-standards"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-89c166b2692601652433",
+      "sha256": "89c166b2692601652433f76e7745d1a2adbb4c57d9db4b2dfcc0f75d12926998",
+      "bytes": 618301,
+      "archive_path": "documents/89c166b2692601652433f76e7745d1a2adbb4c57d9db4b2dfcc0f75d12926998.pdf",
+      "format": "pdf",
+      "original_locations": [],
+      "urls": [
+        "https://www.acra.gov.sg/docs/default-source/default-document-library/training-and-resources/publications/audit-practice-bulletin/apb2of2016.pdf"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-65c7bb51d8d59427567c",
+      "sha256": "65c7bb51d8d59427567ce968d1ef8d0243467ca1a9797f18df262111e421d8da",
+      "bytes": 436432,
+      "archive_path": "documents/65c7bb51d8d59427567ce968d1ef8d0243467ca1a9797f18df262111e421d8da.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.acra.gov.sg/news-events/news-announcements/563/"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-e6466c098dad57cf35c4",
+      "sha256": "e6466c098dad57cf35c484ac8c3b12f8a33e6a8b069778caa36126f935d0ec13",
+      "bytes": 77323,
+      "archive_path": "documents/e6466c098dad57cf35c484ac8c3b12f8a33e6a8b069778caa36126f935d0ec13.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.afrc.org.hk/en-hk/about-afrc/our-role"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-b11e55b9a33b2269086b",
+      "sha256": "b11e55b9a33b2269086bdd23cf1dc91fe5da9f669fae5f5731131434a2c07224",
+      "bytes": 2871,
+      "archive_path": "documents/b11e55b9a33b2269086bdd23cf1dc91fe5da9f669fae5f5731131434a2c07224.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?numero=5185&tipo=RESOLU%C3%87%C3%83O+CMN"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-9bf8a4d0a3a043a926fd",
+      "sha256": "9bf8a4d0a3a043a926fd46d250743985f14610cda5b12449a5465b28845a0f85",
+      "bytes": 414475,
+      "archive_path": "documents/9bf8a4d0a3a043a926fd46d250743985f14610cda5b12449a5465b28845a0f85.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.bmf.gv.at/services/wiereg/wiereg-register.html"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-8277b0d81fd4c3f2c17d",
+      "sha256": "8277b0d81fd4c3f2c17de9db3e4148f70a48e95ad4e4e7875712be1ec4ad4538",
+      "bytes": 225188,
+      "archive_path": "documents/8277b0d81fd4c3f2c17de9db3e4148f70a48e95ad4e4e7875712be1ec4ad4538.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21739"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-9b1e44fc35c910efb85d",
+      "sha256": "9b1e44fc35c910efb85d463a9fbe0c0fe7c0076792d62ae663b0abc5a51e1194",
+      "bytes": 894347,
+      "archive_path": "documents/9b1e44fc35c910efb85d463a9fbe0c0fe7c0076792d62ae663b0abc5a51e1194.pdf",
+      "format": "pdf",
+      "original_locations": [],
+      "urls": [
+        "https://www.corporategovernanceboard.se/Userfiles/Publikationer/Arsrapporter/Eng/annual_report_2006_eng.pdf"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-489b3f3ee431c271841d",
+      "sha256": "489b3f3ee431c271841df97bf2db62a8e80efb361c350f65a40b47d8a8e4e7fb",
+      "bytes": 102381,
+      "archive_path": "documents/489b3f3ee431c271841df97bf2db62a8e80efb361c350f65a40b47d8a8e4e7fb.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.cr.gov.hk/en/legislation/scr/overview.htm"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-12b44f0d16e10b0259ab",
+      "sha256": "12b44f0d16e10b0259ab9f7ba63aff5fe9cc1f0268eb2e44168b96b7c906d5fe",
+      "bytes": 76983,
+      "archive_path": "documents/12b44f0d16e10b0259ab9f7ba63aff5fe9cc1f0268eb2e44168b96b7c906d5fe.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.dian.gov.co/Prensa/Paginas/NG-DIAN-amplio-el-plazo-para-suministrar-informacion-en-el-RUB.aspx"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-1e106e85b08097558079",
+      "sha256": "1e106e85b0809755807931109ed38ac5426a8afcc83ec1277d509a440ee0effc",
+      "bytes": 57709,
+      "archive_path": "documents/1e106e85b0809755807931109ed38ac5426a8afcc83ec1277d509a440ee0effc.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.esma.europa.eu/publications-and-data/interactive-single-rulebook/mica/article-143-transitional-measures"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-7563fffa97c3244ef891",
+      "sha256": "7563fffa97c3244ef89134da885e938bde3ae27b39f64eaaa514093a68d0a462",
+      "bytes": 49020,
+      "archive_path": "documents/7563fffa97c3244ef89134da885e938bde3ae27b39f64eaaa514093a68d0a462.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.esma.europa.eu/publications-and-data/interactive-single-rulebook/mica/article-149-entry-force-and-application"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-b9c58b0e00ead5ff9e9a",
+      "sha256": "b9c58b0e00ead5ff9e9a6a808042eab4896dda73101ff83881b406efb093b543",
+      "bytes": 1749486,
+      "archive_path": "documents/b9c58b0e00ead5ff9e9a6a808042eab4896dda73101ff83881b406efb093b543.pdf",
+      "format": "pdf",
+      "original_locations": [],
+      "urls": [
+        "https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20210101/de/pdf-a/fedlex-data-admin-ch-eli-cc-27-317_321_377-20210101-de-pdf-a.pdf"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-21d9bac0940ddd65eeb2",
+      "sha256": "21d9bac0940ddd65eeb2b36f1d3d8e611605c272e2188f3c570b6c277ea0c108",
+      "bytes": 21162,
+      "archive_path": "documents/21d9bac0940ddd65eeb2b36f1d3d8e611605c272e2188f3c570b6c277ea0c108.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.finanstilsynet.no/nyhetsarkiv/nyheter/2026/ak-jensen-norway-as-blir-norges-forste-casp-foretak/"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-5fdc37e08d7e1ad07098",
+      "sha256": "5fdc37e08d7e1ad07098f0a8696578d5c2629cc6425e0c9ac1c9101f4d60c9df",
+      "bytes": 42137,
+      "archive_path": "documents/5fdc37e08d7e1ad07098f0a8696578d5c2629cc6425e0c9ac1c9101f4d60c9df.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.fincen.gov/beneficial-ownership-information-reporting-rule-fact-sheet"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-f3c8dbda857902bfc134",
+      "sha256": "f3c8dbda857902bfc134605bb078b684d33962a678485af89f385eb315a9ee4f",
+      "bytes": 32659,
+      "archive_path": "documents/f3c8dbda857902bfc134605bb078b684d33962a678485af89f385eb315a9ee4f.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.fincen.gov/news/news-releases/fincen-removes-beneficial-ownership-reporting-requirements-us-companies-and-us"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-61b58b6e222c30dee14d",
+      "sha256": "61b58b6e222c30dee14d32762cc1e372b977d5d5363cc07715733bab01108797",
+      "bytes": 446450,
+      "archive_path": "documents/61b58b6e222c30dee14d32762cc1e372b977d5d5363cc07715733bab01108797.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.fma-li.li/en/media-public/client-protection/safeguarding-client-protection-in-different-sectors/tt-service-providers"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-95324bcdef0ad3158f07",
+      "sha256": "95324bcdef0ad3158f076934869e09c6f9991edb52e6cd712e0083c37a54b7aa",
+      "bytes": 103970,
+      "archive_path": "documents/95324bcdef0ad3158f076934869e09c6f9991edb52e6cd712e0083c37a54b7aa.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.frc.org.uk/library/standards-codes-policy/corporate-governance/uk-corporate-governance-code/"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-1286b65a6f8e2be1d4a2",
+      "sha256": "1286b65a6f8e2be1d4a2b342fa296f9cb66601d90daff4e5cca95785a707af17",
+      "bytes": 3013202,
+      "archive_path": "documents/1286b65a6f8e2be1d4a2b342fa296f9cb66601d90daff4e5cca95785a707af17.pdf",
+      "format": "pdf",
+      "original_locations": [],
+      "urls": [
+        "https://www.fsa.go.jp/cpaaob/english/oversight/20231222/2023_jireisyu_en.pdf"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-9765adad69d6efa7555c",
+      "sha256": "9765adad69d6efa7555c98fe733fd116b8de93d87837f74cf288e7bd80ba88af",
+      "bytes": 13108,
+      "archive_path": "documents/9765adad69d6efa7555c98fe733fd116b8de93d87837f74cf288e7bd80ba88af.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.fsa.go.jp/cpaaob/english/overview.html"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-0ec46aa7fdc69f1dfa32",
+      "sha256": "0ec46aa7fdc69f1dfa329155007c38ef47301c8d74dacb20c37dff4d8c208c6f",
+      "bytes": 18539,
+      "archive_path": "documents/0ec46aa7fdc69f1dfa329155007c38ef47301c8d74dacb20c37dff4d8c208c6f.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.fsa.go.jp/en/news/2008/20080317.html"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-6006e20bb6c5b1de7ace",
+      "sha256": "6006e20bb6c5b1de7ace3931e2b3542b6c821040e1badc6ad17e19044e26bfc1",
+      "bytes": 5381,
+      "archive_path": "documents/6006e20bb6c5b1de7ace3931e2b3542b6c821040e1badc6ad17e19044e26bfc1.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.gesetze-im-internet.de/hgbeg/art_90.html"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-b2e7439b47bedcc067fc",
+      "sha256": "b2e7439b47bedcc067fc41c5e4dac76ee35f7a6b730451db6ba1936283050702",
+      "bytes": 11235,
+      "archive_path": "documents/b2e7439b47bedcc067fc41c5e4dac76ee35f7a6b730451db6ba1936283050702.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.gesetze-im-internet.de/lksg/"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-32e2f1adf108d23160db",
+      "sha256": "32e2f1adf108d23160dbefe74c1dd065de2c89a021a059f6641c989bcd466cbf",
+      "bytes": 338547,
+      "archive_path": "documents/32e2f1adf108d23160dbefe74c1dd065de2c89a021a059f6641c989bcd466cbf.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.gov.ie/en/department-of-enterprise-tourism-and-employment/press-releases/public-country-by-country-tax-reporting-requirements-take-effect-in-ireland/"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-cfd73964cd0975d804a1",
+      "sha256": "cfd73964cd0975d804a1fb632c19823b200ab6a09a895b3840e43cb9e652e0c0",
+      "bytes": 68254,
+      "archive_path": "documents/cfd73964cd0975d804a1fb632c19823b200ab6a09a895b3840e43cb9e652e0c0.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.gov.uk/government/news/keeping-your-people-with-significant-control-psc-register"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-223e78cfe6f85d6acd54",
+      "sha256": "223e78cfe6f85d6acd549ed9583f055becccedfd59e94a9b85fb9d97d12c02c3",
+      "bytes": 68692,
+      "archive_path": "documents/223e78cfe6f85d6acd549ed9583f055becccedfd59e94a9b85fb9d97d12c02c3.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.gov.uk/government/publications/climate-related-financial-disclosures-for-companies-and-limited-liability-partnerships-llps"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-d867b07490192834038e",
+      "sha256": "d867b07490192834038e886ae15b0d21d7aefb762d1779761c1f8ad76991f7bd",
+      "bytes": 70378,
+      "archive_path": "documents/d867b07490192834038e886ae15b0d21d7aefb762d1779761c1f8ad76991f7bd.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.gov.uk/hmrc-internal-manuals/cotax-manual/com60040"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-65b88efed338a3ef1ccf",
+      "sha256": "65b88efed338a3ef1ccf213ffbbfac82f694565a57bab9dc112d3c0d03b11585",
+      "bytes": 368941,
+      "archive_path": "documents/65b88efed338a3ef1ccf213ffbbfac82f694565a57bab9dc112d3c0d03b11585.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.hkex.com.hk/News/Regulatory-Announcements/2007/0703303news?sc_lang=en"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-40e4933bf27f51fdc524",
+      "sha256": "40e4933bf27f51fdc5247ea809bd7cbdac2a885a6a5c55272a68bac2559e08de",
+      "bytes": 153473,
+      "archive_path": "documents/40e4933bf27f51fdc5247ea809bd7cbdac2a885a6a5c55272a68bac2559e08de.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.hkicpa.org.hk/-/media/HKICPA-Website/Members-Handbook/volumeIII/hksa70115.pdf"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-cc99db6f1f5a1f23f7b7",
+      "sha256": "cc99db6f1f5a1f23f7b778bb7ce1c5c815ab0cab082ba84859ae08338bf6e97e",
+      "bytes": 328855,
+      "archive_path": "documents/cc99db6f1f5a1f23f7b778bb7ce1c5c815ab0cab082ba84859ae08338bf6e97e.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "06-capital-market-disclosure-research/work/phase12_expanded/australia-ifrs-profile.pdf"
+      ],
+      "urls": [
+        "https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-profiles/australia-ifrs-profile.pdf"
+      ],
+      "roles": [
+        "recorded_policy_source",
+        "previously_saved_jurisdiction_profile"
+      ]
+    },
+    {
+      "document_id": "doc-c8e7a6a57f0354fb00dc",
+      "sha256": "c8e7a6a57f0354fb00dcf0fe6ca5690594228009b463d83b366f4409a49ed54a",
+      "bytes": 206825,
+      "archive_path": "documents/c8e7a6a57f0354fb00dcf0fe6ca5690594228009b463d83b366f4409a49ed54a.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "06-capital-market-disclosure-research/work/phase12_expanded/bangladesh-ifrs-profile.pdf"
+      ],
+      "urls": [
+        "https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-profiles/bangladesh-ifrs-profile.pdf"
+      ],
+      "roles": [
+        "recorded_policy_source",
+        "previously_saved_jurisdiction_profile"
+      ]
+    },
+    {
+      "document_id": "doc-bcf83640e3c15236e611",
+      "sha256": "bcf83640e3c15236e611d18184bff06cee1117068c83b2379a331783c6dda93a",
+      "bytes": 295254,
+      "archive_path": "documents/bcf83640e3c15236e611d18184bff06cee1117068c83b2379a331783c6dda93a.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "06-capital-market-disclosure-research/work/phase12_expanded/brazil-ifrs-profile.pdf"
+      ],
+      "urls": [
+        "https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-profiles/brazil-ifrs-profile.pdf"
+      ],
+      "roles": [
+        "recorded_policy_source",
+        "previously_saved_jurisdiction_profile"
+      ]
+    },
+    {
+      "document_id": "doc-3e6f5d2d2cb5334d9a7b",
+      "sha256": "3e6f5d2d2cb5334d9a7b0f558c4d560029f210020cea66f62f8972df9285c653",
+      "bytes": 222165,
+      "archive_path": "documents/3e6f5d2d2cb5334d9a7b0f558c4d560029f210020cea66f62f8972df9285c653.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "06-capital-market-disclosure-research/work/phase12_expanded/chile-ifrs-profile.pdf"
+      ],
+      "urls": [
+        "https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-profiles/chile-ifrs-profile.pdf"
+      ],
+      "roles": [
+        "recorded_policy_source",
+        "previously_saved_jurisdiction_profile"
+      ]
+    },
+    {
+      "document_id": "doc-9d69c86900cca02fb9af",
+      "sha256": "9d69c86900cca02fb9af591b086d32b07b62e2f3ac53fca4327ea2056dac4d16",
+      "bytes": 207762,
+      "archive_path": "documents/9d69c86900cca02fb9af591b086d32b07b62e2f3ac53fca4327ea2056dac4d16.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "06-capital-market-disclosure-research/work/phase12_expanded/chinese-taipei-ifrs-profile.pdf"
+      ],
+      "urls": [
+        "https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-profiles/chinese-taipei-ifrs-profile.pdf"
+      ],
+      "roles": [
+        "recorded_policy_source",
+        "previously_saved_jurisdiction_profile"
+      ]
+    },
+    {
+      "document_id": "doc-79bc3b0a07a93b94f670",
+      "sha256": "79bc3b0a07a93b94f670264d76bf74abc864c72fb2cc322d8ddc24f6fdd385bf",
+      "bytes": 229399,
+      "archive_path": "documents/79bc3b0a07a93b94f670264d76bf74abc864c72fb2cc322d8ddc24f6fdd385bf.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "06-capital-market-disclosure-research/work/phase12_expanded/ghana-ifrs-profile.pdf"
+      ],
+      "urls": [
+        "https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-profiles/ghana-ifrs-profile.pdf"
+      ],
+      "roles": [
+        "recorded_policy_source",
+        "previously_saved_jurisdiction_profile"
+      ]
+    },
+    {
+      "document_id": "doc-f83b7a3a0765a6afafac",
+      "sha256": "f83b7a3a0765a6afafac32b0b470c05640ef144da22e20c8ff64016a490a8013",
+      "bytes": 273897,
+      "archive_path": "documents/f83b7a3a0765a6afafac32b0b470c05640ef144da22e20c8ff64016a490a8013.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "06-capital-market-disclosure-research/work/phase12_expanded/hong-kong-sar-ifrs-profile.pdf"
+      ],
+      "urls": [
+        "https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-profiles/hong-kong-sar-ifrs-profile.pdf"
+      ],
+      "roles": [
+        "recorded_policy_source",
+        "previously_saved_jurisdiction_profile"
+      ]
+    },
+    {
+      "document_id": "doc-61efd575762ff52a7cf4",
+      "sha256": "61efd575762ff52a7cf4a5dd9b191f3fc1fc103ca75d95ab0f9ae4885cf1ef24",
+      "bytes": 236772,
+      "archive_path": "documents/61efd575762ff52a7cf4a5dd9b191f3fc1fc103ca75d95ab0f9ae4885cf1ef24.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "06-capital-market-disclosure-research/work/phase12_expanded/japan-ifrs-profile.pdf"
+      ],
+      "urls": [
+        "https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-profiles/japan-ifrs-profile.pdf"
+      ],
+      "roles": [
+        "recorded_policy_source",
+        "previously_saved_jurisdiction_profile"
+      ]
+    },
+    {
+      "document_id": "doc-0d4a7ac7588fa5a6fd10",
+      "sha256": "0d4a7ac7588fa5a6fd10645d5255c3d0d7a4d38317662f24d1a63273e0f2e466",
+      "bytes": 249059,
+      "archive_path": "documents/0d4a7ac7588fa5a6fd10645d5255c3d0d7a4d38317662f24d1a63273e0f2e466.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "06-capital-market-disclosure-research/work/phase12_expanded/jordan-ifrs-profile.pdf"
+      ],
+      "urls": [
+        "https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-profiles/jordan-ifrs-profile.pdf"
+      ],
+      "roles": [
+        "recorded_policy_source",
+        "previously_saved_jurisdiction_profile"
+      ]
+    },
+    {
+      "document_id": "doc-6d2baafd3b4d63201dfa",
+      "sha256": "6d2baafd3b4d63201dfac22ebde4466aada92bccada5e4715e0b0c5822cf6477",
+      "bytes": 223191,
+      "archive_path": "documents/6d2baafd3b4d63201dfac22ebde4466aada92bccada5e4715e0b0c5822cf6477.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "06-capital-market-disclosure-research/work/phase12_expanded/kenya-ifrs-profile.pdf"
+      ],
+      "urls": [
+        "https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-profiles/kenya-ifrs-profile.pdf"
+      ],
+      "roles": [
+        "recorded_policy_source",
+        "previously_saved_jurisdiction_profile"
+      ]
+    },
+    {
+      "document_id": "doc-f62c645eedb8b9a19a86",
+      "sha256": "f62c645eedb8b9a19a867555c644a6ee25ac54ba6dabd9bed92a326d125c786c",
+      "bytes": 258524,
+      "archive_path": "documents/f62c645eedb8b9a19a867555c644a6ee25ac54ba6dabd9bed92a326d125c786c.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "06-capital-market-disclosure-research/work/phase12_expanded/malaysia-ifrs-profile.pdf"
+      ],
+      "urls": [
+        "https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-profiles/malaysia-ifrs-profile.pdf"
+      ],
+      "roles": [
+        "recorded_policy_source",
+        "previously_saved_jurisdiction_profile"
+      ]
+    },
+    {
+      "document_id": "doc-205942446e0abffb5d01",
+      "sha256": "205942446e0abffb5d01fbd8b0e296ec386a665be8ae7212dbb2a5a3c37822b0",
+      "bytes": 237003,
+      "archive_path": "documents/205942446e0abffb5d01fbd8b0e296ec386a665be8ae7212dbb2a5a3c37822b0.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "06-capital-market-disclosure-research/work/phase12_expanded/mexico-ifrs-profile.pdf"
+      ],
+      "urls": [
+        "https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-profiles/mexico-ifrs-profile.pdf"
+      ],
+      "roles": [
+        "recorded_policy_source",
+        "previously_saved_jurisdiction_profile"
+      ]
+    },
+    {
+      "document_id": "doc-7f3c598a2e0654ba039f",
+      "sha256": "7f3c598a2e0654ba039fa9bab4b2e19ab45b20d8bf991e7ee40645d472773f5e",
+      "bytes": 220050,
+      "archive_path": "documents/7f3c598a2e0654ba039fa9bab4b2e19ab45b20d8bf991e7ee40645d472773f5e.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "06-capital-market-disclosure-research/work/phase12_expanded/nigeria-ifrs-profile.pdf"
+      ],
+      "urls": [
+        "https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-profiles/nigeria-ifrs-profile.pdf"
+      ],
+      "roles": [
+        "recorded_policy_source",
+        "previously_saved_jurisdiction_profile"
+      ]
+    },
+    {
+      "document_id": "doc-5e5c0f90b34518ca3f65",
+      "sha256": "5e5c0f90b34518ca3f65317a9fcfe183bb96cdbdc4ad04cb92572f6ddb2a7cb9",
+      "bytes": 225002,
+      "archive_path": "documents/5e5c0f90b34518ca3f65317a9fcfe183bb96cdbdc4ad04cb92572f6ddb2a7cb9.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "06-capital-market-disclosure-research/work/phase12_expanded/pakistan-ifrs-profile.pdf"
+      ],
+      "urls": [
+        "https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-profiles/pakistan-ifrs-profile.pdf"
+      ],
+      "roles": [
+        "recorded_policy_source",
+        "previously_saved_jurisdiction_profile"
+      ]
+    },
+    {
+      "document_id": "doc-c5ef0b6d51e3d0d55916",
+      "sha256": "c5ef0b6d51e3d0d559162b23bfe71b37ab5b6349088d9d6adb6dc0f866834cd2",
+      "bytes": 199000,
+      "archive_path": "documents/c5ef0b6d51e3d0d559162b23bfe71b37ab5b6349088d9d6adb6dc0f866834cd2.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "06-capital-market-disclosure-research/work/phase12_expanded/philippines-ifrs-profile.pdf"
+      ],
+      "urls": [
+        "https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-profiles/philippines-ifrs-profile.pdf"
+      ],
+      "roles": [
+        "recorded_policy_source",
+        "previously_saved_jurisdiction_profile"
+      ]
+    },
+    {
+      "document_id": "doc-aca5c6a45f6749bfc82e",
+      "sha256": "aca5c6a45f6749bfc82eb2293578e80655abad5a4ab256eaa74849341d7f1b03",
+      "bytes": 267305,
+      "archive_path": "documents/aca5c6a45f6749bfc82eb2293578e80655abad5a4ab256eaa74849341d7f1b03.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "06-capital-market-disclosure-research/work/phase12_expanded/qatar-ifrs-profile.pdf"
+      ],
+      "urls": [
+        "https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-profiles/qatar-ifrs-profile.pdf"
+      ],
+      "roles": [
+        "recorded_policy_source",
+        "previously_saved_jurisdiction_profile"
+      ]
+    },
+    {
+      "document_id": "doc-63324ae644285a8e8038",
+      "sha256": "63324ae644285a8e8038602884f51c745c222b7f98ed49da605b1700ed31f1f7",
+      "bytes": 259491,
+      "archive_path": "documents/63324ae644285a8e8038602884f51c745c222b7f98ed49da605b1700ed31f1f7.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "06-capital-market-disclosure-research/work/phase12_expanded/rwanda-ifrs-profile.pdf"
+      ],
+      "urls": [
+        "https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-profiles/rwanda-ifrs-profile.pdf"
+      ],
+      "roles": [
+        "recorded_policy_source",
+        "previously_saved_jurisdiction_profile"
+      ]
+    },
+    {
+      "document_id": "doc-05cb1393739396dcccec",
+      "sha256": "05cb1393739396dcccec55391b303c0c4533d7b20dbd26591bd179033d326bdb",
+      "bytes": 355457,
+      "archive_path": "documents/05cb1393739396dcccec55391b303c0c4533d7b20dbd26591bd179033d326bdb.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "06-capital-market-disclosure-research/work/phase12_expanded/singapore-ifrs-profile.pdf"
+      ],
+      "urls": [
+        "https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-profiles/singapore-ifrs-profile.pdf"
+      ],
+      "roles": [
+        "recorded_policy_source",
+        "previously_saved_jurisdiction_profile"
+      ]
+    },
+    {
+      "document_id": "doc-dcc07030c6c3b5d43a37",
+      "sha256": "dcc07030c6c3b5d43a3797f933775c9350b72353e6a452e0dcd426357282c572",
+      "bytes": 237687,
+      "archive_path": "documents/dcc07030c6c3b5d43a3797f933775c9350b72353e6a452e0dcd426357282c572.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "06-capital-market-disclosure-research/work/phase12_expanded/sri-lanka-ifrs-profile.pdf"
+      ],
+      "urls": [
+        "https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-profiles/sri-lanka-ifrs-profile.pdf"
+      ],
+      "roles": [
+        "recorded_policy_source",
+        "previously_saved_jurisdiction_profile"
+      ]
+    },
+    {
+      "document_id": "doc-2028daf4687003bde4d9",
+      "sha256": "2028daf4687003bde4d989a24d5336518ef7f69dea6ca3b51d7796ac97f07774",
+      "bytes": 229070,
+      "archive_path": "documents/2028daf4687003bde4d989a24d5336518ef7f69dea6ca3b51d7796ac97f07774.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "06-capital-market-disclosure-research/work/phase12_expanded/tanzania-ifrs-profile.pdf"
+      ],
+      "urls": [
+        "https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-profiles/tanzania-ifrs-profile.pdf"
+      ],
+      "roles": [
+        "recorded_policy_source",
+        "previously_saved_jurisdiction_profile"
+      ]
+    },
+    {
+      "document_id": "doc-ed8e1418d98858c2af76",
+      "sha256": "ed8e1418d98858c2af76441b4d4653be4da155014eac3885fb0dc237159bbbe2",
+      "bytes": 265988,
+      "archive_path": "documents/ed8e1418d98858c2af76441b4d4653be4da155014eac3885fb0dc237159bbbe2.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "06-capital-market-disclosure-research/work/phase12_expanded/turkiye-ifrs-profile.pdf"
+      ],
+      "urls": [
+        "https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-profiles/turkiye-ifrs-profile.pdf"
+      ],
+      "roles": [
+        "recorded_policy_source",
+        "previously_saved_jurisdiction_profile"
+      ]
+    },
+    {
+      "document_id": "doc-5ab2e1f5940ee1c06b87",
+      "sha256": "5ab2e1f5940ee1c06b8792cff291f51500fc0cc92e3a5ea408e5f83fcd8edef5",
+      "bytes": 201624,
+      "archive_path": "documents/5ab2e1f5940ee1c06b8792cff291f51500fc0cc92e3a5ea408e5f83fcd8edef5.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "06-capital-market-disclosure-research/work/phase12_expanded/zambia-ifrs-profile.pdf"
+      ],
+      "urls": [
+        "https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-profiles/zambia-ifrs-profile.pdf"
+      ],
+      "roles": [
+        "recorded_policy_source",
+        "previously_saved_jurisdiction_profile"
+      ]
+    },
+    {
+      "document_id": "doc-12158748d0d8f41d33a1",
+      "sha256": "12158748d0d8f41d33a164effbe263ebe416fc0c7e0679e50ed42eefa05ce2b7",
+      "bytes": 225771,
+      "archive_path": "documents/12158748d0d8f41d33a164effbe263ebe416fc0c7e0679e50ed42eefa05ce2b7.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "06-capital-market-disclosure-research/work/phase12_expanded/zimbabwe-ifrs-profile.pdf"
+      ],
+      "urls": [
+        "https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-profiles/zimbabwe-ifrs-profile.pdf"
+      ],
+      "roles": [
+        "recorded_policy_source",
+        "previously_saved_jurisdiction_profile"
+      ]
+    },
+    {
+      "document_id": "doc-84f1cb99506ef67bd97f",
+      "sha256": "84f1cb99506ef67bd97f55dc7b21eed952f4d235b7939f8e5836cf8de8387127",
+      "bytes": 134454,
+      "archive_path": "documents/84f1cb99506ef67bd97f55dc7b21eed952f4d235b7939f8e5836cf8de8387127.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.ifrs.org/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction/argentina/"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-6c65ac4b524f10e903d4",
+      "sha256": "6c65ac4b524f10e903d45d19f5a40b1ebba96343010ab2077d8d665a889ca93a",
+      "bytes": 133970,
+      "archive_path": "documents/6c65ac4b524f10e903d45d19f5a40b1ebba96343010ab2077d8d665a889ca93a.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.ifrs.org/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction/australia/"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-7f03219a094d4febcf84",
+      "sha256": "7f03219a094d4febcf84e917abb8058a1f02b313dedcc3a3c6d0b9a556ee0e5e",
+      "bytes": 139115,
+      "archive_path": "documents/7f03219a094d4febcf84e917abb8058a1f02b313dedcc3a3c6d0b9a556ee0e5e.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.ifrs.org/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction/brazil/"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-27d4dd0ac4a944fa6b38",
+      "sha256": "27d4dd0ac4a944fa6b38956d040d400d1dc32ee1c169790d99c2260128ff096c",
+      "bytes": 137473,
+      "archive_path": "documents/27d4dd0ac4a944fa6b38956d040d400d1dc32ee1c169790d99c2260128ff096c.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.ifrs.org/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction/canada/"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-c4cac4db7d4858b7be55",
+      "sha256": "c4cac4db7d4858b7be5599fd20216f3038686adf1c9d0d1161d27ce5782c2279",
+      "bytes": 128430,
+      "archive_path": "documents/c4cac4db7d4858b7be5599fd20216f3038686adf1c9d0d1161d27ce5782c2279.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.ifrs.org/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction/chile/"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-7cd5b8900f924cd6bff5",
+      "sha256": "7cd5b8900f924cd6bff57cbfd276803e674bf63521c3a031c47a0c3ae6f75dd9",
+      "bytes": 134719,
+      "archive_path": "documents/7cd5b8900f924cd6bff57cbfd276803e674bf63521c3a031c47a0c3ae6f75dd9.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.ifrs.org/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction/hong-kong-sar/"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-6243eec1a7c4bda2e979",
+      "sha256": "6243eec1a7c4bda2e97939a50513044386a216807b6e3f43960b487797f11111",
+      "bytes": 134002,
+      "archive_path": "documents/6243eec1a7c4bda2e97939a50513044386a216807b6e3f43960b487797f11111.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.ifrs.org/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction/israel/"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-6b27f2901d79a6bd04e1",
+      "sha256": "6b27f2901d79a6bd04e175e3de8c851215a77f3e2c32502b7ec4a9cb4e9dbd6c",
+      "bytes": 129019,
+      "archive_path": "documents/6b27f2901d79a6bd04e175e3de8c851215a77f3e2c32502b7ec4a9cb4e9dbd6c.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.ifrs.org/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction/japan/"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-84d157014cd8ceba51ec",
+      "sha256": "84d157014cd8ceba51ecb51124923969954ad7e6903b89576310f97e291bae45",
+      "bytes": 131640,
+      "archive_path": "documents/84d157014cd8ceba51ecb51124923969954ad7e6903b89576310f97e291bae45.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.ifrs.org/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction/malaysia/"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-e83123eac3afe808d928",
+      "sha256": "e83123eac3afe808d9287ade84638d1ca448c2f9d916196aa96eac9816210945",
+      "bytes": 124193,
+      "archive_path": "documents/e83123eac3afe808d9287ade84638d1ca448c2f9d916196aa96eac9816210945.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.ifrs.org/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction/mexico/"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-ae9742020998eeb02b87",
+      "sha256": "ae9742020998eeb02b87ec57db1b783789f00bf55573cfe73d3b7e5f2ac9552f",
+      "bytes": 128501,
+      "archive_path": "documents/ae9742020998eeb02b87ec57db1b783789f00bf55573cfe73d3b7e5f2ac9552f.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.ifrs.org/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction/new-zealand/"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-af4344a3bc1924427e26",
+      "sha256": "af4344a3bc1924427e261a23985048de7d1c4baa06da7d01f83efed943ae5104",
+      "bytes": 127283,
+      "archive_path": "documents/af4344a3bc1924427e261a23985048de7d1c4baa06da7d01f83efed943ae5104.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.ifrs.org/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction/south-africa/"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-a0a2547564cbd74726b4",
+      "sha256": "a0a2547564cbd74726b40af84e6e9f26785a497cf6247494bd26664753400884",
+      "bytes": 975474,
+      "archive_path": "documents/a0a2547564cbd74726b40af84e6e9f26785a497cf6247494bd26664753400884.pdf",
+      "format": "pdf",
+      "original_locations": [],
+      "urls": [
+        "https://www.jbs.cam.ac.uk/wp-content/uploads/2024/10/cadbury-report.pdf"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-da5fc82c54ccf882c875",
+      "sha256": "da5fc82c54ccf882c87563217ee559eb002d15b4f8db8a305301ee3a36e89a94",
+      "bytes": 34554,
+      "archive_path": "documents/da5fc82c54ccf882c87563217ee559eb002d15b4f8db8a305301ee3a36e89a94.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.jpx.co.jp/english/equities/listing/cg/"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-7fe7cb9fb85348e5525e",
+      "sha256": "7fe7cb9fb85348e5525e9ec316f0a8f6437f6d9f7c16eadfee49badc7dd28b4f",
+      "bytes": 174233,
+      "archive_path": "documents/7fe7cb9fb85348e5525e9ec316f0a8f6437f6d9f7c16eadfee49badc7dd28b4f.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.kvk.nl/en/about-the-business-register/download-form-30/"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-345afb21c01e9930c44d",
+      "sha256": "345afb21c01e9930c44da72146bbc77617792fb6e5996de691d0273c227692a7",
+      "bytes": 166404,
+      "archive_path": "documents/345afb21c01e9930c44da72146bbc77617792fb6e5996de691d0273c227692a7.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.legislation.gov.au/F2015L02016/2017-06-20/2017-06-20/text/1/epub/OEBPS/document_1/document_1.html"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-308b72d1da1375d70f13",
+      "sha256": "308b72d1da1375d70f13cc215776fa9515a991c13923c6462ae49e1d3d4bfe47",
+      "bytes": 202899,
+      "archive_path": "documents/308b72d1da1375d70f13cc215776fa9515a991c13923c6462ae49e1d3d4bfe47.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.legislation.gov.uk/uksi/2014/3209?view=plain"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-1085045971aa3688a7af",
+      "sha256": "1085045971aa3688a7afd7048d07edf538c25f871b1be268e3191fbd7073607d",
+      "bytes": 1008930,
+      "archive_path": "documents/1085045971aa3688a7afd7048d07edf538c25f871b1be268e3191fbd7073607d.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.mbr.mt/cbcr-reports"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-e4e86c05e8a6db0e0d66",
+      "sha256": "e4e86c05e8a6db0e0d66a0d8c764fbc88d7d02954677bce1367efd459de3180a",
+      "bytes": 193597,
+      "archive_path": "documents/e4e86c05e8a6db0e0d66a0d8c764fbc88d7d02954677bce1367efd459de3180a.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.mccg.nl/documenten/2003/12/9/corporate-governance-code-2003"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-b7d15a4ffc53430da9cf",
+      "sha256": "b7d15a4ffc53430da9cfeaa27c196592a857304e52a3ac6aa60832c2b4c10c4e",
+      "bytes": 306226,
+      "archive_path": "documents/b7d15a4ffc53430da9cfeaa27c196592a857304e52a3ac6aa60832c2b4c10c4e.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.nap-bhr.admin.ch/dam/napbhr/en/dokumente/der-nap/slides-webinaire-intro-diligence-raisonnable.pdf.download.pdf/Slides_webinar_Introduction%20to%20human%20rights%20due%20diligence_EN.pdf"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-40c75ae141fe27d8cdc1",
+      "sha256": "40c75ae141fe27d8cdc1e45f6a5c70217f97e20039e43383aa830c32079921f0",
+      "bytes": 127857,
+      "archive_path": "documents/40c75ae141fe27d8cdc1e45f6a5c70217f97e20039e43383aa830c32079921f0.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.nbb.be/nl/balanscentrale/alles-over-de-balanscentrale/nieuws-balanscentrale"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-ac39d96240bbd15774c4",
+      "sha256": "ac39d96240bbd15774c47905aa92fe05a621ba65975e8d394c137ead198335c9",
+      "bytes": 183284,
+      "archive_path": "documents/ac39d96240bbd15774c47905aa92fe05a621ba65975e8d394c137ead198335c9.pdf",
+      "format": "pdf",
+      "original_locations": [],
+      "urls": [
+        "https://www.osc.ca/sites/default/files/pdfs/irps/rule_20050415_58-201_gov-practices.pdf"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-3e31da62fb45ed2f9e80",
+      "sha256": "3e31da62fb45ed2f9e80b031db212fc60aa2079bba51de91ee5103c903627b41",
+      "bytes": 148397,
+      "archive_path": "documents/3e31da62fb45ed2f9e80b031db212fc60aa2079bba51de91ee5103c903627b41.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.prh.fi/en/companiesandorganisations/general-instructions-for-companies/report-on-income-tax-information.html"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-2b0fdfc39d8cc3eedf64",
+      "sha256": "2b0fdfc39d8cc3eedf643da0dccf8f0f37a0e8e3e9405ad8b04b9fe95ddcb03b",
+      "bytes": 379024,
+      "archive_path": "documents/2b0fdfc39d8cc3eedf643da0dccf8f0f37a0e8e3e9405ad8b04b9fe95ddcb03b.pdf",
+      "format": "pdf",
+      "original_locations": [],
+      "urls": [
+        "https://www.pwc.com/gx/en/tax/pcbcr/pwc-pcbcr-tracker-full-data.pdf"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-816e95a8d983f8e57dce",
+      "sha256": "816e95a8d983f8e57dce8ec2c49c475a3f84f6ac340362660fd70ae6a60fd184",
+      "bytes": 1228221,
+      "archive_path": "documents/816e95a8d983f8e57dce8ec2c49c475a3f84f6ac340362660fd70ae6a60fd184.pdf",
+      "format": "pdf",
+      "original_locations": [],
+      "urls": [
+        "https://www.rab-asr.ch/sites/default/files/2025-10/Activity_Report_2006_2007.pdf"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-196b1fc031947220634b",
+      "sha256": "196b1fc031947220634b9a5d878adcc1480eca48b6b539e062488ec24d6465e9",
+      "bytes": 62409,
+      "archive_path": "documents/196b1fc031947220634b9a5d878adcc1480eca48b6b539e062488ec24d6465e9.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.riigiteataja.ee/en/tolge/pdf/521052024003"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-b15098c1cd3a42d1b1f5",
+      "sha256": "b15098c1cd3a42d1b1f56f388bf89e45072887d4e1135fb22fc1919f4e700082",
+      "bytes": 272099,
+      "archive_path": "documents/b15098c1cd3a42d1b1f56f388bf89e45072887d4e1135fb22fc1919f4e700082.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2015812-om-rapportering-av-betalningar-till_sfs-2015-812/"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-e65a8780e797a6e41a40",
+      "sha256": "e65a8780e797a6e41a404882ba75949cb8035d2d7a3cd8809cc4c88f090d3509",
+      "bytes": 324627,
+      "archive_path": "documents/e65a8780e797a6e41a404882ba75949cb8035d2d7a3cd8809cc4c88f090d3509.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2017631-om-registrering-av-verkliga_sfs-2017-631/"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-6c42f5d5da978d7ad0e2",
+      "sha256": "6c42f5d5da978d7ad0e2b32be22ca24b58244620a58b2514843e494d6db43dff",
+      "bytes": 293221,
+      "archive_path": "documents/6c42f5d5da978d7ad0e2b32be22ca24b58244620a58b2514843e494d6db43dff.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2023340-om-offentliggorande-av-vissa-stora_sfs-2023-340/"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-66e880d72c13455cb2fa",
+      "sha256": "66e880d72c13455cb2fa0328fd1a72e7dc8b7fa5cb81651915549d352f3350cb",
+      "bytes": 85686,
+      "archive_path": "documents/66e880d72c13455cb2fa0328fd1a72e7dc8b7fa5cb81651915549d352f3350cb.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.sc.com.my/resources/media/media-release/guidelines-on-digital-assets-come-into-force-today"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-24e1f303cb9768a62482",
+      "sha256": "24e1f303cb9768a624829f41d70f312a7a652b593ba2defe1d15829793c596dd",
+      "bytes": 8923,
+      "archive_path": "documents/24e1f303cb9768a624829f41d70f312a7a652b593ba2defe1d15829793c596dd.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.sebi.gov.in/media/press-releases/may-2013/sebi-issues-frequently-asked-questions-on-business-responsibility-reports-_24741.html"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-90075dee9beeeed62d09",
+      "sha256": "90075dee9beeeed62d09cd1d69aa75c1d636610160abe48f4cce5614012bf524",
+      "bytes": 181670,
+      "archive_path": "documents/90075dee9beeeed62d09cd1d69aa75c1d636610160abe48f4cce5614012bf524.pdf",
+      "format": "pdf",
+      "original_locations": [],
+      "urls": [
+        "https://www.sebi.gov.in/sebi_data/commondocs/corpgov_p.pdf"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-a52d7b58251a25a4aaf4",
+      "sha256": "a52d7b58251a25a4aaf444302f871e0f04a36b983f88432a36bfd2305f9f4bb2",
+      "bytes": 823852,
+      "archive_path": "documents/a52d7b58251a25a4aaf444302f871e0f04a36b983f88432a36bfd2305f9f4bb2.pdf",
+      "format": "pdf",
+      "original_locations": [],
+      "urls": [
+        "https://www.sec.gov/rules/final/2009/33-9002fr.pdf"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-3f9ab11ddeabc96d7c94",
+      "sha256": "3f9ab11ddeabc96d7c94951cbdb83ab4303e44239c53d8abc8b5dd114c4c351d",
+      "bytes": 1265906,
+      "archive_path": "documents/3f9ab11ddeabc96d7c94951cbdb83ab4303e44239c53d8abc8b5dd114c4c351d.pdf",
+      "format": "pdf",
+      "original_locations": [],
+      "urls": [
+        "https://www.sec.gov/rules/final/2020/34-90679.pdf"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-008e40ee6a3126ef1239",
+      "sha256": "008e40ee6a3126ef1239bad1686dcf7d9ab81c242918091220e3d6246c21fb84",
+      "bytes": 287401,
+      "archive_path": "documents/008e40ee6a3126ef1239bad1686dcf7d9ab81c242918091220e3d6246c21fb84.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.ssm.com.my/Lists/Announcement/AnnouncementDetails.aspx?ID=368"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-e4e810b36a67e2a5c89b",
+      "sha256": "e4e810b36a67e2a5c89b1b7ef356b06f5243795573eda58f318487d9de694189",
+      "bytes": 1866981,
+      "archive_path": "documents/e4e810b36a67e2a5c89b1b7ef356b06f5243795573eda58f318487d9de694189.pdf",
+      "format": "pdf",
+      "original_locations": [],
+      "urls": [
+        "https://www.torbay.gov.uk/DemocraticServices/documents/s33898/Modern%20Slavery%20Statement%20Appendix%206.pdf"
+      ],
+      "roles": [
+        "recorded_policy_source"
+      ]
+    },
+    {
+      "document_id": "doc-fdeeef53711837a013c5",
+      "sha256": "fdeeef53711837a013c5f5f715a2ce0ae6145e5117c674657bafb53afff566d6",
+      "bytes": 272511,
+      "archive_path": "documents/fdeeef53711837a013c5f5f715a2ce0ae6145e5117c674657bafb53afff566d6.pdf",
+      "format": "pdf",
+      "original_locations": [],
+      "urls": [
+        "https://boconference.cac.gov.ng/documents/boar-2026-concept-note.pdf"
+      ],
+      "roles": [
+        "linked_source_attachment"
+      ]
+    },
+    {
+      "document_id": "doc-957d779c9a60b7c30fdc",
+      "sha256": "957d779c9a60b7c30fdc6fd9251f14139a46e9fc72a16d214a3574d1b0a9fc80",
+      "bytes": 16231,
+      "archive_path": "documents/957d779c9a60b7c30fdc6fd9251f14139a46e9fc72a16d214a3574d1b0a9fc80.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://dcgk.de/app.php/de/kommission/praxis-impulse/deteilansicht/files/dcgk/usercontent/de/download/geschaeftsordnung/2021/2024%20Gesch%C3%A4ftsordnung%20RegKom.pdf"
+      ],
+      "roles": [
+        "linked_source_attachment"
+      ]
+    },
+    {
+      "document_id": "doc-0176034778e2e9231f13",
+      "sha256": "0176034778e2e9231f138e03b9232ad68cfb04c8cf8610db22ce8d0660c1928e",
+      "bytes": 276719,
+      "archive_path": "documents/0176034778e2e9231f138e03b9232ad68cfb04c8cf8610db22ce8d0660c1928e.pdf",
+      "format": "pdf",
+      "original_locations": [],
+      "urls": [
+        "https://dcgk.de//files/dcgk/usercontent/de/download/kodex/220627_Deutscher_Corporate_Governance_Kodex_2022.pdf"
+      ],
+      "roles": [
+        "linked_source_attachment"
+      ]
+    },
+    {
+      "document_id": "doc-cd3965a2ec44bea7afc2",
+      "sha256": "cd3965a2ec44bea7afc2b0f4bc200536c7647866c89ad745d27e0c4f632c6250",
+      "bytes": 2039846,
+      "archive_path": "documents/cd3965a2ec44bea7afc2b0f4bc200536c7647866c89ad745d27e0c4f632c6250.pdf",
+      "format": "pdf",
+      "original_locations": [],
+      "urls": [
+        "https://www.irba.co.za/upload/Regulatory%20Strategy%20-%20March%202026.pdf"
+      ],
+      "roles": [
+        "linked_source_attachment"
+      ]
+    },
+    {
+      "document_id": "doc-1222e0df8cc5f6a222c3",
+      "sha256": "1222e0df8cc5f6a222c3a49b005962c2a8b89a4de2ee1374ac883c77339b79e5",
+      "bytes": 260317,
+      "archive_path": "documents/1222e0df8cc5f6a222c3a49b005962c2a8b89a4de2ee1374ac883c77339b79e5.pdf",
+      "format": "pdf",
+      "original_locations": [],
+      "urls": [
+        "https://www.irba.co.za/upload/Public%20Accountants%20and%20Auditors%20Act%201991%20(Act%2080%20of%201991)-English.pdf"
+      ],
+      "roles": [
+        "linked_source_attachment"
+      ]
+    },
+    {
+      "document_id": "doc-dbbd6b1bfc534fea554a",
+      "sha256": "dbbd6b1bfc534fea554aed00c6b783ef87051f2aa734e59ffa67b5ccefca4cc9",
+      "bytes": 330152,
+      "archive_path": "documents/dbbd6b1bfc534fea554aed00c6b783ef87051f2aa734e59ffa67b5ccefca4cc9.pdf",
+      "format": "pdf",
+      "original_locations": [],
+      "urls": [
+        "https://rulebook.sgx.com/sites/default/files/net_file_store/SGX_Revised_Code_of_Corporate_Governance_-_2_May_2012.pdf"
+      ],
+      "roles": [
+        "linked_source_attachment"
+      ]
+    },
+    {
+      "document_id": "doc-62af8cd2f88503c4ce2a",
+      "sha256": "62af8cd2f88503c4ce2a583c71a42c9538588b2c439f5a16282aaa0d237f4a44",
+      "bytes": 177509,
+      "archive_path": "documents/62af8cd2f88503c4ce2a583c71a42c9538588b2c439f5a16282aaa0d237f4a44.pdf",
+      "format": "pdf",
+      "original_locations": [],
+      "urls": [
+        "https://rulebook.sgx.com/sites/default/files/net_file_store/Code_of_Corporate_Governance_6_Aug_2018_(Revised_11_Jan_2023)_(clean).pdf"
+      ],
+      "roles": [
+        "linked_source_attachment"
+      ]
+    },
+    {
+      "document_id": "doc-3f4860981d89582e6eee",
+      "sha256": "3f4860981d89582e6eee949ddce8236f4f81aa09333ad8152b015e9dd57efe3d",
+      "bytes": 398744,
+      "archive_path": "documents/3f4860981d89582e6eee949ddce8236f4f81aa09333ad8152b015e9dd57efe3d.pdf",
+      "format": "pdf",
+      "original_locations": [],
+      "urls": [
+        "https://www.irba.co.za/upload/Monetaryfineguideline28July2025.pdf"
+      ],
+      "roles": [
+        "linked_source_attachment"
+      ]
+    },
+    {
+      "document_id": "doc-7212a0c0e7fb4ced7a3d",
+      "sha256": "7212a0c0e7fb4ced7a3df8c4628ceb62d48dec62c798848e076bbd35e0a35d1a",
+      "bytes": 2888594,
+      "archive_path": "documents/7212a0c0e7fb4ced7a3df8c4628ceb62d48dec62c798848e076bbd35e0a35d1a.pdf",
+      "format": "pdf",
+      "original_locations": [],
+      "urls": [
+        "https://www.irba.co.za/upload/B-BBEE2025.pdf"
+      ],
+      "roles": [
+        "linked_source_attachment"
+      ]
+    },
+    {
+      "document_id": "doc-34f420a6b6630bcddb5a",
+      "sha256": "34f420a6b6630bcddb5a0a99ef236a302a4f99348dff29d551545b8d02c89c3e",
+      "bytes": 476423,
+      "archive_path": "documents/34f420a6b6630bcddb5a0a99ef236a302a4f99348dff29d551545b8d02c89c3e.pdf",
+      "format": "pdf",
+      "original_locations": [],
+      "urls": [
+        "https://www.boe.es/boe/dias/2022/12/22/pdfs/BOE-A-2022-21739.pdf"
+      ],
+      "roles": [
+        "linked_source_attachment"
+      ]
+    },
+    {
+      "document_id": "doc-2649868de6b68ceead1e",
+      "sha256": "2649868de6b68ceead1e80c7fbb93093f3fc38b9136014184443cb7bf2e6a9b4",
+      "bytes": 95122,
+      "archive_path": "documents/2649868de6b68ceead1e80c7fbb93093f3fc38b9136014184443cb7bf2e6a9b4.pdf",
+      "format": "pdf",
+      "original_locations": [],
+      "urls": [
+        "https://www.bundesjustizamt.de/SharedDocs/Downloads/DE/EHUG/Auszug_HGB.pdf?__blob=publicationFile&v=4"
+      ],
+      "roles": [
+        "linked_source_attachment"
+      ]
+    },
+    {
+      "document_id": "doc-74d6a6bd09a93f418186",
+      "sha256": "74d6a6bd09a93f418186e1bc2f47f4f3f7610c5a4286463c2a14670d301a1404",
+      "bytes": 118413,
+      "archive_path": "documents/74d6a6bd09a93f418186e1bc2f47f4f3f7610c5a4286463c2a14670d301a1404.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2025/09/20250926-bmwe-bafa-zurueckhaltung-lieferkettengesetz.html"
+      ],
+      "roles": [
+        "linked_source_attachment"
+      ]
+    },
+    {
+      "document_id": "doc-8978b4f8fd9241ffff02",
+      "sha256": "8978b4f8fd9241ffff02e253e727256c5dab16d47d54b55b2fb14690c5c7bf59",
+      "bytes": 17024,
+      "archive_path": "documents/8978b4f8fd9241ffff02e253e727256c5dab16d47d54b55b2fb14690c5c7bf59.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.regierung.li/media/medienarchiv/950_6_08_01_2020.pdf"
+      ],
+      "roles": [
+        "linked_source_attachment"
+      ]
+    },
+    {
+      "document_id": "doc-62f12978b510b82f320e",
+      "sha256": "62f12978b510b82f320e94a60029adcffdcc08b4d8961f94ac575c7b6187ca8e",
+      "bytes": 17093,
+      "archive_path": "documents/62f12978b510b82f320e94a60029adcffdcc08b4d8961f94ac575c7b6187ca8e.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://www.regierung.li/media/medienarchiv/950_61_16_03_2020_en_637357617226079994.pdf"
+      ],
+      "roles": [
+        "linked_source_attachment"
+      ]
+    },
+    {
+      "document_id": "doc-a9e57f684542c4ae2c86",
+      "sha256": "a9e57f684542c4ae2c860658bc06f77310322f741c2388ce2fe62b1e7d33d54a",
+      "bytes": 453951,
+      "archive_path": "documents/a9e57f684542c4ae2c860658bc06f77310322f741c2388ce2fe62b1e7d33d54a.pdf",
+      "format": "pdf",
+      "original_locations": [],
+      "urls": [
+        "https://www.frc.org.uk/documents/6901/UK_Corporate_Governance_Code_2024_Key_Changes.pdf"
+      ],
+      "roles": [
+        "linked_source_attachment"
+      ]
+    },
+    {
+      "document_id": "doc-85dbe065ec0d1a2bed27",
+      "sha256": "85dbe065ec0d1a2bed271a1a5e9ac33db6c3964e63cdcd7501267a53f1ad55cc",
+      "bytes": 367596,
+      "archive_path": "documents/85dbe065ec0d1a2bed271a1a5e9ac33db6c3964e63cdcd7501267a53f1ad55cc.pdf",
+      "format": "pdf",
+      "original_locations": [],
+      "urls": [
+        "https://www.frc.org.uk/documents/6900/UK_Corporate_Governance_Code_2024_Mythbuster_BdCPGoq.pdf"
+      ],
+      "roles": [
+        "linked_source_attachment"
+      ]
+    },
+    {
+      "document_id": "doc-bfc524eaf6d692f00b78",
+      "sha256": "bfc524eaf6d692f00b78d5872ec0f36284387c51cfac6ddf4cedd54a3b6acbcb",
+      "bytes": 295587,
+      "archive_path": "documents/bfc524eaf6d692f00b78d5872ec0f36284387c51cfac6ddf4cedd54a3b6acbcb.pdf",
+      "format": "pdf",
+      "original_locations": [],
+      "urls": [
+        "https://assets.publishing.service.gov.uk/media/62138625d3bf7f4f05879a21/mandatory-climate-related-financial-disclosures-publicly-quoted-private-cos-llps.pdf"
+      ],
+      "roles": [
+        "linked_source_attachment"
+      ]
+    },
+    {
+      "document_id": "doc-a78be8387855eb52b681",
+      "sha256": "a78be8387855eb52b68144e3cd66a0809fd808ab57c65ba4accbd13b338a3560",
+      "bytes": 93231,
+      "archive_path": "documents/a78be8387855eb52b68144e3cd66a0809fd808ab57c65ba4accbd13b338a3560.pdf",
+      "format": "pdf",
+      "original_locations": [],
+      "urls": [
+        "https://www.hkex.com.hk/-/media/HKEX-Market/News/News-Release/2007/0703303news/analysis-of-cg-practices-disclosure.pdf"
+      ],
+      "roles": [
+        "linked_source_attachment"
+      ]
+    },
+    {
+      "document_id": "doc-2709a6b0d4a618f00f01",
+      "sha256": "2709a6b0d4a618f00f01b061e18587dec9f6f781bf45dcad406fe9f7ef53d84e",
+      "bytes": 128199,
+      "archive_path": "documents/2709a6b0d4a618f00f01b061e18587dec9f6f781bf45dcad406fe9f7ef53d84e.pdf",
+      "format": "pdf",
+      "original_locations": [],
+      "urls": [
+        "https://www.ifrs.org/content/dam/ifrs/publications/jurisdictions/pdf-profiles/argentina-ifrs-profile.pdf"
+      ],
+      "roles": [
+        "linked_source_attachment"
+      ]
+    },
+    {
+      "document_id": "doc-4fbdf25fbfda84cf107c",
+      "sha256": "4fbdf25fbfda84cf107c2394d999b8b88e92b19a212b3f2dc32df4392adf5313",
+      "bytes": 131474,
+      "archive_path": "documents/4fbdf25fbfda84cf107c2394d999b8b88e92b19a212b3f2dc32df4392adf5313.pdf",
+      "format": "pdf",
+      "original_locations": [],
+      "urls": [
+        "https://www.ifrs.org/content/dam/ifrs/publications/jurisdictions/pdf-profiles/australia-ifrs-profile.pdf"
+      ],
+      "roles": [
+        "linked_source_attachment"
+      ]
+    },
+    {
+      "document_id": "doc-570332a5c9c8c27efbe0",
+      "sha256": "570332a5c9c8c27efbe06503bd59c3f690ce73f725721f9c6711835bbb3e1e47",
+      "bytes": 144204,
+      "archive_path": "documents/570332a5c9c8c27efbe06503bd59c3f690ce73f725721f9c6711835bbb3e1e47.pdf",
+      "format": "pdf",
+      "original_locations": [],
+      "urls": [
+        "https://www.ifrs.org/content/dam/ifrs/publications/jurisdictions/pdf-profiles/brazil-ifrs-profile.pdf"
+      ],
+      "roles": [
+        "linked_source_attachment"
+      ]
+    },
+    {
+      "document_id": "doc-599bbb1acd6b23730314",
+      "sha256": "599bbb1acd6b23730314a91f0d07281c03b2424ee4cdb9c8ccfce24418ca7392",
+      "bytes": 686912,
+      "archive_path": "documents/599bbb1acd6b23730314a91f0d07281c03b2424ee4cdb9c8ccfce24418ca7392.pdf",
+      "format": "pdf",
+      "original_locations": [],
+      "urls": [
+        "https://conteudo.cvm.gov.br/export/sites/cvm/subportal_ingles/menu/investors/anexos/Law-6.404-ing.pdf"
+      ],
+      "roles": [
+        "linked_source_attachment"
+      ]
+    },
+    {
+      "document_id": "doc-577a8bdb87e3822a5e02",
+      "sha256": "577a8bdb87e3822a5e020ade818ea53c487dee158f852dc1a545e83a901e8f8a",
+      "bytes": 125579,
+      "archive_path": "documents/577a8bdb87e3822a5e020ade818ea53c487dee158f852dc1a545e83a901e8f8a.pdf",
+      "format": "pdf",
+      "original_locations": [],
+      "urls": [
+        "https://www.ifrs.org/content/dam/ifrs/publications/jurisdictions/pdf-profiles/canada-ifrs-profile.pdf"
+      ],
+      "roles": [
+        "linked_source_attachment"
+      ]
+    },
+    {
+      "document_id": "doc-8acbd09fe742441a6f7d",
+      "sha256": "8acbd09fe742441a6f7d872c5fb0d7cb0881307c35900e6f90252e55d488eb70",
+      "bytes": 119943,
+      "archive_path": "documents/8acbd09fe742441a6f7d872c5fb0d7cb0881307c35900e6f90252e55d488eb70.pdf",
+      "format": "pdf",
+      "original_locations": [],
+      "urls": [
+        "https://www.ifrs.org/content/dam/ifrs/publications/jurisdictions/pdf-profiles/chile-ifrs-profile.pdf"
+      ],
+      "roles": [
+        "linked_source_attachment"
+      ]
+    },
+    {
+      "document_id": "doc-0ed3c5be473c0a8e3ac1",
+      "sha256": "0ed3c5be473c0a8e3ac1e96a974337e5681ad26b4468178e5bd422b492271a3a",
+      "bytes": 132094,
+      "archive_path": "documents/0ed3c5be473c0a8e3ac1e96a974337e5681ad26b4468178e5bd422b492271a3a.pdf",
+      "format": "pdf",
+      "original_locations": [],
+      "urls": [
+        "https://www.ifrs.org/content/dam/ifrs/publications/jurisdictions/pdf-profiles/hong-kong-sar-ifrs-profile.pdf"
+      ],
+      "roles": [
+        "linked_source_attachment"
+      ]
+    },
+    {
+      "document_id": "doc-81cec499a77dca76ffca",
+      "sha256": "81cec499a77dca76ffca59317a6f626765bcc271a6ae610c31f745eb280098ef",
+      "bytes": 123129,
+      "archive_path": "documents/81cec499a77dca76ffca59317a6f626765bcc271a6ae610c31f745eb280098ef.pdf",
+      "format": "pdf",
+      "original_locations": [],
+      "urls": [
+        "https://www.ifrs.org/content/dam/ifrs/publications/jurisdictions/pdf-profiles/israel-ifrs-profile.pdf"
+      ],
+      "roles": [
+        "linked_source_attachment"
+      ]
+    },
+    {
+      "document_id": "doc-0b59ff13c009ea7245ee",
+      "sha256": "0b59ff13c009ea7245ee425ee4ea9dec6558002eda158b7df3b03efdeb2f9bdb",
+      "bytes": 122629,
+      "archive_path": "documents/0b59ff13c009ea7245ee425ee4ea9dec6558002eda158b7df3b03efdeb2f9bdb.pdf",
+      "format": "pdf",
+      "original_locations": [],
+      "urls": [
+        "https://www.ifrs.org/content/dam/ifrs/publications/jurisdictions/pdf-profiles/japan-ifrs-profile.pdf"
+      ],
+      "roles": [
+        "linked_source_attachment"
+      ]
+    },
+    {
+      "document_id": "doc-b3c2b025d1d6b535fe05",
+      "sha256": "b3c2b025d1d6b535fe0587db4ace75fdaa295e21be1ff15aca22cc03928e7957",
+      "bytes": 125660,
+      "archive_path": "documents/b3c2b025d1d6b535fe0587db4ace75fdaa295e21be1ff15aca22cc03928e7957.pdf",
+      "format": "pdf",
+      "original_locations": [],
+      "urls": [
+        "https://www.ifrs.org/content/dam/ifrs/publications/jurisdictions/pdf-profiles/malaysia-ifrs-profile.pdf"
+      ],
+      "roles": [
+        "linked_source_attachment"
+      ]
+    },
+    {
+      "document_id": "doc-b602f1e2d948010c48e0",
+      "sha256": "b602f1e2d948010c48e0ec798d7056af821d8606c2cd353d342d4c81fa28823d",
+      "bytes": 118116,
+      "archive_path": "documents/b602f1e2d948010c48e0ec798d7056af821d8606c2cd353d342d4c81fa28823d.pdf",
+      "format": "pdf",
+      "original_locations": [],
+      "urls": [
+        "https://www.ifrs.org/content/dam/ifrs/publications/jurisdictions/pdf-profiles/mexico-ifrs-profile.pdf"
+      ],
+      "roles": [
+        "linked_source_attachment"
+      ]
+    },
+    {
+      "document_id": "doc-75e7702b832fcba29fc0",
+      "sha256": "75e7702b832fcba29fc043ca85854c846bcbba4e29d183e065f6532cd062bf24",
+      "bytes": 126542,
+      "archive_path": "documents/75e7702b832fcba29fc043ca85854c846bcbba4e29d183e065f6532cd062bf24.pdf",
+      "format": "pdf",
+      "original_locations": [],
+      "urls": [
+        "https://www.ifrs.org/content/dam/ifrs/publications/jurisdictions/pdf-profiles/new-zealand-ifrs-profile.pdf"
+      ],
+      "roles": [
+        "linked_source_attachment"
+      ]
+    },
+    {
+      "document_id": "doc-6005ff06932cf1d88f58",
+      "sha256": "6005ff06932cf1d88f5883f6ea90645cae8621a2f97ae2ecc0f9136a8ac827b1",
+      "bytes": 121673,
+      "archive_path": "documents/6005ff06932cf1d88f5883f6ea90645cae8621a2f97ae2ecc0f9136a8ac827b1.pdf",
+      "format": "pdf",
+      "original_locations": [],
+      "urls": [
+        "https://www.ifrs.org/content/dam/ifrs/publications/jurisdictions/pdf-profiles/south-africa-ifrs-profile.pdf"
+      ],
+      "roles": [
+        "linked_source_attachment"
+      ]
+    },
+    {
+      "document_id": "doc-1241579f57188297a02d",
+      "sha256": "1241579f57188297a02d843a5e872395c16a6be3f30617ad7198da925a779904",
+      "bytes": 369052,
+      "archive_path": "documents/1241579f57188297a02d843a5e872395c16a6be3f30617ad7198da925a779904.pdf",
+      "format": "pdf",
+      "original_locations": [],
+      "urls": [
+        "https://www.mccg.nl/site/binaries/site-content/collections/documents/2003/12/9/corporate-governance-code-2003/Nederlandse-corporate-governance-code-2003.pdf"
+      ],
+      "roles": [
+        "linked_source_attachment"
+      ]
+    },
+    {
+      "document_id": "doc-540ea7c389438673a95e",
+      "sha256": "540ea7c389438673a95e45d0354df2f0b86188cc15b41c6674451f4f9f3cbf97",
+      "bytes": 175430,
+      "archive_path": "documents/540ea7c389438673a95e45d0354df2f0b86188cc15b41c6674451f4f9f3cbf97.pdf",
+      "format": "pdf",
+      "original_locations": [],
+      "urls": [
+        "https://www.mccg.nl/site/binaries/site-content/collections/documents/2003/12/9/corporate-governance-code-2003/Dutch-corporate-governance-code-2003.pdf"
+      ],
+      "roles": [
+        "linked_source_attachment"
+      ]
+    },
+    {
+      "document_id": "doc-2f2a84037b211c0077f5",
+      "sha256": "2f2a84037b211c0077f52d6ee1d3124eb60fe6567bd18f99ef6591ed31a9562f",
+      "bytes": 98399,
+      "archive_path": "documents/2f2a84037b211c0077f52d6ee1d3124eb60fe6567bd18f99ef6591ed31a9562f.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://zoek.officielebekendmakingen.nl/kst-34176-6.html"
+      ],
+      "roles": [
+        "linked_source_attachment"
+      ]
+    },
+    {
+      "document_id": "doc-ac012a4a20b1d8dd2efb",
+      "sha256": "ac012a4a20b1d8dd2efbc2ae7495676dce6de7fdcfa0fb1253d453f5f847f6bd",
+      "bytes": 228703,
+      "archive_path": "documents/ac012a4a20b1d8dd2efbc2ae7495676dce6de7fdcfa0fb1253d453f5f847f6bd.html",
+      "format": "html",
+      "original_locations": [],
+      "urls": [
+        "https://zoek.officielebekendmakingen.nl/stb-2024-43.html"
+      ],
+      "roles": [
+        "linked_source_attachment"
+      ]
+    },
+    {
+      "document_id": "doc-2542b6626a52414c26bb",
+      "sha256": "2542b6626a52414c26bb647ab9748635d09979bee2e077f22483d070512fd5c4",
+      "bytes": 6567462,
+      "archive_path": "documents/2542b6626a52414c26bb647ab9748635d09979bee2e077f22483d070512fd5c4.pdf",
+      "format": "pdf",
+      "urls": [
+        "https://files.diariodarepublica.pt/gratuitos/1s/2023/08/16300.pdf"
+      ],
+      "original_locations": [],
+      "roles": [
+        "recovered_official_source"
+      ]
+    },
+    {
+      "document_id": "doc-be2a7d12c3ea67ec5736",
+      "sha256": "be2a7d12c3ea67ec57366398965f97b9cbd317b7aaf9a4082270e55c223180af",
+      "bytes": 64525,
+      "archive_path": "documents/be2a7d12c3ea67ec57366398965f97b9cbd317b7aaf9a4082270e55c223180af.html",
+      "format": "html",
+      "urls": [
+        "https://publication.icai.org/publication/414"
+      ],
+      "original_locations": [],
+      "roles": [
+        "recovered_official_source"
+      ]
+    },
+    {
+      "document_id": "doc-46ba0132e6e9fdb6104a",
+      "sha256": "46ba0132e6e9fdb6104a76eee7334a7041010174f7ab2564826959c61243ead7",
+      "bytes": 13366,
+      "archive_path": "documents/46ba0132e6e9fdb6104a76eee7334a7041010174f7ab2564826959c61243ead7.xlsx",
+      "format": "xlsx",
+      "urls": [
+        "https://osf.io/download/pqwmk/"
+      ],
+      "original_locations": [
+        "06-capital-market-disclosure-research/outputs/research_project/sources/OSF Data KSTZ September 2023.xlsx"
+      ],
+      "roles": [
+        "recovered_official_source"
+      ]
+    },
+    {
+      "document_id": "doc-760c7798391741d5781d",
+      "sha256": "760c7798391741d5781daca2ad9fb4e1660ad3e0b70e9cec3fda4ea498495a37",
+      "bytes": 4449,
+      "archive_path": "documents/760c7798391741d5781daca2ad9fb4e1660ad3e0b70e9cec3fda4ea498495a37.json",
+      "format": "json",
+      "urls": [
+        "https://api.osf.io/v2/nodes/syn8t/files/osfstorage/"
+      ],
+      "original_locations": [
+        "06-capital-market-disclosure-research/outputs/research_project/sources/osf_listing.json"
+      ],
+      "roles": [
+        "recovered_official_source"
+      ]
+    },
+    {
+      "document_id": "doc-607c21d4b3439b4f83da",
+      "sha256": "607c21d4b3439b4f83dafdabc63f772dcf29d0b82ca294a53b699ea48b1c47d4",
+      "bytes": 1301,
+      "archive_path": "documents/607c21d4b3439b4f83dafdabc63f772dcf29d0b82ca294a53b699ea48b1c47d4.txt",
+      "format": "txt",
+      "original_locations": [],
+      "urls": [
+        "https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2023-220219336"
+      ],
+      "roles": [
+        "partial_web_excerpt_only"
+      ]
+    },
+    {
+      "document_id": "doc-28c319bdc0f72a1c5005",
+      "sha256": "28c319bdc0f72a1c50054df2d7e61f50bcd0632e4e093c17ee0077e3328d50ed",
+      "bytes": 922,
+      "archive_path": "documents/28c319bdc0f72a1c50054df2d7e61f50bcd0632e4e093c17ee0077e3328d50ed.txt",
+      "format": "txt",
+      "original_locations": [],
+      "urls": [
+        "https://pcaobus.org/news-events/news-releases/news-release-detail/board-approves-registration-of-598-accounting-firms_70"
+      ],
+      "roles": [
+        "partial_web_excerpt_only"
+      ]
+    },
+    {
+      "document_id": "doc-c128423ade8255618469",
+      "sha256": "c128423ade82556184694cb24b332bff5215418895162ddc7c8ae82f4d654db0",
+      "bytes": 967,
+      "archive_path": "documents/c128423ade82556184694cb24b332bff5215418895162ddc7c8ae82f4d654db0.txt",
+      "format": "txt",
+      "original_locations": [],
+      "urls": [
+        "https://pcaobus.org/oversight/standards/implementation-resources-PCAOB-standards-rules/auditor-reporting"
+      ],
+      "roles": [
+        "partial_web_excerpt_only"
+      ]
+    },
+    {
+      "document_id": "doc-0e124712993537b4cf12",
+      "sha256": "0e124712993537b4cf12ab68e72328bd7bfaab9a02a05fe4813bdd96f5d13df2",
+      "bytes": 1252,
+      "archive_path": "documents/0e124712993537b4cf12ab68e72328bd7bfaab9a02a05fe4813bdd96f5d13df2.txt",
+      "format": "txt",
+      "original_locations": [],
+      "urls": [
+        "https://rbo.gov.ie/about-rbo-2/"
+      ],
+      "roles": [
+        "partial_web_excerpt_only"
+      ]
+    },
+    {
+      "document_id": "doc-8d8a1f6c5c07058d3ea5",
+      "sha256": "8d8a1f6c5c07058d3ea5a8d3ee0313ee48785e97ce2941b38b418e5043071b7d",
+      "bytes": 1176,
+      "archive_path": "documents/8d8a1f6c5c07058d3ea5a8d3ee0313ee48785e97ce2941b38b418e5043071b7d.txt",
+      "format": "txt",
+      "original_locations": [],
+      "urls": [
+        "https://softwaredevelopers.ato.gov.au/PublicCBCreporting"
+      ],
+      "roles": [
+        "partial_web_excerpt_only"
+      ]
+    },
+    {
+      "document_id": "doc-d79d62616c4a6fe7240a",
+      "sha256": "d79d62616c4a6fe7240a51cccd8c03a4ae23be9493e13f66a123b08baf01dd34",
+      "bytes": 1125,
+      "archive_path": "documents/d79d62616c4a6fe7240a51cccd8c03a4ae23be9493e13f66a123b08baf01dd34.txt",
+      "format": "txt",
+      "original_locations": [],
+      "urls": [
+        "https://www.ag.gov.au/crime/modern-slavery/modern-slavery-act"
+      ],
+      "roles": [
+        "partial_web_excerpt_only"
+      ]
+    },
+    {
+      "document_id": "doc-0273ef00918980efcdc6",
+      "sha256": "0273ef00918980efcdc6aa500b6a059b1c2bcba465e49486c466284a73e1dfd6",
+      "bytes": 1250,
+      "archive_path": "documents/0273ef00918980efcdc6aa500b6a059b1c2bcba465e49486c466284a73e1dfd6.txt",
+      "format": "txt",
+      "original_locations": [],
+      "urls": [
+        "https://www.althingi.is/lagas/157c/2025101.html"
+      ],
+      "roles": [
+        "partial_web_excerpt_only"
+      ]
+    },
+    {
+      "document_id": "doc-335720614841548c9869",
+      "sha256": "335720614841548c98692023fefbebfda813db90e482ef860c42628f759550b5",
+      "bytes": 1281,
+      "archive_path": "documents/335720614841548c98692023fefbebfda813db90e482ef860c42628f759550b5.txt",
+      "format": "txt",
+      "original_locations": [],
+      "urls": [
+        "https://www.legifrance.gouv.fr/jorf/id/JORFARTI000034290630"
+      ],
+      "roles": [
+        "partial_web_excerpt_only"
+      ]
+    },
+    {
+      "document_id": "doc-76950ed72dd1fbbbaa36",
+      "sha256": "76950ed72dd1fbbbaa36f2ec4d59b9c7049d262368b6d371909f909204f06cd8",
+      "bytes": 487,
+      "archive_path": "documents/76950ed72dd1fbbbaa36f2ec4d59b9c7049d262368b6d371909f909204f06cd8.txt",
+      "format": "txt",
+      "original_locations": [],
+      "urls": [
+        "https://www.mfsa.mt/our-work/authorisations-old/"
+      ],
+      "roles": [
+        "partial_web_excerpt_only"
+      ]
+    },
+    {
+      "document_id": "doc-3e90f1f105225cd46d49",
+      "sha256": "3e90f1f105225cd46d49852a9b2864ccfb310188c3b3f7fabd0c6b63ae027e5f",
+      "bytes": 530,
+      "archive_path": "documents/3e90f1f105225cd46d49852a9b2864ccfb310188c3b3f7fabd0c6b63ae027e5f.txt",
+      "format": "txt",
+      "original_locations": [],
+      "urls": [
+        "https://www.mfsa.mt/publication/circular-the-virtual-financial-assets-act-comes-into-force/"
+      ],
+      "roles": [
+        "partial_web_excerpt_only"
+      ]
+    },
+    {
+      "document_id": "doc-8f06d0e3ba0070350760",
+      "sha256": "8f06d0e3ba007035076048a66ce347624c658729515dfd371f65464a1f2c2623",
+      "bytes": 1254,
+      "archive_path": "documents/8f06d0e3ba007035076048a66ce347624c658729515dfd371f65464a1f2c2623.txt",
+      "format": "txt",
+      "original_locations": [],
+      "urls": [
+        "https://www.sec.or.th/EN/Pages/News_Detail.aspx?SECID=8532"
+      ],
+      "roles": [
+        "partial_web_excerpt_only"
+      ]
+    },
+    {
+      "document_id": "doc-99929f0e0d28efa36bb9",
+      "sha256": "99929f0e0d28efa36bb9454a26c8e0bc8f42778bc8078b3d5e4e826c41f9a1e3",
+      "bytes": 946,
+      "archive_path": "documents/99929f0e0d28efa36bb9454a26c8e0bc8f42778bc8078b3d5e4e826c41f9a1e3.txt",
+      "format": "txt",
+      "original_locations": [],
+      "urls": [
+        "https://www.sec.or.th/EN/Pages/Shortcut/DigitalAsset.aspx"
+      ],
+      "roles": [
+        "partial_web_excerpt_only"
+      ]
+    },
+    {
+      "document_id": "doc-204b73269986cd8192d5",
+      "sha256": "204b73269986cd8192d5e54d3c86c991e9b2355d117a262ee77114d71d5b2c68",
+      "bytes": 2262897,
+      "archive_path": "documents/204b73269986cd8192d5e54d3c86c991e9b2355d117a262ee77114d71d5b2c68.pdf",
+      "format": "pdf",
+      "original_locations": [],
+      "urls": [
+        "https://isomer-user-content.by.gov.sg/277/dcf7aaca-b36d-4c1c-8e2c-1f1089471251/acraar0708.pdf"
+      ],
+      "roles": [
+        "relocated_official_annual_report"
+      ]
+    }
+  ]
+}

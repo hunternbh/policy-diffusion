@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "record_id": "LEGACY_ESG_027",
+  "record_kind": "legacy_esg_document_coding",
+  "country": "EU",
+  "family": "ESG_CSR",
+  "regulation_name": "Disclosure of Non-Financial and Diversity Information by Large European Companies and Groups",
+  "issuer": "Cleary Gottlieb",
+  "requirements": "Non-financial statement requirements for large public-interest entities in management reports.",
+  "year_passed_as_recorded": "2017",
+  "effective_date_as_recorded": "2017",
+  "document_name": "hungary-esg2.pdf",
+  "document_ids": [
+    "doc-911af6f1330ed3a8ccd5"
+  ],
+  "source_file_saved": true,
+  "source_text_available": true,
+  "verification_status": "inherited_legacy_coding_not_reconciled_with_expanded_events",
+  "original_csv_record": {
+    "Country": "EU",
+    "Document": "hungary-esg2.pdf",
+    "Regulation Type": "Alert Memorandum",
+    "Regulation Name": "Disclosure of Non-Financial and Diversity Information by Large European Companies and Groups",
+    "Issuer": "Cleary Gottlieb",
+    "Requirements": "Non-financial statement requirements for large public-interest entities in management reports.",
+    "Year Passed": "2017",
+    "Effective Date": "2017"
+  },
+  "warning": "Separate inherited coding. May overlap expanded events; not additional verified implementations and not used to expand the estimation sample."
+}

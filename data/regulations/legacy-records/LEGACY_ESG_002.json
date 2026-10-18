@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "record_id": "LEGACY_ESG_002",
+  "record_kind": "legacy_esg_document_coding",
+  "country": "Australia",
+  "family": "ESG_CSR",
+  "regulation_name": "Corporations Act 2001 (Section 299(1)(f))",
+  "issuer": "Australian Government",
+  "requirements": "Disclosure of performance in relation to environmental regulation.",
+  "year_passed_as_recorded": "2001",
+  "effective_date_as_recorded": "2001",
+  "document_name": "australia-corporations-act.pdf",
+  "document_ids": [
+    "doc-67c17204ec3af6e5aed8"
+  ],
+  "source_file_saved": true,
+  "source_text_available": true,
+  "verification_status": "inherited_legacy_coding_not_reconciled_with_expanded_events",
+  "original_csv_record": {
+    "Country": "Australia",
+    "Document": "australia-corporations-act.pdf",
+    "Regulation Type": "Mandatory",
+    "Regulation Name": "Corporations Act 2001 (Section 299(1)(f))",
+    "Issuer": "Australian Government",
+    "Requirements": "Disclosure of performance in relation to environmental regulation.",
+    "Year Passed": "2001",
+    "Effective Date": "2001"
+  },
+  "warning": "Separate inherited coding. May overlap expanded events; not additional verified implementations and not used to expand the estimation sample."
+}
