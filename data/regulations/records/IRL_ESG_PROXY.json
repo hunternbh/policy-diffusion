@@ -41,7 +41,7 @@
     "source_manifest": "source-manifest.json"
   },
   "notes": "",
-  "archival_review_status": "Metadata serialized and documents archived/extracted; legal chronology, eligibility and compliance not re-audited.",
+  "archival_review_status": "OCR visual flags disposed; source-gap retrieval reviewed with explicit outcomes. Legal scope review is targeted and does not certify global histories.",
   "original_csv_record": {
     "event_id": "IRL_ESG_PROXY",
     "iso3": "IRL",
@@ -76,5 +76,16 @@
     "evidence_tier": "",
     "first_calendar_reporting_year": ""
   },
-  "original_csv_row_sha256": "f103dbf71b81bd5e6156db9fa5bdb114c9c5f2796c244ca720b29e402d9e2a27"
+  "original_csv_row_sha256": "f103dbf71b81bd5e6156db9fa5bdb114c9c5f2796c244ca720b29e402d9e2a27",
+  "legal_eligibility_review": {
+    "reviewed_at": "2026-10-18T22:43:20.230100+00:00",
+    "review_method": "Assistant source-clause review where identified; otherwise classification of unresolved data requirements, not independent legal verification.",
+    "filing_field_status": "issuer_phase_and_filing_unresolved",
+    "family_scope_requirement": "Listed population, market-cap rank or other source-specific thresholds and fiscal year must be linked; published proxy years remain separate.",
+    "issuer_assignment_status": "not_globally_resolved",
+    "actual_first_filing_date": null,
+    "global_history_status": "incomplete_census_unknown_nonadoption_retained",
+    "original_record_preserved": true,
+    "legal_date_status": "inherited_recorded_date_with_basis_preserved"
+  }
 }

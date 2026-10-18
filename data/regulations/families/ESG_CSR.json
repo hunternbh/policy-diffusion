@@ -4,12 +4,12 @@
   "event_records": 41,
   "implementation_event_records": 1,
   "published_proxy_records": 39,
-  "records_with_saved_readable_source_file": 40,
+  "records_with_saved_readable_source_file": 41,
   "records_with_excerpt_only": 0,
-  "records_without_readable_source_or_excerpt": 1,
+  "records_without_readable_source_or_excerpt": 0,
   "archive_status_counts": {
     "original_source_saved_text_available": 1,
-    "source_unavailable": 1,
+    "linked_official_source_saved_text_available": 1,
     "author_repository_files_saved_text_available": 39
   },
   "record_ids": [

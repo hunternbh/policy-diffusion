@@ -1,0 +1,12 @@
+{
+  "rows": 35213,
+  "known_current_period_filer_categories": 8138,
+  "known_current_period_EGC": 7078,
+  "context_status_counts": {
+    "no_saved_declarations": 26780,
+    "current_period_refs_verified": 8375,
+    "current_period_context_not_proven": 56,
+    "missing_header_period_end": 2
+  },
+  "rule": "Require matching fiscal-period-end context or contextRef shared with matching DocumentPeriodEndDate. Missing/conflicting facts unknown; boolean transformations explicitly applied."
+}

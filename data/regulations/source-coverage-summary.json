@@ -1,31 +1,30 @@
 {
-  "updated_at": "2026-10-18T09:13:47.763662+00:00",
+  "updated_at": "2026-10-18T22:43:20.230100+00:00",
   "expanded_event_records": 441,
   "policy_families": 14,
   "legacy_document_records": 51,
-  "dated_estimation_cases": 359,
+  "dated_estimation_cases": 360,
   "unique_recorded_source_urls": 151,
   "source_url_variants": 280,
-  "preserved_unique_documents": 258,
-  "preserved_document_bytes": 187396701,
-  "readable_documents": 252,
-  "pdf_pages_examined": 4593,
+  "preserved_unique_documents": 273,
+  "preserved_document_bytes": 203533892,
+  "readable_documents": 271,
+  "pdf_pages_examined": 4815,
   "ocr_pages_attempted": 206,
   "ocr_likely_blank_pages": 33,
-  "ocr_pages_requiring_review": 51,
+  "ocr_pages_requiring_review": 0,
   "low_text_pages_remaining": 84,
   "ocr_failed_pages": 0,
   "event_archive_status_counts": {
     "original_source_saved_text_available": 371,
-    "linked_official_source_saved_text_available": 2,
-    "source_unavailable": 15,
+    "linked_official_source_saved_text_available": 14,
+    "source_unavailable": 9,
     "author_repository_files_saved_text_available": 39,
-    "readable_derivative_or_excerpt_only": 11,
-    "saved_response_without_readable_source": 2,
-    "publication_metadata_only": 1
+    "readable_derivative_or_excerpt_only": 6,
+    "saved_response_without_readable_source": 2
   },
-  "events_with_saved_readable_source_file": 412,
-  "events_with_excerpt_only": 11,
+  "events_with_saved_readable_source_file": 424,
+  "events_with_excerpt_only": 6,
   "legacy_records_with_source_file": 51,
   "legacy_records_with_text": 51,
   "families": [
@@ -105,36 +104,16 @@
     },
     {
       "schema_version": "1.0",
-      "family": "CLIMATE",
-      "event_records": 3,
-      "implementation_event_records": 3,
-      "published_proxy_records": 0,
-      "records_with_saved_readable_source_file": 2,
-      "records_with_excerpt_only": 0,
-      "records_without_readable_source_or_excerpt": 1,
-      "archive_status_counts": {
-        "original_source_saved_text_available": 2,
-        "source_unavailable": 1
-      },
-      "record_ids": [
-        "GBR_CLIMATE_042",
-        "NZL_CLIMATE_043",
-        "AUS_CLIMATE_044"
-      ],
-      "global_census_complete": false
-    },
-    {
-      "schema_version": "1.0",
       "family": "ESG_CSR",
       "event_records": 41,
       "implementation_event_records": 1,
       "published_proxy_records": 39,
-      "records_with_saved_readable_source_file": 40,
+      "records_with_saved_readable_source_file": 41,
       "records_with_excerpt_only": 0,
-      "records_without_readable_source_or_excerpt": 1,
+      "records_without_readable_source_or_excerpt": 0,
       "archive_status_counts": {
         "original_source_saved_text_available": 1,
-        "source_unavailable": 1,
+        "linked_official_source_saved_text_available": 1,
         "author_repository_files_saved_text_available": 39
       },
       "record_ids": [
@@ -179,6 +158,99 @@
         "TWN_ESG_PROXY",
         "TUR_ESG_PROXY",
         "GBR_ESG_PROXY"
+      ],
+      "global_census_complete": false
+    },
+    {
+      "schema_version": "1.0",
+      "family": "CLIMATE",
+      "event_records": 3,
+      "implementation_event_records": 3,
+      "published_proxy_records": 0,
+      "records_with_saved_readable_source_file": 2,
+      "records_with_excerpt_only": 0,
+      "records_without_readable_source_or_excerpt": 1,
+      "archive_status_counts": {
+        "original_source_saved_text_available": 2,
+        "source_unavailable": 1
+      },
+      "record_ids": [
+        "GBR_CLIMATE_042",
+        "NZL_CLIMATE_043",
+        "AUS_CLIMATE_044"
+      ],
+      "global_census_complete": false
+    },
+    {
+      "schema_version": "1.0",
+      "family": "GOVERNANCE",
+      "event_records": 14,
+      "implementation_event_records": 12,
+      "published_proxy_records": 0,
+      "records_with_saved_readable_source_file": 12,
+      "records_with_excerpt_only": 0,
+      "records_without_readable_source_or_excerpt": 2,
+      "archive_status_counts": {
+        "original_source_saved_text_available": 12,
+        "source_unavailable": 2
+      },
+      "record_ids": [
+        "GBR_GOVERNANCE_0001",
+        "DEU_GOVERNANCE_0002",
+        "SGP_GOVERNANCE_0003",
+        "AUS_GOVERNANCE_0004",
+        "NLD_GOVERNANCE_0005",
+        "HKG_GOVERNANCE_0006",
+        "IND_GOVERNANCE_0007",
+        "MYS_GOVERNANCE_0008",
+        "CAN_GOVERNANCE_0009",
+        "SWE_GOVERNANCE_0010",
+        "ZAF_GOVERNANCE_0011",
+        "JPN_GOVERNANCE_0012",
+        "GBR_GOVERNANCE_0013",
+        "GBR_GOVERNANCE_0014"
+      ],
+      "global_census_complete": false
+    },
+    {
+      "schema_version": "1.0",
+      "family": "BENEFICIAL_OWNERSHIP",
+      "event_records": 24,
+      "implementation_event_records": 18,
+      "published_proxy_records": 0,
+      "records_with_saved_readable_source_file": 22,
+      "records_with_excerpt_only": 0,
+      "records_without_readable_source_or_excerpt": 2,
+      "archive_status_counts": {
+        "original_source_saved_text_available": 17,
+        "linked_official_source_saved_text_available": 5,
+        "source_unavailable": 2
+      },
+      "record_ids": [
+        "GBR_BENEFICIAL_OWNERSHIP_0015",
+        "SGP_BENEFICIAL_OWNERSHIP_0016",
+        "HKG_BENEFICIAL_OWNERSHIP_0017",
+        "AUT_BENEFICIAL_OWNERSHIP_0018",
+        "IRL_BENEFICIAL_OWNERSHIP_0019",
+        "FRA_BENEFICIAL_OWNERSHIP_0020",
+        "DEU_BENEFICIAL_OWNERSHIP_0021",
+        "NLD_BENEFICIAL_OWNERSHIP_0022",
+        "CAN_BENEFICIAL_OWNERSHIP_0023",
+        "USA_BENEFICIAL_OWNERSHIP_0024",
+        "ZAF_BENEFICIAL_OWNERSHIP_0025",
+        "MYS_BENEFICIAL_OWNERSHIP_0026",
+        "IND_BENEFICIAL_OWNERSHIP_0027",
+        "IDN_BENEFICIAL_OWNERSHIP_0028",
+        "KEN_BENEFICIAL_OWNERSHIP_0029",
+        "COL_BENEFICIAL_OWNERSHIP_0030",
+        "NGA_BENEFICIAL_OWNERSHIP_0031",
+        "SWE_BENEFICIAL_OWNERSHIP_0032",
+        "GBR_BENEFICIAL_OWNERSHIP_0033",
+        "SGP_BENEFICIAL_OWNERSHIP_0034",
+        "IRL_BENEFICIAL_OWNERSHIP_0035",
+        "CAN_BENEFICIAL_OWNERSHIP_0036",
+        "USA_BENEFICIAL_OWNERSHIP_0037",
+        "IRL_BENEFICIAL_OWNERSHIP_0038"
       ],
       "global_census_complete": false
     },
@@ -320,79 +392,6 @@
     },
     {
       "schema_version": "1.0",
-      "family": "GOVERNANCE",
-      "event_records": 14,
-      "implementation_event_records": 12,
-      "published_proxy_records": 0,
-      "records_with_saved_readable_source_file": 12,
-      "records_with_excerpt_only": 0,
-      "records_without_readable_source_or_excerpt": 2,
-      "archive_status_counts": {
-        "original_source_saved_text_available": 12,
-        "source_unavailable": 2
-      },
-      "record_ids": [
-        "GBR_GOVERNANCE_0001",
-        "DEU_GOVERNANCE_0002",
-        "SGP_GOVERNANCE_0003",
-        "AUS_GOVERNANCE_0004",
-        "NLD_GOVERNANCE_0005",
-        "HKG_GOVERNANCE_0006",
-        "IND_GOVERNANCE_0007",
-        "MYS_GOVERNANCE_0008",
-        "CAN_GOVERNANCE_0009",
-        "SWE_GOVERNANCE_0010",
-        "ZAF_GOVERNANCE_0011",
-        "JPN_GOVERNANCE_0012",
-        "GBR_GOVERNANCE_0013",
-        "GBR_GOVERNANCE_0014"
-      ],
-      "global_census_complete": false
-    },
-    {
-      "schema_version": "1.0",
-      "family": "BENEFICIAL_OWNERSHIP",
-      "event_records": 24,
-      "implementation_event_records": 18,
-      "published_proxy_records": 0,
-      "records_with_saved_readable_source_file": 17,
-      "records_with_excerpt_only": 1,
-      "records_without_readable_source_or_excerpt": 6,
-      "archive_status_counts": {
-        "original_source_saved_text_available": 17,
-        "source_unavailable": 6,
-        "readable_derivative_or_excerpt_only": 1
-      },
-      "record_ids": [
-        "GBR_BENEFICIAL_OWNERSHIP_0015",
-        "SGP_BENEFICIAL_OWNERSHIP_0016",
-        "HKG_BENEFICIAL_OWNERSHIP_0017",
-        "AUT_BENEFICIAL_OWNERSHIP_0018",
-        "IRL_BENEFICIAL_OWNERSHIP_0019",
-        "FRA_BENEFICIAL_OWNERSHIP_0020",
-        "DEU_BENEFICIAL_OWNERSHIP_0021",
-        "NLD_BENEFICIAL_OWNERSHIP_0022",
-        "CAN_BENEFICIAL_OWNERSHIP_0023",
-        "USA_BENEFICIAL_OWNERSHIP_0024",
-        "ZAF_BENEFICIAL_OWNERSHIP_0025",
-        "MYS_BENEFICIAL_OWNERSHIP_0026",
-        "IND_BENEFICIAL_OWNERSHIP_0027",
-        "IDN_BENEFICIAL_OWNERSHIP_0028",
-        "KEN_BENEFICIAL_OWNERSHIP_0029",
-        "COL_BENEFICIAL_OWNERSHIP_0030",
-        "NGA_BENEFICIAL_OWNERSHIP_0031",
-        "SWE_BENEFICIAL_OWNERSHIP_0032",
-        "GBR_BENEFICIAL_OWNERSHIP_0033",
-        "SGP_BENEFICIAL_OWNERSHIP_0034",
-        "IRL_BENEFICIAL_OWNERSHIP_0035",
-        "CAN_BENEFICIAL_OWNERSHIP_0036",
-        "USA_BENEFICIAL_OWNERSHIP_0037",
-        "IRL_BENEFICIAL_OWNERSHIP_0038"
-      ],
-      "global_census_complete": false
-    },
-    {
-      "schema_version": "1.0",
       "family": "CBCR_PUBLIC",
       "event_records": 44,
       "implementation_event_records": 28,
@@ -461,14 +460,13 @@
       "event_records": 38,
       "implementation_event_records": 37,
       "published_proxy_records": 0,
-      "records_with_saved_readable_source_file": 34,
-      "records_with_excerpt_only": 2,
-      "records_without_readable_source_or_excerpt": 2,
+      "records_with_saved_readable_source_file": 37,
+      "records_with_excerpt_only": 0,
+      "records_without_readable_source_or_excerpt": 1,
       "archive_status_counts": {
         "original_source_saved_text_available": 34,
         "saved_response_without_readable_source": 1,
-        "publication_metadata_only": 1,
-        "readable_derivative_or_excerpt_only": 2
+        "linked_official_source_saved_text_available": 3
       },
       "record_ids": [
         "AUT_AUDIT_REPORTING_0067",
@@ -518,13 +516,12 @@
       "event_records": 38,
       "implementation_event_records": 35,
       "published_proxy_records": 0,
-      "records_with_saved_readable_source_file": 36,
-      "records_with_excerpt_only": 1,
-      "records_without_readable_source_or_excerpt": 1,
+      "records_with_saved_readable_source_file": 38,
+      "records_with_excerpt_only": 0,
+      "records_without_readable_source_or_excerpt": 0,
       "archive_status_counts": {
         "original_source_saved_text_available": 36,
-        "readable_derivative_or_excerpt_only": 1,
-        "source_unavailable": 1
+        "linked_official_source_saved_text_available": 2
       },
       "record_ids": [
         "AUT_AUDIT_OVERSIGHT_0105",
@@ -601,12 +598,13 @@
       "event_records": 11,
       "implementation_event_records": 8,
       "published_proxy_records": 0,
-      "records_with_saved_readable_source_file": 8,
-      "records_with_excerpt_only": 3,
+      "records_with_saved_readable_source_file": 9,
+      "records_with_excerpt_only": 2,
       "records_without_readable_source_or_excerpt": 0,
       "archive_status_counts": {
         "original_source_saved_text_available": 8,
-        "readable_derivative_or_excerpt_only": 3
+        "readable_derivative_or_excerpt_only": 2,
+        "linked_official_source_saved_text_available": 1
       },
       "record_ids": [
         "USA_SUPPLY_CHAIN_0153",
@@ -714,10 +712,25 @@
       "global_census_complete": false
     }
   ],
-  "legal_coding_changed": false,
-  "empirical_estimates_recomputed": false,
-  "qualification": "Records are events, not unique statutes. Archive availability and machine-readable text do not independently verify legal dates, scope, eligibility, compliance or global nonadoption.",
-  "events_without_readable_source_or_excerpt": 18,
+  "legal_coding_changed": true,
+  "empirical_estimates_recomputed": true,
+  "qualification": "Event records are not unique statutes. Source-gap and OCR review dispositions are complete; remaining blocked originals, partial source evidence and global issuer/history gaps remain explicit. Rerun status is finalized in release audit.",
+  "events_without_readable_source_or_excerpt": 11,
   "ocr_orientation_retry_attempts": 52,
-  "ocr_orientation_improved_pages": 1
+  "ocr_orientation_improved_pages": 1,
+  "ocr_pages_requiring_review_before_visual_pass": 51,
+  "ocr_visual_review": {
+    "completed_at": "2026-10-18T22:29:15.210817+00:00",
+    "original_flagged_pages": 51,
+    "visual_dispositions_completed": 51,
+    "blank_images_checked": 33,
+    "remaining_unreviewed_flags": 0,
+    "method": "Assistant visual inspection; substantive interpretation and legal scope remain separate from OCR readability.",
+    "audit_file": "audit/ocr-page-review.json"
+  },
+  "original_dated_estimation_cases": 359,
+  "reviewed_dated_estimation_cases": 360,
+  "source_gap_reviews_completed": 29,
+  "targeted_clause_review_records": 12,
+  "new_unique_documents": 15
 }

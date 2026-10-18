@@ -38,7 +38,7 @@
     "source_manifest": "source-manifest.json"
   },
   "notes": "Ending on or after 31 December 2018",
-  "archival_review_status": "Metadata serialized and documents archived/extracted; legal chronology, eligibility and compliance not re-audited.",
+  "archival_review_status": "OCR visual flags disposed; source-gap retrieval reviewed with explicit outcomes. Legal scope review is targeted and does not certify global histories.",
   "original_csv_record": {
     "event_id": "EGY_CBCR_OECD",
     "iso3": "EGY",
@@ -73,5 +73,16 @@
     "evidence_tier": "",
     "first_calendar_reporting_year": ""
   },
-  "original_csv_row_sha256": "23fc4ec19b370bcbd667d05d1add8d198ec73abb01cb0f47445eef5c9a1bdf1a"
+  "original_csv_row_sha256": "23fc4ec19b370bcbd667d05d1add8d198ec73abb01cb0f47445eef5c9a1bdf1a",
+  "legal_eligibility_review": {
+    "reviewed_at": "2026-10-18T22:43:20.230100+00:00",
+    "review_method": "Assistant source-clause review where identified; otherwise classification of unresolved data requirements, not independent legal verification.",
+    "filing_field_status": "confidential_tax_filing_not_public_issuer_date",
+    "family_scope_requirement": "Ultimate-parent/surrogate/constituent-entity scope, consolidated group threshold, fiscal year and local tax filing deadline required; tax report is confidential.",
+    "issuer_assignment_status": "not_globally_resolved",
+    "actual_first_filing_date": null,
+    "global_history_status": "incomplete_census_unknown_nonadoption_retained",
+    "original_record_preserved": true,
+    "legal_date_status": "inherited_recorded_date_with_basis_preserved"
+  }
 }

@@ -30,15 +30,29 @@
     "recorded_url": "https://pcaobus.org/oversight/standards/implementation-resources-PCAOB-standards-rules/auditor-reporting",
     "source_locator": "large accelerated filers June 2019; others December 2020",
     "url_fragment": null,
-    "archive_status": "readable_derivative_or_excerpt_only",
-    "has_saved_readable_source_file": false,
+    "archive_status": "linked_official_source_saved_text_available",
+    "has_saved_readable_source_file": true,
     "document_ids": [
-      "doc-c128423ade8255618469"
+      "doc-86e1f609e7aa6bee9465",
+      "doc-c128423ade8255618469",
+      "doc-d28e23239c1e0eb0ae02"
     ],
-    "source_manifest": "source-manifest.json"
+    "source_manifest": "source-manifest.json",
+    "reviewed_alternative_sources": [
+      {
+        "url": "https://assets.pcaobus.org/pcaob-dev/docs/default-source/standards/documents/implementation-of-critical-audit-matters-the-basics.pdf?sfvrsn=dc053da6_0",
+        "document_id": "doc-86e1f609e7aa6bee9465",
+        "scope": "Full saved official instrument/explanation; not necessarily the original recorded URL."
+      },
+      {
+        "url": "https://assets.pcaobus.org/pcaob-dev/docs/default-source/standards/documents/pcaob-auditors-report-guidance-8-23-18.pdf?sfvrsn=f8ca329c_0",
+        "document_id": "doc-d28e23239c1e0eb0ae02",
+        "scope": "Full saved official instrument/explanation; not necessarily the original recorded URL."
+      }
+    ]
   },
   "notes": "",
-  "archival_review_status": "Metadata serialized and documents archived/extracted; legal chronology, eligibility and compliance not re-audited.",
+  "archival_review_status": "OCR visual flags disposed; source-gap retrieval reviewed with explicit outcomes. Legal scope review is targeted and does not certify global histories.",
   "original_csv_record": {
     "event_id": "USA_AUDIT_REPORTING_0102",
     "iso3": "USA",
@@ -73,5 +87,22 @@
     "evidence_tier": "",
     "first_calendar_reporting_year": ""
   },
-  "original_csv_row_sha256": "0802fea2e075aa938cef334bde6bcf27303538c5242cb446b849c1d724c170fa"
+  "original_csv_row_sha256": "0802fea2e075aa938cef334bde6bcf27303538c5242cb446b849c1d724c170fa",
+  "legal_eligibility_review": {
+    "reviewed_at": "2026-10-18T22:43:20.230100+00:00",
+    "review_method": "Assistant source-clause review where identified; otherwise classification of unresolved data requirements, not independent legal verification.",
+    "filing_field_status": "fiscal_period_filer_category_and_filing_unresolved",
+    "family_scope_requirement": "KAM/CAM standard-specific listed/PIE scope, EGC exceptions, fiscal start/end and first audited report publication required.",
+    "issuer_assignment_status": "not_globally_resolved",
+    "actual_first_filing_date": null,
+    "global_history_status": "incomplete_census_unknown_nonadoption_retained",
+    "original_record_preserved": true,
+    "legal_date_status": "targeted_source_clauses_reviewed_with_stated_limits",
+    "targeted_clause_review": {
+      "scope": "Large accelerated filers, excluding EGCs; broker/dealer, investment-company and employee-plan exceptions require entity-specific checks. BDCs are not automatically investment-company-exempt.",
+      "timing": "Fiscal years ending on/after30Jun2019. Join actual SEC filing date; do not assign all USA quotes2019.",
+      "source": "USA_AUDITOR_GUIDANCE",
+      "locator": "Guidance page8, EffectiveDates; CAM exception paragraph."
+    }
+  }
 }

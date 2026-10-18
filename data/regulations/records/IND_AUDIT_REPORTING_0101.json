@@ -30,15 +30,23 @@
     "recorded_url": "https://kb.icai.org/pdfs/PDFFile5b276c91af7932.01913354.pdf",
     "source_locator": "effective for periods beginning on/after 1 April 2018; deferred from 2017",
     "url_fragment": null,
-    "archive_status": "publication_metadata_only",
-    "has_saved_readable_source_file": false,
+    "archive_status": "linked_official_source_saved_text_available",
+    "has_saved_readable_source_file": true,
     "document_ids": [
-      "doc-be2a7d12c3ea67ec5736"
+      "doc-be2a7d12c3ea67ec5736",
+      "doc-fcd3ce1773bc5762e4f4"
     ],
-    "source_manifest": "source-manifest.json"
+    "source_manifest": "source-manifest.json",
+    "reviewed_alternative_sources": [
+      {
+        "url": "https://www.bhubaneswar-icai.org/wp-content/uploads/2018/02/e-newsletter-eirc-dec-2017.pdf",
+        "document_id": "doc-fcd3ce1773bc5762e4f4",
+        "scope": "Full saved official instrument/explanation; not necessarily the original recorded URL."
+      }
+    ]
   },
   "notes": "First typical March year-end reports are 2019; the plot dates the 2018 reporting-period start.",
-  "archival_review_status": "Metadata serialized and documents archived/extracted; legal chronology, eligibility and compliance not re-audited.",
+  "archival_review_status": "OCR visual flags disposed; source-gap retrieval reviewed with explicit outcomes. Legal scope review is targeted and does not certify global histories.",
   "original_csv_record": {
     "event_id": "IND_AUDIT_REPORTING_0101",
     "iso3": "IND",
@@ -73,5 +81,22 @@
     "evidence_tier": "",
     "first_calendar_reporting_year": ""
   },
-  "original_csv_row_sha256": "ff1de4af3cf265a95b912d9da2ebc751d36eeb3eab4bacefee0a12deb1ac5f9c"
+  "original_csv_row_sha256": "ff1de4af3cf265a95b912d9da2ebc751d36eeb3eab4bacefee0a12deb1ac5f9c",
+  "legal_eligibility_review": {
+    "reviewed_at": "2026-10-18T22:43:20.230100+00:00",
+    "review_method": "Assistant source-clause review where identified; otherwise classification of unresolved data requirements, not independent legal verification.",
+    "filing_field_status": "fiscal_period_filer_category_and_filing_unresolved",
+    "family_scope_requirement": "KAM/CAM standard-specific listed/PIE scope, EGC exceptions, fiscal start/end and first audited report publication required.",
+    "issuer_assignment_status": "not_globally_resolved",
+    "actual_first_filing_date": null,
+    "global_history_status": "incomplete_census_unknown_nonadoption_retained",
+    "original_record_preserved": true,
+    "legal_date_status": "targeted_source_clauses_reviewed_with_stated_limits",
+    "targeted_clause_review": {
+      "scope": "SA701 listed-entity auditor report; no revenue or employment threshold inferred.",
+      "timing": "Official ICAI branch newsletter confirms deferral to periods beginning1Apr2018, not public filings on that day. Original standard remains a source-quality limitation.",
+      "source": "IND_KAM",
+      "locator": "December2017 EIRC newsletter, page3, SA701 deferral."
+    }
+  }
 }

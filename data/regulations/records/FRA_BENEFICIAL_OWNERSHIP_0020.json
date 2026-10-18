@@ -30,13 +30,22 @@
     "recorded_url": "https://www.legifrance.gouv.fr/jorf/id/JORFSCTA000034920801",
     "source_locator": "Decree 2017-1094; 1 August 2017; incumbents 1 April 2018",
     "url_fragment": null,
-    "archive_status": "source_unavailable",
-    "has_saved_readable_source_file": false,
-    "document_ids": [],
-    "source_manifest": "source-manifest.json"
+    "archive_status": "linked_official_source_saved_text_available",
+    "has_saved_readable_source_file": true,
+    "document_ids": [
+      "doc-5837eef5adf0394ad5ec"
+    ],
+    "source_manifest": "source-manifest.json",
+    "reviewed_alternative_sources": [
+      {
+        "url": "https://www.afg.asso.fr/app/uploads/2017/06/Decret-2017-1094_12_-juin_2017_registre_beneficiaires_effectifs-1.pdf",
+        "document_id": "doc-5837eef5adf0394ad5ec",
+        "scope": "Full saved official instrument/explanation; not necessarily the original recorded URL."
+      }
+    ]
   },
   "notes": "Date identifies the documented stage; it does not imply universal public access.",
-  "archival_review_status": "Metadata serialized and documents archived/extracted; legal chronology, eligibility and compliance not re-audited.",
+  "archival_review_status": "OCR visual flags disposed; source-gap retrieval reviewed with explicit outcomes. Legal scope review is targeted and does not certify global histories.",
   "original_csv_record": {
     "event_id": "FRA_BENEFICIAL_OWNERSHIP_0020",
     "iso3": "FRA",
@@ -71,5 +80,22 @@
     "evidence_tier": "",
     "first_calendar_reporting_year": ""
   },
-  "original_csv_row_sha256": "81b4a4f43b22553f0f3ed9ab408240a3534a49aef6d7868215a6480bbf3ebf88"
+  "original_csv_row_sha256": "81b4a4f43b22553f0f3ed9ab408240a3534a49aef6d7868215a6480bbf3ebf88",
+  "legal_eligibility_review": {
+    "reviewed_at": "2026-10-18T22:43:20.230100+00:00",
+    "review_method": "Assistant source-clause review where identified; otherwise classification of unresolved data requirements, not independent legal verification.",
+    "filing_field_status": "entity_exemption_and_filing_unresolved",
+    "family_scope_requirement": "Place of incorporation, listed-market/equivalent-transparency exemptions, registry/access type and transition dates required. Country market assignment is insufficient.",
+    "issuer_assignment_status": "not_globally_resolved",
+    "actual_first_filing_date": null,
+    "global_history_status": "incomplete_census_unknown_nonadoption_retained",
+    "original_record_preserved": true,
+    "legal_date_status": "targeted_source_clauses_reviewed_with_stated_limits",
+    "targeted_clause_review": {
+      "scope": "Decree supplies registration procedure; historical statutory listed-company exemption still requires separate statute verification and venue matching.",
+      "timing": "Decree2017-1094 effective1Aug2017; incumbent transition before1Apr2018, new registrations follow R561-55. No uniform actual filing date.",
+      "source": "FRA_BO_DECREE",
+      "locator": "Notice of entry into force; Article1 R561-55; Article2."
+    }
+  }
 }

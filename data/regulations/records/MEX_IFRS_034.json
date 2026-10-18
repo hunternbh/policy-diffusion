@@ -40,7 +40,7 @@
     "source_manifest": "source-manifest.json"
   },
   "notes": "",
-  "archival_review_status": "Metadata serialized and documents archived/extracted; legal chronology, eligibility and compliance not re-audited.",
+  "archival_review_status": "OCR visual flags disposed; source-gap retrieval reviewed with explicit outcomes. Legal scope review is targeted and does not certify global histories.",
   "original_csv_record": {
     "event_id": "MEX_IFRS_034",
     "iso3": "MEX",
@@ -75,5 +75,16 @@
     "evidence_tier": "",
     "first_calendar_reporting_year": ""
   },
-  "original_csv_row_sha256": "c242c8a68def00fb454c1809226d9b1f60082c9628b5d216067aaa1da60009db"
+  "original_csv_row_sha256": "c242c8a68def00fb454c1809226d9b1f60082c9628b5d216067aaa1da60009db",
+  "legal_eligibility_review": {
+    "reviewed_at": "2026-10-18T22:43:20.230100+00:00",
+    "review_method": "Assistant source-clause review where identified; otherwise classification of unresolved data requirements, not independent legal verification.",
+    "filing_field_status": "fiscal_period_rule_requires_issuer_match",
+    "family_scope_requirement": "Consolidation, regulated-market class, fiscal-year start, national exceptions/deferrals and actual filing must be observed.",
+    "issuer_assignment_status": "not_globally_resolved",
+    "actual_first_filing_date": null,
+    "global_history_status": "incomplete_census_unknown_nonadoption_retained",
+    "original_record_preserved": true,
+    "legal_date_status": "inherited_recorded_date_with_basis_preserved"
+  }
 }

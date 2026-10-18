@@ -38,7 +38,7 @@
     "source_manifest": "source-manifest.json"
   },
   "notes": "ISSB category includes direct adoption, local equivalents, climate-only and informed use; similarity is specified in scope, not assumed identical.",
-  "archival_review_status": "Metadata serialized and documents archived/extracted; legal chronology, eligibility and compliance not re-audited.",
+  "archival_review_status": "OCR visual flags disposed; source-gap retrieval reviewed with explicit outcomes. Legal scope review is targeted and does not certify global histories.",
   "original_csv_record": {
     "event_id": "MYS_ISSB_0206",
     "iso3": "MYS",
@@ -73,5 +73,16 @@
     "evidence_tier": "",
     "first_calendar_reporting_year": ""
   },
-  "original_csv_row_sha256": "b5544eb4c2ac9641a1debc53aa3c02bb06ed8f3ee80bd551cd2480b5443ff133"
+  "original_csv_row_sha256": "b5544eb4c2ac9641a1debc53aa3c02bb06ed8f3ee80bd551cd2480b5443ff133",
+  "legal_eligibility_review": {
+    "reviewed_at": "2026-10-18T22:43:20.230100+00:00",
+    "review_method": "Assistant source-clause review where identified; otherwise classification of unresolved data requirements, not independent legal verification.",
+    "filing_field_status": "phase_and_future_reporting_unresolved",
+    "family_scope_requirement": "Jurisdiction profile may describe adoption, local equivalent, climate-only or informed use. Entity phase, thresholds, future dates and withdrawals must be retained.",
+    "issuer_assignment_status": "not_globally_resolved",
+    "actual_first_filing_date": null,
+    "global_history_status": "incomplete_census_unknown_nonadoption_retained",
+    "original_record_preserved": true,
+    "legal_date_status": "inherited_recorded_date_with_basis_preserved"
+  }
 }

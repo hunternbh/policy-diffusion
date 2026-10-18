@@ -38,7 +38,7 @@
     "source_manifest": "source-manifest.json"
   },
   "notes": "Source describes draft legislative repeal; no enacted repeal date is inferred.",
-  "archival_review_status": "Metadata serialized and documents archived/extracted; legal chronology, eligibility and compliance not re-audited.",
+  "archival_review_status": "OCR visual flags disposed; source-gap retrieval reviewed with explicit outcomes. Legal scope review is targeted and does not certify global histories.",
   "original_csv_record": {
     "event_id": "DEU_SUPPLY_CHAIN_0162",
     "iso3": "DEU",
@@ -73,5 +73,16 @@
     "evidence_tier": "",
     "first_calendar_reporting_year": ""
   },
-  "original_csv_row_sha256": "1f5595c6b710afbc12754595cc6a576e9c4172963d6784d3a632e0697a504229"
+  "original_csv_row_sha256": "1f5595c6b710afbc12754595cc6a576e9c4172963d6784d3a632e0697a504229",
+  "legal_eligibility_review": {
+    "reviewed_at": "2026-10-18T22:43:20.230100+00:00",
+    "review_method": "Assistant source-clause review where identified; otherwise classification of unresolved data requirements, not independent legal verification.",
+    "filing_field_status": "revenue_employee_nexus_and_filing_unresolved",
+    "family_scope_requirement": "Country-specific group revenue/employment and nexus, statement/plan versus implementation account, fiscal dates and deadline extensions required.",
+    "issuer_assignment_status": "not_globally_resolved",
+    "actual_first_filing_date": null,
+    "global_history_status": "incomplete_census_unknown_nonadoption_retained",
+    "original_record_preserved": true,
+    "legal_date_status": "inherited_recorded_date_with_basis_preserved"
+  }
 }

@@ -1299,6 +1299,30 @@
           "page_count": null,
           "ocr_pages": 0,
           "low_text_pages": []
+        },
+        {
+          "document_id": "doc-fcd3ce1773bc5762e4f4",
+          "sha256": "fcd3ce1773bc5762e4f4fb6d5e30bfc69012467e98fe5b1ed43bae8bf3a47899",
+          "bytes": 1192111,
+          "archive_path": "documents/fcd3ce1773bc5762e4f4fb6d5e30bfc69012467e98fe5b1ed43bae8bf3a47899.pdf",
+          "format": "pdf",
+          "original_locations": [
+            "13-legal-eligibility-and-history-review\\2026-10-18\\sources\\IND_KAM-fcd3ce1773bc.pdf"
+          ],
+          "urls": [
+            "https://www.bhubaneswar-icai.org/wp-content/uploads/2018/02/e-newsletter-eirc-dec-2017.pdf"
+          ],
+          "roles": [
+            "recovered_official_instrument_or_official_explanation"
+          ],
+          "association": "reviewed_alternative_official_source",
+          "kind": "linked_official_source",
+          "text_path": "text/doc-fcd3ce1773bc5762e4f4.txt",
+          "readable": true,
+          "extraction_status": "text_extracted",
+          "page_count": 10,
+          "ocr_pages": 0,
+          "low_text_pages": []
         }
       ],
       "retrieval": {
@@ -1308,10 +1332,26 @@
         "error_type": "URLError",
         "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'kb.icai.org'. (_ssl.c:1010)>"
       },
-      "archive_status": "publication_metadata_only",
-      "has_saved_readable_source_file": false,
+      "archive_status": "linked_official_source_saved_text_available",
+      "has_saved_readable_source_file": true,
       "has_readable_excerpt_only": false,
-      "legal_coding_reverified_by_this_archival_pass": false
+      "legal_coding_reverified_by_this_archival_pass": false,
+      "recovery_log": [
+        {
+          "key": "IND_KAM",
+          "url": "https://www.bhubaneswar-icai.org/wp-content/uploads/2018/02/e-newsletter-eirc-dec-2017.pdf",
+          "retrieved_at": "2026-10-18T22:22:53.778620+00:00",
+          "final_url": "https://www.bhubaneswar-icai.org/wp-content/uploads/2018/02/e-newsletter-eirc-dec-2017.pdf",
+          "content_type": "application/pdf",
+          "http_status": 200,
+          "file": "sources/IND_KAM-fcd3ce1773bc.pdf",
+          "sha256": "fcd3ce1773bc5762e4f4fb6d5e30bfc69012467e98fe5b1ed43bae8bf3a47899",
+          "bytes": 1192111,
+          "text_file": "sources/IND_KAM.txt",
+          "text_characters": 30637,
+          "status": "saved_readable_source"
+        }
+      ]
     },
     {
       "source_key": "src-610b1ebf7478d4cb",
@@ -1914,6 +1954,30 @@
           "page_count": null,
           "ocr_pages": 0,
           "low_text_pages": []
+        },
+        {
+          "document_id": "doc-f6666256313bbaddac94",
+          "sha256": "f6666256313bbaddac941da3f5bda04645e5abaf08a6c53394eef2d26a93a127",
+          "bytes": 290864,
+          "archive_path": "documents/f6666256313bbaddac941da3f5bda04645e5abaf08a6c53394eef2d26a93a127.pdf",
+          "format": "pdf",
+          "original_locations": [
+            "13-legal-eligibility-and-history-review\\2026-10-18\\sources\\USA_SOX-f6666256313b.pdf"
+          ],
+          "urls": [
+            "https://www.govinfo.gov/content/pkg/PLAW-107publ204/pdf/PLAW-107publ204.pdf"
+          ],
+          "roles": [
+            "recovered_official_instrument_or_official_explanation"
+          ],
+          "association": "reviewed_alternative_official_source",
+          "kind": "linked_official_source",
+          "text_path": "text/doc-f6666256313bbaddac94.txt",
+          "readable": true,
+          "extraction_status": "text_extracted",
+          "page_count": 66,
+          "ocr_pages": 0,
+          "low_text_pages": []
         }
       ],
       "retrieval": {
@@ -1925,10 +1989,26 @@
         "http_status": 403,
         "error_response_archive": "documents/1bd9915adf5bee056ecd6131f5546dec3066dd8d03732365b0c0954a8a21862b.html"
       },
-      "archive_status": "readable_derivative_or_excerpt_only",
-      "has_saved_readable_source_file": false,
-      "has_readable_excerpt_only": true,
-      "legal_coding_reverified_by_this_archival_pass": false
+      "archive_status": "linked_official_source_saved_text_available",
+      "has_saved_readable_source_file": true,
+      "has_readable_excerpt_only": false,
+      "legal_coding_reverified_by_this_archival_pass": false,
+      "recovery_log": [
+        {
+          "key": "USA_SOX",
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-107publ204/pdf/PLAW-107publ204.pdf",
+          "retrieved_at": "2026-10-18T22:39:43.382917+00:00",
+          "final_url": "https://www.govinfo.gov/content/pkg/PLAW-107publ204/pdf/PLAW-107publ204.pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "file": "sources/USA_SOX-f6666256313b.pdf",
+          "text_file": "sources/USA_SOX.txt",
+          "sha256": "f6666256313bbaddac941da3f5bda04645e5abaf08a6c53394eef2d26a93a127",
+          "bytes": 290864,
+          "text_characters": 370966,
+          "status": "saved_readable_source"
+        }
+      ]
     },
     {
       "source_key": "src-76b196bae5906956",
@@ -1967,6 +2047,54 @@
           "page_count": null,
           "ocr_pages": 0,
           "low_text_pages": []
+        },
+        {
+          "document_id": "doc-86e1f609e7aa6bee9465",
+          "sha256": "86e1f609e7aa6bee9465b32f00d232bde6c90dccdb8c5f66be174407e0a79e97",
+          "bytes": 152486,
+          "archive_path": "documents/86e1f609e7aa6bee9465b32f00d232bde6c90dccdb8c5f66be174407e0a79e97.pdf",
+          "format": "pdf",
+          "original_locations": [
+            "13-legal-eligibility-and-history-review\\2026-10-18\\sources\\USA_CAM_BASICS-86e1f609e7aa.pdf"
+          ],
+          "urls": [
+            "https://assets.pcaobus.org/pcaob-dev/docs/default-source/standards/documents/implementation-of-critical-audit-matters-the-basics.pdf?sfvrsn=dc053da6_0"
+          ],
+          "roles": [
+            "recovered_official_instrument_or_official_explanation"
+          ],
+          "association": "reviewed_alternative_official_source",
+          "kind": "linked_official_source",
+          "text_path": "text/doc-86e1f609e7aa6bee9465.txt",
+          "readable": true,
+          "extraction_status": "text_extracted",
+          "page_count": 5,
+          "ocr_pages": 0,
+          "low_text_pages": []
+        },
+        {
+          "document_id": "doc-d28e23239c1e0eb0ae02",
+          "sha256": "d28e23239c1e0eb0ae02472ab539494d6668c69e1705e624350016ed36a32867",
+          "bytes": 451174,
+          "archive_path": "documents/d28e23239c1e0eb0ae02472ab539494d6668c69e1705e624350016ed36a32867.pdf",
+          "format": "pdf",
+          "original_locations": [
+            "13-legal-eligibility-and-history-review\\2026-10-18\\sources\\USA_AUDITOR_GUIDANCE-d28e23239c1e.pdf"
+          ],
+          "urls": [
+            "https://assets.pcaobus.org/pcaob-dev/docs/default-source/standards/documents/pcaob-auditors-report-guidance-8-23-18.pdf?sfvrsn=f8ca329c_0"
+          ],
+          "roles": [
+            "recovered_official_instrument_or_official_explanation"
+          ],
+          "association": "reviewed_alternative_official_source",
+          "kind": "linked_official_source",
+          "text_path": "text/doc-d28e23239c1e0eb0ae02.txt",
+          "readable": true,
+          "extraction_status": "text_extracted",
+          "page_count": 15,
+          "ocr_pages": 0,
+          "low_text_pages": []
         }
       ],
       "retrieval": {
@@ -1978,10 +2106,68 @@
         "http_status": 403,
         "error_response_archive": "documents/93369fcfc2daea170037a0928a7265b5209f7856767c2de73d621e90982189bc.html"
       },
-      "archive_status": "readable_derivative_or_excerpt_only",
-      "has_saved_readable_source_file": false,
-      "has_readable_excerpt_only": true,
-      "legal_coding_reverified_by_this_archival_pass": false
+      "archive_status": "linked_official_source_saved_text_available",
+      "has_saved_readable_source_file": true,
+      "has_readable_excerpt_only": false,
+      "legal_coding_reverified_by_this_archival_pass": false,
+      "recovery_log": [
+        {
+          "key": "USA_CAM_BASICS",
+          "url": "https://assets.pcaobus.org/pcaob-dev/docs/default-source/standards/documents/implementation-of-critical-audit-matters-the-basics.pdf?sfvrsn=dc053da6_0",
+          "retrieved_at": "2026-10-18T22:39:42.640359+00:00",
+          "final_url": "https://assets.pcaobus.org/pcaob-dev/docs/default-source/standards/documents/implementation-of-critical-audit-matters-the-basics.pdf?sfvrsn=dc053da6_0",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "file": "sources/USA_CAM_BASICS-86e1f609e7aa.pdf",
+          "text_file": "sources/USA_CAM_BASICS.txt",
+          "sha256": "86e1f609e7aa6bee9465b32f00d232bde6c90dccdb8c5f66be174407e0a79e97",
+          "bytes": 152486,
+          "text_characters": 22131,
+          "status": "saved_readable_source"
+        },
+        {
+          "key": "USA_CAM_BASICS",
+          "url": "https://assets.pcaobus.org/pcaob-dev/docs/default-source/standards/documents/implementation-of-critical-audit-matters-the-basics.pdf?sfvrsn=dc053da6_0",
+          "retrieved_at": "2026-10-18T22:39:42.640359+00:00",
+          "final_url": "https://assets.pcaobus.org/pcaob-dev/docs/default-source/standards/documents/implementation-of-critical-audit-matters-the-basics.pdf?sfvrsn=dc053da6_0",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "file": "sources/USA_CAM_BASICS-86e1f609e7aa.pdf",
+          "text_file": "sources/USA_CAM_BASICS.txt",
+          "sha256": "86e1f609e7aa6bee9465b32f00d232bde6c90dccdb8c5f66be174407e0a79e97",
+          "bytes": 152486,
+          "text_characters": 22131,
+          "status": "saved_readable_source"
+        },
+        {
+          "key": "USA_AUDITOR_GUIDANCE",
+          "url": "https://assets.pcaobus.org/pcaob-dev/docs/default-source/standards/documents/pcaob-auditors-report-guidance-8-23-18.pdf?sfvrsn=f8ca329c_0",
+          "retrieved_at": "2026-10-18T22:39:42.640359+00:00",
+          "final_url": "https://assets.pcaobus.org/pcaob-dev/docs/default-source/standards/documents/pcaob-auditors-report-guidance-8-23-18.pdf?sfvrsn=f8ca329c_0",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "file": "sources/USA_AUDITOR_GUIDANCE-d28e23239c1e.pdf",
+          "text_file": "sources/USA_AUDITOR_GUIDANCE.txt",
+          "sha256": "d28e23239c1e0eb0ae02472ab539494d6668c69e1705e624350016ed36a32867",
+          "bytes": 451174,
+          "text_characters": 40335,
+          "status": "saved_readable_source"
+        },
+        {
+          "key": "USA_AUDITOR_GUIDANCE",
+          "url": "https://assets.pcaobus.org/pcaob-dev/docs/default-source/standards/documents/pcaob-auditors-report-guidance-8-23-18.pdf?sfvrsn=f8ca329c_0",
+          "retrieved_at": "2026-10-18T22:39:42.640359+00:00",
+          "final_url": "https://assets.pcaobus.org/pcaob-dev/docs/default-source/standards/documents/pcaob-auditors-report-guidance-8-23-18.pdf?sfvrsn=f8ca329c_0",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "file": "sources/USA_AUDITOR_GUIDANCE-d28e23239c1e.pdf",
+          "text_file": "sources/USA_AUDITOR_GUIDANCE.txt",
+          "sha256": "d28e23239c1e0eb0ae02472ab539494d6668c69e1705e624350016ed36a32867",
+          "bytes": 451174,
+          "text_characters": 40335,
+          "status": "saved_readable_source"
+        }
+      ]
     },
     {
       "source_key": "src-6fa13defa90f1bf7",
@@ -2075,6 +2261,30 @@
           "page_count": null,
           "ocr_pages": 0,
           "low_text_pages": []
+        },
+        {
+          "document_id": "doc-6d6fe596d236135c1032",
+          "sha256": "6d6fe596d236135c10323a15d0e5605bb81a7f61d13872936633df24861a0f5b",
+          "bytes": 105225,
+          "archive_path": "documents/6d6fe596d236135c10323a15d0e5605bb81a7f61d13872936633df24861a0f5b.pdf",
+          "format": "pdf",
+          "original_locations": [
+            "13-legal-eligibility-and-history-review\\2026-10-18\\sources\\IRL_BO_2023-6d6fe596d236.pdf"
+          ],
+          "urls": [
+            "https://www.irishstatutebook.ie/eli/2023/si/308/made/en/pdf"
+          ],
+          "roles": [
+            "recovered_official_instrument_or_official_explanation"
+          ],
+          "association": "reviewed_alternative_official_source",
+          "kind": "linked_official_source",
+          "text_path": "text/doc-6d6fe596d236135c1032.txt",
+          "readable": true,
+          "extraction_status": "text_extracted",
+          "page_count": 5,
+          "ocr_pages": 0,
+          "low_text_pages": []
         }
       ],
       "retrieval": {
@@ -2086,10 +2296,26 @@
         "http_status": 403,
         "error_response_archive": "documents/cd495121766710c7c4ffb83f3bf1c810064c1c3473b6133421f6e682093731b4.html"
       },
-      "archive_status": "readable_derivative_or_excerpt_only",
-      "has_saved_readable_source_file": false,
-      "has_readable_excerpt_only": true,
-      "legal_coding_reverified_by_this_archival_pass": false
+      "archive_status": "linked_official_source_saved_text_available",
+      "has_saved_readable_source_file": true,
+      "has_readable_excerpt_only": false,
+      "legal_coding_reverified_by_this_archival_pass": false,
+      "recovery_log": [
+        {
+          "key": "IRL_BO_2023",
+          "url": "https://www.irishstatutebook.ie/eli/2023/si/308/made/en/pdf",
+          "retrieved_at": "2026-10-18T22:22:52.456569+00:00",
+          "final_url": "https://www.irishstatutebook.ie/eli/2023/si/308/made/en/pdf",
+          "content_type": "application/pdf",
+          "http_status": 200,
+          "file": "sources/IRL_BO_2023-6d6fe596d236.pdf",
+          "sha256": "6d6fe596d236135c10323a15d0e5605bb81a7f61d13872936633df24861a0f5b",
+          "bytes": 105225,
+          "text_file": "sources/IRL_BO_2023.txt",
+          "text_characters": 8226,
+          "status": "saved_readable_source"
+        }
+      ]
     },
     {
       "source_key": "src-fbe994490b5ad5ea",
@@ -2111,7 +2337,56 @@
           "source_note": ""
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "document_id": "doc-73c22ae38d024d01c594",
+          "sha256": "73c22ae38d024d01c5949abcbb567efae1e7f885ebc9efab8947142ad7466aeb",
+          "bytes": 163002,
+          "archive_path": "documents/73c22ae38d024d01c5949abcbb567efae1e7f885ebc9efab8947142ad7466aeb.pdf",
+          "format": "pdf",
+          "original_locations": [
+            "13-legal-eligibility-and-history-review\\2026-10-18\\sources\\IRL_BO_2016-73c22ae38d02.pdf"
+          ],
+          "urls": [
+            "https://www.irishstatutebook.ie/eli/2016/si/560/made/en/pdf"
+          ],
+          "roles": [
+            "recovered_official_instrument_or_official_explanation"
+          ],
+          "association": "reviewed_alternative_official_source",
+          "kind": "linked_official_source",
+          "text_path": "text/doc-73c22ae38d024d01c594.txt",
+          "readable": true,
+          "extraction_status": "text_extracted",
+          "page_count": 12,
+          "ocr_pages": 0,
+          "low_text_pages": []
+        },
+        {
+          "document_id": "doc-bdec97a6906b76c10b84",
+          "sha256": "bdec97a6906b76c10b840fbc8dfa28affca73e49a107e07904ff54c520c6b48b",
+          "bytes": 306932,
+          "archive_path": "documents/bdec97a6906b76c10b840fbc8dfa28affca73e49a107e07904ff54c520c6b48b.pdf",
+          "format": "pdf",
+          "original_locations": [
+            "13-legal-eligibility-and-history-review\\2026-10-18\\sources\\IRL_BO_2019-bdec97a6906b.pdf"
+          ],
+          "urls": [
+            "https://www.irishstatutebook.ie/eli/2019/si/110/made/en/pdf"
+          ],
+          "roles": [
+            "recovered_official_instrument_or_official_explanation"
+          ],
+          "association": "reviewed_alternative_official_source",
+          "kind": "linked_official_source",
+          "text_path": "text/doc-bdec97a6906b76c10b84.txt",
+          "readable": true,
+          "extraction_status": "text_extracted",
+          "page_count": 27,
+          "ocr_pages": 0,
+          "low_text_pages": []
+        }
+      ],
       "retrieval": {
         "url": "https://rbo.gov.ie/wp-content/uploads/sites/2/2024/03/2021_RBO_Annual_Report.pdf",
         "retrieved_at": "2026-10-18T08:50:40.268670+00:00",
@@ -2121,10 +2396,40 @@
         "http_status": 403,
         "error_response_archive": "documents/fc43ffb42d09561b899de76349366e6485587eb7224ee4da5964b5d1a5cfcdfd.html"
       },
-      "archive_status": "source_unavailable",
-      "has_saved_readable_source_file": false,
+      "archive_status": "linked_official_source_saved_text_available",
+      "has_saved_readable_source_file": true,
       "has_readable_excerpt_only": false,
-      "legal_coding_reverified_by_this_archival_pass": false
+      "legal_coding_reverified_by_this_archival_pass": false,
+      "recovery_log": [
+        {
+          "key": "IRL_BO_2016",
+          "url": "https://www.irishstatutebook.ie/eli/2016/si/560/made/en/pdf",
+          "retrieved_at": "2026-10-18T22:22:52.185926+00:00",
+          "final_url": "https://www.irishstatutebook.ie/eli/2016/si/560/made/en/pdf",
+          "content_type": "application/pdf",
+          "http_status": 200,
+          "file": "sources/IRL_BO_2016-73c22ae38d02.pdf",
+          "sha256": "73c22ae38d024d01c5949abcbb567efae1e7f885ebc9efab8947142ad7466aeb",
+          "bytes": 163002,
+          "text_file": "sources/IRL_BO_2016.txt",
+          "text_characters": 23320,
+          "status": "saved_readable_source"
+        },
+        {
+          "key": "IRL_BO_2019",
+          "url": "https://www.irishstatutebook.ie/eli/2019/si/110/made/en/pdf",
+          "retrieved_at": "2026-10-18T22:22:52.185926+00:00",
+          "final_url": "https://www.irishstatutebook.ie/eli/2019/si/110/made/en/pdf",
+          "content_type": "application/pdf",
+          "http_status": 200,
+          "file": "sources/IRL_BO_2019-bdec97a6906b.pdf",
+          "sha256": "bdec97a6906b76c10b840fbc8dfa28affca73e49a107e07904ff54c520c6b48b",
+          "bytes": 306932,
+          "text_file": "sources/IRL_BO_2019.txt",
+          "text_characters": 64893,
+          "status": "saved_readable_source"
+        }
+      ]
     },
     {
       "source_key": "src-77a36f36b63029a3",
@@ -2489,7 +2794,32 @@
           "source_note": ""
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "document_id": "doc-5b0505ba58c8d561b83b",
+          "sha256": "5b0505ba58c8d561b83b633e65a6d929b20b7b0a384e23991b21f4a7d8eac63c",
+          "bytes": 533386,
+          "archive_path": "documents/5b0505ba58c8d561b83b633e65a6d929b20b7b0a384e23991b21f4a7d8eac63c.html",
+          "format": "html",
+          "original_locations": [
+            "13-legal-eligibility-and-history-review\\2026-10-18\\sources\\SGP_OVERSIGHT-5b0505ba58c8.html"
+          ],
+          "urls": [
+            "https://www.acra.gov.sg/about-us/overview/"
+          ],
+          "roles": [
+            "recovered_official_instrument_or_official_explanation"
+          ],
+          "association": "reviewed_alternative_official_source",
+          "kind": "linked_official_source",
+          "text_path": "text/doc-5b0505ba58c8d561b83b.txt",
+          "readable": true,
+          "extraction_status": "text_extracted",
+          "page_count": null,
+          "ocr_pages": 0,
+          "low_text_pages": []
+        }
+      ],
       "retrieval": {
         "url": "https://www.acra.gov.sg/docs/default-source/default-document-library/compliance/enforcement-related-materials/acraconnect.pdf",
         "retrieved_at": "2026-10-18T08:50:42.238089+00:00",
@@ -2499,10 +2829,26 @@
         "http_status": 404,
         "error_response_archive": "documents/b4c4bd91052bc417ae97b168c7391e1f0da7c9c395544b9903390d52a820181b.html"
       },
-      "archive_status": "source_unavailable",
-      "has_saved_readable_source_file": false,
+      "archive_status": "linked_official_source_saved_text_available",
+      "has_saved_readable_source_file": true,
       "has_readable_excerpt_only": false,
-      "legal_coding_reverified_by_this_archival_pass": false
+      "legal_coding_reverified_by_this_archival_pass": false,
+      "recovery_log": [
+        {
+          "key": "SGP_OVERSIGHT",
+          "url": "https://www.acra.gov.sg/about-us/overview/",
+          "retrieved_at": "2026-10-18T22:22:53.948016+00:00",
+          "final_url": "https://www.acra.gov.sg/about-us/overview/",
+          "content_type": "text/html",
+          "http_status": 200,
+          "file": "sources/SGP_OVERSIGHT-5b0505ba58c8.html",
+          "sha256": "5b0505ba58c8d561b83b633e65a6d929b20b7b0a384e23991b21f4a7d8eac63c",
+          "bytes": 533386,
+          "text_file": "sources/SGP_OVERSIGHT.txt",
+          "text_characters": 5992,
+          "status": "saved_readable_source"
+        }
+      ]
     },
     {
       "source_key": "src-29be8c78e7f4bfdb",
@@ -2765,6 +3111,30 @@
           "page_count": null,
           "ocr_pages": 0,
           "low_text_pages": []
+        },
+        {
+          "document_id": "doc-9136239f314b876f0912",
+          "sha256": "9136239f314b876f09128878076a3778e2310e5f6f4b49c745d31f9a49e0c91c",
+          "bytes": 640872,
+          "archive_path": "documents/9136239f314b876f09128878076a3778e2310e5f6f4b49c745d31f9a49e0c91c.pdf",
+          "format": "pdf",
+          "original_locations": [
+            "13-legal-eligibility-and-history-review\\2026-10-18\\sources\\AUS_MSA_ORIGINAL-9136239f314b.pdf"
+          ],
+          "urls": [
+            "https://www.legislation.gov.au/C2018A00153/asmade/2018-12-10/text/original/pdf"
+          ],
+          "roles": [
+            "recovered_official_instrument_or_official_explanation"
+          ],
+          "association": "reviewed_alternative_official_source",
+          "kind": "linked_official_source",
+          "text_path": "text/doc-9136239f314b876f0912.txt",
+          "readable": true,
+          "extraction_status": "text_extracted",
+          "page_count": 24,
+          "ocr_pages": 0,
+          "low_text_pages": []
         }
       ],
       "retrieval": {
@@ -2774,10 +3144,26 @@
         "error_type": "TimeoutError",
         "error": "The read operation timed out"
       },
-      "archive_status": "readable_derivative_or_excerpt_only",
-      "has_saved_readable_source_file": false,
-      "has_readable_excerpt_only": true,
-      "legal_coding_reverified_by_this_archival_pass": false
+      "archive_status": "linked_official_source_saved_text_available",
+      "has_saved_readable_source_file": true,
+      "has_readable_excerpt_only": false,
+      "legal_coding_reverified_by_this_archival_pass": false,
+      "recovery_log": [
+        {
+          "key": "AUS_MSA_ORIGINAL",
+          "url": "https://www.legislation.gov.au/C2018A00153/asmade/2018-12-10/text/original/pdf",
+          "retrieved_at": "2026-10-18T22:39:42.641358+00:00",
+          "final_url": "https://www.legislation.gov.au/C2018A00153/asmade/2018-12-10/text/original/pdf",
+          "http_status": 200,
+          "content_type": "application/pdf",
+          "file": "sources/AUS_MSA_ORIGINAL-9136239f314b.pdf",
+          "text_file": "sources/AUS_MSA_ORIGINAL.txt",
+          "sha256": "9136239f314b876f09128878076a3778e2310e5f6f4b49c745d31f9a49e0c91c",
+          "bytes": 640872,
+          "text_characters": 45085,
+          "status": "saved_readable_source"
+        }
+      ]
     },
     {
       "source_key": "src-b2f12ac88d02e55c",
@@ -3278,7 +3664,32 @@
           "source_note": ""
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "document_id": "doc-362dcf8bf44507100be7",
+          "sha256": "362dcf8bf44507100be737aba28fe6810e3bed1532fed1f56c1a0f3fb0c00281",
+          "bytes": 1774204,
+          "archive_path": "documents/362dcf8bf44507100be737aba28fe6810e3bed1532fed1f56c1a0f3fb0c00281.html",
+          "format": "html",
+          "original_locations": [
+            "13-legal-eligibility-and-history-review\\2026-10-18\\sources\\ZAF_BO-362dcf8bf445.html"
+          ],
+          "urls": [
+            "https://www.cipc.co.za/?page_id=16055"
+          ],
+          "roles": [
+            "recovered_official_instrument_or_official_explanation"
+          ],
+          "association": "reviewed_alternative_official_source",
+          "kind": "linked_official_source",
+          "text_path": "text/doc-362dcf8bf44507100be7.txt",
+          "readable": true,
+          "extraction_status": "text_extracted",
+          "page_count": null,
+          "ocr_pages": 0,
+          "low_text_pages": []
+        }
+      ],
       "retrieval": {
         "url": "https://www.cipc.co.za/?p=21417",
         "retrieved_at": "2026-10-18T08:51:07.203615+00:00",
@@ -3286,10 +3697,26 @@
         "error_type": "URLError",
         "error": "<urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>"
       },
-      "archive_status": "source_unavailable",
-      "has_saved_readable_source_file": false,
+      "archive_status": "linked_official_source_saved_text_available",
+      "has_saved_readable_source_file": true,
       "has_readable_excerpt_only": false,
-      "legal_coding_reverified_by_this_archival_pass": false
+      "legal_coding_reverified_by_this_archival_pass": false,
+      "recovery_log": [
+        {
+          "key": "ZAF_BO",
+          "url": "https://www.cipc.co.za/?page_id=16055",
+          "retrieved_at": "2026-10-18T22:22:53.234314+00:00",
+          "final_url": "https://www.cipc.co.za/?page_id=16055",
+          "content_type": "text/html; charset=UTF-8",
+          "http_status": 200,
+          "file": "sources/ZAF_BO-362dcf8bf445.html",
+          "sha256": "362dcf8bf44507100be737aba28fe6810e3bed1532fed1f56c1a0f3fb0c00281",
+          "bytes": 1774204,
+          "text_file": "sources/ZAF_BO.txt",
+          "text_characters": 331438,
+          "status": "saved_readable_source"
+        }
+      ]
     },
     {
       "source_key": "src-9a9f7927f31cd23d",
@@ -7194,7 +7621,32 @@
           "source_note": ""
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "document_id": "doc-5837eef5adf0394ad5ec",
+          "sha256": "5837eef5adf0394ad5ec4f20352ff40ed17436cc853cc5050632dee3ade8e392",
+          "bytes": 220108,
+          "archive_path": "documents/5837eef5adf0394ad5ec4f20352ff40ed17436cc853cc5050632dee3ade8e392.pdf",
+          "format": "pdf",
+          "original_locations": [
+            "13-legal-eligibility-and-history-review\\2026-10-18\\sources\\FRA_BO_DECREE-5837eef5adf0.pdf"
+          ],
+          "urls": [
+            "https://www.afg.asso.fr/app/uploads/2017/06/Decret-2017-1094_12_-juin_2017_registre_beneficiaires_effectifs-1.pdf"
+          ],
+          "roles": [
+            "recovered_official_instrument_or_official_explanation"
+          ],
+          "association": "reviewed_alternative_official_source",
+          "kind": "linked_official_source",
+          "text_path": "text/doc-5837eef5adf0394ad5ec.txt",
+          "readable": true,
+          "extraction_status": "text_extracted",
+          "page_count": 5,
+          "ocr_pages": 0,
+          "low_text_pages": []
+        }
+      ],
       "retrieval": {
         "url": "https://www.legifrance.gouv.fr/jorf/id/JORFSCTA000034920801",
         "retrieved_at": "2026-10-18T08:50:56.739521+00:00",
@@ -7204,10 +7656,26 @@
         "http_status": 403,
         "error_response_archive": "documents/d9ec3affaeb51c2b7c13347e66c26bf47a3eeee26e23f472db2b87d9a72989a9.html"
       },
-      "archive_status": "source_unavailable",
-      "has_saved_readable_source_file": false,
+      "archive_status": "linked_official_source_saved_text_available",
+      "has_saved_readable_source_file": true,
       "has_readable_excerpt_only": false,
-      "legal_coding_reverified_by_this_archival_pass": false
+      "legal_coding_reverified_by_this_archival_pass": false,
+      "recovery_log": [
+        {
+          "key": "FRA_BO_DECREE",
+          "url": "https://www.afg.asso.fr/app/uploads/2017/06/Decret-2017-1094_12_-juin_2017_registre_beneficiaires_effectifs-1.pdf",
+          "retrieved_at": "2026-10-18T22:22:52.479029+00:00",
+          "final_url": "https://www.afg.asso.fr/app/uploads/2017/06/Decret-2017-1094_12_-juin_2017_registre_beneficiaires_effectifs-1.pdf",
+          "content_type": "application/pdf",
+          "http_status": 200,
+          "file": "sources/FRA_BO_DECREE-5837eef5adf0.pdf",
+          "sha256": "5837eef5adf0394ad5ec4f20352ff40ed17436cc853cc5050632dee3ade8e392",
+          "bytes": 220108,
+          "text_file": "sources/FRA_BO_DECREE.txt",
+          "text_characters": 25180,
+          "status": "saved_readable_source"
+        }
+      ]
     },
     {
       "source_key": "src-0535244ec2f8c198",
@@ -8799,7 +9267,32 @@
         "PHL_ESG_CSR_048"
       ],
       "source_register_entries": [],
-      "documents": [],
+      "documents": [
+        {
+          "document_id": "doc-a46815b1091199f103ec",
+          "sha256": "a46815b1091199f103ecc52edb292ca2ffec249f0e3e4dd33a1910ca60992419",
+          "bytes": 8944990,
+          "archive_path": "documents/a46815b1091199f103ecc52edb292ca2ffec249f0e3e4dd33a1910ca60992419.pdf",
+          "format": "pdf",
+          "original_locations": [
+            "13-legal-eligibility-and-history-review\\2026-10-18\\sources\\PHL_ESG-a46815b10911.pdf"
+          ],
+          "urls": [
+            "https://lpr.adb.org/sites/default/files/2024-05/philippines-2019-mc-no-4.pdf"
+          ],
+          "roles": [
+            "recovered_official_instrument_or_official_explanation"
+          ],
+          "association": "reviewed_alternative_official_source",
+          "kind": "linked_official_source",
+          "text_path": "text/doc-a46815b1091199f103ec.txt",
+          "readable": true,
+          "extraction_status": "text_extracted",
+          "page_count": 48,
+          "ocr_pages": 0,
+          "low_text_pages": []
+        }
+      ],
       "retrieval": {
         "url": "https://www.sec.gov.ph/mc-2019/mc-no-04-s-2019-sustainability-reporting-guidelines-for-publicly-listed-companies/",
         "retrieved_at": "2026-10-18T08:51:01.531378+00:00",
@@ -8809,10 +9302,26 @@
         "http_status": 403,
         "error_response_archive": "documents/0dc05cf237d322d092a78a820f6aad706d190e61a1f78c43bb07f81d228e0da8.html"
       },
-      "archive_status": "source_unavailable",
-      "has_saved_readable_source_file": false,
+      "archive_status": "linked_official_source_saved_text_available",
+      "has_saved_readable_source_file": true,
       "has_readable_excerpt_only": false,
-      "legal_coding_reverified_by_this_archival_pass": false
+      "legal_coding_reverified_by_this_archival_pass": false,
+      "recovery_log": [
+        {
+          "key": "PHL_ESG",
+          "url": "https://lpr.adb.org/sites/default/files/2024-05/philippines-2019-mc-no-4.pdf",
+          "retrieved_at": "2026-10-18T22:22:52.184922+00:00",
+          "final_url": "https://lpr.adb.org/sites/default/files/2024-05/philippines-2019-mc-no-4.pdf",
+          "content_type": "application/pdf",
+          "http_status": 200,
+          "file": "sources/PHL_ESG-a46815b10911.pdf",
+          "sha256": "a46815b1091199f103ecc52edb292ca2ffec249f0e3e4dd33a1910ca60992419",
+          "bytes": 8944990,
+          "text_file": "sources/PHL_ESG.txt",
+          "text_characters": 119534,
+          "status": "saved_readable_source"
+        }
+      ]
     },
     {
       "source_key": "src-f30d090b39b874e0",

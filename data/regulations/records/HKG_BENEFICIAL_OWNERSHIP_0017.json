@@ -38,7 +38,7 @@
     "source_manifest": "source-manifest.json"
   },
   "notes": "Date identifies the documented stage; it does not imply universal public access.",
-  "archival_review_status": "Metadata serialized and documents archived/extracted; legal chronology, eligibility and compliance not re-audited.",
+  "archival_review_status": "OCR visual flags disposed; source-gap retrieval reviewed with explicit outcomes. Legal scope review is targeted and does not certify global histories.",
   "original_csv_record": {
     "event_id": "HKG_BENEFICIAL_OWNERSHIP_0017",
     "iso3": "HKG",
@@ -73,5 +73,16 @@
     "evidence_tier": "",
     "first_calendar_reporting_year": ""
   },
-  "original_csv_row_sha256": "2f6fd98ae6a76261c5d30f68ab387f95fa070c0a62149fab1ad11d4ac2244fe8"
+  "original_csv_row_sha256": "2f6fd98ae6a76261c5d30f68ab387f95fa070c0a62149fab1ad11d4ac2244fe8",
+  "legal_eligibility_review": {
+    "reviewed_at": "2026-10-18T22:43:20.230100+00:00",
+    "review_method": "Assistant source-clause review where identified; otherwise classification of unresolved data requirements, not independent legal verification.",
+    "filing_field_status": "entity_exemption_and_filing_unresolved",
+    "family_scope_requirement": "Place of incorporation, listed-market/equivalent-transparency exemptions, registry/access type and transition dates required. Country market assignment is insufficient.",
+    "issuer_assignment_status": "not_globally_resolved",
+    "actual_first_filing_date": null,
+    "global_history_status": "incomplete_census_unknown_nonadoption_retained",
+    "original_record_preserved": true,
+    "legal_date_status": "inherited_recorded_date_with_basis_preserved"
+  }
 }

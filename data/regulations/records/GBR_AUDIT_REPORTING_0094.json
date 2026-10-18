@@ -38,7 +38,7 @@
     "source_manifest": "source-manifest.json"
   },
   "notes": "Directly applicable common EU obligation. This dates Article 10 report expansion, not national ISA 701 incorporation or the first audit report issued.",
-  "archival_review_status": "Metadata serialized and documents archived/extracted; legal chronology, eligibility and compliance not re-audited.",
+  "archival_review_status": "OCR visual flags disposed; source-gap retrieval reviewed with explicit outcomes. Legal scope review is targeted and does not certify global histories.",
   "original_csv_record": {
     "event_id": "GBR_AUDIT_REPORTING_0094",
     "iso3": "GBR",
@@ -73,5 +73,16 @@
     "evidence_tier": "",
     "first_calendar_reporting_year": ""
   },
-  "original_csv_row_sha256": "c9621758a8b6427b3e6d63f94ed53dcb3a684f03e8faea3ae299ea4412f36f81"
+  "original_csv_row_sha256": "c9621758a8b6427b3e6d63f94ed53dcb3a684f03e8faea3ae299ea4412f36f81",
+  "legal_eligibility_review": {
+    "reviewed_at": "2026-10-18T22:43:20.230100+00:00",
+    "review_method": "Assistant source-clause review where identified; otherwise classification of unresolved data requirements, not independent legal verification.",
+    "filing_field_status": "fiscal_period_filer_category_and_filing_unresolved",
+    "family_scope_requirement": "KAM/CAM standard-specific listed/PIE scope, EGC exceptions, fiscal start/end and first audited report publication required.",
+    "issuer_assignment_status": "not_globally_resolved",
+    "actual_first_filing_date": null,
+    "global_history_status": "incomplete_census_unknown_nonadoption_retained",
+    "original_record_preserved": true,
+    "legal_date_status": "inherited_recorded_date_with_basis_preserved"
+  }
 }

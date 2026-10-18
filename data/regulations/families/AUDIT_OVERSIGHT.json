@@ -4,13 +4,12 @@
   "event_records": 38,
   "implementation_event_records": 35,
   "published_proxy_records": 0,
-  "records_with_saved_readable_source_file": 36,
-  "records_with_excerpt_only": 1,
-  "records_without_readable_source_or_excerpt": 1,
+  "records_with_saved_readable_source_file": 38,
+  "records_with_excerpt_only": 0,
+  "records_without_readable_source_or_excerpt": 0,
   "archive_status_counts": {
     "original_source_saved_text_available": 36,
-    "readable_derivative_or_excerpt_only": 1,
-    "source_unavailable": 1
+    "linked_official_source_saved_text_available": 2
   },
   "record_ids": [
     "AUT_AUDIT_OVERSIGHT_0105",

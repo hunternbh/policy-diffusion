@@ -38,7 +38,7 @@
     "source_manifest": "source-manifest.json"
   },
   "notes": "",
-  "archival_review_status": "Metadata serialized and documents archived/extracted; legal chronology, eligibility and compliance not re-audited.",
+  "archival_review_status": "OCR visual flags disposed; source-gap retrieval reviewed with explicit outcomes. Legal scope review is targeted and does not certify global histories.",
   "original_csv_record": {
     "event_id": "GBR_BENEFICIAL_OWNERSHIP_0033",
     "iso3": "GBR",
@@ -73,5 +73,16 @@
     "evidence_tier": "",
     "first_calendar_reporting_year": ""
   },
-  "original_csv_row_sha256": "4d2cdd65b38ad369f6531bd572a5d76efd4a6f6dd7c95c735f4e4adce6ade305"
+  "original_csv_row_sha256": "4d2cdd65b38ad369f6531bd572a5d76efd4a6f6dd7c95c735f4e4adce6ade305",
+  "legal_eligibility_review": {
+    "reviewed_at": "2026-10-18T22:43:20.230100+00:00",
+    "review_method": "Assistant source-clause review where identified; otherwise classification of unresolved data requirements, not independent legal verification.",
+    "filing_field_status": "entity_exemption_and_filing_unresolved",
+    "family_scope_requirement": "Place of incorporation, listed-market/equivalent-transparency exemptions, registry/access type and transition dates required. Country market assignment is insufficient.",
+    "issuer_assignment_status": "not_globally_resolved",
+    "actual_first_filing_date": null,
+    "global_history_status": "incomplete_census_unknown_nonadoption_retained",
+    "original_record_preserved": true,
+    "legal_date_status": "inherited_recorded_date_with_basis_preserved"
+  }
 }

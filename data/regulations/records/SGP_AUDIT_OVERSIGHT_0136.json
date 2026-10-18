@@ -30,13 +30,22 @@
     "recorded_url": "https://www.acra.gov.sg/docs/default-source/default-document-library/compliance/enforcement-related-materials/acraconnect.pdf",
     "source_locator": "May 2014 anniversary account; 1 April 2004",
     "url_fragment": null,
-    "archive_status": "source_unavailable",
-    "has_saved_readable_source_file": false,
-    "document_ids": [],
-    "source_manifest": "source-manifest.json"
+    "archive_status": "linked_official_source_saved_text_available",
+    "has_saved_readable_source_file": true,
+    "document_ids": [
+      "doc-5b0505ba58c8d561b83b"
+    ],
+    "source_manifest": "source-manifest.json",
+    "reviewed_alternative_sources": [
+      {
+        "url": "https://www.acra.gov.sg/about-us/overview/",
+        "document_id": "doc-5b0505ba58c8d561b83b",
+        "scope": "Full saved official instrument/explanation; not necessarily the original recorded URL."
+      }
+    ]
   },
   "notes": "Architecture events and rotation events are distinct subtypes; the family total is descriptive.",
-  "archival_review_status": "Metadata serialized and documents archived/extracted; legal chronology, eligibility and compliance not re-audited.",
+  "archival_review_status": "OCR visual flags disposed; source-gap retrieval reviewed with explicit outcomes. Legal scope review is targeted and does not certify global histories.",
   "original_csv_record": {
     "event_id": "SGP_AUDIT_OVERSIGHT_0136",
     "iso3": "SGP",
@@ -71,5 +80,22 @@
     "evidence_tier": "",
     "first_calendar_reporting_year": ""
   },
-  "original_csv_row_sha256": "f2035154f939cbe62a4dfe564cf2e15bbd767114385d1a547d79e4bbf211b763"
+  "original_csv_row_sha256": "f2035154f939cbe62a4dfe564cf2e15bbd767114385d1a547d79e4bbf211b763",
+  "legal_eligibility_review": {
+    "reviewed_at": "2026-10-18T22:43:20.230100+00:00",
+    "review_method": "Assistant source-clause review where identified; otherwise classification of unresolved data requirements, not independent legal verification.",
+    "filing_field_status": "not_applicable_as_new_issuer_filing",
+    "family_scope_requirement": "Regulator formation, auditor registration, inspections or rotation framework: no single new issuer-filing deadline follows from this event. Effects on audit quality remain possible.",
+    "issuer_assignment_status": "not_globally_resolved",
+    "actual_first_filing_date": null,
+    "global_history_status": "incomplete_census_unknown_nonadoption_retained",
+    "original_record_preserved": true,
+    "legal_date_status": "targeted_source_clauses_reviewed_with_stated_limits",
+    "targeted_clause_review": {
+      "scope": "Institutional ACRA oversight; issuer first-filing field is not applicable to the institution-creation event.",
+      "timing": "Official ACRA history confirms establishment1Apr2004 by RCB/PAB merger.",
+      "source": "SGP_OVERSIGHT",
+      "locator": "Official Overview, formation and history."
+    }
+  }
 }

@@ -1,0 +1,76 @@
+{
+  "PHL_ESG_CSR_048": {
+    "scope": "Publicly listed companies; sustainability template accompanies SEC Form17-A, comply-or-explain transition does not remove the attachment duty.",
+    "timing": "SEC MC4 dated15Feb2019; first annual report forFY2019 submitted2020. No issuer-specific observed filing supplied.",
+    "first_reporting_year": 2019,
+    "first_public_report_year_rule": 2020,
+    "source": "PHL_ESG",
+    "locator": "Circular page1 and item3, first report; publication/effectivity note."
+  },
+  "IRL_BENEFICIAL_OWNERSHIP_0019": {
+    "scope": "SI560/2016 Reg3(2) exempts regulated-market-listed companies and entities subject to equivalent ownership-transparency standards. Listing venue must be matched.",
+    "timing": "Internal register commences15Nov2016. It is distinct from central filing in2019.",
+    "source": "IRL_BO_2016",
+    "locator": "Regulations1 and3(2)."
+  },
+  "IRL_BENEFICIAL_OWNERSHIP_0035": {
+    "scope": "SI110/2019 Reg4(2) preserves regulated-market/equivalent-transparency exemption. Domestic incorporation and listing category required.",
+    "timing": "Part3 commences22Jun2019; incumbent central filing within5months (22Nov2019). New entities within5months of incorporation. Deadline is not observed filing.",
+    "source": "IRL_BO_2019",
+    "locator": "Regulations1(2),4(2),20 and21."
+  },
+  "IRL_BENEFICIAL_OWNERSHIP_0038": {
+    "scope": "General public access restriction changes access, not first existence of the register.",
+    "timing": "SI308/2023 removes general public access; retain as access amendment rather than a new adoption.",
+    "source": "IRL_BO_2023",
+    "locator": "Amendments to SI110/2019 central-register access provisions."
+  },
+  "FRA_BENEFICIAL_OWNERSHIP_0020": {
+    "scope": "Decree supplies registration procedure; historical statutory listed-company exemption still requires separate statute verification and venue matching.",
+    "timing": "Decree2017-1094 effective1Aug2017; incumbent transition before1Apr2018, new registrations follow R561-55. No uniform actual filing date.",
+    "source": "FRA_BO_DECREE",
+    "locator": "Notice of entry into force; Article1 R561-55; Article2."
+  },
+  "ZAF_BENEFICIAL_OWNERSHIP_0025": {
+    "scope": "Affected/listed companies have securities-register obligations distinct from other-company beneficial-owner registers. Do not blanket-treat every listed quote.",
+    "timing": "Official CIPC account distinguishes voluntary1Apr2023 launch from mandatory24May2023; later annual-return enforcement is separate.",
+    "source": "ZAF_BO",
+    "locator": "Official Beneficial Ownership page, launch/mandatory filing and affected-company explanations."
+  },
+  "IND_AUDIT_REPORTING_0101": {
+    "scope": "SA701 listed-entity auditor report; no revenue or employment threshold inferred.",
+    "timing": "Official ICAI branch newsletter confirms deferral to periods beginning1Apr2018, not public filings on that day. Original standard remains a source-quality limitation.",
+    "source": "IND_KAM",
+    "locator": "December2017 EIRC newsletter, page3, SA701 deferral."
+  },
+  "USA_AUDIT_REPORTING_0102": {
+    "scope": "Large accelerated filers, excluding EGCs; broker/dealer, investment-company and employee-plan exceptions require entity-specific checks. BDCs are not automatically investment-company-exempt.",
+    "timing": "Fiscal years ending on/after30Jun2019. Join actual SEC filing date; do not assign all USA quotes2019.",
+    "source": "USA_AUDITOR_GUIDANCE",
+    "locator": "Guidance page8, EffectiveDates; CAM exception paragraph."
+  },
+  "USA_AUDIT_REPORTING_0103": {
+    "scope": "Remaining eligible non-EGC companies; categories and legal-class exceptions must be observed.",
+    "timing": "Fiscal years ending on/after15Dec2020. A Dec2020 year-end usually first files in2021; actual date from SEC header.",
+    "source": "USA_AUDITOR_GUIDANCE",
+    "locator": "Guidance page8, EffectiveDates; CAM exception paragraph."
+  },
+  "USA_AUDIT_OVERSIGHT_0133": {
+    "scope": "SOX section102 is auditor registration, not an issuer disclosure threshold.",
+    "timing": "Act ties deadline to180days after SEC determination; Act alone does not establish the recorded22Oct2003 calendar deadline. Exact decision history remains unresolved.",
+    "source": "USA_SOX",
+    "locator": "PublicLaw107-204, section102(a)."
+  },
+  "SGP_AUDIT_OVERSIGHT_0136": {
+    "scope": "Institutional ACRA oversight; issuer first-filing field is not applicable to the institution-creation event.",
+    "timing": "Official ACRA history confirms establishment1Apr2004 by RCB/PAB merger.",
+    "source": "SGP_OVERSIGHT",
+    "locator": "Official Overview, formation and history."
+  },
+  "AUS_SUPPLY_CHAIN_0156": {
+    "scope": "Section5: at leastAUD100m consolidated revenue and Australian entity/carrying on business inAustralia; voluntary reporters separate. Dictionary revenue alone does not establish scope.",
+    "timing": "Operative provisions commence1Jan2019. Section13(2)(e) gives6months after reporting period; historical pandemic extensions not replaced by that ordinary deadline. Actual statements remain unlinked.",
+    "source": "AUS_MSA_ORIGINAL",
+    "locator": "Sections2,4,5 and13(2)(e)."
+  }
+}

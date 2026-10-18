@@ -1,0 +1,16 @@
+{
+  "corrected_at": "2026-10-18T22:57:20.285837+00:00",
+  "correction": "Removed unverified January1/December31 fiscal boundaries from the Philippines review-derived FY2019 case. The circular supports report year, not uniform exact issuer boundaries.",
+  "frozen_case_file_sha256": "ec22a62c498b66dba9eae6ee141b2b13a0c096b6aafceca336735edb0b01cdef",
+  "corrected_case_file_sha256": "bd1736b9b23053e4f056638521cc5aa097dc47e8bce0e8458cb6befbf58d9c61",
+  "analysis_consumed_columns": [
+    "iso3",
+    "regulation_family",
+    "G",
+    "assignment_cluster",
+    "independent"
+  ],
+  "analysis_consumed_columns_unchanged": true,
+  "result_impact": "None: exact fiscal-boundary fields are not inputs to country liquidity or diffusion algorithms. All360 case keys,G,independence and assignment clusters match the fitted input. Issuer tests use observed SEC fiscal ends and are unaffected.",
+  "original_frozen_input_preserved": "audit/reviewed-cases-before-fiscal-boundary-correction.csv"
+}

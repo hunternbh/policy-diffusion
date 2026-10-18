@@ -30,13 +30,22 @@
     "recorded_url": "https://www.sec.gov.ph/mc-2019/mc-no-04-s-2019-sustainability-reporting-guidelines-for-publicly-listed-companies/",
     "source_locator": null,
     "url_fragment": null,
-    "archive_status": "source_unavailable",
-    "has_saved_readable_source_file": false,
-    "document_ids": [],
-    "source_manifest": "source-manifest.json"
+    "archive_status": "linked_official_source_saved_text_available",
+    "has_saved_readable_source_file": true,
+    "document_ids": [
+      "doc-a46815b1091199f103ec"
+    ],
+    "source_manifest": "source-manifest.json",
+    "reviewed_alternative_sources": [
+      {
+        "url": "https://lpr.adb.org/sites/default/files/2024-05/philippines-2019-mc-no-4.pdf",
+        "document_id": "doc-a46815b1091199f103ec",
+        "scope": "Full saved official instrument/explanation; not necessarily the original recorded URL."
+      }
+    ]
   },
   "notes": "Official 2019 issuance does not itself prove the published 2011 CSR-Act record is erroneous. First compulsory period needs operative circular audit.",
-  "archival_review_status": "Metadata serialized and documents archived/extracted; legal chronology, eligibility and compliance not re-audited.",
+  "archival_review_status": "OCR visual flags disposed; source-gap retrieval reviewed with explicit outcomes. Legal scope review is targeted and does not certify global histories.",
   "original_csv_record": {
     "event_id": "PHL_ESG_CSR_048",
     "iso3": "PHL",
@@ -71,5 +80,30 @@
     "evidence_tier": "",
     "first_calendar_reporting_year": ""
   },
-  "original_csv_row_sha256": "e81aa67c78d3c773a27acaf7d3a1975516fc762aadc28bb05742a2d98dc8d5b9"
+  "original_csv_row_sha256": "e81aa67c78d3c773a27acaf7d3a1975516fc762aadc28bb05742a2d98dc8d5b9",
+  "legal_eligibility_review": {
+    "reviewed_at": "2026-10-18T22:43:20.230100+00:00",
+    "review_method": "Assistant source-clause review where identified; otherwise classification of unresolved data requirements, not independent legal verification.",
+    "filing_field_status": "issuer_phase_and_filing_unresolved",
+    "family_scope_requirement": "Listed population, market-cap rank or other source-specific thresholds and fiscal year must be linked; published proxy years remain separate.",
+    "issuer_assignment_status": "not_globally_resolved",
+    "actual_first_filing_date": null,
+    "global_history_status": "incomplete_census_unknown_nonadoption_retained",
+    "original_record_preserved": true,
+    "legal_date_status": "targeted_source_clauses_reviewed_with_stated_limits",
+    "targeted_clause_review": {
+      "scope": "Publicly listed companies; sustainability template accompanies SEC Form17-A, comply-or-explain transition does not remove the attachment duty.",
+      "timing": "SEC MC4 dated15Feb2019; first annual report forFY2019 submitted2020. No issuer-specific observed filing supplied.",
+      "first_reporting_year": 2019,
+      "first_public_report_year_rule": 2020,
+      "source": "PHL_ESG",
+      "locator": "Circular page1 and item3, first report; publication/effectivity note."
+    },
+    "first_reporting_period_start": null,
+    "first_reporting_period_end": null,
+    "first_public_report_year_rule": 2020,
+    "derived_case_year": 2019,
+    "first_reporting_year": 2019,
+    "reporting_boundary_precision": "year_only_exact_issuer_fiscal_dates_unassigned"
+  }
 }

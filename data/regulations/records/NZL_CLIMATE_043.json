@@ -36,7 +36,7 @@
     "source_manifest": "source-manifest.json"
   },
   "notes": "FMA reviewed statements for periods ended December 2023-March 2024; no exact universal filing date assigned.",
-  "archival_review_status": "Metadata serialized and documents archived/extracted; legal chronology, eligibility and compliance not re-audited.",
+  "archival_review_status": "OCR visual flags disposed; source-gap retrieval reviewed with explicit outcomes. Legal scope review is targeted and does not certify global histories.",
   "original_csv_record": {
     "event_id": "NZL_CLIMATE_043",
     "iso3": "NZL",
@@ -71,5 +71,16 @@
     "evidence_tier": "",
     "first_calendar_reporting_year": ""
   },
-  "original_csv_row_sha256": "cfe88d3f1e557f94daf0c373a4224ec8a6e28cad32d13914b4581eea24da5e43"
+  "original_csv_row_sha256": "cfe88d3f1e557f94daf0c373a4224ec8a6e28cad32d13914b4581eea24da5e43",
+  "legal_eligibility_review": {
+    "reviewed_at": "2026-10-18T22:43:20.230100+00:00",
+    "review_method": "Assistant source-clause review where identified; otherwise classification of unresolved data requirements, not independent legal verification.",
+    "filing_field_status": "threshold_phase_and_filing_unresolved",
+    "family_scope_requirement": "Market value/financial-size/entity-type thresholds and phase-in, fiscal end and exemptions required; NZ ordinary register deadline4months after balance date, verified from official FMA review, not an observed issuer date.",
+    "issuer_assignment_status": "not_globally_resolved",
+    "actual_first_filing_date": null,
+    "global_history_status": "incomplete_census_unknown_nonadoption_retained",
+    "original_record_preserved": true,
+    "legal_date_status": "inherited_recorded_date_with_basis_preserved"
+  }
 }

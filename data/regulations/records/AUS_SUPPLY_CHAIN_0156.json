@@ -30,15 +30,23 @@
     "recorded_url": "https://www.ag.gov.au/crime/modern-slavery/modern-slavery-act",
     "source_locator": "commenced 1 January 2019; revenue A$100m",
     "url_fragment": null,
-    "archive_status": "readable_derivative_or_excerpt_only",
-    "has_saved_readable_source_file": false,
+    "archive_status": "linked_official_source_saved_text_available",
+    "has_saved_readable_source_file": true,
     "document_ids": [
+      "doc-9136239f314b876f0912",
       "doc-d79d62616c4a6fe7240a"
     ],
-    "source_manifest": "source-manifest.json"
+    "source_manifest": "source-manifest.json",
+    "reviewed_alternative_sources": [
+      {
+        "url": "https://www.legislation.gov.au/C2018A00153/asmade/2018-12-10/text/original/pdf",
+        "document_id": "doc-9136239f314b876f0912",
+        "scope": "Full saved official instrument/explanation; not necessarily the original recorded URL."
+      }
+    ]
   },
   "notes": "Disclosure content differs across modern-slavery and substantive due-diligence laws; subnational California is not a federal US mandate.",
-  "archival_review_status": "Metadata serialized and documents archived/extracted; legal chronology, eligibility and compliance not re-audited.",
+  "archival_review_status": "OCR visual flags disposed; source-gap retrieval reviewed with explicit outcomes. Legal scope review is targeted and does not certify global histories.",
   "original_csv_record": {
     "event_id": "AUS_SUPPLY_CHAIN_0156",
     "iso3": "AUS",
@@ -73,5 +81,22 @@
     "evidence_tier": "",
     "first_calendar_reporting_year": ""
   },
-  "original_csv_row_sha256": "453b86c3c6bdf8881bb6f15c0a0b6af16bba007c33c63c670c1a96ef348214f2"
+  "original_csv_row_sha256": "453b86c3c6bdf8881bb6f15c0a0b6af16bba007c33c63c670c1a96ef348214f2",
+  "legal_eligibility_review": {
+    "reviewed_at": "2026-10-18T22:43:20.230100+00:00",
+    "review_method": "Assistant source-clause review where identified; otherwise classification of unresolved data requirements, not independent legal verification.",
+    "filing_field_status": "revenue_employee_nexus_and_filing_unresolved",
+    "family_scope_requirement": "Country-specific group revenue/employment and nexus, statement/plan versus implementation account, fiscal dates and deadline extensions required.",
+    "issuer_assignment_status": "not_globally_resolved",
+    "actual_first_filing_date": null,
+    "global_history_status": "incomplete_census_unknown_nonadoption_retained",
+    "original_record_preserved": true,
+    "legal_date_status": "targeted_source_clauses_reviewed_with_stated_limits",
+    "targeted_clause_review": {
+      "scope": "Section5: at leastAUD100m consolidated revenue and Australian entity/carrying on business inAustralia; voluntary reporters separate. Dictionary revenue alone does not establish scope.",
+      "timing": "Operative provisions commence1Jan2019. Section13(2)(e) gives6months after reporting period; historical pandemic extensions not replaced by that ordinary deadline. Actual statements remain unlinked.",
+      "source": "AUS_MSA_ORIGINAL",
+      "locator": "Sections2,4,5 and13(2)(e)."
+    }
+  }
 }

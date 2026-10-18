@@ -4,13 +4,13 @@
   "event_records": 24,
   "implementation_event_records": 18,
   "published_proxy_records": 0,
-  "records_with_saved_readable_source_file": 17,
-  "records_with_excerpt_only": 1,
-  "records_without_readable_source_or_excerpt": 6,
+  "records_with_saved_readable_source_file": 22,
+  "records_with_excerpt_only": 0,
+  "records_without_readable_source_or_excerpt": 2,
   "archive_status_counts": {
     "original_source_saved_text_available": 17,
-    "source_unavailable": 6,
-    "readable_derivative_or_excerpt_only": 1
+    "linked_official_source_saved_text_available": 5,
+    "source_unavailable": 2
   },
   "record_ids": [
     "GBR_BENEFICIAL_OWNERSHIP_0015",

@@ -4,12 +4,13 @@
   "event_records": 11,
   "implementation_event_records": 8,
   "published_proxy_records": 0,
-  "records_with_saved_readable_source_file": 8,
-  "records_with_excerpt_only": 3,
+  "records_with_saved_readable_source_file": 9,
+  "records_with_excerpt_only": 2,
   "records_without_readable_source_or_excerpt": 0,
   "archive_status_counts": {
     "original_source_saved_text_available": 8,
-    "readable_derivative_or_excerpt_only": 3
+    "readable_derivative_or_excerpt_only": 2,
+    "linked_official_source_saved_text_available": 1
   },
   "record_ids": [
     "USA_SUPPLY_CHAIN_0153",

@@ -30,15 +30,23 @@
     "recorded_url": "https://pcaobus.org/news-events/news-releases/news-release-detail/board-approves-registration-of-598-accounting-firms_70",
     "source_locator": "22 October 2003",
     "url_fragment": null,
-    "archive_status": "readable_derivative_or_excerpt_only",
-    "has_saved_readable_source_file": false,
+    "archive_status": "linked_official_source_saved_text_available",
+    "has_saved_readable_source_file": true,
     "document_ids": [
-      "doc-28c319bdc0f72a1c5005"
+      "doc-28c319bdc0f72a1c5005",
+      "doc-f6666256313bbaddac94"
     ],
-    "source_manifest": "source-manifest.json"
+    "source_manifest": "source-manifest.json",
+    "reviewed_alternative_sources": [
+      {
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-107publ204/pdf/PLAW-107publ204.pdf",
+        "document_id": "doc-f6666256313bbaddac94",
+        "scope": "Full saved official instrument/explanation; not necessarily the original recorded URL."
+      }
+    ]
   },
   "notes": "Architecture events and rotation events are distinct subtypes; the family total is descriptive.",
-  "archival_review_status": "Metadata serialized and documents archived/extracted; legal chronology, eligibility and compliance not re-audited.",
+  "archival_review_status": "OCR visual flags disposed; source-gap retrieval reviewed with explicit outcomes. Legal scope review is targeted and does not certify global histories.",
   "original_csv_record": {
     "event_id": "USA_AUDIT_OVERSIGHT_0133",
     "iso3": "USA",
@@ -73,5 +81,22 @@
     "evidence_tier": "",
     "first_calendar_reporting_year": ""
   },
-  "original_csv_row_sha256": "566149f9279c8fbb6e072b4c048b059887f645726ab89f6994edaa4b38dd9695"
+  "original_csv_row_sha256": "566149f9279c8fbb6e072b4c048b059887f645726ab89f6994edaa4b38dd9695",
+  "legal_eligibility_review": {
+    "reviewed_at": "2026-10-18T22:43:20.230100+00:00",
+    "review_method": "Assistant source-clause review where identified; otherwise classification of unresolved data requirements, not independent legal verification.",
+    "filing_field_status": "not_applicable_as_new_issuer_filing",
+    "family_scope_requirement": "Regulator formation, auditor registration, inspections or rotation framework: no single new issuer-filing deadline follows from this event. Effects on audit quality remain possible.",
+    "issuer_assignment_status": "not_globally_resolved",
+    "actual_first_filing_date": null,
+    "global_history_status": "incomplete_census_unknown_nonadoption_retained",
+    "original_record_preserved": true,
+    "legal_date_status": "targeted_source_clauses_reviewed_with_stated_limits",
+    "targeted_clause_review": {
+      "scope": "SOX section102 is auditor registration, not an issuer disclosure threshold.",
+      "timing": "Act ties deadline to180days after SEC determination; Act alone does not establish the recorded22Oct2003 calendar deadline. Exact decision history remains unresolved.",
+      "source": "USA_SOX",
+      "locator": "PublicLaw107-204, section102(a)."
+    }
+  }
 }

@@ -3720,6 +3720,246 @@
       "roles": [
         "relocated_official_annual_report"
       ]
+    },
+    {
+      "document_id": "doc-a46815b1091199f103ec",
+      "sha256": "a46815b1091199f103ecc52edb292ca2ffec249f0e3e4dd33a1910ca60992419",
+      "bytes": 8944990,
+      "archive_path": "documents/a46815b1091199f103ecc52edb292ca2ffec249f0e3e4dd33a1910ca60992419.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "13-legal-eligibility-and-history-review\\2026-10-18\\sources\\PHL_ESG-a46815b10911.pdf"
+      ],
+      "urls": [
+        "https://lpr.adb.org/sites/default/files/2024-05/philippines-2019-mc-no-4.pdf"
+      ],
+      "roles": [
+        "recovered_official_instrument_or_official_explanation"
+      ]
+    },
+    {
+      "document_id": "doc-73c22ae38d024d01c594",
+      "sha256": "73c22ae38d024d01c5949abcbb567efae1e7f885ebc9efab8947142ad7466aeb",
+      "bytes": 163002,
+      "archive_path": "documents/73c22ae38d024d01c5949abcbb567efae1e7f885ebc9efab8947142ad7466aeb.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "13-legal-eligibility-and-history-review\\2026-10-18\\sources\\IRL_BO_2016-73c22ae38d02.pdf"
+      ],
+      "urls": [
+        "https://www.irishstatutebook.ie/eli/2016/si/560/made/en/pdf"
+      ],
+      "roles": [
+        "recovered_official_instrument_or_official_explanation"
+      ]
+    },
+    {
+      "document_id": "doc-bdec97a6906b76c10b84",
+      "sha256": "bdec97a6906b76c10b840fbc8dfa28affca73e49a107e07904ff54c520c6b48b",
+      "bytes": 306932,
+      "archive_path": "documents/bdec97a6906b76c10b840fbc8dfa28affca73e49a107e07904ff54c520c6b48b.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "13-legal-eligibility-and-history-review\\2026-10-18\\sources\\IRL_BO_2019-bdec97a6906b.pdf"
+      ],
+      "urls": [
+        "https://www.irishstatutebook.ie/eli/2019/si/110/made/en/pdf"
+      ],
+      "roles": [
+        "recovered_official_instrument_or_official_explanation"
+      ]
+    },
+    {
+      "document_id": "doc-6d6fe596d236135c1032",
+      "sha256": "6d6fe596d236135c10323a15d0e5605bb81a7f61d13872936633df24861a0f5b",
+      "bytes": 105225,
+      "archive_path": "documents/6d6fe596d236135c10323a15d0e5605bb81a7f61d13872936633df24861a0f5b.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "13-legal-eligibility-and-history-review\\2026-10-18\\sources\\IRL_BO_2023-6d6fe596d236.pdf"
+      ],
+      "urls": [
+        "https://www.irishstatutebook.ie/eli/2023/si/308/made/en/pdf"
+      ],
+      "roles": [
+        "recovered_official_instrument_or_official_explanation"
+      ]
+    },
+    {
+      "document_id": "doc-5837eef5adf0394ad5ec",
+      "sha256": "5837eef5adf0394ad5ec4f20352ff40ed17436cc853cc5050632dee3ade8e392",
+      "bytes": 220108,
+      "archive_path": "documents/5837eef5adf0394ad5ec4f20352ff40ed17436cc853cc5050632dee3ade8e392.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "13-legal-eligibility-and-history-review\\2026-10-18\\sources\\FRA_BO_DECREE-5837eef5adf0.pdf"
+      ],
+      "urls": [
+        "https://www.afg.asso.fr/app/uploads/2017/06/Decret-2017-1094_12_-juin_2017_registre_beneficiaires_effectifs-1.pdf"
+      ],
+      "roles": [
+        "recovered_official_instrument_or_official_explanation"
+      ]
+    },
+    {
+      "document_id": "doc-362dcf8bf44507100be7",
+      "sha256": "362dcf8bf44507100be737aba28fe6810e3bed1532fed1f56c1a0f3fb0c00281",
+      "bytes": 1774204,
+      "archive_path": "documents/362dcf8bf44507100be737aba28fe6810e3bed1532fed1f56c1a0f3fb0c00281.html",
+      "format": "html",
+      "original_locations": [
+        "13-legal-eligibility-and-history-review\\2026-10-18\\sources\\ZAF_BO-362dcf8bf445.html"
+      ],
+      "urls": [
+        "https://www.cipc.co.za/?page_id=16055"
+      ],
+      "roles": [
+        "recovered_official_instrument_or_official_explanation"
+      ]
+    },
+    {
+      "document_id": "doc-fcd3ce1773bc5762e4f4",
+      "sha256": "fcd3ce1773bc5762e4f4fb6d5e30bfc69012467e98fe5b1ed43bae8bf3a47899",
+      "bytes": 1192111,
+      "archive_path": "documents/fcd3ce1773bc5762e4f4fb6d5e30bfc69012467e98fe5b1ed43bae8bf3a47899.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "13-legal-eligibility-and-history-review\\2026-10-18\\sources\\IND_KAM-fcd3ce1773bc.pdf"
+      ],
+      "urls": [
+        "https://www.bhubaneswar-icai.org/wp-content/uploads/2018/02/e-newsletter-eirc-dec-2017.pdf"
+      ],
+      "roles": [
+        "recovered_official_instrument_or_official_explanation"
+      ]
+    },
+    {
+      "document_id": "doc-5b0505ba58c8d561b83b",
+      "sha256": "5b0505ba58c8d561b83b633e65a6d929b20b7b0a384e23991b21f4a7d8eac63c",
+      "bytes": 533386,
+      "archive_path": "documents/5b0505ba58c8d561b83b633e65a6d929b20b7b0a384e23991b21f4a7d8eac63c.html",
+      "format": "html",
+      "original_locations": [
+        "13-legal-eligibility-and-history-review\\2026-10-18\\sources\\SGP_OVERSIGHT-5b0505ba58c8.html"
+      ],
+      "urls": [
+        "https://www.acra.gov.sg/about-us/overview/"
+      ],
+      "roles": [
+        "recovered_official_instrument_or_official_explanation"
+      ]
+    },
+    {
+      "document_id": "doc-18a74a3c0cee65bf02cf",
+      "sha256": "18a74a3c0cee65bf02cf351be6fa21f52a09f75d27c2a495319ef32837765c8d",
+      "bytes": 368363,
+      "archive_path": "documents/18a74a3c0cee65bf02cf351be6fa21f52a09f75d27c2a495319ef32837765c8d.html",
+      "format": "html",
+      "original_locations": [
+        "13-legal-eligibility-and-history-review\\2026-10-18\\sources\\EU_PUBLIC_CBCR-18a74a3c0cee.html"
+      ],
+      "urls": [
+        "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021L2101"
+      ],
+      "roles": [
+        "recovered_official_instrument_or_official_explanation"
+      ]
+    },
+    {
+      "document_id": "doc-f538634bb757219ed903",
+      "sha256": "f538634bb757219ed9038e5b190f1dda0e8fc990d5c000415fd287ccf76ec0e6",
+      "bytes": 268094,
+      "archive_path": "documents/f538634bb757219ed9038e5b190f1dda0e8fc990d5c000415fd287ccf76ec0e6.html",
+      "format": "html",
+      "original_locations": [
+        "13-legal-eligibility-and-history-review\\2026-10-18\\sources\\EU_IFRS-f538634bb757.html"
+      ],
+      "urls": [
+        "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32002R1606"
+      ],
+      "roles": [
+        "recovered_official_instrument_or_official_explanation"
+      ]
+    },
+    {
+      "document_id": "doc-daa3b942604a23fe8019",
+      "sha256": "daa3b942604a23fe8019beabf5b2781835099498907e26e8c16d3aea04fee770",
+      "bytes": 725380,
+      "archive_path": "documents/daa3b942604a23fe8019beabf5b2781835099498907e26e8c16d3aea04fee770.html",
+      "format": "html",
+      "original_locations": [
+        "13-legal-eligibility-and-history-review\\2026-10-18\\sources\\EU_AMLD-daa3b942604a.html"
+      ],
+      "urls": [
+        "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015L0849"
+      ],
+      "roles": [
+        "recovered_official_instrument_or_official_explanation"
+      ]
+    },
+    {
+      "document_id": "doc-86e1f609e7aa6bee9465",
+      "sha256": "86e1f609e7aa6bee9465b32f00d232bde6c90dccdb8c5f66be174407e0a79e97",
+      "bytes": 152486,
+      "archive_path": "documents/86e1f609e7aa6bee9465b32f00d232bde6c90dccdb8c5f66be174407e0a79e97.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "13-legal-eligibility-and-history-review\\2026-10-18\\sources\\USA_CAM_BASICS-86e1f609e7aa.pdf"
+      ],
+      "urls": [
+        "https://assets.pcaobus.org/pcaob-dev/docs/default-source/standards/documents/implementation-of-critical-audit-matters-the-basics.pdf?sfvrsn=dc053da6_0"
+      ],
+      "roles": [
+        "recovered_official_instrument_or_official_explanation"
+      ]
+    },
+    {
+      "document_id": "doc-d28e23239c1e0eb0ae02",
+      "sha256": "d28e23239c1e0eb0ae02472ab539494d6668c69e1705e624350016ed36a32867",
+      "bytes": 451174,
+      "archive_path": "documents/d28e23239c1e0eb0ae02472ab539494d6668c69e1705e624350016ed36a32867.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "13-legal-eligibility-and-history-review\\2026-10-18\\sources\\USA_AUDITOR_GUIDANCE-d28e23239c1e.pdf"
+      ],
+      "urls": [
+        "https://assets.pcaobus.org/pcaob-dev/docs/default-source/standards/documents/pcaob-auditors-report-guidance-8-23-18.pdf?sfvrsn=f8ca329c_0"
+      ],
+      "roles": [
+        "recovered_official_instrument_or_official_explanation"
+      ]
+    },
+    {
+      "document_id": "doc-9136239f314b876f0912",
+      "sha256": "9136239f314b876f09128878076a3778e2310e5f6f4b49c745d31f9a49e0c91c",
+      "bytes": 640872,
+      "archive_path": "documents/9136239f314b876f09128878076a3778e2310e5f6f4b49c745d31f9a49e0c91c.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "13-legal-eligibility-and-history-review\\2026-10-18\\sources\\AUS_MSA_ORIGINAL-9136239f314b.pdf"
+      ],
+      "urls": [
+        "https://www.legislation.gov.au/C2018A00153/asmade/2018-12-10/text/original/pdf"
+      ],
+      "roles": [
+        "recovered_official_instrument_or_official_explanation"
+      ]
+    },
+    {
+      "document_id": "doc-f6666256313bbaddac94",
+      "sha256": "f6666256313bbaddac941da3f5bda04645e5abaf08a6c53394eef2d26a93a127",
+      "bytes": 290864,
+      "archive_path": "documents/f6666256313bbaddac941da3f5bda04645e5abaf08a6c53394eef2d26a93a127.pdf",
+      "format": "pdf",
+      "original_locations": [
+        "13-legal-eligibility-and-history-review\\2026-10-18\\sources\\USA_SOX-f6666256313b.pdf"
+      ],
+      "urls": [
+        "https://www.govinfo.gov/content/pkg/PLAW-107publ204/pdf/PLAW-107publ204.pdf"
+      ],
+      "roles": [
+        "recovered_official_instrument_or_official_explanation"
+      ]
     }
   ]
 }

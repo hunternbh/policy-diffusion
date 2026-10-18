@@ -1,0 +1,18 @@
+{
+  "candidate_quote_filing_matches": 13122,
+  "candidate_issuers": 3635,
+  "pass_name_and_stable_identifier_rows": 6864,
+  "screened_issuer_filing_years": 6855,
+  "screened_issuers": 1920,
+  "name_similarity_cutoff": 0.8,
+  "strict_historical_link_test_status": "not_estimable_missing_historical_ISIN2",
+  "planned_provisional_cells": 72,
+  "estimated_provisional_cells": 0,
+  "status_counts": {
+    "not_estimated_fewer_than30_issuers_per_arm": 72
+  },
+  "maximum_treated_arm": 502,
+  "maximum_control_arm": 13,
+  "inference": "No causal p-values. Any bootstrap intervals descriptive and not simultaneous. Selected Compustat sample, provisional identifiers and COVID-period differential trends limit interpretation. SEC filing dates may follow earlier investor publication.",
+  "annual_end_of_archive_limit": "No2022 10-K source archive;2021 cohort+1 filing-status support unavailable, retained as unsupported."
+}
