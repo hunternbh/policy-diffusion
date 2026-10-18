@@ -1,0 +1,4 @@
+outcome,estimate,loco_low,loco_high,p_value,supported_cohorts,treated_countries,assignment_clusters,treated_clusters,status,causal_interpretation_established,holm_p
+log_spread,-0.01565595494377266,-0.08472869022484938,0.01911223008386511,,12,27,42,20,published_coding_calendar_year_benchmark_descriptive_only,False,
+log_impact,-0.08730201951099298,-0.14771931402778576,-0.039717756000474065,,14,29,45,22,published_coding_calendar_year_benchmark_descriptive_only,False,
+zero_fraction,-0.005537194310578569,-0.00871519262168668,-0.0017461954945114679,,14,29,46,22,published_coding_calendar_year_benchmark_descriptive_only,False,
