@@ -1,0 +1,36 @@
+{
+  "created_at": "2026-10-18T19:26:23.013469+00:00",
+  "result_cells": 3330,
+  "estimated_cells": 2314,
+  "unsupported_cells": 1016,
+  "original_30_comparisons_reproduced_max_abs_diff": 2.983724378680108e-16,
+  "published_3_benchmark_comparisons_reproduced_max_abs_diff": 1.1102230246251565e-16,
+  "factor": {
+    "reference_years": [
+      2000,
+      2004
+    ],
+    "training_observations": 57097,
+    "means": {
+      "log_spread": -4.611783926749487,
+      "log_impact": 2.277942199438672,
+      "zero_fraction": 0.13233323123252333
+    },
+    "sample_standard_deviations": {
+      "log_spread": 1.0752371169302795,
+      "log_impact": 2.5335106847885753,
+      "zero_fraction": 0.1153555759686726
+    },
+    "loadings": {
+      "log_spread": 0.6506123284968705,
+      "log_impact": 0.5791240493682582,
+      "zero_fraction": 0.4912422350034574
+    },
+    "explained_variance_fraction": 0.6776345175574341,
+    "orientation": "Higher is more illiquid. Frozen retrospective measurement basis, not a claim of uniform pretreatment calibration.",
+    "complete_factor_observations": 636960
+  },
+  "elapsed_seconds": 17.9,
+  "formal_liquidity_p_values_reported": false,
+  "note": "Sensitivity cells are related analyses, not independent experiments. No result selection by sign or significance."
+}

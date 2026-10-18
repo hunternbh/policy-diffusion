@@ -1,33 +1,13 @@
-# Policy diffusion: public empirical report
+# Policy diffusion: expanded empirical companion
 
-Public companion to **Disclosure Regulation, Stock Liquidity and Policy Diffusion Around the World**, first empirical draft, 18 October 2026.
+Live report: https://hunternbh.github.io/policy-diffusion/
 
-Website: https://hunternbh.github.io/policy-diffusion/
+Expanded 18 October 2026 draft with six figures, two equations, fifteen paper tables, the full manuscript, searchable regulation JSONs, an interactive weighting explorer, and downloadable aggregate results.
 
-The HTML includes both PDF figures, both equations, all nine tables, the complete manuscript text, an interactive view of primary liquidity comparisons, and aggregate CSV/PDF downloads.
+The follow-up discloses 3,330 weighting/robustness cells, 720 balanced-profile cells, 180 exploratory income cells and 2,992 mechanism coefficient cells (including unsupported/unstable specifications). These are related analyses, not independent experiments. GDP weighting changes important liquidity signs/magnitudes. No new diffusion coefficient passes Holm correction across all 442 stable focal estimates. Financial dependence survives only a separately labelled narrow primary correction.
 
-## Interpretation
+Liquidity comparisons are descriptive conditional on documented cases. Country histories, issuer eligibility and fiscal filing alignment remain incomplete. Cluster-deletion ranges are not confidence intervals. Original source-paper literature, quote-level vendor data, raw holdings and full source-document/OCR corpus remain local.
 
-These are preliminary descriptive comparisons conditional on documented cases. Missing country-family records are not untreated controls. Liquidity cluster-deletion ranges are sensitivity ranges, not confidence intervals; liquidity p-values are withheld. Only two exposure-only timing specifications meet support/stability criteria; learning fits are unstable. The pooled timing fit covers two policy families.
+`downloads/expanded-tests.zip` contains aggregate results, construction summaries, a frozen exploratory plan and methods/results JSON. `data/regulations/` retains 441 expanded event records and 51 separate inherited document records. The completion audit reports missing inputs and source gaps without marking them complete.
 
-## Files and scope
-
-- `index.html`, `assets/report.css`, `assets/report.js`: buildless static website.
-- `assets/`: original report figures/equations and vector figure PDFs.
-- `downloads/paper.pdf`: original 20-page paper.
-- `data/`: aggregate result tables, report data and manuscript text/table snapshots.
-- `downloads/aggregate-tables.zip`: aggregate CSV bundle.
-
-No quote-level vendor data, raw portfolio positions, credentials or third-party literature PDFs are included. This repository does not confer redistribution rights over the original vendor data. No blanket open-source or data license is asserted.
-
-## Local preview
-
-Serve this directory with `python -m http.server 8767`, then open http://127.0.0.1:8767/ . All original tables and manuscript content remain readable without JavaScript. Interactive controls load `data/report-data.json` over HTTP.
-
-## Hosting
-
-GitHub Pages serves the `main` branch root; `.nojekyll` disables Jekyll processing.
-
-## Regulation register update
-
-The source archive update adds 441 event JSONs, fourteen family indices, 51 separate inherited ESG document JSONs, a master register, source/document manifests, explicit source gaps, and searchable catalogue controls. Original documents and full-text/OCR outputs remain in the local project archive. Downloadable metadata distinguishes saved originals, linked sources, author repository data, excerpts and unavailable material. Legal coding and empirical estimates are unchanged.
+GitHub Pages serves the main branch root with `.nojekyll`. No blanket rights over vendor data or third-party sources are asserted.

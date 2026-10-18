@@ -1,0 +1,5 @@
+{
+  "timestamp": "2026-10-18T19:16:25.417571+00:00",
+  "status": "Exploratory elaboration of frozen observable-moderator scope, after weighted headline results observed; not preregistered.",
+  "design": "For each supported baseline country/cohort cell, split at the median pre-event GDP per capita among all observed market-data countries with GDPpc. Apply same threshold to both arms. Equal-country and constant-GDP weighting, three outcomes, all families/benchmark, at least3 controls per subgroup/cohort. No p-values. Median is selected without outcome changes. Publish unsupported groups."
+}

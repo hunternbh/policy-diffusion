@@ -1,0 +1,15 @@
+Configuration,Cells,Supported,Negative,Positive,Families
+baseline,42,30,15,15,10
+cap weighted quotes,42,30,13,17,10
+median quote change,42,30,14,16,10
+common three outcome sample,42,30,15,15,10
+at least200 days,42,27,12,15,9
+exclude bottom cap quintile,42,30,14,16,10
+unwinsorized proxies,42,30,17,13,10
+five ninetyfive winsorized proxies,42,30,16,14,10
+independent treated cases,42,30,15,15,10
+independent cases both arms,42,24,12,12,8
+exclude known other family events in window,42,24,11,13,8
+exclude crisis windows 2008 2009 2020 2021,42,30,14,16,10
+pretrend extrapolation adjustment,42,29,11,18,10
+post years1 to3 average,42,23,11,12,8

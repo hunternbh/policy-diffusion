@@ -1,0 +1,8 @@
+Workstream,Current status,Evidence or remaining requirement
+GDP and market-size weights,Completed,"Six country weighting schemes; matched support, concentration and cluster deletions."
+"Factor, secondary outcomes and robustness",Completed,"PC1, traded value/cap, volatility;14 configurations; balanced seven-year profiles; income split."
+JIBS competition and learning,Implemented with disclosed coverage,Five export peers; geographic relative GDP/GDPpc growth; lagged liquidity and foreign benchmark signals. Sparse learning cells remain unsupported.
+Emulation and financial dependence,Partial observable proxies completed,"Language/legal/IGO and credit/aid measures. Full Berry composite, IFAC advocacy, EIU and verified loan conditions unavailable."
+Firm-level causal design,Unfinished: required inputs missing,"First mandatory filing dates, issuer eligibility, fiscal alignment, accounting/analyst controls, untreated histories and historical quote universe."
+Policy-source verification,Unfinished: retained gap register,"18 events lack readable source,11 excerpts only;51 OCR pages require review. Saving/OCR does not verify legal coding."
+Other source-paper tests,Unfinished: required inputs missing,"Policy-specific enforcement, voluntary guidance, triggers, IFAC histories and ordered legal status. No synthetic replacements."
