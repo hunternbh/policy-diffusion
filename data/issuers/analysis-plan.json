@@ -1,0 +1,51 @@
+{
+  "frozen_at": "2026-10-19T04:19:08.023742+00:00",
+  "user_request": "Resolve eligibility/filing gaps; expand issuer-level tests beyond banking across all regulation families; rerun equal-family and market-cap-family aggregation.",
+  "selection_rule": "Attempt every economic family; withhold unknown/exempt issuer assignments rather than classify every home equity as legally covered. Separate issuer-outcome geographic policy-exposure panel from source-corroborated covered-issuer studies. No result selection by sign/significance.",
+  "economic_families": 17,
+  "bank_phases_combined": true,
+  "published_ESG_benchmark_excluded_from_aggregate": true,
+  "issuer_level_exposure_panel": "Fix individual vendor-company home ordinary-equity representatives and complete outcome support within cohort; GDP allocated across sampled issuers within country, then family. Company mapping, venue coverage and cross-listing limitations explicit. Country/family date alone is not legal issuer eligibility.",
+  "covered_issuer_extensions": [
+    "US PCAOB CAM: observed current-period filer/EGC declarations, exact fiscal-period-end historical Compustat CUSIP/CIK and source-bounded Datastream ISIN; full auditor section review if available.",
+    "US XBRL: phased threshold/filer eligibility and actual archived filings, separate first-observed format from mandatory date.",
+    "US conflict minerals: statutory first report2014, actual issuer reports and SEC filing evidence; financial-services comparator eligibility; overlap and common-US-wave limitations.",
+    "Bank institutions: prior source-corroborated sample with identity tiers and actual-date subset retained."
+  ],
+  "outcomes": [
+    "log_spread",
+    "log_impact",
+    "zero_fraction"
+  ],
+  "principal_targets": [
+    "inclusive_first_year_g_minus1_to_g",
+    "balanced_mean_years0_1_2_support_g_minus3_through_g_plus2"
+  ],
+  "within_family_weights": [
+    "gdp_country_allocated",
+    "equal_issuer",
+    "baseline_issuer_market_cap"
+  ],
+  "across_family_weights": [
+    "equal_family",
+    "baseline_market_cap_family"
+  ],
+  "common_coverage": "Same supported families across3principal outcomes within target/weight. Unsupported/exempt families never entered as zero. Verified subset and geographic-exposure aggregate never merged.",
+  "inference": "Shared-country influence functions and common multiplier draws for geographic exposure; single legal-wave and low-support flags. Covered-issuer estimates have descriptive unit-sampling diagnostics only; one US/EU decision cannot supply country-policy replication. No general causal claim.",
+  "issuer_sample_support": "At least30treated and30control issuers and3controlcountry markets for broad exposure contrasts; source-corroborated sector studies at least3treated/20comparison issuers, expressly sparse and descriptive. No unknown cover flag is coded false.",
+  "sensitivity": [
+    "public_availability_plus1",
+    "balanced_dynamic_profile",
+    "equal_country_mass",
+    "documented_scope_exclusions",
+    "source_identity_only",
+    "no_post_treatment_eligibility_changes"
+  ],
+  "multiplicity": "Holm across12principal broad coefficients (3outcomes x2targets x2acrossweights); full matrix retained.",
+  "identifier_rule": "Local variable dictionary explicitly labels main ISIN as period-bounded. Corroborate with same-fiscal-date independent CUSIP/CIK and date bounds; blank ISIN2 alone is not exclusion. Preserve evidence/ambiguities; no guessed/fuzzy promotion.",
+  "filing_rule": "Observed regulator acceptance/issuer actual-publication dates remain distinct from fiscal period ends, statutory deadlines, PDF creation stamps and first-ever disclosure. Confidential tax filing dates are inherently nonpublic, not filled from public reports.",
+  "input_hashes": {
+    "data/classified-dated-policy-cases.csv": "88dcb4fb7594cb179901125c8250176d20ab227f4882fa950e896cd54e25534d",
+    "data/macro-country-year.csv": "f02902991d0e4f7f7447005ef224315c5dea694702608886004644e351558585"
+  }
+}

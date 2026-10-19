@@ -1,0 +1,10 @@
+{
+  "pre2009_stratified_candidates": 150,
+  "filings_inspected": 1385,
+  "corroborated_early_2009_issuers": 15,
+  "known_nonlarge_later_phase_comparators": 73,
+  "rule_evidence": "SEC Interactive Data CDI Question105.04 says voluntary submitters should not check compliance box until required;2009earlylarge filer status plus affirmative cover corroborates phase. Nonlarge2009filers are later-phase, not inferred from an unchecked box.",
+  "timing_limit": "Observed compliance cover date is not exact first XBRL exhibit availability;30daygrace/amendments and missingearlierquartersremain. Controls become requiredby2011, so balanced2009years0\u20132not supported with them.",
+  "sampling": "Deterministic30perpre2008sizequintile; selected before outcomes.",
+  "elapsed_seconds": 59.340728759765625
+}

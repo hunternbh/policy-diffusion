@@ -1,0 +1,495 @@
+{
+  "passed": 122,
+  "checks": [
+    {
+      "check": "unique_HTML_ids",
+      "passed": true
+    },
+    {
+      "check": "anchor_classification",
+      "passed": true
+    },
+    {
+      "check": "anchor_diffusion",
+      "passed": true
+    },
+    {
+      "check": "anchor_eligibility",
+      "passed": true
+    },
+    {
+      "check": "anchor_issuers",
+      "passed": true
+    },
+    {
+      "check": "anchor_liquidity",
+      "passed": true
+    },
+    {
+      "check": "anchor_main",
+      "passed": true
+    },
+    {
+      "check": "anchor_overview",
+      "passed": true
+    },
+    {
+      "check": "anchor_paper",
+      "passed": true
+    },
+    {
+      "check": "anchor_supplement",
+      "passed": true
+    },
+    {
+      "check": "anchor_top",
+      "passed": true
+    },
+    {
+      "check": "local_link_assets/coverage.css",
+      "passed": true
+    },
+    {
+      "check": "local_link_assets/coverage.js",
+      "passed": true
+    },
+    {
+      "check": "local_link_assets/favicon.svg",
+      "passed": true
+    },
+    {
+      "check": "local_link_assets/issuer-balanced-profiles.png",
+      "passed": true
+    },
+    {
+      "check": "local_link_assets/issuer-balanced-profiles.svg",
+      "passed": true
+    },
+    {
+      "check": "local_link_assets/issuer-family-spread.png",
+      "passed": true
+    },
+    {
+      "check": "local_link_assets/issuer-family-spread.svg",
+      "passed": true
+    },
+    {
+      "check": "local_link_assets/issuers.css",
+      "passed": true
+    },
+    {
+      "check": "local_link_assets/issuers.js",
+      "passed": true
+    },
+    {
+      "check": "local_link_assets/registry-only.js",
+      "passed": true
+    },
+    {
+      "check": "local_link_assets/registry.css",
+      "passed": true
+    },
+    {
+      "check": "local_link_assets/report.css",
+      "passed": true
+    },
+    {
+      "check": "local_link_assets/staggered.css",
+      "passed": true
+    },
+    {
+      "check": "local_link_assets/staggered.js",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/coverage/banking-historical-group-roster.csv",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/coverage/banking-public-cbcr-coverage.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/coverage/mandatory-topic-and-issuer-coverage.csv",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/coverage/policy-reviews/ARG_ESG_TOPIC_REVIEW_20261018.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/coverage/policy-reviews/AUS_ESG_TOPIC_REVIEW_20261018.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/coverage/policy-reviews/AUT_ESG_TOPIC_REVIEW_20261018.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/coverage/policy-reviews/BEL_ESG_TOPIC_REVIEW_20261018.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/coverage/policy-reviews/BGR_ESG_TOPIC_REVIEW_20261018.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/coverage/policy-reviews/CAN_ESG_TOPIC_REVIEW_20261018.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/coverage/policy-reviews/CHL_ESG_TOPIC_REVIEW_20261018.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/coverage/policy-reviews/CHN_ESG_TOPIC_REVIEW_20261018.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/coverage/policy-reviews/CYP_ESG_TOPIC_REVIEW_20261018.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/coverage/policy-reviews/DEU_ESG_TOPIC_REVIEW_20261018.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/coverage/policy-reviews/DNK_ESG_TOPIC_REVIEW_20261018.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/coverage/policy-reviews/EGY_ESG_TOPIC_REVIEW_20261018.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/coverage/policy-reviews/ESP_ESG_TOPIC_REVIEW_20261018.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/coverage/policy-reviews/EST_ESG_TOPIC_REVIEW_20261018.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/coverage/policy-reviews/FIN_ESG_TOPIC_REVIEW_20261018.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/coverage/policy-reviews/FRA_ESG_TOPIC_REVIEW_20261018.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/coverage/policy-reviews/GBR_ESG_TOPIC_REVIEW_20261018.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/coverage/policy-reviews/GRC_ESG_TOPIC_REVIEW_20261018.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/coverage/policy-reviews/HKG_ESG_TOPIC_REVIEW_20261018.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/coverage/policy-reviews/HUN_ESG_TOPIC_REVIEW_20261018.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/coverage/policy-reviews/IDN_ESG_TOPIC_REVIEW_20261018.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/coverage/policy-reviews/IND_ESG_TOPIC_REVIEW_20261018.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/coverage/policy-reviews/IRL_ESG_TOPIC_REVIEW_20261018.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/coverage/policy-reviews/ITA_ESG_TOPIC_REVIEW_20261018.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/coverage/policy-reviews/MLT_ESG_TOPIC_REVIEW_20261018.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/coverage/policy-reviews/MYS_ESG_TOPIC_REVIEW_20261018.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/coverage/policy-reviews/NLD_ESG_TOPIC_REVIEW_20261018.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/coverage/policy-reviews/NOR_ESG_TOPIC_REVIEW_20261018.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/coverage/policy-reviews/PAK_ESG_TOPIC_REVIEW_20261018.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/coverage/policy-reviews/PER_ESG_TOPIC_REVIEW_20261018.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/coverage/policy-reviews/PHL_ESG_TOPIC_REVIEW_20261018.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/coverage/policy-reviews/POL_ESG_TOPIC_REVIEW_20261018.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/coverage/policy-reviews/PRT_ESG_TOPIC_REVIEW_20261018.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/coverage/policy-reviews/ROU_ESG_TOPIC_REVIEW_20261018.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/coverage/policy-reviews/SGP_ESG_TOPIC_REVIEW_20261018.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/coverage/policy-reviews/SVN_ESG_TOPIC_REVIEW_20261018.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/coverage/policy-reviews/SWE_ESG_TOPIC_REVIEW_20261018.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/coverage/policy-reviews/THA_ESG_TOPIC_REVIEW_20261018.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/coverage/policy-reviews/TUR_ESG_TOPIC_REVIEW_20261018.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/coverage/policy-reviews/TWN_ESG_TOPIC_REVIEW_20261018.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/coverage/policy-reviews/ZAF_ESG_TOPIC_REVIEW_20261018.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/issuers/all-family-eligibility-and-filing-dispositions.csv",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/issuers/all-family-eligibility-and-filing-dispositions.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/issuers/analysis-plan.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/issuers/covered-issuer-family-did.csv",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/issuers/covered-issuer-family-weights.csv",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/issuers/covered-issuer-named-sample.csv",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/issuers/covered-issuer-pooled-did.csv",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/issuers/estimator-validation.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/issuers/irish-crosslisted-eligibility-review.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/issuers/issuer-exposure-family-weights.csv",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/issuers/issuer-exposure-pooled-did.csv",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/issuers/issuer-exposure-principal-estimates.csv",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/issuers/jibs-mechanism-models-all.csv",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/issuers/source-review-register.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/staggered/all-historical-bank-LEI-dispositions.csv",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/staggered/bank-issuer-linkage-public.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/staggered/banking-observed-filings.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_downloads/issuer-regulation-findings.zip",
+      "passed": true
+    },
+    {
+      "check": "local_link_downloads/manuscript.txt",
+      "passed": true
+    },
+    {
+      "check": "local_link_downloads/paper.pdf",
+      "passed": true
+    },
+    {
+      "check": "local_link_downloads/regulation-json-register.zip",
+      "passed": true
+    },
+    {
+      "check": "local_link_downloads/staggered-findings.zip",
+      "passed": true
+    },
+    {
+      "check": "PDF_eight_pages",
+      "passed": true
+    },
+    {
+      "check": "three_tables_two_figures",
+      "passed": true
+    },
+    {
+      "check": "PDF_page_text_1",
+      "passed": true
+    },
+    {
+      "check": "PDF_page_text_2",
+      "passed": true
+    },
+    {
+      "check": "PDF_page_text_3",
+      "passed": true
+    },
+    {
+      "check": "PDF_page_text_4",
+      "passed": true
+    },
+    {
+      "check": "PDF_page_text_5",
+      "passed": true
+    },
+    {
+      "check": "PDF_page_text_6",
+      "passed": true
+    },
+    {
+      "check": "PDF_page_text_7",
+      "passed": true
+    },
+    {
+      "check": "PDF_page_text_8",
+      "passed": true
+    },
+    {
+      "check": "PDF_ASCII_negative_coefficients_retained",
+      "passed": true
+    },
+    {
+      "check": "canonical_PDFs_match",
+      "passed": true
+    },
+    {
+      "check": "archive_integrity",
+      "passed": true
+    },
+    {
+      "check": "archive_441_scope_overlays",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_identifiers_all-family-eligibility-and-filing-dispositions.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_identifiers_covered-issuer-events.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_identifiers_covered-issuer-family-did.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_identifiers_covered-issuer-family-weights.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_identifiers_covered-issuer-named-sample.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_identifiers_covered-issuer-pooled-did.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_identifiers_covered-issuer-support.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_identifiers_issuer-exposure-family-did.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_identifiers_issuer-exposure-family-events.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_identifiers_issuer-exposure-family-weights.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_identifiers_issuer-exposure-group-time-cells.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_identifiers_issuer-exposure-pooled-did.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_identifiers_issuer-exposure-pooled-events.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_identifiers_issuer-exposure-principal-estimates.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_identifiers_issuer-exposure-support.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_identifiers_jibs-mechanism-models-all.csv",
+      "passed": true
+    },
+    {
+      "check": "registry_and_topic_bank_controls_preserved",
+      "passed": true
+    }
+  ],
+  "PDF_all_pages_visually_reviewed": true,
+  "visual_notes": "Eight final pages inspected: no clipped tables, overlap, missing minus signs or unreadable figure labels. Table2 padding reduced and zero fractions displayed to four decimals. Source-summary metadata changes do not change rendered pages."
+}

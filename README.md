@@ -1,11 +1,11 @@
-# Global reporting regulation, liquidity and policy diffusion
+# Reporting regulation, issuer liquidity, and diffusion
 
-Public report: https://hunternbh.github.io/policy-diffusion/
+Public research report: https://hunternbh.github.io/policy-diffusion/
 
-Eight-page paper, three tables, two figures. Seventeen economic regulation families attempted;15support the inclusive first-year comparison and10the balanced years0–2comparison. GDP weights within families; both equal-family and sampled-market-cap-family weights across families. Shared country influence functions retain covariance across regulations. The first-year equal-family log-spread contrast is−0.0504, versus+0.00565with market-cap-family weights. Pretrends and weighting limit a general causal claim.
+The principal paper reports individual issuer outcomes under geographic policy exposure across 17 attempted families, alongside source-corroborated studies of auditor reporting, XBRL, conflict minerals, and banking. Both equal and pre-event market-cap family weights are reported. The 8-page paper has 3 tables and 2 figures.
 
-Separate bank analysis:24corroborated institution quotes and21comparison groups;22treated/20comparison banks on balanced initial-phase outcome support. Identity tiers, actual publication dates, parent roles and unresolved histories are disclosed. EU assignment is a collective wave and comparison groups may have EU subsidiaries.
+Source-backed issuer studies cover four selected first-year families, not all 17 global eligible-issuer populations. Missing thresholds, legal perimeters, first histories, and confidential tax dates are explicitly dispositioned. No unsupported family is assigned zero.
 
-data/staggered and downloads/staggered-findings.zip contain current aggregate evidence, all specifications and support failures, source reviews, design rules, bank public identifiers and remaining gaps. The full diffusion matrix is refitted:1,330designs,433stable focal coefficients, no broad-Holm discoveries. Forty-one country legal reviews and the unchanged441-event regulation JSON register remain accessible; Table1contains no future schedules.
+`data/issuers/` contains all aggregate results, support failures, weights, and audit summaries; `downloads/issuer-regulation-findings.zip` also contains 441 additive event-scope JSONs. Original source-linked regulation records, prior source reviews and country-market results remain preserved. Licensed market/financial observations are not distributed.
 
-Licensed vendor quote codes, issuer market observations and raw data remain local. Third-party source originals are archived in the local project with hashes. GitHub Pages serves main-branch root. Prior aggregate evidence directories are retained as historical records.
+Static GitHub Pages site; serve the repository root over HTTP to use the interactive tables.

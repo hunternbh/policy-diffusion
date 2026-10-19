@@ -1,0 +1,40 @@
+{
+  "known_CAM_first_requirement_cohorts": {
+    "2019": 114,
+    "2020": 1025,
+    "2021": 625
+  },
+  "source_corroborated_studies_attempted": 5,
+  "economic_families_attempted_in_covered_subset": 4,
+  "covered_subset_all_families_complete": false,
+  "source_fact_records": [
+    {
+      "issuer": "Apple Inc",
+      "CIK": 320193,
+      "actual_date": "2014-05-29",
+      "date_precision": "day",
+      "source_key": "apple_first_FormSD",
+      "Cisco_signature_date_not_substituted_for_filing": null
+    },
+    {
+      "issuer": "Intel Corporation",
+      "CIK": 50863,
+      "actual_date": "2014-05-22",
+      "date_precision": "day",
+      "source_key": "intel_2014_SD_index",
+      "Cisco_signature_date_not_substituted_for_filing": null
+    },
+    {
+      "issuer": "Cisco Systems Inc",
+      "CIK": 858877,
+      "actual_date": null,
+      "date_precision": "year_2014_accession",
+      "source_key": "cisco_2014_SD",
+      "Cisco_signature_date_not_substituted_for_filing": "2014-05-30"
+    }
+  ],
+  "family_cells": 90,
+  "estimated_family_cells": 72,
+  "aggregate_cells": 72,
+  "sampling_inference_only_no_causal_policy_pvalues": true
+}

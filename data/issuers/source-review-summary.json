@@ -1,0 +1,13 @@
+{
+  "requests_dispositioned": 25,
+  "saved_responses": 15,
+  "substantive_documents_saved": 12,
+  "archive_locators_saved": 2,
+  "off_target_sitemaps": 1,
+  "download_failures_retained": 10,
+  "CAM_full_submission_reviews": 30,
+  "XBRL_cover_reviews": 1385,
+  "manufacturing_annual_filings_reviewed": 27,
+  "global_legal_review_complete": false,
+  "OCR": "Existing inherited OCR archive preserved. Newly selected readable PDFs/HTML do not require OCR. HTTP blocks cannot be solved by OCR."
+}

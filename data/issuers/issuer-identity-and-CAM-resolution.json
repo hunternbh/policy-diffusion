@@ -1,0 +1,21 @@
+{
+  "dictionary_path": "03-source-data/datastream/legacy-variable-dictionary.txt",
+  "dictionary_sha256": "09f0accea61ef11f1762653f1ad83dc9254b54d47dda97009ccccf4eb92218d0",
+  "dictionary_MAIN_ISIN_label": "isin\t(isin) ISIN - Period between the specified StartDate and EndDate",
+  "blank_ISIN2_not_automatic_rejection": true,
+  "independent_temporal_corrobation": "Period-keyed Compustat CUSIP, exact SEC CIK/period, and Datastream main-ISIN validity bounds. Compustat header identifiers can be updated; period key alone is not a certified historical identifier vintage. Unknown, nonmatching and ambiguous mappings excluded.",
+  "does_not_certify_all_history_or_all_issuer_subclasses": true,
+  "linked_rows": 13120,
+  "linked_CIKs": 3635,
+  "bounded_quote_identifiers": 3630,
+  "ambiguous_keys_withheld": 0,
+  "CAM_status_counts": {
+    "before_CAM_first_mandatory_phase": 7420,
+    "required_CAM": 3396,
+    "unknown_eligibility": 944,
+    "not_yet_required": 759,
+    "exempt_EGC": 493,
+    "entity_class_withheld": 108
+  },
+  "public_file_dates_are_observed_not_deadlines": true
+}

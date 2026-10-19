@@ -1,0 +1,16 @@
+{
+  "before": {
+    "egc": 6695,
+    "filer": 7121
+  },
+  "after": {
+    "egc": 9382,
+    "filer": 11278
+  },
+  "candidates": 13122,
+  "conflicts_withheld": 20,
+  "mapping_evidence": "Visually rendered declared Wingdings font: o,0xA8,q empty; x,0xFD crossed;0xFE ticked. Mapping applied only inside explicitly declared Wingdings FONT/SPAN, not generic letters. Standalone checked x/X cover boxes are also accepted. Missing/ambiguous labels remain unknown.",
+  "font_review_png_sha256": "ec991739c83c43c39257b47070e6103e36386c7895bf43d19e60408446ebd74b",
+  "elapsed_seconds": 249.60851430892944,
+  "attribute_rule": "Smaller-reporting-company status may coexist with accelerated/nonaccelerated status. It is not an incompatible primary filer class; compare conflicts only among the three primary roles. Explicit primary role replaces an attribute-only category."
+}

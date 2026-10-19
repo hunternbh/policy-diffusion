@@ -1,0 +1,26 @@
+{
+  "cases": [
+    {
+      "issuer": "Eaton plc",
+      "eligibility": "2018 Irish nonfinancial obligation corroborated by primary statutory excerpt",
+      "source": "eaton_2018_statutory",
+      "actual_first_publication_date": null,
+      "quote_financial_identity": "Eaton quote located; no Eaton row in selected local Compustat extract"
+    },
+    {
+      "issuer": "Ingersoll-Rand plc (later Trane Technologies)",
+      "eligibility": "Explicit Irish obligation in 2018 statutory PDF p24",
+      "source": "ingersoll_2018_statutory",
+      "actual_first_publication_date": null,
+      "identity_limit": "Do not confuse with later Ingersoll Rand Inc. Current TT ticker and period-keyed Compustat CUSIP can be backfilled; historical legal entity relationship requires separate evidence."
+    },
+    {
+      "issuer": "Johnson Controls International plc",
+      "eligibility": "Statutory PDF p44 promises later nonfinancial statement; actual statement not recovered",
+      "source": "jci_2018_irish_report",
+      "actual_first_publication_date": null
+    }
+  ],
+  "issuer_test": "Not estimated: fewer than three complete corroborated reports with observed publication years and adequate eligible comparisons.",
+  "trading_market_not_legal_incorporation": true
+}

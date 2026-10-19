@@ -1,0 +1,8 @@
+{
+  "filings_reviewed": 30,
+  "automatically_located": 27,
+  "manual_header_adjudications": 3,
+  "CAM_language_confirmed": 30,
+  "sampling": "Up to ten per first-required filing year, evenly along observed cohort-year size. Verification sample only; no change to treatment estimates. Not an audit of all eligible filings.",
+  "OCR": "Not required: readable full-submission HTML. Cover-symbol font semantics were separately visually checked."
+}

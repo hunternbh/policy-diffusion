@@ -1,0 +1,14 @@
+{
+  "recorded_at": "2026-10-19T04:46:53.049331+00:00",
+  "reason": "Implementation correction to allocate country GDP once across the fixed source-study issuer universe. Prior code reallocated full GDP within each cohort and arm, giving each same-country phase full GDP mass regardless of its issuer count.",
+  "correct_rule": "Unit GDP weight GDP(country,g-1)/number_of_source_study_issuers_in_country. Cohort mass is sum treated unit weights. At constant GDP, same-country cohort weights are proportional to eligible treated counts.",
+  "not_sign_or_significance_selection": true,
+  "prior_table_hashes": {
+    "covered-issuer-events.csv": "7eadd205820cd0adde43c0523de57ae6476f0d360b87b79992b8ca704c7fcdcc",
+    "covered-issuer-family-did.csv": "8cac79a15b4c583a2b4beb1ab5932440539fc9ef5afa17684837d050b33517e1",
+    "covered-issuer-family-weights.csv": "bcbc2e723544afcbefd4a4860c00f20a498546fdb2ca741218d42ac14e15bdfb",
+    "covered-issuer-named-sample.csv": "29383198118f79db86ea913b769b052b8b4dec94fbd13d5eab741854de5243e1",
+    "covered-issuer-pooled-did.csv": "e2ba96705b282a92c76e85cc6147bc804bdd6d0baba9d59417aac05fca0528b7",
+    "covered-issuer-support.csv": "9eda030ce82a20031b2c452b00649ae7eb7e55260db972d8a74af0efeace4745"
+  }
+}

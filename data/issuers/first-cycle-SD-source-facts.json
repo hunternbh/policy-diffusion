@@ -1,0 +1,26 @@
+[
+  {
+    "issuer": "Apple Inc",
+    "CIK": 320193,
+    "actual_date": "2014-05-29",
+    "date_precision": "day",
+    "source_key": "apple_first_FormSD",
+    "Cisco_signature_date_not_substituted_for_filing": null
+  },
+  {
+    "issuer": "Intel Corporation",
+    "CIK": 50863,
+    "actual_date": "2014-05-22",
+    "date_precision": "day",
+    "source_key": "intel_2014_SD_index",
+    "Cisco_signature_date_not_substituted_for_filing": null
+  },
+  {
+    "issuer": "Cisco Systems Inc",
+    "CIK": 858877,
+    "actual_date": null,
+    "date_precision": "year_2014_accession",
+    "source_key": "cisco_2014_SD",
+    "Cisco_signature_date_not_substituted_for_filing": "2014-05-30"
+  }
+]

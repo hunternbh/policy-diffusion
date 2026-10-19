@@ -1,0 +1,478 @@
+{
+  "passed": 118,
+  "checks": [
+    {
+      "check": "issuer-exposure_all_aggregate_contributions_reconstruct",
+      "passed": true
+    },
+    {
+      "check": "issuer-exposure_weights_nonnegative_sum_one",
+      "passed": true
+    },
+    {
+      "check": "issuer-exposure_no_duplicate_bank_phase",
+      "passed": true
+    },
+    {
+      "check": "issuer-exposure_common_outcome_family_set",
+      "passed": true
+    },
+    {
+      "check": "issuer-exposure_common_outcomes_4",
+      "passed": true
+    },
+    {
+      "check": "issuer-exposure_common_outcomes_5",
+      "passed": true
+    },
+    {
+      "check": "issuer-exposure_common_outcomes_6",
+      "passed": true
+    },
+    {
+      "check": "issuer-exposure_common_outcomes_7",
+      "passed": true
+    },
+    {
+      "check": "issuer-exposure_common_outcomes_8",
+      "passed": true
+    },
+    {
+      "check": "issuer-exposure_common_outcomes_9",
+      "passed": true
+    },
+    {
+      "check": "issuer-exposure_common_outcomes_10",
+      "passed": true
+    },
+    {
+      "check": "issuer-exposure_common_outcomes_11",
+      "passed": true
+    },
+    {
+      "check": "issuer-exposure_common_outcomes_12",
+      "passed": true
+    },
+    {
+      "check": "issuer-exposure_common_outcomes_13",
+      "passed": true
+    },
+    {
+      "check": "issuer-exposure_common_outcomes_14",
+      "passed": true
+    },
+    {
+      "check": "issuer-exposure_common_outcomes_15",
+      "passed": true
+    },
+    {
+      "check": "issuer-exposure_common_outcomes_16",
+      "passed": true
+    },
+    {
+      "check": "issuer-exposure_common_outcomes_17",
+      "passed": true
+    },
+    {
+      "check": "issuer-exposure_common_outcomes_18",
+      "passed": true
+    },
+    {
+      "check": "issuer-exposure_common_outcomes_19",
+      "passed": true
+    },
+    {
+      "check": "issuer-exposure_common_outcomes_20",
+      "passed": true
+    },
+    {
+      "check": "issuer-exposure_common_outcomes_21",
+      "passed": true
+    },
+    {
+      "check": "issuer-exposure_common_outcomes_22",
+      "passed": true
+    },
+    {
+      "check": "issuer-exposure_common_outcomes_23",
+      "passed": true
+    },
+    {
+      "check": "issuer-exposure_common_outcomes_24",
+      "passed": true
+    },
+    {
+      "check": "issuer-exposure_common_outcomes_25",
+      "passed": true
+    },
+    {
+      "check": "issuer-exposure_common_outcomes_26",
+      "passed": true
+    },
+    {
+      "check": "issuer-exposure_common_outcomes_27",
+      "passed": true
+    },
+    {
+      "check": "issuer-exposure_common_outcomes_28",
+      "passed": true
+    },
+    {
+      "check": "issuer-exposure_common_outcomes_29",
+      "passed": true
+    },
+    {
+      "check": "issuer-exposure_common_outcomes_30",
+      "passed": true
+    },
+    {
+      "check": "issuer-exposure_common_outcomes_31",
+      "passed": true
+    },
+    {
+      "check": "issuer-exposure_common_outcomes_32",
+      "passed": true
+    },
+    {
+      "check": "issuer-exposure_common_outcomes_33",
+      "passed": true
+    },
+    {
+      "check": "issuer-exposure_common_outcomes_34",
+      "passed": true
+    },
+    {
+      "check": "issuer-exposure_common_outcomes_35",
+      "passed": true
+    },
+    {
+      "check": "issuer-exposure_common_outcomes_36",
+      "passed": true
+    },
+    {
+      "check": "issuer-exposure_common_outcomes_37",
+      "passed": true
+    },
+    {
+      "check": "issuer-exposure_common_outcomes_38",
+      "passed": true
+    },
+    {
+      "check": "issuer-exposure_common_outcomes_39",
+      "passed": true
+    },
+    {
+      "check": "issuer-exposure_unique_cells",
+      "passed": true
+    },
+    {
+      "check": "covered-issuer_all_aggregate_contributions_reconstruct",
+      "passed": true
+    },
+    {
+      "check": "covered-issuer_weights_nonnegative_sum_one",
+      "passed": true
+    },
+    {
+      "check": "covered-issuer_no_duplicate_bank_phase",
+      "passed": true
+    },
+    {
+      "check": "covered-issuer_common_outcome_family_set",
+      "passed": true
+    },
+    {
+      "check": "covered-issuer_common_outcomes_45",
+      "passed": true
+    },
+    {
+      "check": "covered-issuer_common_outcomes_46",
+      "passed": true
+    },
+    {
+      "check": "covered-issuer_common_outcomes_47",
+      "passed": true
+    },
+    {
+      "check": "covered-issuer_common_outcomes_48",
+      "passed": true
+    },
+    {
+      "check": "covered-issuer_common_outcomes_49",
+      "passed": true
+    },
+    {
+      "check": "covered-issuer_common_outcomes_50",
+      "passed": true
+    },
+    {
+      "check": "covered-issuer_common_outcomes_51",
+      "passed": true
+    },
+    {
+      "check": "covered-issuer_common_outcomes_52",
+      "passed": true
+    },
+    {
+      "check": "covered-issuer_common_outcomes_53",
+      "passed": true
+    },
+    {
+      "check": "covered-issuer_common_outcomes_54",
+      "passed": true
+    },
+    {
+      "check": "covered-issuer_common_outcomes_55",
+      "passed": true
+    },
+    {
+      "check": "covered-issuer_common_outcomes_56",
+      "passed": true
+    },
+    {
+      "check": "covered-issuer_common_outcomes_57",
+      "passed": true
+    },
+    {
+      "check": "covered-issuer_common_outcomes_58",
+      "passed": true
+    },
+    {
+      "check": "covered-issuer_common_outcomes_59",
+      "passed": true
+    },
+    {
+      "check": "covered-issuer_common_outcomes_60",
+      "passed": true
+    },
+    {
+      "check": "covered-issuer_common_outcomes_61",
+      "passed": true
+    },
+    {
+      "check": "covered-issuer_common_outcomes_62",
+      "passed": true
+    },
+    {
+      "check": "covered-issuer_common_outcomes_63",
+      "passed": true
+    },
+    {
+      "check": "covered-issuer_common_outcomes_64",
+      "passed": true
+    },
+    {
+      "check": "covered-issuer_common_outcomes_65",
+      "passed": true
+    },
+    {
+      "check": "covered-issuer_common_outcomes_66",
+      "passed": true
+    },
+    {
+      "check": "covered-issuer_common_outcomes_67",
+      "passed": true
+    },
+    {
+      "check": "covered-issuer_common_outcomes_68",
+      "passed": true
+    },
+    {
+      "check": "covered-issuer_unique_cells",
+      "passed": true
+    },
+    {
+      "check": "geographic_controls_known_later_through_endpoint",
+      "passed": true
+    },
+    {
+      "check": "no_vendor_issuer_duplicate_within_arm_cohort",
+      "passed": true
+    },
+    {
+      "check": "covered_no_duplicate_issuer_within_study_cohort",
+      "passed": true
+    },
+    {
+      "check": "XBRL_comparators_not_used_beyond_2009",
+      "passed": true
+    },
+    {
+      "check": "CAM_controls_have_known_nonrequirement_each_postyear",
+      "passed": true
+    },
+    {
+      "check": "CAM_actual_dates_match_required_filing",
+      "passed": true
+    },
+    {
+      "check": "raw_GDP_reconstruction_first_cycle_conflict_mineral_reporters_balanced_mean_0_2_log_spread",
+      "passed": true
+    },
+    {
+      "check": "raw_GDP_reconstruction_first_cycle_conflict_mineral_reporters_balanced_mean_0_2_log_impact",
+      "passed": true
+    },
+    {
+      "check": "raw_GDP_reconstruction_first_cycle_conflict_mineral_reporters_balanced_mean_0_2_zero_fraction",
+      "passed": true
+    },
+    {
+      "check": "raw_GDP_reconstruction_observed_bank_full_report_publishers_balanced_mean_0_2_log_spread",
+      "passed": true
+    },
+    {
+      "check": "raw_GDP_reconstruction_observed_bank_full_report_publishers_balanced_mean_0_2_log_impact",
+      "passed": true
+    },
+    {
+      "check": "raw_GDP_reconstruction_observed_bank_full_report_publishers_balanced_mean_0_2_zero_fraction",
+      "passed": true
+    },
+    {
+      "check": "raw_GDP_reconstruction_statutory_bank_initial_balanced_mean_0_2_log_spread",
+      "passed": true
+    },
+    {
+      "check": "raw_GDP_reconstruction_statutory_bank_initial_balanced_mean_0_2_log_impact",
+      "passed": true
+    },
+    {
+      "check": "raw_GDP_reconstruction_statutory_bank_initial_balanced_mean_0_2_zero_fraction",
+      "passed": true
+    },
+    {
+      "check": "raw_GDP_reconstruction_PCAOB_CAM_actual_required_filing_inclusive_first_year_log_spread",
+      "passed": true
+    },
+    {
+      "check": "raw_GDP_reconstruction_PCAOB_CAM_actual_required_filing_inclusive_first_year_log_impact",
+      "passed": true
+    },
+    {
+      "check": "raw_GDP_reconstruction_PCAOB_CAM_actual_required_filing_inclusive_first_year_zero_fraction",
+      "passed": true
+    },
+    {
+      "check": "raw_GDP_reconstruction_SEC_XBRL_2009_early_phase_inclusive_first_year_log_spread",
+      "passed": true
+    },
+    {
+      "check": "raw_GDP_reconstruction_SEC_XBRL_2009_early_phase_inclusive_first_year_log_impact",
+      "passed": true
+    },
+    {
+      "check": "raw_GDP_reconstruction_SEC_XBRL_2009_early_phase_inclusive_first_year_zero_fraction",
+      "passed": true
+    },
+    {
+      "check": "raw_GDP_reconstruction_first_cycle_conflict_mineral_reporters_inclusive_first_year_log_spread",
+      "passed": true
+    },
+    {
+      "check": "raw_GDP_reconstruction_first_cycle_conflict_mineral_reporters_inclusive_first_year_log_impact",
+      "passed": true
+    },
+    {
+      "check": "raw_GDP_reconstruction_first_cycle_conflict_mineral_reporters_inclusive_first_year_zero_fraction",
+      "passed": true
+    },
+    {
+      "check": "raw_GDP_reconstruction_observed_bank_full_report_publishers_inclusive_first_year_log_spread",
+      "passed": true
+    },
+    {
+      "check": "raw_GDP_reconstruction_observed_bank_full_report_publishers_inclusive_first_year_log_impact",
+      "passed": true
+    },
+    {
+      "check": "raw_GDP_reconstruction_observed_bank_full_report_publishers_inclusive_first_year_zero_fraction",
+      "passed": true
+    },
+    {
+      "check": "raw_GDP_reconstruction_statutory_bank_initial_inclusive_first_year_log_spread",
+      "passed": true
+    },
+    {
+      "check": "raw_GDP_reconstruction_statutory_bank_initial_inclusive_first_year_log_impact",
+      "passed": true
+    },
+    {
+      "check": "raw_GDP_reconstruction_statutory_bank_initial_inclusive_first_year_zero_fraction",
+      "passed": true
+    },
+    {
+      "check": "twelve_principal_cells_and_Holm",
+      "passed": true
+    },
+    {
+      "check": "source_SHA_irs_CbCR_rule",
+      "passed": true
+    },
+    {
+      "check": "source_SHA_irs_CbCR_audience",
+      "passed": true
+    },
+    {
+      "check": "source_SHA_fincen_reporting_exemption",
+      "passed": true
+    },
+    {
+      "check": "source_SHA_uk_PSC_listed_exempt",
+      "passed": true
+    },
+    {
+      "check": "source_SHA_conflict_rule_federal_register",
+      "passed": true
+    },
+    {
+      "check": "source_SHA_apple_first_FormSD",
+      "passed": true
+    },
+    {
+      "check": "source_SHA_google_2014_CMR",
+      "passed": true
+    },
+    {
+      "check": "source_SHA_kyocera_FormSD_archive",
+      "passed": true
+    },
+    {
+      "check": "source_SHA_europe_ias_scope",
+      "passed": true
+    },
+    {
+      "check": "source_SHA_mica_scope",
+      "passed": true
+    },
+    {
+      "check": "source_SHA_UK_tax_iXBRL",
+      "passed": true
+    },
+    {
+      "check": "source_SHA_ingersoll_2018_statutory",
+      "passed": true
+    },
+    {
+      "check": "source_SHA_ingersoll_2018_ESG",
+      "passed": true
+    },
+    {
+      "check": "source_SHA_jci_annual_archive",
+      "passed": true
+    },
+    {
+      "check": "source_SHA_jci_2018_irish_report",
+      "passed": true
+    },
+    {
+      "check": "Cisco_signature_not_filing_day",
+      "passed": true
+    },
+    {
+      "check": "all_441_additive_event_overlays",
+      "passed": true
+    }
+  ],
+  "boundary": "Numerical, source and selection invariants do not establish policy causality, global issuer coverage or parallel trends."
+}
