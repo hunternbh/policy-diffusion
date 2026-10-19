@@ -17,5 +17,62 @@
     "exempt_EGC": 493,
     "entity_class_withheld": 108
   },
-  "public_file_dates_are_observed_not_deadlines": true
+  "public_file_dates_are_observed_not_deadlines": true,
+  "current_completion_review": {
+    "full_filings_reviewed": 1052,
+    "old_unknown_rows": 944,
+    "new_unknown_rows": 0,
+    "old_entity_withheld": 108,
+    "new_entity_withheld": 0,
+    "status_counts": {
+      "before_CAM_first_mandatory_phase": 7497,
+      "required_CAM": 4148,
+      "not_yet_required": 972,
+      "exempt_EGC": 503
+    },
+    "transition_counts": [
+      {
+        "old_status": "entity_class_withheld",
+        "new_status": "before_CAM_first_mandatory_phase",
+        "filings": 64
+      },
+      {
+        "old_status": "entity_class_withheld",
+        "new_status": "not_yet_required",
+        "filings": 6
+      },
+      {
+        "old_status": "entity_class_withheld",
+        "new_status": "required_CAM",
+        "filings": 38
+      },
+      {
+        "old_status": "unknown_eligibility",
+        "new_status": "before_CAM_first_mandatory_phase",
+        "filings": 13
+      },
+      {
+        "old_status": "unknown_eligibility",
+        "new_status": "exempt_EGC",
+        "filings": 10
+      },
+      {
+        "old_status": "unknown_eligibility",
+        "new_status": "not_yet_required",
+        "filings": 207
+      },
+      {
+        "old_status": "unknown_eligibility",
+        "new_status": "required_CAM",
+        "filings": 714
+      }
+    ],
+    "selection": "Allprevious944unknownand108withheldrows,nocoefficientselection. Fullprimarydocumentsandpositivefacts;noabsence-basedEGCimputation.",
+    "seconds": 336.0,
+    "nonvisible_header_and_dimension_filters": true,
+    "residual_full_rereads": 28,
+    "residual_XBRL_instance_reviews": 12,
+    "parent_partnership_visual_adjudications": 1
+  },
+  "current_eligibility_panel": "22-evidence-completion-review/2026-10-19/data/us-issuer-filing-eligibility.parquet"
 }

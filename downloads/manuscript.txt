@@ -1,7 +1,7 @@
 Reporting Mandates, Stock Liquidity, and the Mix of Regulation
 
 Abstract
-We study how reporting mandates relate to stock liquidity across financial and nonfinancial disclosure regimes. Our setting combines a global market panel with original reports that establish coverage and reporting dates for nine regulation families. We distinguish the average family from the regulatory exposure of large issuers. First-year log-spread comparisons are -0.075 under equal family weights and +0.184 under market-capitalisation weights. Audit reporting accounts for 84.3% of the latter weight; a family-by-family decomposition explains the difference between the aggregates. Seven families support longer-window comparisons. Earlier disclosure, different liquidity measures and pre-policy trends limit a common causal interpretation. We also examine international adoption using lagged competition, learning, emulation and external-dependence measures. No coefficient survives the full multiplicity correction. The evidence highlights policy composition and the information already available to investors when assessing reporting regulation.
+We study how reporting mandates relate to stock liquidity across financial and nonfinancial disclosure regimes. Our setting combines a global market panel with original reports that establish coverage and reporting dates for nine regulation families. We distinguish the average family from the regulatory exposure of large issuers. First-year log-spread comparisons are -0.078 under equal family weights and +0.190 under market-capitalisation weights. Audit reporting accounts for 87.6% of the latter weight; a family-by-family decomposition explains the difference between the aggregates. Seven families support longer-window comparisons. Earlier disclosure, different liquidity measures and pre-policy trends limit a common causal interpretation. We also examine international adoption using lagged competition, learning, emulation and external-dependence measures. No coefficient survives the full multiplicity correction. The evidence highlights policy composition and the information already available to investors when assessing reporting regulation.
 
 1. Introduction
 Investors need information to assess the prospects and risks of the firms they trade. Reporting mandates can make that information more widely available and easier to compare. Governments have extended these requirements well beyond financial statements to environmental performance, governance, supply chains and payments to governments. For accounting research, this creates a natural question: do the liquidity benefits associated with one reporting regime extend to a broader set of mandates?
@@ -10,21 +10,21 @@ The answer is not clear in advance. A requirement can reduce information differe
 
 We follow Krueger et al. (2023) in linking reporting rules to stock liquidity and then examining why the aggregate differs across settings. Liquidity matters to investors through trading costs and provides a common outcome for financial and nonfinancial disclosure. Our extension treats the mix of regulation as part of the research question. Equal family weights describe the average supported reporting regime; market-capitalisation weights give greater influence to regimes covering larger sampled issuers. Neither weighting scheme is selected for the direction of its result.
 
-The main finding concerns this distinction. The two first-year spread comparisons differ by 0.259 log points while holding the family estimates fixed. The market-capitalisation aggregate is dominated by auditor reporting, with an effective family count of 1.40 rather than nine. This explains why an average across types of regulation can give a different answer from an average weighted toward large issuers. We complement the capital-market analysis with the diffusion framework of Koning, Mertens and Roosenboom (2018).
+The main finding concerns this distinction. The two first-year spread comparisons differ by 0.268 log points while holding the family estimates fixed. The market-capitalisation aggregate is dominated by auditor reporting, with an effective family count of 1.30 rather than nine. This explains why an average across types of regulation can give a different answer from an average weighted toward large issuers. We complement the capital-market analysis with the diffusion framework of Koning, Mertens and Roosenboom (2018).
 
 2. Sample and research design
 The market panel contains 1,055,142 security-years in 90 jurisdictions from 2000 to 2025. We measure liquidity using the log relative quoted spread, log Amihud price impact and the fraction of observed returns equal to zero. Each proxy requires 120 valid observations; logged proxies are winsorised annually at the first and ninety-ninth percentiles. Higher values indicate lower liquidity. Historical identifiers link the selected reporting parents to ordinary shares; vendor quote identifiers do not by themselves establish legal coverage.
 
-Table 1 describes nine families for which issuer reports or filing evidence support a comparison. The UK carbon study uses four original FY2013 annual reports recovered from the all-data archive. The 2013 law requires quoted-company greenhouse-gas disclosure; this is distinct from comprehensive E/S/G reporting and later climate-risk rules. Prior annual reports document information already available. For Fresnillo, the official registry identifies the FY2015 filing on 16 June 2016, separately from the public report on 15 June. Approval dates and archive stamps are never substituted for publication.
+Table 1 describes nine families for which issuer reports or filing evidence support a comparison. Full reviews of previously unresolved SEC filings separate parent and subsidiary facts. SEC indices and original XBRL instances establish format dates; original bank reports and dated issuer records establish reporting years. The UK carbon study uses four original FY2013 annual reports recovered from the all-data archive. The 2013 law requires quoted-company greenhouse-gas disclosure; this is distinct from comprehensive E/S/G reporting and later climate-risk rules. Prior annual reports document information already available. Approval dates and archive stamps are never substituted for publication.
 
-For each family and reporting cohort, we compare the change in treated issuers with the change in comparison issuers relative to year g-1. Calendar-based comparisons use known later implementers, with thirty issuers per country and three comparison markets. Report-based comparisons use documented reporting obligations and period-specific comparison evidence, requiring three treated and twenty comparison issuers. The first-year design uses g-1 and g. The longer-window design fixes support from g-3 through g+2 and averages years 0-2; it covers seven families.
+Eligibility and observed reporting remain distinct; seven CAM filings lack confirmed report text and enter a separate sensitivity. For each family and reporting cohort, we compare the change in treated issuers with the change in comparison issuers relative to year g-1. Calendar-based comparisons use known later implementers, with thirty issuers per country and three comparison markets. Report-based comparisons use documented reporting obligations and period-specific comparison evidence, requiring three treated and twenty comparison issuers. The first-year design uses g-1 and g. The longer-window design fixes support from g-3 through g+2 and averages years 0-2; it covers seven families.
 
 Within each study, prior-year GDP is allocated across the fixed country issuer universe, and cohort estimates are combined using treated mass. Across families, we report both equal weights and prior-year treated-issuer market capitalisation. All three outcomes use the same supported families; banking enters once. Source-selected US comparisons do not certify every foreign subsidiary or venue exemption. Repeated issuer-policy exposures are not a unique-firm investment portfolio. Sparse common policy waves, cross-country and industry differences, and earlier disclosure constrain causal inference.
 
 3. Liquidity and policy composition
-Table 2 reports both aggregates. Across nine report-based families, first-year spreads are -0.075 under equal weights and +0.184 under market-capitalisation weights. Figure 1 shows the underlying comparisons and economic weights. Audit reporting receives 84.3% of market-capitalisation weight, compared with 11.1% under equal weights. The decomposition attributes the entire aggregate difference to these observed weight changes; it does not change any family coefficient.
+Table 2 reports both aggregates. Across nine report-based families, first-year spreads are -0.078 under equal weights and +0.190 under market-capitalisation weights. Figure 1 shows the underlying comparisons and economic weights. Audit reporting receives 87.6% of market-capitalisation weight, compared with 11.1% under equal weights. The decomposition attributes the entire aggregate difference to these observed weight changes; it does not change any family coefficient.
 
-Among the seven longer-window families, spread comparisons are -0.060 and -0.079. Price-impact comparisons are +0.071 and +0.158. Figure 2 shows the pre-policy differences as well as subsequent outcomes. These measures do not support a uniform improvement in trading conditions. The narrower longer-window sample also prevents interpreting the two horizons as one event path. The broader geographic panel in Table 2 is a separate exposure comparison, because country assignment alone does not establish issuer eligibility.
+Among the seven longer-window families, spread comparisons are -0.054 and -0.066. Price-impact comparisons are +0.071 and +0.159. Figure 2 shows the pre-policy differences as well as subsequent outcomes. These measures do not support a uniform improvement in trading conditions. The narrower longer-window sample also prevents interpreting the two horizons as one event path. The broader geographic panel in Table 2 is a separate exposure comparison, because country assignment alone does not establish issuer eligibility.
 
 4. International diffusion
 Following Koning et al., we ask whether adoption is associated with earlier implementation among trade peers, prior outcomes in neighbouring countries, cultural and institutional peers, or external financial dependence. All signals precede the focal decision. The corrected UK carbon date is incorporated into the adoption-risk panel and the lagged peer measures. Across 1,330 timing and status designs, 433 focal coefficients have stable estimates and 0 survive the full Holm correction. These exploratory associations do not establish a diffusion mechanism. Taken together, the analyses show why the covered population, policy mix and prior information must accompany any claim about the capital-market consequences of reporting mandates.
@@ -36,17 +36,17 @@ Treated / comparison | Log
 spread | Log price
 impact | Zero-return
 fraction
-Auditor CAM (2019-21) | 1,481 / 2,767 | Unsupported | +0.236 | +0.207 | +0.0063
+Auditor CAM (2019-21) | 1,863 / 2,988 | Unsupported | +0.230 | +0.240 | +0.0065
 Early XBRL (2009) | 6 / 62 | Unsupported | -0.329 | -0.417 | -0.0004
 Conflict minerals (2014) | 3 / 70 | 3 / 45 | -0.085 | +0.249 | +0.0071
-Bank full reports (2015) | 3 / 21 | 3 / 20 | +0.089 | +0.077 | +0.0155
+Bank full reports (2015) | 5 / 21 | 5 / 20 | +0.066 | +0.051 | +0.0156
 Canadian IFRS (2012) | 4 / 42 | 4 / 39 | -0.235 | +0.132 | -0.0096
 German E/S/G (2018) | 3 / 35 | 3 / 31 | -0.217 | -0.235 | -0.0124
 Extractive payments (2016) | 7 / 35 | 7 / 24 | -0.008 | +0.128 | +0.0044
 UK Code revision (2012) | 5 / 40 | 5 / 37 | -0.155 | -0.035 | +0.0003
 UK greenhouse gases (2014) | 4 / 43 | 4 / 33 | +0.029 | -0.035 | -0.0056
 Alternative bank phase (2014) | 23 / 21 | 22 / 20 | +0.035 | -0.343 | +0.0006
-First-year estimates use GDP weights within each study. Counts are issuer-cohort observations; comparisons can recur across CAM cohorts. The first nine rows enter the principal aggregate. The final row replaces the bank-full-report study in a separate sensitivity; banking is never counted twice. UK governance is a 2010 Code revision, not initial governance reporting. UK carbon is mandatory greenhouse-gas disclosure, not comprehensive E/S/G or later TCFD reporting. These source-selected studies do not cover every eligible issuer or all seventeen attempted families. Only implemented study cohorts are shown; future schedules are excluded.
+First-year estimates use GDP weights within each study. Counts are issuer-cohort observations; comparisons can recur across CAM cohorts. The first nine rows enter the principal aggregate. The final row replaces the bank-full-report study in a separate sensitivity; banking is never counted twice. UK governance is a 2010 Code revision, not initial governance reporting. UK carbon is mandatory greenhouse-gas disclosure, not comprehensive E/S/G or later TCFD reporting. These source-selected studies do not cover every eligible issuer or all seventeen attempted families. CAM timing follows documented eligibility. Seven source-admitted filings lack confirmed CAM text; a stricter content comparison appears in the supplement.
 
 Table 2. Liquidity comparisons under both family weights
 Population, horizon and liquidity measure | Equal family
@@ -77,29 +77,29 @@ Years 0-2 (9 families): Zero-return fraction | -0.0006
 [-0.0064, +0.0053] | +0.0070
 [-0.0070, +0.0210]
 B. Report-based issuer studies
-First year (9 families): Log spread | -0.075
-[-0.121, -0.029] | +0.184
-[+0.147, +0.220]
+First year (9 families): Log spread | -0.078
+[-0.123, -0.033] | +0.190
+[+0.154, +0.225]
 B. Report-based issuer studies
-First year (9 families): Log price impact | +0.008
-[-0.070, +0.086] | +0.187
-[+0.126, +0.248]
+First year (9 families): Log price impact | +0.009
+[-0.062, +0.079] | +0.219
+[+0.159, +0.280]
 B. Report-based issuer studies
-First year (9 families): Zero-return fraction | +0.0006
-[-0.0036, +0.0049] | +0.0057
-[+0.0035, +0.0079]
+First year (9 families): Zero-return fraction | +0.0007
+[-0.0035, +0.0049] | +0.0060
+[+0.0039, +0.0081]
 B. Report-based issuer studies
-Years 0-2 (7 families): Log spread | -0.060
-[-0.133, +0.013] | -0.079
-[-0.158, -0.001]
+Years 0-2 (7 families): Log spread | -0.054
+[-0.124, +0.016] | -0.066
+[-0.144, +0.012]
 B. Report-based issuer studies
 Years 0-2 (7 families): Log price impact | +0.071
-[-0.036, +0.177] | +0.158
-[+0.054, +0.261]
+[-0.026, +0.167] | +0.159
+[+0.062, +0.255]
 B. Report-based issuer studies
-Years 0-2 (7 families): Zero-return fraction | -0.0018
-[-0.0064, +0.0028] | +0.0006
-[-0.0037, +0.0048]
+Years 0-2 (7 families): Zero-return fraction | -0.0019
+[-0.0065, +0.0027] | +0.0010
+[-0.0033, +0.0053]
 GDP weights within families. Higher outcomes indicate lower liquidity. Panel A describes individual outcomes under geographic policy exposure, not verified legal coverage; intervals condition on country sampling. Panel B intervals describe issuer sampling, retaining shared-issuer covariance; they are not causal policy confidence intervals. Small common policy waves, comparison selection, spillovers and pre-policy differences remain material. Family support differs across horizons. All outcomes and both weights are retained. The supplement reports every family estimate, alternative within-family weights, banking phases, support failure and single-family omission; unsupported families are not assigned zero.
 
 Figure 1. Reporting families, liquidity and economic weights

@@ -1104,5 +1104,438 @@
     "reviewed": true,
     "review_scope": "Targeted enacted-lawscope,originalparent/listing,mandatoryreportcontent,priorinformation,publicationyear/dayandofficialregistryidentity/date. Selectedsourcepagesvisuallyreviewed;notallpageslegallycertified.",
     "OCR_status": "download_or_catalogue_gap_preserved"
+  },
+  {
+    "key": "Erste_retrospective_calendar",
+    "url": "https://www.erstegroup.com/en/investors/events/financial_calendar",
+    "sha256": "23a7d2bc16627e0bd5a7bebe8c2318e2414889e9e84e377368e48ad09a3cf54c",
+    "bytes": 134319,
+    "reviewed": true,
+    "review_disposition": "retrieved_and_reviewed"
+  },
+  {
+    "key": "Erste_financial_report_archive",
+    "url": "https://www.erstegroup.com/en/investors/reports/financial-reports",
+    "sha256": "10736d566f365998c0a7c337db553f6628addb16be2797878b1c973f491c49f2",
+    "bytes": 1069136,
+    "reviewed": true,
+    "review_disposition": "retrieved_and_reviewed"
+  },
+  {
+    "key": "Commerzbank_2014_publication",
+    "url": "https://investor-relations.commerzbank.com/news/commerzbank-publishes-2014-annual-report/9824b489-daf8-43eb-b27a-61c08bf4cabc",
+    "sha256": "b3aed666e54e598d1b380308532756cf65c71b86181394eeb34b83aeb2978cfc",
+    "bytes": 2759,
+    "reviewed": true,
+    "review_disposition": "retrieval_did_not_supply_original_annual_report_no_new_full_report_membership"
+  },
+  {
+    "key": "Swedbank_2014_CbCR",
+    "url": "https://online.swedbank.se/ConditionsEarchive/download?bankid=1111&id=WEBDOC-PPE1341224",
+    "failure": "HTTP Error 403: Forbidden",
+    "reviewed": true,
+    "review_disposition": "access_failure_preserved_no_fact_imputed"
+  },
+  {
+    "key": "Swedbank_CbCR_archive",
+    "url": "https://www.swedbank.com/investor-relations/risk-and-capital-adequacy/archive-geographical-distribution-gri-standards.html",
+    "sha256": "87f1214501db995b27c8d0c10fd7cf47505ee6351e6d24063203793990cfb2de",
+    "bytes": 103515,
+    "reviewed": true,
+    "review_disposition": "retrieved_and_reviewed"
+  },
+  {
+    "key": "SocGen_2015_registration_doc",
+    "url": "https://www.sg-zertifikate.de/SiteContent/1/1/2/924/84/67fe0f4ad3c141309068e03ab1d92de4.pdf",
+    "sha256": "4d8cc6edf69c153be85ef5efe72c4fbf995f9791dd5468b1cf82e21125516ac6",
+    "bytes": 13228142,
+    "reviewed": true,
+    "review_disposition": "retrieved_and_reviewed"
+  },
+  {
+    "key": "erste_2014_full",
+    "url": "https://cdn.erstegroup.com/content/dam/at/eh/www_erstegroup_com/en/Investor_Relations/2014/Reports/AR2014_FINAL_en.pdf?forceDownload=1",
+    "retrieved_at": "2026-10-19T02:40:42.750817+00:00",
+    "final_url": "https://cdn.erstegroup.com/content/dam/at/eh/www_erstegroup_com/en/Investor_Relations/2014/Reports/AR2014_FINAL_en.pdf?forceDownload=1",
+    "sha256": "34a6e0bda13c163f4b6dad704bb3649f23fb7d9a11fc6aa59b8392678915f6e9",
+    "bytes": 4060282,
+    "format": "pdf",
+    "page_count": 270,
+    "ocr_pages": [],
+    "status": "saved_text_available",
+    "text_characters": 1754747,
+    "inherited_source_release": "16-staggered-regulation-and-issuer-did/2026-10-19",
+    "reviewed": true,
+    "review_disposition": "retrieved_and_reviewed"
+  },
+  {
+    "key": "erste_2013_full",
+    "url": "https://cdn.erstegroup.com/content/dam/at/eh/www_erstegroup_com/en/Investor_Relations/2013/Reports/AR2013_FINAL_en.pdf?forceDownload=1",
+    "retrieved_at": "2026-10-19T02:40:43.044864+00:00",
+    "final_url": "https://cdn.erstegroup.com/content/dam/at/eh/www_erstegroup_com/en/Investor_Relations/2013/Reports/AR2013_FINAL_en.pdf?forceDownload=1",
+    "sha256": "ff6135dc629ee3f04f0b1c5c3d60f96648a0a6113ba683d886465a951d28b11a",
+    "bytes": 6714122,
+    "format": "pdf",
+    "page_count": 238,
+    "ocr_pages": [],
+    "status": "saved_text_available",
+    "text_characters": 1535370,
+    "inherited_source_release": "16-staggered-regulation-and-issuer-did/2026-10-19",
+    "reviewed": true,
+    "review_disposition": "retrieved_and_reviewed"
+  },
+  {
+    "key": "danske_2014_report",
+    "url": "https://danskebank.com/-/media/danske-bank-com/pdf/news-insights/company-announcements/2015/uk/annualreport-2014.pdf?hash=FB06373A60336AF66A3A7FF5058B5214&rev=b9714b712fb542fe9532fee0e69380dc",
+    "retrieved_at": "2026-10-19T02:38:56.067041+00:00",
+    "final_url": "https://danskebank.com/-/media/danske-bank-com/pdf/news-insights/company-announcements/2015/uk/annualreport-2014.pdf?hash=FB06373A60336AF66A3A7FF5058B5214&rev=b9714b712fb542fe9532fee0e69380dc",
+    "sha256": "eda6a812cfa006981cb8043ba6e388d40f2d7cf37a63171546b91e58d2948b55",
+    "bytes": 11703941,
+    "format": "pdf",
+    "page_count": 188,
+    "ocr_pages": [],
+    "status": "saved_text_available",
+    "text_characters": 860052,
+    "inherited_source_release": "16-staggered-regulation-and-issuer-did/2026-10-19",
+    "reviewed": true,
+    "review_disposition": "retrieved_and_reviewed"
+  },
+  {
+    "key": "seb_2014_full_pdf",
+    "url": "https://webapp.sebgroup.com/mb/mblib.nsf/alldocsbyunid/FA5D39AB0A3C4343C125869C005538AB/$FILE/annual_report_2014.pdf",
+    "retrieved_at": "2026-10-19T02:53:44.405034+00:00",
+    "final_url": "https://webapp.sebgroup.com/mb/mblib.nsf/alldocsbyunid/FA5D39AB0A3C4343C125869C005538AB/$FILE/annual_report_2014.pdf",
+    "sha256": "d6d464e8d8b5cc0b30411aef9d21a6fa4c153cba83d78ff6693b2712d5ba8025",
+    "bytes": 3996263,
+    "format": "pdf",
+    "page_count": 164,
+    "ocr_pages": [],
+    "status": "saved_text_available",
+    "text_characters": 1568372,
+    "inherited_source_release": "16-staggered-regulation-and-issuer-did/2026-10-19",
+    "reviewed": true,
+    "review_disposition": "retrieved_and_reviewed"
+  },
+  {
+    "key": "Erste_2014_annual_financial_bundle",
+    "url": "https://cdn.erstegroup.com/content/dam/at/eh/www_erstegroup_com/en/Investor_Relations/2014/Reports/AR2014_Annual_Financial_Report_en.pdf?forceDownload=1",
+    "sha256": "ffba616b352d4537c834dc18b4aeb760a61f10cf08d102f6c92aaa6f372fccda",
+    "bytes": 5801051,
+    "reviewed": true,
+    "review_disposition": "retrieved_and_reviewed"
+  },
+  {
+    "key": "Jyske_2014_annual",
+    "url": "https://www.globenewswire.com/news-release/2015/02/24/709017/0/en/files/329208/0/Jyske%20Bank_Annual%20report%202014.pdf",
+    "failure": "HTTP Error 403: Forbidden",
+    "reviewed": true,
+    "review_disposition": "access_failure_preserved_no_fact_imputed"
+  },
+  {
+    "key": "Intesa_2014_country_report",
+    "url": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/Informativa%20Stato%20per%20Stato/CNT-05-000000025BA26.pdf",
+    "sha256": "17030e5b637591c0e7e0280cb55f016d17291f80bd6cf0e00a02fe0783c2efae",
+    "bytes": 472261,
+    "reviewed": true,
+    "review_disposition": "financial_and_entity_country_tables_verified_subsidy_field_not_established_no_six_field_promotion"
+  },
+  {
+    "key": "CA_2014_registration",
+    "url": "https://www.credit-agricole.com/en/pdfPreview/97551",
+    "sha256": "4c789245af99df6d730f641a1e733be8b0999a86775e5d93e8798fddba603319",
+    "bytes": 475837,
+    "reviewed": true,
+    "review_disposition": "retrieved_separate_financial_statements_not_full_geographic_registration_document"
+  },
+  {
+    "key": "XBRL_submissions_1086222",
+    "url": "https://data.sec.gov/submissions/CIK0001086222.json",
+    "sha256": "e6728ef05c9f61ed2b6c0e5ed1db0657d7b01bb81ee61367bbd044f220932c3a",
+    "bytes": 162430,
+    "reviewed": true,
+    "review_disposition": "retrieved_and_reviewed"
+  },
+  {
+    "key": "XBRL_submissions_1045810",
+    "url": "https://data.sec.gov/submissions/CIK0001045810.json",
+    "sha256": "682c49d59116ae49b317eb4adddf3ef9142dfd97f59c5d8e5a5acad7f9058ab4",
+    "bytes": 159761,
+    "reviewed": true,
+    "review_disposition": "retrieved_and_reviewed"
+  },
+  {
+    "key": "XBRL_submissions_1396009",
+    "url": "https://data.sec.gov/submissions/CIK0001396009.json",
+    "sha256": "429fc97b884433c91975bdb574a77c7ecab9adc53968d772145ba5c7f028e5ec",
+    "bytes": 162482,
+    "reviewed": true,
+    "review_disposition": "retrieved_and_reviewed"
+  },
+  {
+    "key": "XBRL_history_1045810_CIK0001045810-submissions-001.json",
+    "url": "https://data.sec.gov/submissions/CIK0001045810-submissions-001.json",
+    "sha256": "4a3b5cc6b698ff2e49cd4ef95539964b0690bccc5882ac3db8ffd2c4b7fce99c",
+    "bytes": 239281,
+    "reviewed": true,
+    "review_disposition": "retrieved_and_reviewed"
+  },
+  {
+    "key": "XBRL_submissions_1076405",
+    "url": "https://data.sec.gov/submissions/CIK0001076405.json",
+    "sha256": "e9082a05d12b80a83e0864b55c5c2fb78f354067482bff6eca63a91e9d1758e1",
+    "bytes": 156591,
+    "reviewed": true,
+    "review_disposition": "retrieved_and_reviewed"
+  },
+  {
+    "key": "XBRL_history_1086222_CIK0001086222-submissions-001.json",
+    "url": "https://data.sec.gov/submissions/CIK0001086222-submissions-001.json",
+    "sha256": "c8536aad165cc024a9b65e835e5f484c81730843fb6376ba29ea7aa8eac3bc3d",
+    "bytes": 269325,
+    "reviewed": true,
+    "review_disposition": "retrieved_and_reviewed"
+  },
+  {
+    "key": "XBRL_submissions_313616",
+    "url": "https://data.sec.gov/submissions/CIK0000313616.json",
+    "sha256": "a217d6baa2bd28257fee6287f6b3c6fba818f3163a50570bd1d42b147394b8df",
+    "bytes": 159942,
+    "reviewed": true,
+    "review_disposition": "retrieved_and_reviewed"
+  },
+  {
+    "key": "XBRL_submissions_21665",
+    "url": "https://data.sec.gov/submissions/CIK0000021665.json",
+    "sha256": "ec08514c31d65fa388335db1242539621d23ba447da1be334a7a3374afe8bbc0",
+    "bytes": 147238,
+    "reviewed": true,
+    "review_disposition": "retrieved_and_reviewed"
+  },
+  {
+    "key": "XBRL_history_1396009_CIK0001396009-submissions-001.json",
+    "url": "https://data.sec.gov/submissions/CIK0001396009-submissions-001.json",
+    "sha256": "f86250a742dc87dd08ef92eb7dc1543433b22241b67d0f0f83a00ad7fb2c1ece",
+    "bytes": 160505,
+    "reviewed": true,
+    "review_disposition": "retrieved_and_reviewed"
+  },
+  {
+    "key": "XBRL_submissions_34088",
+    "url": "https://data.sec.gov/submissions/CIK0000034088.json",
+    "sha256": "c86c3d1c16e5ac086be3ac2f5eaedbb3c2891ac3127a10d2566b0049cbde82df",
+    "bytes": 162387,
+    "reviewed": true,
+    "review_disposition": "retrieved_and_reviewed"
+  },
+  {
+    "key": "XBRL_history_21665_CIK0000021665-submissions-001.json",
+    "url": "https://data.sec.gov/submissions/CIK0000021665-submissions-001.json",
+    "sha256": "aad2d7eba33a13d6ec70eac82d499a17a9e78b55e21851531f13f9fc4eef7477",
+    "bytes": 303811,
+    "reviewed": true,
+    "review_disposition": "retrieved_and_reviewed"
+  },
+  {
+    "key": "XBRL_submissions_51434",
+    "url": "https://data.sec.gov/submissions/CIK0000051434.json",
+    "sha256": "8c9e21a23aab4e7d9081fa95475e2980c98922acca4bd4f63357adad758f6bfb",
+    "bytes": 160384,
+    "reviewed": true,
+    "review_disposition": "retrieved_and_reviewed"
+  },
+  {
+    "key": "XBRL_history_34088_CIK0000034088-submissions-001.json",
+    "url": "https://data.sec.gov/submissions/CIK0000034088-submissions-001.json",
+    "sha256": "e806a24ea2b1133597e14964f139cc353df5a669f1db8e2ee7d327173474bb89",
+    "bytes": 316569,
+    "reviewed": true,
+    "review_disposition": "retrieved_and_reviewed"
+  },
+  {
+    "key": "XBRL_history_313616_CIK0000313616-submissions-001.json",
+    "url": "https://data.sec.gov/submissions/CIK0000313616-submissions-001.json",
+    "sha256": "11a33eb82cb2f9635aa0255cc2c30e01f39d76fff317a6e0dfa5289f9bc7b1f3",
+    "bytes": 310612,
+    "reviewed": true,
+    "review_disposition": "retrieved_and_reviewed"
+  },
+  {
+    "key": "XBRL_history_21665_CIK0000021665-submissions-002.json",
+    "url": "https://data.sec.gov/submissions/CIK0000021665-submissions-002.json",
+    "sha256": "78b3b48d61e62787e46c64e9aeb5b0aef3cf636829e5b1a634451ec9e09177f3",
+    "bytes": 145889,
+    "reviewed": true,
+    "review_disposition": "retrieved_and_reviewed"
+  },
+  {
+    "key": "XBRL_submissions_55785",
+    "url": "https://data.sec.gov/submissions/CIK0000055785.json",
+    "sha256": "bfe39f480a80c74e6509611b6343e2ec5ff9fb81ad6428687871629380f94f10",
+    "bytes": 148133,
+    "reviewed": true,
+    "review_disposition": "retrieved_and_reviewed"
+  },
+  {
+    "key": "XBRL_history_51434_CIK0000051434-submissions-001.json",
+    "url": "https://data.sec.gov/submissions/CIK0000051434-submissions-001.json",
+    "sha256": "b559d81fe6810ece2f1eef88ef73dacaf61297e0f70af78398e86fd156bcba0b",
+    "bytes": 314220,
+    "reviewed": true,
+    "review_disposition": "retrieved_and_reviewed"
+  },
+  {
+    "key": "XBRL_submissions_712515",
+    "url": "https://data.sec.gov/submissions/CIK0000712515.json",
+    "sha256": "9b64ef60544fe477fb09d1d90d03ff66829b14460fb40bac58095d1c8693d567",
+    "bytes": 157839,
+    "reviewed": true,
+    "review_disposition": "retrieved_and_reviewed"
+  },
+  {
+    "key": "XBRL_submissions_72207",
+    "url": "https://data.sec.gov/submissions/CIK0000072207.json",
+    "sha256": "7d3d81a4861afadbdf9c2b76bb3f22fe0a0232c7d12313be578d66dcc5a183ca",
+    "bytes": 161302,
+    "reviewed": true,
+    "review_disposition": "retrieved_and_reviewed"
+  },
+  {
+    "key": "XBRL_history_55785_CIK0000055785-submissions-001.json",
+    "url": "https://data.sec.gov/submissions/CIK0000055785-submissions-001.json",
+    "sha256": "0604e39a3628ff5b97d583cc58d80fa30cfa3343ede9f441b1a6d8e81298fa83",
+    "bytes": 287900,
+    "reviewed": true,
+    "review_disposition": "retrieved_and_reviewed"
+  },
+  {
+    "key": "XBRL_submissions_804328",
+    "url": "https://data.sec.gov/submissions/CIK0000804328.json",
+    "sha256": "44d2d8a523ec0814e7c9a0b2676533c536473c5f75f7b7412716da139169437c",
+    "bytes": 159662,
+    "reviewed": true,
+    "review_disposition": "retrieved_and_reviewed"
+  },
+  {
+    "key": "XBRL_submissions_80661",
+    "url": "https://data.sec.gov/submissions/CIK0000080661.json",
+    "sha256": "b68501867b82f70f3f706ef8199084e36cf456d5ffa9f04a6d30f459fd53f14c",
+    "bytes": 156739,
+    "reviewed": true,
+    "review_disposition": "retrieved_and_reviewed"
+  },
+  {
+    "key": "XBRL_history_72207_CIK0000072207-submissions-001.json",
+    "url": "https://data.sec.gov/submissions/CIK0000072207-submissions-001.json",
+    "sha256": "b92014989d28321e735751737c1dac919a3ec5256aa722460f3863ca7fbe0b4c",
+    "bytes": 116377,
+    "reviewed": true,
+    "review_disposition": "retrieved_and_reviewed"
+  },
+  {
+    "key": "XBRL_history_804328_CIK0000804328-submissions-001.json",
+    "url": "https://data.sec.gov/submissions/CIK0000804328-submissions-001.json",
+    "sha256": "eee01a98f30b53a2699cf3af1b32ac304728f447d4c7f2a2319ec883e818d0cb",
+    "bytes": 314151,
+    "reviewed": true,
+    "review_disposition": "retrieved_and_reviewed"
+  },
+  {
+    "key": "XBRL_history_712515_CIK0000712515-submissions-001.json",
+    "url": "https://data.sec.gov/submissions/CIK0000712515-submissions-001.json",
+    "sha256": "73aa8acf4e4972596262f356d2bc8e090cabb15af49f1b418d6d9166da6fe5e7",
+    "bytes": 317777,
+    "reviewed": true,
+    "review_disposition": "retrieved_and_reviewed"
+  },
+  {
+    "key": "XBRL_submissions_885725",
+    "url": "https://data.sec.gov/submissions/CIK0000885725.json",
+    "sha256": "5d348b260162f0ff9e72f1cdb4251338fb0cc11b7fe04da110e518e93c91f9af",
+    "bytes": 145853,
+    "reviewed": true,
+    "review_disposition": "retrieved_and_reviewed"
+  },
+  {
+    "key": "XBRL_history_804328_CIK0000804328-submissions-002.json",
+    "url": "https://data.sec.gov/submissions/CIK0000804328-submissions-002.json",
+    "sha256": "a9f81f7dff2e5d7fc844b6e000ab6e067515c0d3b72d02a9686b686de532caf1",
+    "bytes": 313545,
+    "reviewed": true,
+    "review_disposition": "retrieved_and_reviewed"
+  },
+  {
+    "key": "XBRL_history_80661_CIK0000080661-submissions-001.json",
+    "url": "https://data.sec.gov/submissions/CIK0000080661-submissions-001.json",
+    "sha256": "6aa26b2366ecc37de8b204db85269660f5da855949d89d7beb0bd053b3f4c094",
+    "bytes": 315243,
+    "reviewed": true,
+    "review_disposition": "retrieved_and_reviewed"
+  },
+  {
+    "key": "XBRL_submissions_864328",
+    "url": "https://data.sec.gov/submissions/CIK0000864328.json",
+    "sha256": "7b03d2d3e53a2979589bec27ccd6a05ceb6a12d32bb231589fe55a8cd85e2b14",
+    "bytes": 124923,
+    "reviewed": true,
+    "review_disposition": "retrieved_and_reviewed"
+  },
+  {
+    "key": "XBRL_history_80661_CIK0000080661-submissions-002.json",
+    "url": "https://data.sec.gov/submissions/CIK0000080661-submissions-002.json",
+    "sha256": "2539285b558531606fe0228e11a1eedd7ad424f4d75dc79db5380ce97f541deb",
+    "bytes": 190031,
+    "reviewed": true,
+    "review_disposition": "retrieved_and_reviewed"
+  },
+  {
+    "key": "XBRL_history_885725_CIK0000885725-submissions-001.json",
+    "url": "https://data.sec.gov/submissions/CIK0000885725-submissions-001.json",
+    "sha256": "baf33eb0e2e5c20451e10c591955d970ecace28ed5ada84663898f87470a0c45",
+    "bytes": 286032,
+    "reviewed": true,
+    "review_disposition": "retrieved_and_reviewed"
+  },
+  {
+    "key": "XBRL_history_885725_CIK0000885725-submissions-002.json",
+    "url": "https://data.sec.gov/submissions/CIK0000885725-submissions-002.json",
+    "sha256": "8f7c100c415ebaee47ecc056410cdc1340b27e7dc763be1af46f200bdc44a779",
+    "bytes": 270690,
+    "reviewed": true,
+    "review_disposition": "retrieved_and_reviewed"
+  },
+  {
+    "key": "PCAOB_CAM_adopting_release",
+    "url": "https://assets.pcaobus.org/pcaob-dev/docs/default-source/rulemaking/docket034/2017-001-auditors-report-final-rule.pdf?sfvrsn=14ad22c9_0",
+    "retrieved_at": "2026-10-19T07:26:10Z",
+    "sha256": "3bf26f1dccb28905f9bd7e0b7d6c74f7fdb3a30ccdf793fb689f29f4cd43f532",
+    "bytes": 842733,
+    "reviewed": true,
+    "review_disposition": "retrieved_and_reviewed"
+  },
+  {
+    "key": "PCAOB_CAM_fact_sheet",
+    "url": "https://pcaobus.org/news-events/news-releases/fact-sheet-auditors-report-standard-adoption-6-1-17",
+    "retrieved_at": "2026-10-19T07:26:11Z",
+    "failure": "HTTP Error 403: Forbidden",
+    "reviewed": true,
+    "review_disposition": "access_failure_preserved_no_fact_imputed"
+  },
+  {
+    "key": "Cisco_submissions",
+    "url": "https://data.sec.gov/submissions/CIK0000858877.json",
+    "retrieved_at": "2026-10-19T07:26:11Z",
+    "sha256": "af29bf8ffa25fbe34c81ac9ae15d4541bba7b6855eccd94b0bcaa92f92cbb717",
+    "bytes": 159072,
+    "reviewed": true,
+    "review_disposition": "retrieved_and_reviewed"
+  },
+  {
+    "key": "Cisco_historical_CIK0000858877-submissions-001.json",
+    "url": "https://data.sec.gov/submissions/CIK0000858877-submissions-001.json",
+    "retrieved_at": "2026-10-19T07:26:11Z",
+    "sha256": "832eddad256956b08a59e81fb2916b053c1704e0b30efacb772d1f22d9d5287f",
+    "bytes": 306105,
+    "reviewed": true,
+    "review_disposition": "retrieved_and_reviewed"
   }
 ]

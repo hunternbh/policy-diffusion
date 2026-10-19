@@ -1,0 +1,49 @@
+[
+  {
+    "issuer": "Cisco Systems Inc",
+    "study": "first_cycle_conflict_mineral_reporters",
+    "observed_date": "2014-05-30",
+    "type": "official_SEC_filingDate",
+    "source": "https://data.sec.gov/submissions/CIK0000858877-submissions-001.json",
+    "boundary": "UTC acceptance May31 is not the SEC filingDate."
+  },
+  {
+    "issuer": "Drax Group plc",
+    "study": "UK_2010_governance_code_reports",
+    "observed_date": "2012-03-01",
+    "type": "retrospective_issuer_archive_publication_day",
+    "source": "https://www.drax.com/investors/results-reports-presentations/",
+    "boundary": "8March mailing and20February approval are separate; first-ever availability not established."
+  },
+  {
+    "issuer": "Pearson plc",
+    "study": "UK_2010_governance_code_reports",
+    "observed_date": "2012-03-23",
+    "type": "dated_issuer_RNS_positive_public_availability",
+    "storage_filing_date": null,
+    "source": "https://www.investegate.co.uk/announcement/rns/pearson--pson/annual-financial-report/2587710",
+    "boundary": "Positive public availability23March2012; first-ever website date unknown. Conflicting NSM storage-day evidence withheld.",
+    "storage_date_source_conflict": "The23March2012issuerRNS says NSM submission today; an annual-information-update lists22March. Preserve disagreement; no exact registry day certified. Public availability on23March is independently positive."
+  },
+  {
+    "issuer": "GKN plc",
+    "study": "UK_2010_governance_code_reports",
+    "observed_year": 2012,
+    "type": "year_positive_report_evidence",
+    "boundary": "Exact publication day not established. GKN Holdings bond documents refer to a different legal entity and cannot supply it."
+  },
+  {
+    "issuer": "BAE Systems plc",
+    "study": "UK_2013_mandatory_GHG_reports",
+    "observed_month": "2014-03",
+    "type": "month_positive_issuer_archive_evidence",
+    "boundary": "Do not substitute board approval or a deadline for an actual day."
+  },
+  {
+    "issuer": "BMW AG",
+    "study": "ESG_German_first_statutory_reports",
+    "observed_year": 2018,
+    "type": "year_positive_report_evidence",
+    "boundary": "21March scheduled release is not separately proven actual publication day. Annual treatment year is established by preserved original report and issuer evidence."
+  }
+]

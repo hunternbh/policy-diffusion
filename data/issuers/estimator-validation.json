@@ -1,5 +1,5 @@
 {
-  "passed": 256,
+  "passed": 319,
   "checks": [
     {
       "check": "issuer-exposure_all_aggregate_contributions_reconstruct",
@@ -582,7 +582,7 @@
       "passed": true
     },
     {
-      "check": "Cisco_signature_not_filing_day",
+      "check": "Cisco_date_official_index_not_signature_inference",
       "passed": true
     },
     {
@@ -590,7 +590,7 @@
       "passed": true
     },
     {
-      "check": "all_inherited_study_coefficients_preserved",
+      "check": "other_source_studies_preserved_after_CAM_and_bank_evidence_updates",
       "passed": true
     },
     {
@@ -1022,7 +1022,259 @@
       "passed": true
     },
     {
-      "check": "all_eight_prior_family_estimates_retained_unchanged",
+      "check": "unaffected_prior_studies_unchanged",
+      "passed": true
+    },
+    {
+      "check": "all_1052_CAM_queue_records_resolved",
+      "passed": true
+    },
+    {
+      "check": "all15_XBRL_original_instances_and_official_dates",
+      "passed": true
+    },
+    {
+      "check": "two_additional_bank_sources_positive_six_fields",
+      "passed": true
+    },
+    {
+      "check": "five_observed_full_bank_reporters",
+      "passed": true
+    },
+    {
+      "check": "no_duplicate_quotes_within_actual_study_cohort_arm",
+      "passed": true
+    },
+    {
+      "check": "banking-completion-source-manifest.json_Erste_retrospective_calendar",
+      "passed": true
+    },
+    {
+      "check": "banking-completion-source-manifest.json_Erste_financial_report_archive",
+      "passed": true
+    },
+    {
+      "check": "banking-completion-source-manifest.json_Commerzbank_2014_publication",
+      "passed": true
+    },
+    {
+      "check": "banking-completion-source-manifest.json_Swedbank_CbCR_archive",
+      "passed": true
+    },
+    {
+      "check": "banking-completion-source-manifest.json_SocGen_2015_registration_doc",
+      "passed": true
+    },
+    {
+      "check": "banking-completion-source-manifest.json_erste_2014_full",
+      "passed": true
+    },
+    {
+      "check": "banking-completion-source-manifest.json_erste_2013_full",
+      "passed": true
+    },
+    {
+      "check": "banking-completion-source-manifest.json_danske_2014_report",
+      "passed": true
+    },
+    {
+      "check": "banking-completion-source-manifest.json_seb_2014_full_pdf",
+      "passed": true
+    },
+    {
+      "check": "additional-bank-completion-manifest.json_Erste_2014_annual_financial_bundle",
+      "passed": true
+    },
+    {
+      "check": "additional-bank-completion-manifest.json_Intesa_2014_country_report",
+      "passed": true
+    },
+    {
+      "check": "additional-bank-completion-manifest.json_CA_2014_registration",
+      "passed": true
+    },
+    {
+      "check": "XBRL-index-primary-manifest.json_XBRL_submissions_1086222",
+      "passed": true
+    },
+    {
+      "check": "XBRL-index-primary-manifest.json_XBRL_submissions_1045810",
+      "passed": true
+    },
+    {
+      "check": "XBRL-index-primary-manifest.json_XBRL_submissions_1396009",
+      "passed": true
+    },
+    {
+      "check": "XBRL-index-primary-manifest.json_XBRL_history_1045810_CIK0001045810-submissions-001.json",
+      "passed": true
+    },
+    {
+      "check": "XBRL-index-primary-manifest.json_XBRL_submissions_1076405",
+      "passed": true
+    },
+    {
+      "check": "XBRL-index-primary-manifest.json_XBRL_history_1086222_CIK0001086222-submissions-001.json",
+      "passed": true
+    },
+    {
+      "check": "XBRL-index-primary-manifest.json_XBRL_submissions_313616",
+      "passed": true
+    },
+    {
+      "check": "XBRL-index-primary-manifest.json_XBRL_submissions_21665",
+      "passed": true
+    },
+    {
+      "check": "XBRL-index-primary-manifest.json_XBRL_history_1396009_CIK0001396009-submissions-001.json",
+      "passed": true
+    },
+    {
+      "check": "XBRL-index-primary-manifest.json_XBRL_submissions_34088",
+      "passed": true
+    },
+    {
+      "check": "XBRL-index-primary-manifest.json_XBRL_history_21665_CIK0000021665-submissions-001.json",
+      "passed": true
+    },
+    {
+      "check": "XBRL-index-primary-manifest.json_XBRL_submissions_51434",
+      "passed": true
+    },
+    {
+      "check": "XBRL-index-primary-manifest.json_XBRL_history_34088_CIK0000034088-submissions-001.json",
+      "passed": true
+    },
+    {
+      "check": "XBRL-index-primary-manifest.json_XBRL_history_313616_CIK0000313616-submissions-001.json",
+      "passed": true
+    },
+    {
+      "check": "XBRL-index-primary-manifest.json_XBRL_history_21665_CIK0000021665-submissions-002.json",
+      "passed": true
+    },
+    {
+      "check": "XBRL-index-primary-manifest.json_XBRL_submissions_55785",
+      "passed": true
+    },
+    {
+      "check": "XBRL-index-primary-manifest.json_XBRL_history_51434_CIK0000051434-submissions-001.json",
+      "passed": true
+    },
+    {
+      "check": "XBRL-index-primary-manifest.json_XBRL_submissions_712515",
+      "passed": true
+    },
+    {
+      "check": "XBRL-index-primary-manifest.json_XBRL_submissions_72207",
+      "passed": true
+    },
+    {
+      "check": "XBRL-index-primary-manifest.json_XBRL_history_55785_CIK0000055785-submissions-001.json",
+      "passed": true
+    },
+    {
+      "check": "XBRL-index-primary-manifest.json_XBRL_submissions_804328",
+      "passed": true
+    },
+    {
+      "check": "XBRL-index-primary-manifest.json_XBRL_submissions_80661",
+      "passed": true
+    },
+    {
+      "check": "XBRL-index-primary-manifest.json_XBRL_history_72207_CIK0000072207-submissions-001.json",
+      "passed": true
+    },
+    {
+      "check": "XBRL-index-primary-manifest.json_XBRL_history_804328_CIK0000804328-submissions-001.json",
+      "passed": true
+    },
+    {
+      "check": "XBRL-index-primary-manifest.json_XBRL_history_712515_CIK0000712515-submissions-001.json",
+      "passed": true
+    },
+    {
+      "check": "XBRL-index-primary-manifest.json_XBRL_submissions_885725",
+      "passed": true
+    },
+    {
+      "check": "XBRL-index-primary-manifest.json_XBRL_history_804328_CIK0000804328-submissions-002.json",
+      "passed": true
+    },
+    {
+      "check": "XBRL-index-primary-manifest.json_XBRL_history_80661_CIK0000080661-submissions-001.json",
+      "passed": true
+    },
+    {
+      "check": "XBRL-index-primary-manifest.json_XBRL_submissions_864328",
+      "passed": true
+    },
+    {
+      "check": "XBRL-index-primary-manifest.json_XBRL_history_80661_CIK0000080661-submissions-002.json",
+      "passed": true
+    },
+    {
+      "check": "XBRL-index-primary-manifest.json_XBRL_history_885725_CIK0000885725-submissions-001.json",
+      "passed": true
+    },
+    {
+      "check": "XBRL-index-primary-manifest.json_XBRL_history_885725_CIK0000885725-submissions-002.json",
+      "passed": true
+    },
+    {
+      "check": "evidence-completion-primary-manifest.json_PCAOB_CAM_adopting_release",
+      "passed": true
+    },
+    {
+      "check": "evidence-completion-primary-manifest.json_Cisco_submissions",
+      "passed": true
+    },
+    {
+      "check": "evidence-completion-primary-manifest.json_Cisco_historical_CIK0000858877-submissions-001.json",
+      "passed": true
+    },
+    {
+      "check": "exact_all1052_original_queue_entries",
+      "passed": true
+    },
+    {
+      "check": "no_unclassified_linked_CAM_rows",
+      "passed": true
+    },
+    {
+      "check": "every_current_original_review_hash_resolves",
+      "passed": true
+    },
+    {
+      "check": "all2299_auditor_reports_accounted",
+      "passed": true
+    },
+    {
+      "check": "11_original_instances_and_one_scoped_parent_cover",
+      "passed": true
+    },
+    {
+      "check": "all72_content_sensitivity_cells_retained",
+      "passed": true
+    },
+    {
+      "check": "common_sensitivity_family_support",
+      "passed": true
+    },
+    {
+      "check": "unchanged_national_results_data/classified-dated-policy-cases.csv",
+      "passed": true
+    },
+    {
+      "check": "unchanged_national_input_data/lagged-mechanism-panel.parquet",
+      "passed": true
+    },
+    {
+      "check": "unchanged_national_results_tables/jibs-mechanism-models-all.csv",
+      "passed": true
+    },
+    {
+      "check": "unchanged_national_results_tables/issuer-exposure-principal-estimates.csv",
       "passed": true
     }
   ],

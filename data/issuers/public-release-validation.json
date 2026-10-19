@@ -1,5 +1,5 @@
 {
-  "passed": 193,
+  "passed": 219,
   "checks": [
     {
       "check": "unique_HTML_ids",
@@ -15,6 +15,10 @@
     },
     {
       "check": "local_anchor_eligibility",
+      "passed": true
+    },
+    {
+      "check": "local_anchor_evidence-completion",
       "passed": true
     },
     {
@@ -35,10 +39,6 @@
     },
     {
       "check": "local_anchor_paper",
-      "passed": true
-    },
-    {
-      "check": "local_anchor_supplement",
       "passed": true
     },
     {
@@ -278,7 +278,19 @@
       "passed": true
     },
     {
+      "check": "local_link_data/issuers/CAM-record-review-public.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/issuers/CAM-text-corroborated-covered-issuer-pooled-did.csv",
+      "passed": true
+    },
+    {
       "check": "local_link_data/issuers/Fresnillo-registry-correction.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/issuers/XBRL-format-date-evidence-public.json",
       "passed": true
     },
     {
@@ -294,7 +306,15 @@
       "passed": true
     },
     {
+      "check": "local_link_data/issuers/all-first-required-CAM-report-review-public.json",
+      "passed": true
+    },
+    {
       "check": "local_link_data/issuers/analysis-plan.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/issuers/bank-completion-evidence-public.json",
       "passed": true
     },
     {
@@ -338,7 +358,15 @@
       "passed": true
     },
     {
+      "check": "local_link_data/issuers/date-precision-completion.json",
+      "passed": true
+    },
+    {
       "check": "local_link_data/issuers/estimator-validation.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/issuers/evidence-completion-summary.json",
       "passed": true
     },
     {
@@ -498,6 +526,38 @@
       "passed": true
     },
     {
+      "check": "no_licensed_columns_CAM-eligibility-versus-confirmed-content.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_columns_CAM-text-corroborated-covered-issuer-events.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_columns_CAM-text-corroborated-covered-issuer-family-did.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_columns_CAM-text-corroborated-covered-issuer-family-weights.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_columns_CAM-text-corroborated-covered-issuer-pooled-did.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_columns_CAM-text-corroborated-covered-issuer-pooled-events.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_columns_CAM-text-corroborated-covered-issuer-support.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_columns_CAM-text-corroborated-named-sample.csv",
+      "passed": true
+    },
+    {
       "check": "no_licensed_columns_carbon-issuer-filing-facts.csv",
       "passed": true
     },
@@ -610,7 +670,31 @@
       "passed": true
     },
     {
+      "check": "strict_JSON_all-first-required-CAM-report-review-public.json",
+      "passed": true
+    },
+    {
+      "check": "strict_JSON_all-first-required-CAM-source-review-summary.json",
+      "passed": true
+    },
+    {
       "check": "strict_JSON_analysis-plan.json",
+      "passed": true
+    },
+    {
+      "check": "strict_JSON_bank-completion-evidence-public.json",
+      "passed": true
+    },
+    {
+      "check": "strict_JSON_CAM-completion-summary.json",
+      "passed": true
+    },
+    {
+      "check": "strict_JSON_CAM-membership-completion-summary.json",
+      "passed": true
+    },
+    {
+      "check": "strict_JSON_CAM-record-review-public.json",
       "passed": true
     },
     {
@@ -642,6 +726,10 @@
       "passed": true
     },
     {
+      "check": "strict_JSON_date-precision-completion.json",
+      "passed": true
+    },
+    {
       "check": "strict_JSON_diffusion-input-provenance.json",
       "passed": true
     },
@@ -655,6 +743,14 @@
     },
     {
       "check": "strict_JSON_estimator-validation.json",
+      "passed": true
+    },
+    {
+      "check": "strict_JSON_evidence-completion-plan.json",
+      "passed": true
+    },
+    {
+      "check": "strict_JSON_evidence-completion-summary.json",
       "passed": true
     },
     {
@@ -746,7 +842,15 @@
       "passed": true
     },
     {
+      "check": "strict_JSON_source-visual-completion-review.json",
+      "passed": true
+    },
+    {
       "check": "strict_JSON_writing-logic-map.json",
+      "passed": true
+    },
+    {
+      "check": "strict_JSON_XBRL-format-date-evidence-public.json",
       "passed": true
     },
     {
@@ -770,7 +874,7 @@
       "passed": true
     },
     {
-      "check": "999main_prose_words",
+      "check": "concise_main_prose",
       "passed": true
     }
   ],

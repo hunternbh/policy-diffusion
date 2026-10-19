@@ -1,0 +1,17 @@
+{
+  "known_CAM_first_requirement_cohorts": {
+    "2019": 140,
+    "2020": 1337,
+    "2021": 822
+  },
+  "CAM_candidate_issuers": 3635,
+  "CAM_admitted_first_required_issuers": 2299,
+  "bank_report_publishers": [
+    "Deutsche Bank AG",
+    "Aareal Bank AG",
+    "HSBC Holdings plc",
+    "Societe Generale SA",
+    "Erste Group Bank AG"
+  ],
+  "not_selected_by_outcomes": true
+}

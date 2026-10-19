@@ -1,107 +1,107 @@
 {
-  "recorded_at": "2026-10-19T07:08:07.855474+00:00",
-  "national_calendar_unchanged": false,
-  "national_change": "GBRclimate2022laterfinancial-riskphasereplacedbyearlier2013mandatoryGHGphaseforfirstrecordedfamilycalendar;oldphasepreserved.",
+  "recorded_at": "2026-10-19T08:01:38.000808+00:00",
+  "national_calendar_unchanged": true,
+  "national_change": "No change from release21; issuer legal facts and public report dates updated.",
   "new_coefficients_selected_by_sign": false,
   "all_prior_supported_studies_retained": true,
   "inputs": [
     {
-      "path": "21-fresnillo-and-carbon-issuer-review/2026-10-19/analysis-plan.json",
+      "path": "22-evidence-completion-review/2026-10-19/analysis-plan.json",
       "sha256": "b4aa7fe3d00b23f39e3a02fc393fbc24c9d421fb943b28cdb6e78c6857718eeb",
       "bytes": 3304
     },
     {
-      "path": "21-fresnillo-and-carbon-issuer-review/2026-10-19/geographic-analysis-plan.json",
+      "path": "22-evidence-completion-review/2026-10-19/geographic-analysis-plan.json",
       "sha256": "ca8d2198936838dd40be073986bf1598360e8dbc58a3f7b9a24058fd255b128e",
       "bytes": 2600
     },
     {
-      "path": "21-fresnillo-and-carbon-issuer-review/2026-10-19/data/classified-dated-policy-cases.csv",
+      "path": "22-evidence-completion-review/2026-10-19/data/classified-dated-policy-cases.csv",
       "sha256": "2807a3057582208d7e3ca108e7df643fa322bbdfa0708571a7b1def9c055e347",
       "bytes": 452348
     },
     {
-      "path": "21-fresnillo-and-carbon-issuer-review/2026-10-19/data/lagged-mechanism-panel.parquet",
+      "path": "22-evidence-completion-review/2026-10-19/data/lagged-mechanism-panel.parquet",
       "sha256": "fe36badd834eadd4a46ca83edefa1cda4f62aeccfa4b74171319e8ef17e99779",
       "bytes": 236877
     },
     {
-      "path": "21-fresnillo-and-carbon-issuer-review/2026-10-19/data/macro-country-year.csv",
+      "path": "22-evidence-completion-review/2026-10-19/data/macro-country-year.csv",
       "sha256": "f02902991d0e4f7f7447005ef224315c5dea694702608886004644e351558585",
       "bytes": 1102987
     },
     {
-      "path": "21-fresnillo-and-carbon-issuer-review/2026-10-19/data/covered-issuer-study-membership-local.parquet",
-      "sha256": "cbd03eee94680c88c699bf9a4906ceda604c934c56a274eaf37151c393d9335a",
-      "bytes": 175791
+      "path": "22-evidence-completion-review/2026-10-19/data/covered-issuer-study-membership-local.parquet",
+      "sha256": "30094bd7a673d65789698896ce0e90740189959955c85119a12354d20c39fabe",
+      "bytes": 177858
     },
     {
-      "path": "21-fresnillo-and-carbon-issuer-review/2026-10-19/data/extractive-treated-membership-local.parquet",
+      "path": "22-evidence-completion-review/2026-10-19/data/extractive-treated-membership-local.parquet",
       "sha256": "571954e14c38d56962a50dbb418367d544cdc0df9689872b46dca181327a05a1",
       "bytes": 10443
     },
     {
-      "path": "21-fresnillo-and-carbon-issuer-review/2026-10-19/data/extractive-comparison-membership-local.parquet",
+      "path": "22-evidence-completion-review/2026-10-19/data/extractive-comparison-membership-local.parquet",
       "sha256": "1abb0d6a7f5a70ff0c95b156e81239ebf9b89de71594f60a751287857e6b4702",
       "bytes": 11893
     },
     {
-      "path": "21-fresnillo-and-carbon-issuer-review/2026-10-19/data/governance-treated-membership-local.parquet",
+      "path": "22-evidence-completion-review/2026-10-19/data/governance-treated-membership-local.parquet",
       "sha256": "93a92be2befc973a61e5446c01c1889da0c72316ac05cfa96280910361a8f9df",
       "bytes": 10234
     },
     {
-      "path": "21-fresnillo-and-carbon-issuer-review/2026-10-19/data/governance-comparison-membership-local.parquet",
+      "path": "22-evidence-completion-review/2026-10-19/data/governance-comparison-membership-local.parquet",
       "sha256": "0b4585a63f65c3073d97b6c5562f5d42b2b7bcc37908ccb6013fa85981fb6a07",
       "bytes": 14017
     },
     {
-      "path": "21-fresnillo-and-carbon-issuer-review/2026-10-19/data/carbon-treated-membership-local.parquet",
+      "path": "22-evidence-completion-review/2026-10-19/data/carbon-treated-membership-local.parquet",
       "sha256": "80207447047e73814e53f8f7b2fc1e345dac3e91aed1df88020e964eba16ae44",
       "bytes": 10184
     },
     {
-      "path": "21-fresnillo-and-carbon-issuer-review/2026-10-19/data/carbon-comparison-membership-local.parquet",
+      "path": "22-evidence-completion-review/2026-10-19/data/carbon-comparison-membership-local.parquet",
       "sha256": "2f934bdb2b8ee7296e1628770c4a8c902a548c8ea7d2442f303e49e9242e8707",
       "bytes": 14080
     },
     {
-      "path": "21-fresnillo-and-carbon-issuer-review/2026-10-19/data/carbon-US-control-source-evidence.parquet",
+      "path": "22-evidence-completion-review/2026-10-19/data/carbon-US-control-source-evidence.parquet",
       "sha256": "ef25dda757e6f90986f9bf50a3d04123fcb70f68eed280d17e20ef5693997fa9",
       "bytes": 106851
     },
     {
-      "path": "21-fresnillo-and-carbon-issuer-review/2026-10-19/data/extractive-issuer-eligibility-and-dates.json",
+      "path": "22-evidence-completion-review/2026-10-19/data/extractive-issuer-eligibility-and-dates.json",
       "sha256": "c9583732ff6d066edb322d05033d7b9df8340b6f90b505e7b720f320fd368481",
       "bytes": 27454
     },
     {
-      "path": "21-fresnillo-and-carbon-issuer-review/2026-10-19/data/carbon-issuer-eligibility-and-dates.json",
+      "path": "22-evidence-completion-review/2026-10-19/data/carbon-issuer-eligibility-and-dates.json",
       "sha256": "c22fe20cf50d9984ff7985f089ccb29d4e708144f072c5f7b7ee3bca9390a474",
       "bytes": 90773
     },
     {
-      "path": "21-fresnillo-and-carbon-issuer-review/2026-10-19/sources/rio-governance-source-manifest.json",
+      "path": "22-evidence-completion-review/2026-10-19/sources/rio-governance-source-manifest.json",
       "sha256": "1a1a926823022323a6d4310da7fe80b476a5a2f33b7d95b84b9f1369271924c4",
       "bytes": 16830
     },
     {
-      "path": "21-fresnillo-and-carbon-issuer-review/2026-10-19/sources/carbon-fresnillo-source-manifest.json",
+      "path": "22-evidence-completion-review/2026-10-19/sources/carbon-fresnillo-source-manifest.json",
       "sha256": "fb4d20487a45b1dc4e5cbce72551e7fdabc619447e213498af1bfcbe32449ef5",
       "bytes": 16435
     },
     {
-      "path": "21-fresnillo-and-carbon-issuer-review/2026-10-19/sources/text/Pearson-2013-page54-OCR.txt",
+      "path": "22-evidence-completion-review/2026-10-19/sources/text/Pearson-2013-page54-OCR.txt",
       "sha256": "6935452f0590fe25c927ba4354c7459a2a8f550007b185db63445d609132e626",
       "bytes": 2866
     },
     {
-      "path": "21-fresnillo-and-carbon-issuer-review/2026-10-19/data/additional-reviewed-policy-phases.json",
+      "path": "22-evidence-completion-review/2026-10-19/data/additional-reviewed-policy-phases.json",
       "sha256": "cff128ddddd7315918c81ee5061626c29a3bac4f7677a513649371f745736399",
       "bytes": 4361
     },
     {
-      "path": "21-fresnillo-and-carbon-issuer-review/2026-10-19/data/liquidity-country-comparison-cells.parquet",
+      "path": "22-evidence-completion-review/2026-10-19/data/liquidity-country-comparison-cells.parquet",
       "sha256": "cf5fb515daff738335c3b2f202446223395b67de892574ccdfab8867c9c1e552",
       "bytes": 588756
     },
@@ -111,9 +111,9 @@
       "bytes": 90181480
     },
     {
-      "path": "17-issuer-regulation-expansion/2026-10-19/data/us-issuer-filing-eligibility.parquet",
-      "sha256": "46a907fa0c2826dd2afde4d20fe3ffae8867842a9bdb0ffed1c6bbfc19104fda",
-      "bytes": 4821837
+      "path": "22-evidence-completion-review/2026-10-19/data/us-issuer-filing-eligibility.parquet",
+      "sha256": "0c1f855e003187fcb006aad8a3a020d762a4267da2c1f7004f5371d2a470eeca",
+      "bytes": 4835759
     },
     {
       "path": "17-issuer-regulation-expansion/2026-10-19/data/all-annual-company-mapping.parquet",

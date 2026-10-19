@@ -18,9 +18,11 @@
   {
     "issuer": "Cisco Systems Inc",
     "CIK": 858877,
-    "actual_date": null,
-    "date_precision": "year_2014_accession",
+    "actual_date": "2014-05-30",
+    "date_precision": "day_official_SEC_filingDate",
     "source_key": "cisco_2014_SD",
-    "Cisco_signature_date_not_substituted_for_filing": "2014-05-30"
+    "Cisco_signature_date_not_substituted_for_filing": "2014-05-30",
+    "SEC_index_evidence": "Cisco-first-SD-official-submission-index.json",
+    "filingDate_not_UTC_acceptance_day": true
   }
 ]

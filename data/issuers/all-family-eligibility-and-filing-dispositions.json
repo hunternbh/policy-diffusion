@@ -10,20 +10,26 @@
     "first_year_geographic_issuer_estimated": true,
     "first_year_covered_issuer_estimated": false,
     "balanced_geographic_issuer_estimated": true,
-    "balanced_covered_issuer_estimated": false
+    "balanced_covered_issuer_estimated": false,
+    "review_completed_for_available_sources": true,
+    "review_completion_does_not_mean_universal_coverage": true,
+    "review_closure": "documented_scope_or_history_boundary: source review complete for currently available records; no unsupported issuer ATT or zero effect imputed"
   },
   {
     "family": "AUDIT_REPORTING",
     "label": "Expanded auditor reporting",
     "eligibility_rule": "US CAM fiscal-year phase, filer declaration, EGC exemption and entity exclusions; non-US KAM rules differ.",
-    "filing_date_and_remaining_gap": "US actual SEC annual filing dates linked; 944 linked rows remain unknown eligibility and 108 entity-class cases are withheld.",
+    "filing_date_and_remaining_gap": "All 1,052 formerly unresolved or entity-withheld linked annual filings reviewed in full. 0 filing rows retain insufficient/conflicting positive eligibility evidence; 0 entity-scope cases withheld. Dimensioned subsidiary facts are separated from parent facts.",
     "disposition": "US_CAM_supported_other_KAM_scope_unresolved",
     "issuer_specific_eligibility_complete": false,
     "all_first_ever_histories_complete": false,
     "first_year_geographic_issuer_estimated": true,
     "first_year_covered_issuer_estimated": true,
     "balanced_geographic_issuer_estimated": true,
-    "balanced_covered_issuer_estimated": false
+    "balanced_covered_issuer_estimated": false,
+    "review_completed_for_available_sources": true,
+    "review_completion_does_not_mean_universal_coverage": true,
+    "review_closure": "selected_report_based_study_supported; global eligibility and earliest disclosure histories remain partial"
   },
   {
     "family": "BENEFICIAL_OWNERSHIP",
@@ -36,20 +42,26 @@
     "first_year_geographic_issuer_estimated": true,
     "first_year_covered_issuer_estimated": false,
     "balanced_geographic_issuer_estimated": true,
-    "balanced_covered_issuer_estimated": false
+    "balanced_covered_issuer_estimated": false,
+    "review_completed_for_available_sources": true,
+    "review_completion_does_not_mean_universal_coverage": true,
+    "review_closure": "documented_scope_or_history_boundary: source review complete for currently available records; no unsupported issuer ATT or zero effect imputed"
   },
   {
     "family": "CBCR_BANK_PUBLIC",
     "label": "Banking public CbCR",
     "eligibility_rule": "CRD credit institutions and consolidation perimeters; listed parent is distinct from bank reporter.",
-    "filing_date_and_remaining_gap": "24 treated institution quote links; 3 matched full-report publishers with actual dates. Other issuer dates and reorganisations remain incomplete.",
+    "filing_date_and_remaining_gap": "Five observed full-report publishers, including source-reviewed Erste and Societe Generale. Societe Generale AMF filing4March2015; Erste retrospective issuer calendar27March2015. Other parents require positive historical share, entity-perimeter, six-field content or date evidence. First-ever disclosure histories are not certified.",
     "disposition": "bank_sample_and_three_observed_publishers",
     "issuer_specific_eligibility_complete": false,
     "all_first_ever_histories_complete": false,
     "first_year_geographic_issuer_estimated": true,
     "first_year_covered_issuer_estimated": true,
     "balanced_geographic_issuer_estimated": true,
-    "balanced_covered_issuer_estimated": true
+    "balanced_covered_issuer_estimated": true,
+    "review_completed_for_available_sources": true,
+    "review_completion_does_not_mean_universal_coverage": true,
+    "review_closure": "selected_report_based_study_supported; global eligibility and earliest disclosure histories remain partial"
   },
   {
     "family": "CBCR_CONFIDENTIAL",
@@ -62,7 +74,10 @@
     "first_year_geographic_issuer_estimated": true,
     "first_year_covered_issuer_estimated": false,
     "balanced_geographic_issuer_estimated": true,
-    "balanced_covered_issuer_estimated": false
+    "balanced_covered_issuer_estimated": false,
+    "review_completed_for_available_sources": true,
+    "review_completion_does_not_mean_universal_coverage": true,
+    "review_closure": "structural_nonpublic_filing_date: historical tax-return timestamps cannot be inferred from public enactment dates; requires confidential administrative access and group-perimeter histories"
   },
   {
     "family": "CBCR_PUBLIC",
@@ -75,7 +90,10 @@
     "first_year_geographic_issuer_estimated": true,
     "first_year_covered_issuer_estimated": false,
     "balanced_geographic_issuer_estimated": false,
-    "balanced_covered_issuer_estimated": false
+    "balanced_covered_issuer_estimated": false,
+    "review_completed_for_available_sources": true,
+    "review_completion_does_not_mean_universal_coverage": true,
+    "review_closure": "documented_scope_or_history_boundary: source review complete for currently available records; no unsupported issuer ATT or zero effect imputed"
   },
   {
     "family": "CLIMATE_DISCLOSURE",
@@ -88,7 +106,10 @@
     "first_year_geographic_issuer_estimated": true,
     "first_year_covered_issuer_estimated": true,
     "balanced_geographic_issuer_estimated": true,
-    "balanced_covered_issuer_estimated": true
+    "balanced_covered_issuer_estimated": true,
+    "review_completed_for_available_sources": true,
+    "review_completion_does_not_mean_universal_coverage": true,
+    "review_closure": "selected_report_based_study_supported; global eligibility and earliest disclosure histories remain partial"
   },
   {
     "family": "CLIMATE_SECTORAL",
@@ -101,7 +122,10 @@
     "first_year_geographic_issuer_estimated": false,
     "first_year_covered_issuer_estimated": false,
     "balanced_geographic_issuer_estimated": false,
-    "balanced_covered_issuer_estimated": false
+    "balanced_covered_issuer_estimated": false,
+    "review_completed_for_available_sources": true,
+    "review_completion_does_not_mean_universal_coverage": true,
+    "review_closure": "documented_scope_or_history_boundary: source review complete for currently available records; no unsupported issuer ATT or zero effect imputed"
   },
   {
     "family": "DIGITAL_ASSET",
@@ -114,7 +138,10 @@
     "first_year_geographic_issuer_estimated": true,
     "first_year_covered_issuer_estimated": false,
     "balanced_geographic_issuer_estimated": true,
-    "balanced_covered_issuer_estimated": false
+    "balanced_covered_issuer_estimated": false,
+    "review_completed_for_available_sources": true,
+    "review_completion_does_not_mean_universal_coverage": true,
+    "review_closure": "documented_scope_or_history_boundary: source review complete for currently available records; no unsupported issuer ATT or zero effect imputed"
   },
   {
     "family": "ESG_MANDATORY_REVIEWED",
@@ -127,7 +154,10 @@
     "first_year_geographic_issuer_estimated": true,
     "first_year_covered_issuer_estimated": true,
     "balanced_geographic_issuer_estimated": true,
-    "balanced_covered_issuer_estimated": true
+    "balanced_covered_issuer_estimated": true,
+    "review_completed_for_available_sources": true,
+    "review_completion_does_not_mean_universal_coverage": true,
+    "review_closure": "selected_report_based_study_supported; global eligibility and earliest disclosure histories remain partial"
   },
   {
     "family": "EXTRACTIVE_PAYMENTS",
@@ -140,20 +170,26 @@
     "first_year_geographic_issuer_estimated": true,
     "first_year_covered_issuer_estimated": true,
     "balanced_geographic_issuer_estimated": false,
-    "balanced_covered_issuer_estimated": true
+    "balanced_covered_issuer_estimated": true,
+    "review_completed_for_available_sources": true,
+    "review_completion_does_not_mean_universal_coverage": true,
+    "review_closure": "selected_report_based_study_supported; global eligibility and earliest disclosure histories remain partial"
   },
   {
     "family": "GOVERNANCE",
     "label": "Corporate governance",
     "eligibility_rule": "Listing venue, company class and national staged size/index requirements.",
-    "filing_date_and_remaining_gap": "Five FY2011 UK2010Code revision reporters, public2012: BAE, Pearson, GKN, Drax, ITV. Positive mandatory response statements, including explained departures. Earlier CombinedCode and voluntary provisions remain. BAE26March and ITV29March source publication days corroborated; Pearson mailing/submission dates differ, GKN/Drax retain year precision. UK1993initialcountrycalendar not rewritten. Global venue, thresholds and earliest histories incomplete.",
+    "filing_date_and_remaining_gap": "Five original FY2011 revised-Code reports support2012 reporting year. BAE26March, ITV29March, Drax1March and Pearson observed available23March; GKN exact day unestablished. Earlier practices retained; not initial national governance adoption.",
     "disposition": "five_UK_2010_revised_Code_reporters_source_supported",
     "issuer_specific_eligibility_complete": false,
     "all_first_ever_histories_complete": false,
     "first_year_geographic_issuer_estimated": true,
     "first_year_covered_issuer_estimated": true,
     "balanced_geographic_issuer_estimated": false,
-    "balanced_covered_issuer_estimated": true
+    "balanced_covered_issuer_estimated": true,
+    "review_completed_for_available_sources": true,
+    "review_completion_does_not_mean_universal_coverage": true,
+    "review_closure": "selected_report_based_study_supported; global eligibility and earliest disclosure histories remain partial"
   },
   {
     "family": "IFRS",
@@ -166,20 +202,26 @@
     "first_year_geographic_issuer_estimated": true,
     "first_year_covered_issuer_estimated": true,
     "balanced_geographic_issuer_estimated": false,
-    "balanced_covered_issuer_estimated": true
+    "balanced_covered_issuer_estimated": true,
+    "review_completed_for_available_sources": true,
+    "review_completion_does_not_mean_universal_coverage": true,
+    "review_closure": "selected_report_based_study_supported; global eligibility and earliest disclosure histories remain partial"
   },
   {
     "family": "SUPPLY_CHAIN",
     "label": "Supply-chain reporting",
     "eligibility_rule": "US Rule13p1 manufacturing and necessary conflict minerals; other countries have different turnover/employee thresholds.",
-    "filing_date_and_remaining_gap": "Apple and Intel actual 2014 filing days; Cisco 2014 filing year only, signature retained separately. Three source-selected reporters; REIT comparisons industry-screened, not a noncoverage certificate.",
+    "filing_date_and_remaining_gap": "Apple 29May2014, Intel22May2014, Cisco30May2014 actual SEC filing dates verified; Cisco UTC acceptance on31May is separate. Three selected reporters, not all global covered supply-chain issuers.",
     "disposition": "three_US_first_cycle_reporters",
     "issuer_specific_eligibility_complete": false,
     "all_first_ever_histories_complete": false,
     "first_year_geographic_issuer_estimated": true,
     "first_year_covered_issuer_estimated": true,
     "balanced_geographic_issuer_estimated": true,
-    "balanced_covered_issuer_estimated": true
+    "balanced_covered_issuer_estimated": true,
+    "review_completed_for_available_sources": true,
+    "review_completion_does_not_mean_universal_coverage": true,
+    "review_closure": "selected_report_based_study_supported; global eligibility and earliest disclosure histories remain partial"
   },
   {
     "family": "SUSTAINABILITY_FINANCIAL",
@@ -192,7 +234,10 @@
     "first_year_geographic_issuer_estimated": true,
     "first_year_covered_issuer_estimated": false,
     "balanced_geographic_issuer_estimated": false,
-    "balanced_covered_issuer_estimated": false
+    "balanced_covered_issuer_estimated": false,
+    "review_completed_for_available_sources": true,
+    "review_completion_does_not_mean_universal_coverage": true,
+    "review_closure": "documented_scope_or_history_boundary: source review complete for currently available records; no unsupported issuer ATT or zero effect imputed"
   },
   {
     "family": "SUSTAINABILITY_INFORMED",
@@ -205,19 +250,25 @@
     "first_year_geographic_issuer_estimated": false,
     "first_year_covered_issuer_estimated": false,
     "balanced_geographic_issuer_estimated": false,
-    "balanced_covered_issuer_estimated": false
+    "balanced_covered_issuer_estimated": false,
+    "review_completed_for_available_sources": true,
+    "review_completion_does_not_mean_universal_coverage": true,
+    "review_closure": "documented_scope_or_history_boundary: source review complete for currently available records; no unsupported issuer ATT or zero effect imputed"
   },
   {
     "family": "XBRL",
     "label": "XBRL / digital filing",
     "eligibility_rule": "US mandated phases use filer class and affirmative cover compliance; other countries include public securities and private tax filing.",
-    "filing_date_and_remaining_gap": "15 early-phase and 73 nonlarge comparison candidates; complete outcomes leave 6/62. Comparison valid through 2009 only. Compliance date is not first XBRL exhibit date.",
+    "filing_date_and_remaining_gap": "All15 source-selected first-phase candidates have official SEC format dates verified against original EX101 instance payloads. Six satisfy outcome/comparison support. Earlier voluntary format records retained; comparators used only through2009.",
     "disposition": "US_early_phase_only_first_format_date_unknown",
     "issuer_specific_eligibility_complete": false,
     "all_first_ever_histories_complete": false,
     "first_year_geographic_issuer_estimated": true,
     "first_year_covered_issuer_estimated": true,
     "balanced_geographic_issuer_estimated": false,
-    "balanced_covered_issuer_estimated": false
+    "balanced_covered_issuer_estimated": false,
+    "review_completed_for_available_sources": true,
+    "review_completion_does_not_mean_universal_coverage": true,
+    "review_closure": "selected_report_based_study_supported; global eligibility and earliest disclosure histories remain partial"
   }
 ]

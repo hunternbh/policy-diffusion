@@ -1,0 +1,28 @@
+{
+  "review_date": "2026-10-19",
+  "all_available_source_queue_items_dispositioned": true,
+  "all_requested_global_gaps_resolved": false,
+  "CAM_full_original_filings_reviewed": 1052,
+  "CAM_unknown_rows_before": 944,
+  "CAM_unknown_rows_after": 0,
+  "CAM_entity_withheld_before": 108,
+  "CAM_entity_withheld_after": 0,
+  "new_bank_report_publishers": 2,
+  "bank_report_publishers_total": 5,
+  "XBRL_candidate_format_dates_original_instance_verified": 15,
+  "Cisco_actual_SEC_filing_date": "2014-05-30",
+  "family_dispositions": 17,
+  "event_overlays_review_dispositions": 441,
+  "remaining_categories": [
+    "Eligibility for unlinked and broader global issuer populations; the entire existing 1,052-record CAM queue is classified.",
+    "Selected exact first-publication days where only year/month is established",
+    "Global ownership, listing venue, historic financial-threshold and group-perimeter histories",
+    "Confidential administrative tax-return dates"
+  ],
+  "no_outcome_based_deletions": true,
+  "national_policy_calendar_changed": false,
+  "diffusion_rerun_on_unchanged_national_inputs": true,
+  "CAM_admitted_first_required_reports_reviewed": 2299,
+  "CAM_reports_with_confirmed_text": 2292,
+  "CAM_report_text_unconfirmed_after_review": 7
+}

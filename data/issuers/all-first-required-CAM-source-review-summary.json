@@ -1,0 +1,52 @@
+{
+  "selection": "Every 2,299 source-admitted first-required issuer before outcome support; not selected on coefficient signs.",
+  "first_required_reports_reviewed": 2299,
+  "CAM_text_confirmed": 2292,
+  "incorporated_annual_report_exhibits_resolved": 25,
+  "CAM_text_not_confirmed_after_document_review": 7,
+  "exceptions": [
+    {
+      "issuer": "aTYR PHARMA INC",
+      "filing_date": "2021-03-24",
+      "source_sha256": "c091f2d6d771556855d3ed8b630bbda4d0ae7d77c26ab0b6c47c1260bf12044e",
+      "disposition": "No_CAM_text_confirmed_in_reviewed_primary_and_incorporated_text; legal_eligibility_assignment_retained_separately"
+    },
+    {
+      "issuer": "Conifer Holdings, Inc.",
+      "filing_date": "2021-03-11",
+      "source_sha256": "ab1c479fc8431290d5d8c7703bc9fc16ce5a40212b6833e995d95dd66aa7a849",
+      "disposition": "No_CAM_text_confirmed_in_reviewed_primary_and_incorporated_text; legal_eligibility_assignment_retained_separately"
+    },
+    {
+      "issuer": "ALPINE IMMUNE SCIENCES, INC.",
+      "filing_date": "2021-03-18",
+      "source_sha256": "ffba62052b506b1f16f29a5db13a34c74df3835b0859662a27e7cef32943ef09",
+      "disposition": "No_CAM_text_confirmed_in_reviewed_primary_and_incorporated_text; legal_eligibility_assignment_retained_separately"
+    },
+    {
+      "issuer": "ACME UNITED CORP",
+      "filing_date": "2021-03-31",
+      "source_sha256": "6a9ae3ee6fee0daf3c00297e9ec844edb5da1ba708bc797d3afdf3c81f76dee5",
+      "disposition": "No_CAM_text_confirmed_in_reviewed_primary_and_incorporated_text; legal_eligibility_assignment_retained_separately"
+    },
+    {
+      "issuer": "REPRO MED SYSTEMS INC",
+      "filing_date": "2021-03-23",
+      "source_sha256": "8670850fe1d86a4a4068be478b003721d1e31530dc872b984bdbcf07c9d5f78b",
+      "disposition": "No_CAM_text_confirmed_in_reviewed_primary_and_incorporated_text; legal_eligibility_assignment_retained_separately"
+    },
+    {
+      "issuer": "U S GLOBAL INVESTORS INC",
+      "filing_date": "2021-12-08",
+      "source_sha256": "9a12674d93945371c3847d76930d5a0ff7c1b85a5e5fbc27a2d296cf52490063",
+      "disposition": "No_CAM_text_confirmed_in_reviewed_primary_and_incorporated_text; legal_eligibility_assignment_retained_separately"
+    },
+    {
+      "issuer": "FIRST COMMUNITY BANKSHARES INC /VA/",
+      "filing_date": "2021-03-12",
+      "source_sha256": "0be3d4b90813ba8c37a3c06d5f6423276b767f1ad7e995fcfaf24bb4bc493ba8",
+      "disposition": "No_CAM_text_confirmed_in_reviewed_primary_and_incorporated_text; legal_eligibility_assignment_retained_separately"
+    }
+  ],
+  "interpretation": "A statutory requirement is not the same as observed compliance or first arrival of information. No missing-text case is automatically classified exempt or accused of noncompliance. Both eligibility-based and confirmed-content estimates are disclosed."
+}

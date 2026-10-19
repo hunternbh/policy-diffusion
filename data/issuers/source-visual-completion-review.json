@@ -1,0 +1,21 @@
+{
+  "reviewed_original_pages": {
+    "Societe_Generale": [
+      86,
+      101,
+      102,
+      551
+    ],
+    "Erste": [
+      238
+    ],
+    "Intesa": [
+      1
+    ]
+  },
+  "visual_contact_sheet": "audit/evidence-page-renders/source-review-contact.png",
+  "Societe_Generale_six_fields_and_parent_share_verified": true,
+  "Erste_cross_references_retained": true,
+  "Intesa_subsidy_field_not_in_recovered_four_page_report": true,
+  "does_not_certify_every_country_cell_or_earliest_disclosure": true
+}

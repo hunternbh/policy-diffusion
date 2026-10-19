@@ -44,5 +44,75 @@
       "gap": "Other family eligibility and confidential filing dates",
       "reason": "Public country calendars and public reports do not establish every issuer threshold/exemption or nonpublic tax-return date."
     }
-  ]
+  ],
+  "evidence_completion": {
+    "CAM": {
+      "full_filings_reviewed": 1052,
+      "old_unknown_rows": 944,
+      "new_unknown_rows": 0,
+      "old_entity_withheld": 108,
+      "new_entity_withheld": 0,
+      "status_counts": {
+        "before_CAM_first_mandatory_phase": 7497,
+        "required_CAM": 4148,
+        "not_yet_required": 972,
+        "exempt_EGC": 503
+      },
+      "transition_counts": [
+        {
+          "old_status": "entity_class_withheld",
+          "new_status": "before_CAM_first_mandatory_phase",
+          "filings": 64
+        },
+        {
+          "old_status": "entity_class_withheld",
+          "new_status": "not_yet_required",
+          "filings": 6
+        },
+        {
+          "old_status": "entity_class_withheld",
+          "new_status": "required_CAM",
+          "filings": 38
+        },
+        {
+          "old_status": "unknown_eligibility",
+          "new_status": "before_CAM_first_mandatory_phase",
+          "filings": 13
+        },
+        {
+          "old_status": "unknown_eligibility",
+          "new_status": "exempt_EGC",
+          "filings": 10
+        },
+        {
+          "old_status": "unknown_eligibility",
+          "new_status": "not_yet_required",
+          "filings": 207
+        },
+        {
+          "old_status": "unknown_eligibility",
+          "new_status": "required_CAM",
+          "filings": 714
+        }
+      ],
+      "selection": "Allprevious944unknownand108withheldrows,nocoefficientselection. Fullprimarydocumentsandpositivefacts;noabsence-basedEGCimputation.",
+      "seconds": 336.0,
+      "nonvisible_header_and_dimension_filters": true,
+      "residual_full_rereads": 28,
+      "residual_XBRL_instance_reviews": 12,
+      "parent_partnership_visual_adjudications": 1
+    },
+    "new_bank_reporters": [
+      "Erste Group Bank AG",
+      "Societe Generale SA"
+    ],
+    "Cisco_SEC_filing_date": "2014-05-30",
+    "XBRL_original_instance_dates_verified": 15,
+    "observed_publication_days_resolved": [
+      "Drax2012-03-01",
+      "Pearson2012-03-23"
+    ],
+    "global_all_family_issuer_coverage_complete": false,
+    "precision_boundary": "Exact first-ever dates, complete global historical financial thresholds and group/venue perimeters remain unavailable; no date imputed."
+  }
 }

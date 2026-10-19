@@ -1,0 +1,16 @@
+{
+  "frozen_at": "2026-10-19T07:22:19.665047+00:00",
+  "source_release": "21-fresnillo-and-carbon-issuer-review/2026-10-19",
+  "objective": "Complete the actionable evidence review of current issuer-study gaps; distinguish source-resolvable facts, bounded date precision, exempt/non-equity objects, confidentiality and genuinely unavailable global histories.",
+  "CAM_rules": [
+    "Before fiscal period end30June2019 no mandatoryCAM phase applies, irrespective of missingEGC/filerclass. Do not confuse filingdaywithperiodend.",
+    "From15December2020 filerclassdoesnotdeterminephase;explicitEGCfalseandunexcludedentitycanestablishrequirement.",
+    "Duringinitialphase,positiveEGCexemptionorunambiguousnonlargefilerstatusestablishnonrequirement;largefilerplusexplicitnonEGCestablishrequirement.",
+    "Readall944linkedunknownfilingrowsand108withheldentityrows;current-contextinlineDEIandcoverfactsrequirepositiveevidence. Missingboxesstayunknown. SICaloneisnotalegalentityexemption. Preserveconflictsandalloriginalfacts."
+  ],
+  "source_review": "Full original submissions remain in all-data ZIPs; preserve entry,CRC,fullSHA,cover source and excerpts. Source selection fixed before re-estimation. No coefficient-sign exclusions.",
+  "date_review": "Try SEC first-report/format indices and original annual reports plus dated issuer announcements. Where exact first day is not established, distinguish a positively observed public report day/year and conservative bounds from mere approval, deadline or archive stamp.",
+  "family_scope": "All17familydispositionsand441eventoverlaysreceiveactionablestatus. Regulated-objectmismatchandconfidentialtaxfilingarestructuralboundaries,notinventedpublicdisclosuredates. No artificialadditionofafamily.",
+  "estimation": "Rerunbothfixedfamilyweightsandalloutcomeswhenpositivecoverageorcomparisonmembershipchanges;geographicanddiffusionrerunonlyifnationalhistorychanges. Retainfullmatrix.",
+  "no_outcome_selection": true
+}

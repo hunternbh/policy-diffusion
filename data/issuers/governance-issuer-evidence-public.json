@@ -32,7 +32,8 @@
       "treatment_boundary": "Revised-code reporting intensity; governance disclosure existed under earlier Combined Code. Not initial1993governance adoption. Prior voluntary practices and anticipation retained.",
       "exceptions_are_not_noncoverage": "Pearson and GKN report explained governance departures; a required response remains covered.",
       "issuer_identity_basis": "Original archived parent annual report and catalogue ISIN, exact bounded2011UK ordinary quote. No current-name-only promotion. Positive UK-code statement supports reporting applicability; no global group certification.",
-      "global_group_eligibility_certified": false
+      "global_group_eligibility_certified": false,
+      "storage_date_source_conflict": "The23March2012issuerRNS says NSM submission today; an annual-information-update lists22March. Preserve disagreement; no exact registry day certified. Public availability on23March is independently positive."
     },
     {
       "issuer": "GKN plc",

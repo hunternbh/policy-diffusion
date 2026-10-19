@@ -1,0 +1,39 @@
+[
+  {
+    "issuer": "Erste Group Bank AG",
+    "study": "observed_bank_full_report_publishers",
+    "actual_publication_date": "2015-03-27",
+    "date_precision": "day_reported_in_retrospective_issuer_calendar",
+    "publication_source": "https://www.erstegroup.com/en/investors/events/financial_calendar",
+    "period_end": "2014-12-31",
+    "first_ever_publication_established": false,
+    "legal_scope": "Article 89 CRD IV; report Note 53, printed232; employees Note6; names/activities subsidiary schedule Note54. Calendar applies to annual financial report bundle, preserved in full.",
+    "content_source_key": "Erste_2014_annual_financial_bundle",
+    "content_pages": [
+      238
+    ],
+    "six_fields_verified": true,
+    "prior_disclosure_not_assumed_absent": true
+  },
+  {
+    "issuer": "Societe Generale SA",
+    "study": "observed_bank_full_report_publishers",
+    "actual_statutory_filing_date": "2015-03-04",
+    "actual_publication_date": null,
+    "date_precision": "statutory_storage_day; public_availability_verified_in_2015_issuer_distributed_prospectus",
+    "public_observed_year": 2015,
+    "publication_source": "https://www.sg-zertifikate.de/SiteContent/1/1/2/924/84/67fe0f4ad3c141309068e03ab1d92de4.pdf",
+    "period_end": "2014-12-31",
+    "first_ever_publication_established": false,
+    "legal_scope": "French L511-45; full consolidated geographic locations/activities printed57-73, physical86-102. Original registration document explicitly records AMF filing March4; June23 wrapper date is separate.",
+    "content_source_key": "SocGen_2015_registration_doc",
+    "content_pages": [
+      86,
+      87,
+      101,
+      102
+    ],
+    "six_fields_verified": true,
+    "prior_disclosure_not_assumed_absent": true
+  }
+]

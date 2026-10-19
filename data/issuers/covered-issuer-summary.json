@@ -1,8 +1,8 @@
 {
   "known_CAM_first_requirement_cohorts": {
-    "2019": 114,
-    "2020": 1025,
-    "2021": 625
+    "2019": 140,
+    "2020": 1337,
+    "2021": 822
   },
   "source_corroborated_studies_attempted": 10,
   "economic_families_attempted_in_covered_subset": 9,
@@ -27,10 +27,12 @@
     {
       "issuer": "Cisco Systems Inc",
       "CIK": 858877,
-      "actual_date": null,
-      "date_precision": "year_2014_accession",
+      "actual_date": "2014-05-30",
+      "date_precision": "day_official_SEC_filingDate",
       "source_key": "cisco_2014_SD",
-      "Cisco_signature_date_not_substituted_for_filing": "2014-05-30"
+      "Cisco_signature_date_not_substituted_for_filing": "2014-05-30",
+      "SEC_index_evidence": "Cisco-first-SD-official-submission-index.json",
+      "filingDate_not_UTC_acceptance_day": true
     }
   ],
   "family_cells": 180,

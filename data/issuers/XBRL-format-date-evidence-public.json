@@ -1,0 +1,137 @@
+[
+  {
+    "issuer": "NVIDIA CORP.",
+    "CIK": 1045810,
+    "actual_first_phase_XBRL_filing_date": "2009-08-20",
+    "payload_sha256": "29fabe53131bf9991933660887aab26e1b986c5bc2761cab830df62adf96e074",
+    "instance_present": true,
+    "earlier_voluntary_records_retained": false,
+    "meaning": "First observed format-bearing filing for the first mandated fiscal-period phase, not necessarily first-ever XBRL."
+  },
+  {
+    "issuer": "THE PEPSI BT.GP.INCO.",
+    "CIK": 1076405,
+    "actual_first_phase_XBRL_filing_date": "2009-10-09",
+    "payload_sha256": "d7b530f7ad47bc154ffa910cdbf2f0b58fbcc45f6deb1114e78038511a68dc8d",
+    "instance_present": true,
+    "earlier_voluntary_records_retained": false,
+    "meaning": "First observed format-bearing filing for the first mandated fiscal-period phase, not necessarily first-ever XBRL."
+  },
+  {
+    "issuer": "AKAMAI TECHS.INCO.",
+    "CIK": 1086222,
+    "actual_first_phase_XBRL_filing_date": "2009-09-04",
+    "payload_sha256": "d8c09722d474b6c6015f6a4632bedad0a65be953f0a59e7c5b0699326bb1b4d9",
+    "instance_present": true,
+    "earlier_voluntary_records_retained": false,
+    "meaning": "First observed format-bearing filing for the first mandated fiscal-period phase, not necessarily first-ever XBRL."
+  },
+  {
+    "issuer": "VULCAN MATERIALS CO.",
+    "CIK": 1396009,
+    "actual_first_phase_XBRL_filing_date": "2009-08-05",
+    "payload_sha256": "01b89aa4da801c56472f39c378b3335932216fd2fd900a7ed5d6f1725ceeb20b",
+    "instance_present": true,
+    "earlier_voluntary_records_retained": false,
+    "meaning": "First observed format-bearing filing for the first mandated fiscal-period phase, not necessarily first-ever XBRL."
+  },
+  {
+    "issuer": "COLGATE-PALM.CO.",
+    "CIK": 21665,
+    "actual_first_phase_XBRL_filing_date": "2009-07-30",
+    "payload_sha256": "d9d753037a4442d257f0c2a98093589fbaedc5a8ac26cd414fb636f62acb7d85",
+    "instance_present": true,
+    "earlier_voluntary_records_retained": false,
+    "meaning": "First observed format-bearing filing for the first mandated fiscal-period phase, not necessarily first-ever XBRL."
+  },
+  {
+    "issuer": "DANAHER CORP.",
+    "CIK": 313616,
+    "actual_first_phase_XBRL_filing_date": "2009-07-23",
+    "payload_sha256": "22cd933cfff438cc4f988aecc0bf4a5b25e610109e7c73b9703520a358e7642e",
+    "instance_present": true,
+    "earlier_voluntary_records_retained": false,
+    "meaning": "First observed format-bearing filing for the first mandated fiscal-period phase, not necessarily first-ever XBRL."
+  },
+  {
+    "issuer": "EXXON MOBIL CORP.",
+    "CIK": 34088,
+    "actual_first_phase_XBRL_filing_date": "2009-08-05",
+    "payload_sha256": "55b05503832c298fa4f9155a32f1f78795cc76b2ecdd2fbebab44cc5aeeeec88",
+    "instance_present": true,
+    "earlier_voluntary_records_retained": false,
+    "meaning": "First observed format-bearing filing for the first mandated fiscal-period phase, not necessarily first-ever XBRL."
+  },
+  {
+    "issuer": "INTERNATIONAL PAPER CO.",
+    "CIK": 51434,
+    "actual_first_phase_XBRL_filing_date": "2009-08-10",
+    "payload_sha256": "03a740822d5ab38a8d9730fe75d6a338978c0ef71e332058f08c983926d2c4b9",
+    "instance_present": true,
+    "earlier_voluntary_records_retained": false,
+    "meaning": "First observed format-bearing filing for the first mandated fiscal-period phase, not necessarily first-ever XBRL."
+  },
+  {
+    "issuer": "KIMBERLY-CLARK CORP.",
+    "CIK": 55785,
+    "actual_first_phase_XBRL_filing_date": "2009-08-07",
+    "payload_sha256": "da9596a8db0b94a1c49ab36c11b2d4030ac9a562f18e83f0ba49d870421b9da8",
+    "instance_present": true,
+    "earlier_voluntary_records_retained": false,
+    "meaning": "First observed format-bearing filing for the first mandated fiscal-period phase, not necessarily first-ever XBRL."
+  },
+  {
+    "issuer": "ELECTRONIC ARTS INCO.",
+    "CIK": 712515,
+    "actual_first_phase_XBRL_filing_date": "2009-08-10",
+    "payload_sha256": "7bdc8c256eb8f7a32b93761719c30cf4ae30d5bc15244838a9228a96a283b364",
+    "instance_present": true,
+    "earlier_voluntary_records_retained": false,
+    "meaning": "First observed format-bearing filing for the first mandated fiscal-period phase, not necessarily first-ever XBRL."
+  },
+  {
+    "issuer": "NOBLE ENERGY INCO.",
+    "CIK": 72207,
+    "actual_first_phase_XBRL_filing_date": "2009-07-30",
+    "payload_sha256": "c9040a86ad7ecd734b9c5a7586077d30d3673038478058878b75ad355392cd28",
+    "instance_present": true,
+    "earlier_voluntary_records_retained": false,
+    "meaning": "First observed format-bearing filing for the first mandated fiscal-period phase, not necessarily first-ever XBRL."
+  },
+  {
+    "issuer": "QUALCOMM INCO.",
+    "CIK": 804328,
+    "actual_first_phase_XBRL_filing_date": "2009-07-22",
+    "payload_sha256": "9e874c9e4e555e01397cdd236ec7661c244b8132512c954cc62fa24fec734244",
+    "instance_present": true,
+    "earlier_voluntary_records_retained": false,
+    "meaning": "First observed format-bearing filing for the first mandated fiscal-period phase, not necessarily first-ever XBRL."
+  },
+  {
+    "issuer": "THE PROGRESSIVE CORP.",
+    "CIK": 80661,
+    "actual_first_phase_XBRL_filing_date": "2009-08-10",
+    "payload_sha256": "522b7f24db4eb531be8769d57303d3d5ba46b4f9b693bf4b45b07bd46606b110",
+    "instance_present": true,
+    "earlier_voluntary_records_retained": false,
+    "meaning": "First observed format-bearing filing for the first mandated fiscal-period phase, not necessarily first-ever XBRL."
+  },
+  {
+    "issuer": "BJ SVS.CO",
+    "CIK": 864328,
+    "actual_first_phase_XBRL_filing_date": "2009-08-10",
+    "payload_sha256": "0133bcc96988779047330a2f34f327dcfec5a1d4ae5ac3eace7040cd7b10117f",
+    "instance_present": true,
+    "earlier_voluntary_records_retained": false,
+    "meaning": "First observed format-bearing filing for the first mandated fiscal-period phase, not necessarily first-ever XBRL."
+  },
+  {
+    "issuer": "BOSTON SCIENTIFIC CORP.",
+    "CIK": 885725,
+    "actual_first_phase_XBRL_filing_date": "2009-08-06",
+    "payload_sha256": "b0cb66eba68ca9a0bde37b5ca52b449541edfdce03786744e0b88ff49b8fcabc",
+    "instance_present": true,
+    "earlier_voluntary_records_retained": false,
+    "meaning": "First observed format-bearing filing for the first mandated fiscal-period phase, not necessarily first-ever XBRL."
+  }
+]
