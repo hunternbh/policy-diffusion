@@ -1,5 +1,5 @@
 {
-  "passed": 219,
+  "passed": 220,
   "checks": [
     {
       "check": "unique_HTML_ids",
@@ -43,6 +43,10 @@
     },
     {
       "check": "local_anchor_top",
+      "passed": true
+    },
+    {
+      "check": "local_anchor_weighting-sensitivity",
       "passed": true
     },
     {
