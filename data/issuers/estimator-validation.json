@@ -1,5 +1,5 @@
 {
-  "passed": 118,
+  "passed": 136,
   "checks": [
     {
       "check": "issuer-exposure_all_aggregate_contributions_reconstruct",
@@ -306,6 +306,30 @@
       "passed": true
     },
     {
+      "check": "raw_GDP_reconstruction_ESG_German_first_statutory_reports_balanced_mean_0_2_log_spread",
+      "passed": true
+    },
+    {
+      "check": "raw_GDP_reconstruction_ESG_German_first_statutory_reports_balanced_mean_0_2_log_impact",
+      "passed": true
+    },
+    {
+      "check": "raw_GDP_reconstruction_ESG_German_first_statutory_reports_balanced_mean_0_2_zero_fraction",
+      "passed": true
+    },
+    {
+      "check": "raw_GDP_reconstruction_IFRS_Canadian_first_statements_balanced_mean_0_2_log_spread",
+      "passed": true
+    },
+    {
+      "check": "raw_GDP_reconstruction_IFRS_Canadian_first_statements_balanced_mean_0_2_log_impact",
+      "passed": true
+    },
+    {
+      "check": "raw_GDP_reconstruction_IFRS_Canadian_first_statements_balanced_mean_0_2_zero_fraction",
+      "passed": true
+    },
+    {
       "check": "raw_GDP_reconstruction_first_cycle_conflict_mineral_reporters_balanced_mean_0_2_log_spread",
       "passed": true
     },
@@ -339,6 +363,30 @@
     },
     {
       "check": "raw_GDP_reconstruction_statutory_bank_initial_balanced_mean_0_2_zero_fraction",
+      "passed": true
+    },
+    {
+      "check": "raw_GDP_reconstruction_ESG_German_first_statutory_reports_inclusive_first_year_log_spread",
+      "passed": true
+    },
+    {
+      "check": "raw_GDP_reconstruction_ESG_German_first_statutory_reports_inclusive_first_year_log_impact",
+      "passed": true
+    },
+    {
+      "check": "raw_GDP_reconstruction_ESG_German_first_statutory_reports_inclusive_first_year_zero_fraction",
+      "passed": true
+    },
+    {
+      "check": "raw_GDP_reconstruction_IFRS_Canadian_first_statements_inclusive_first_year_log_spread",
+      "passed": true
+    },
+    {
+      "check": "raw_GDP_reconstruction_IFRS_Canadian_first_statements_inclusive_first_year_log_impact",
+      "passed": true
+    },
+    {
+      "check": "raw_GDP_reconstruction_IFRS_Canadian_first_statements_inclusive_first_year_zero_fraction",
       "passed": true
     },
     {
@@ -406,63 +454,59 @@
       "passed": true
     },
     {
-      "check": "source_SHA_irs_CbCR_rule",
+      "check": "source_SHA_RBC_2012_Q1_release",
       "passed": true
     },
     {
-      "check": "source_SHA_irs_CbCR_audience",
+      "check": "source_SHA_RBC_2012_IFRS_restatement",
       "passed": true
     },
     {
-      "check": "source_SHA_fincen_reporting_exemption",
+      "check": "source_SHA_TD_2012_Q1_release",
       "passed": true
     },
     {
-      "check": "source_SHA_uk_PSC_listed_exempt",
+      "check": "source_SHA_BMO_2012_Q1_release",
       "passed": true
     },
     {
-      "check": "source_SHA_conflict_rule_federal_register",
+      "check": "source_SHA_BMO_2012_IFRS_restatement",
       "passed": true
     },
     {
-      "check": "source_SHA_apple_first_FormSD",
+      "check": "source_SHA_Scotia_2012_Q1_release",
       "passed": true
     },
     {
-      "check": "source_SHA_google_2014_CMR",
+      "check": "source_SHA_BASF_2017_report_index",
       "passed": true
     },
     {
-      "check": "source_SHA_kyocera_FormSD_archive",
+      "check": "source_SHA_BASF_2017_online_report",
       "passed": true
     },
     {
-      "check": "source_SHA_europe_ias_scope",
+      "check": "source_SHA_BASF_2017_results_release",
       "passed": true
     },
     {
-      "check": "source_SHA_mica_scope",
+      "check": "source_SHA_BMW_2017_report_release",
       "passed": true
     },
     {
-      "check": "source_SHA_UK_tax_iXBRL",
+      "check": "source_SHA_German_HGB_315b",
       "passed": true
     },
     {
-      "check": "source_SHA_ingersoll_2018_statutory",
+      "check": "source_SHA_Bank_of_Canada_IFRS_transition",
       "passed": true
     },
     {
-      "check": "source_SHA_ingersoll_2018_ESG",
+      "check": "source_SHA_OSFI_IFRS_requirement",
       "passed": true
     },
     {
-      "check": "source_SHA_jci_annual_archive",
-      "passed": true
-    },
-    {
-      "check": "source_SHA_jci_2018_irish_report",
+      "check": "source_SHA_BMW_2017_annual_press_attachment",
       "passed": true
     },
     {
@@ -471,6 +515,34 @@
     },
     {
       "check": "all_441_additive_event_overlays",
+      "passed": true
+    },
+    {
+      "check": "all_inherited_study_coefficients_preserved",
+      "passed": true
+    },
+    {
+      "check": "rerun_geographic_estimates_unchanged_with_unchanged_country_calendar",
+      "passed": true
+    },
+    {
+      "check": "six_first_year_four_balanced_source_supported_families",
+      "passed": true
+    },
+    {
+      "check": "new_controls_have_explicit_postyear_source_status",
+      "passed": true
+    },
+    {
+      "check": "covered_event_profiles_reconstruct_post_aggregates",
+      "passed": true
+    },
+    {
+      "check": "BMW_announced_day_not_promoted_to_actual_filing",
+      "passed": true
+    },
+    {
+      "check": "new_treatment_population_source_selected_before_outcomes",
       "passed": true
     }
   ],

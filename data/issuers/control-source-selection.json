@@ -1,0 +1,8 @@
+{
+  "selected_at": "2026-10-19T05:20:42.712763+00:00",
+  "rule": "60 largest pre2012 US bank candidates,80 largest pre2018 US nonfinancial candidates, by g-1 cap before new outcome coefficients. Exact period-keyed CUSIP/CIK and bounded main ISIN; no outcome-based replacements. Source and outcome failures remain explicit.",
+  "selected_counts": {
+    "ESG_German_first_statutory_reports": 80,
+    "IFRS_Canadian_first_statements": 60
+  }
+}

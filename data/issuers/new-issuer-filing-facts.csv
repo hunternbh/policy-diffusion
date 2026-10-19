@@ -1,0 +1,8 @@
+issuer,family,actual_publication_date,observed_publication_year,date_precision,required_reporting_period,first_required_interim_period_end,source_key,publication_source_key,earlier_observed_restatement_date
+BASF SE,ESG_MANDATORY_REVIEWED,2018-02-27,2018.0,day_corroborated_issuer_report_and_results_bundle,2017-01-01/2017-12-31,,,BASF_2017_report_index,
+Bayer AG,ESG_MANDATORY_REVIEWED,2018-02-28,2018.0,day_corroborated_issuer_report_and_results_bundle,2017-01-01/2017-12-31,,,Bayer_2017_report_release,
+BMW AG,ESG_MANDATORY_REVIEWED,,2018.0,year_2018_only_March21_schedule_not_actual_day,2017-01-01/2017-12-31,,,BMW_2017_report_release,
+Royal Bank of Canada,IFRS,2012-03-01,,,,2012-01-31,RBC_2012_Q1_release,,2012-01-20
+Toronto-Dominion Bank,IFRS,2012-03-01,,,,2012-01-31,TD_2012_Q1_release,,2012-01-26
+Bank of Montreal,IFRS,2012-02-28,,,,2012-01-31,BMO_2012_Q1_release,,2012-01-30
+Bank of Nova Scotia,IFRS,2012-03-06,,,,2012-01-31,Scotia_2012_Q1_release,,

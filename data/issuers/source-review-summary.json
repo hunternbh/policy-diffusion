@@ -1,13 +1,30 @@
 {
-  "requests_dispositioned": 25,
-  "saved_responses": 15,
-  "substantive_documents_saved": 12,
-  "archive_locators_saved": 2,
-  "off_target_sitemaps": 1,
-  "download_failures_retained": 10,
-  "CAM_full_submission_reviews": 30,
-  "XBRL_cover_reviews": 1385,
-  "manufacturing_annual_filings_reviewed": 27,
-  "global_legal_review_complete": false,
-  "OCR": "Existing inherited OCR archive preserved. Newly selected readable PDFs/HTML do not require OCR. HTTP blocks cannot be solved by OCR."
+  "source_files_inventoried": 15477,
+  "archive_entries_indexed": 19236,
+  "PDF_entries_indexed": 12326,
+  "EU_catalogue_rows": 6576,
+  "EU_unique_catalogue_reports": 6133,
+  "selected_local_original_PDFs": 10,
+  "primary_URL_requests": 19,
+  "primary_responses_saved": 14,
+  "primary_download_failures": 5,
+  "US_control_filings_inspected": 402,
+  "US_control_full_submissions_hashed": 173,
+  "control_source_support": {
+    "ESG_German_first_statutory_reports": {
+      "selected": 80,
+      "all_three_source_years_verified": 70
+    },
+    "IFRS_Canadian_first_statements": {
+      "selected": 60,
+      "all_three_source_years_verified": 51
+    }
+  },
+  "new_treated_issuers": 7,
+  "new_families": 2,
+  "actual_day_dates": 6,
+  "year_only_dates": 1,
+  "no_AI_assurance_spreadsheet_used_for_legal_classification": true,
+  "global_issuer_eligibility_complete": false,
+  "OCR": "Targeted originals have readable text; inherited OCR archive retained. No OCR substitution for failed HTTP requests."
 }

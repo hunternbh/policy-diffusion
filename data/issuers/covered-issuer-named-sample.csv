@@ -1,4 +1,88 @@
 target,family,study,cohort,issuer_name,iso3,arm,G
+inclusive_first_year,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,BASF SE,DEU,treated,2018
+inclusive_first_year,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,BMW AG,DEU,treated,2018
+inclusive_first_year,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,Bayer AG,DEU,treated,2018
+inclusive_first_year,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,AMAZON.COM INCO.,USA,comparison,9999
+inclusive_first_year,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,NVIDIA CORP.,USA,comparison,9999
+inclusive_first_year,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,RAYTHEON CO.,USA,comparison,9999
+inclusive_first_year,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,NETFLIX INCO.,USA,comparison,9999
+inclusive_first_year,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,MONDELEZ INTL.INCO.,USA,comparison,9999
+inclusive_first_year,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,SALESFORCE INCO.,USA,comparison,9999
+inclusive_first_year,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,COMCAST CORP.,USA,comparison,9999
+inclusive_first_year,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,T-MOBILE US INCO.,USA,comparison,9999
+inclusive_first_year,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,LAS VEGAS SANDS CORP.,USA,comparison,9999
+inclusive_first_year,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,TESLA INCO.,USA,comparison,9999
+inclusive_first_year,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,META PLATFORMS INCO.,USA,comparison,9999
+inclusive_first_year,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,PHILIP MORRIS INTL.INCO.,USA,comparison,9999
+inclusive_first_year,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,ABBVIE INCO.,USA,comparison,9999
+inclusive_first_year,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,WALGREENS BTS.ALL.INCO.,USA,comparison,9999
+inclusive_first_year,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,PAYPAL HOLDINGS INCO.,USA,comparison,9999
+inclusive_first_year,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,KRAFT HEINZ CO.,USA,comparison,9999
+inclusive_first_year,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,STRYKER CORP.,USA,comparison,9999
+inclusive_first_year,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,AMGEN INCO.,USA,comparison,9999
+inclusive_first_year,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,NIKE INCO.,USA,comparison,9999
+inclusive_first_year,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,APPLE INCO.,USA,comparison,9999
+inclusive_first_year,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,INTEL CORP.,USA,comparison,9999
+inclusive_first_year,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,INTL.BUS.MCHS.CORP.,USA,comparison,9999
+inclusive_first_year,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,HONEYWELL INTL.INCO.,USA,comparison,9999
+inclusive_first_year,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,PEPSICO INCO.,USA,comparison,9999
+inclusive_first_year,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,MICROSOFT CORP.,USA,comparison,9999
+inclusive_first_year,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,ADOBE INCO.,USA,comparison,9999
+inclusive_first_year,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,QUALCOMM INCO.,USA,comparison,9999
+inclusive_first_year,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,CELGENE CORP.,USA,comparison,9999
+inclusive_first_year,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,EOG RES.INCO.,USA,comparison,9999
+inclusive_first_year,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,STARBUCKS CORP.,USA,comparison,9999
+inclusive_first_year,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,CISCO SYSTEMS INCO.,USA,comparison,9999
+inclusive_first_year,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,BIOGEN INCO.,USA,comparison,9999
+inclusive_first_year,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,GILEAD SCIENCES INCO.,USA,comparison,9999
+inclusive_first_year,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,COSTCO WHOLESALE CORP.,USA,comparison,9999
+inclusive_first_year,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,TEXAS INSTRUMENTS INCO.,USA,comparison,9999
+inclusive_first_year,IFRS,IFRS_Canadian_first_statements,2012,Bank of Montreal,CAN,treated,2012
+inclusive_first_year,IFRS,IFRS_Canadian_first_statements,2012,Bank of Nova Scotia,CAN,treated,2012
+inclusive_first_year,IFRS,IFRS_Canadian_first_statements,2012,Royal Bank of Canada,CAN,treated,2012
+inclusive_first_year,IFRS,IFRS_Canadian_first_statements,2012,Toronto-Dominion Bank,CAN,treated,2012
+inclusive_first_year,IFRS,IFRS_Canadian_first_statements,2012,UMB FINANCIAL CORP.,USA,comparison,9999
+inclusive_first_year,IFRS,IFRS_Canadian_first_statements,2012,WINTRUST FINANCIAL CORP.,USA,comparison,9999
+inclusive_first_year,IFRS,IFRS_Canadian_first_statements,2012,PROSPERITY BCSH.INCO.,USA,comparison,9999
+inclusive_first_year,IFRS,IFRS_Canadian_first_statements,2012,ZIONS BANCORPORATION,USA,comparison,9999
+inclusive_first_year,IFRS,IFRS_Canadian_first_statements,2012,REGIONS FINL.CORP.,USA,comparison,9999
+inclusive_first_year,IFRS,IFRS_Canadian_first_statements,2012,PEOPLES UTD.FINL.INCO.,USA,comparison,9999
+inclusive_first_year,IFRS,IFRS_Canadian_first_statements,2012,TFS FINANCIAL CORP.,USA,comparison,9999
+inclusive_first_year,IFRS,IFRS_Canadian_first_statements,2012,BANK OF NY.MELLON CORP.,USA,comparison,9999
+inclusive_first_year,IFRS,IFRS_Canadian_first_statements,2012,NORTHWEST BCSH.INCO.,USA,comparison,9999
+inclusive_first_year,IFRS,IFRS_Canadian_first_statements,2012,CAPITOL FED.FINL.,USA,comparison,9999
+inclusive_first_year,IFRS,IFRS_Canadian_first_statements,2012,BANKUNITED INCO.,USA,comparison,9999
+inclusive_first_year,IFRS,IFRS_Canadian_first_statements,2012,JP MORGAN CHASE & CO.,USA,comparison,9999
+inclusive_first_year,IFRS,IFRS_Canadian_first_statements,2012,CITY NATIONAL CORP.,USA,comparison,9999
+inclusive_first_year,IFRS,IFRS_Canadian_first_statements,2012,COMMERCE BCSH.INCO.,USA,comparison,9999
+inclusive_first_year,IFRS,IFRS_Canadian_first_statements,2012,INTERNATIONAL BCSH.CORP.,USA,comparison,9999
+inclusive_first_year,IFRS,IFRS_Canadian_first_statements,2012,FIRSTMERIT CORP.,USA,comparison,9999
+inclusive_first_year,IFRS,IFRS_Canadian_first_statements,2012,FIFTH THIRD BANCORP,USA,comparison,9999
+inclusive_first_year,IFRS,IFRS_Canadian_first_statements,2012,TRUSTMARK CORP.,USA,comparison,9999
+inclusive_first_year,IFRS,IFRS_Canadian_first_statements,2012,FNB CORP.,USA,comparison,9999
+inclusive_first_year,IFRS,IFRS_Canadian_first_statements,2012,HUNTINGTON BCSH.INCO.,USA,comparison,9999
+inclusive_first_year,IFRS,IFRS_Canadian_first_statements,2012,FULTON FINANCIAL CORP.,USA,comparison,9999
+inclusive_first_year,IFRS,IFRS_Canadian_first_statements,2012,NAT.PENN BCSH.INCO.,USA,comparison,9999
+inclusive_first_year,IFRS,IFRS_Canadian_first_statements,2012,SUSQUEHANNA BCSH.INCO.,USA,comparison,9999
+inclusive_first_year,IFRS,IFRS_Canadian_first_statements,2012,OLD NAT.BANC.(INDIANA),USA,comparison,9999
+inclusive_first_year,IFRS,IFRS_Canadian_first_statements,2012,BANK OF AMERICA CORP.,USA,comparison,9999
+inclusive_first_year,IFRS,IFRS_Canadian_first_statements,2012,VALLEY NATIONAL BANCORP,USA,comparison,9999
+inclusive_first_year,IFRS,IFRS_Canadian_first_statements,2012,WELLS FARGO & CO.,USA,comparison,9999
+inclusive_first_year,IFRS,IFRS_Canadian_first_statements,2012,UTD.BKSH.INCO.,USA,comparison,9999
+inclusive_first_year,IFRS,IFRS_Canadian_first_statements,2012,NORTHERN TRUST CORP.,USA,comparison,9999
+inclusive_first_year,IFRS,IFRS_Canadian_first_statements,2012,SUNTRUST BANKS INCO.,USA,comparison,9999
+inclusive_first_year,IFRS,IFRS_Canadian_first_statements,2012,HANCOCK WHITNEY CORP.,USA,comparison,9999
+inclusive_first_year,IFRS,IFRS_Canadian_first_statements,2012,1ST.CTZN.BCSH.INCO.,USA,comparison,9999
+inclusive_first_year,IFRS,IFRS_Canadian_first_statements,2012,CATHAY GEN.BANCORP,USA,comparison,9999
+inclusive_first_year,IFRS,IFRS_Canadian_first_statements,2012,BOK FINANCIAL CORP.,USA,comparison,9999
+inclusive_first_year,IFRS,IFRS_Canadian_first_statements,2012,PRIVATEBANCORP INCO.,USA,comparison,9999
+inclusive_first_year,IFRS,IFRS_Canadian_first_statements,2012,STERLING FINL.CORP.,USA,comparison,9999
+inclusive_first_year,IFRS,IFRS_Canadian_first_statements,2012,ASTORIA FINL.CORP.,USA,comparison,9999
+inclusive_first_year,IFRS,IFRS_Canadian_first_statements,2012,KEYCORP,USA,comparison,9999
+inclusive_first_year,IFRS,IFRS_Canadian_first_statements,2012,HUDSON CITY BANC.INCO.,USA,comparison,9999
+inclusive_first_year,IFRS,IFRS_Canadian_first_statements,2012,IBERIABANK CORP.,USA,comparison,9999
+inclusive_first_year,IFRS,IFRS_Canadian_first_statements,2012,WAFD INCO.,USA,comparison,9999
+inclusive_first_year,IFRS,IFRS_Canadian_first_statements,2012,STATE STREET CORP.,USA,comparison,9999
 inclusive_first_year,AUDIT_REPORTING,PCAOB_CAM_actual_required_filing,2019,"Nuance Communications, Inc.",USA,treated,2019
 inclusive_first_year,AUDIT_REPORTING,PCAOB_CAM_actual_required_filing,2019,OSI SYSTEMS INC,USA,treated,2019
 inclusive_first_year,AUDIT_REPORTING,PCAOB_CAM_actual_required_filing,2019,PRICESMART INC,USA,treated,2019
@@ -4456,6 +4540,83 @@ inclusive_first_year,CBCR_BANK_PUBLIC,statutory_bank_initial,2014,Toronto-Domini
 inclusive_first_year,CBCR_BANK_PUBLIC,statutory_bank_initial,2014,UBS,CHE,comparison,9999
 inclusive_first_year,CBCR_BANK_PUBLIC,statutory_bank_initial,2014,Wells Fargo,USA,comparison,9999
 inclusive_first_year,CBCR_BANK_PUBLIC,statutory_bank_initial,2014,Westpac Banking Corporation,AUS,comparison,9999
+balanced_mean_0_2,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,BASF SE,DEU,treated,2018
+balanced_mean_0_2,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,BMW AG,DEU,treated,2018
+balanced_mean_0_2,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,Bayer AG,DEU,treated,2018
+balanced_mean_0_2,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,AMAZON.COM INCO.,USA,comparison,9999
+balanced_mean_0_2,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,NVIDIA CORP.,USA,comparison,9999
+balanced_mean_0_2,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,NETFLIX INCO.,USA,comparison,9999
+balanced_mean_0_2,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,MONDELEZ INTL.INCO.,USA,comparison,9999
+balanced_mean_0_2,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,COMCAST CORP.,USA,comparison,9999
+balanced_mean_0_2,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,T-MOBILE US INCO.,USA,comparison,9999
+balanced_mean_0_2,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,LAS VEGAS SANDS CORP.,USA,comparison,9999
+balanced_mean_0_2,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,TESLA INCO.,USA,comparison,9999
+balanced_mean_0_2,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,META PLATFORMS INCO.,USA,comparison,9999
+balanced_mean_0_2,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,PHILIP MORRIS INTL.INCO.,USA,comparison,9999
+balanced_mean_0_2,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,ABBVIE INCO.,USA,comparison,9999
+balanced_mean_0_2,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,WALGREENS BTS.ALL.INCO.,USA,comparison,9999
+balanced_mean_0_2,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,KRAFT HEINZ CO.,USA,comparison,9999
+balanced_mean_0_2,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,STRYKER CORP.,USA,comparison,9999
+balanced_mean_0_2,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,AMGEN INCO.,USA,comparison,9999
+balanced_mean_0_2,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,NIKE INCO.,USA,comparison,9999
+balanced_mean_0_2,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,APPLE INCO.,USA,comparison,9999
+balanced_mean_0_2,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,INTEL CORP.,USA,comparison,9999
+balanced_mean_0_2,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,INTL.BUS.MCHS.CORP.,USA,comparison,9999
+balanced_mean_0_2,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,HONEYWELL INTL.INCO.,USA,comparison,9999
+balanced_mean_0_2,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,PEPSICO INCO.,USA,comparison,9999
+balanced_mean_0_2,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,MICROSOFT CORP.,USA,comparison,9999
+balanced_mean_0_2,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,ADOBE INCO.,USA,comparison,9999
+balanced_mean_0_2,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,QUALCOMM INCO.,USA,comparison,9999
+balanced_mean_0_2,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,EOG RES.INCO.,USA,comparison,9999
+balanced_mean_0_2,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,STARBUCKS CORP.,USA,comparison,9999
+balanced_mean_0_2,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,CISCO SYSTEMS INCO.,USA,comparison,9999
+balanced_mean_0_2,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,BIOGEN INCO.,USA,comparison,9999
+balanced_mean_0_2,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,GILEAD SCIENCES INCO.,USA,comparison,9999
+balanced_mean_0_2,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,COSTCO WHOLESALE CORP.,USA,comparison,9999
+balanced_mean_0_2,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,TEXAS INSTRUMENTS INCO.,USA,comparison,9999
+balanced_mean_0_2,IFRS,IFRS_Canadian_first_statements,2012,Bank of Montreal,CAN,treated,2012
+balanced_mean_0_2,IFRS,IFRS_Canadian_first_statements,2012,Bank of Nova Scotia,CAN,treated,2012
+balanced_mean_0_2,IFRS,IFRS_Canadian_first_statements,2012,Royal Bank of Canada,CAN,treated,2012
+balanced_mean_0_2,IFRS,IFRS_Canadian_first_statements,2012,Toronto-Dominion Bank,CAN,treated,2012
+balanced_mean_0_2,IFRS,IFRS_Canadian_first_statements,2012,UMB FINANCIAL CORP.,USA,comparison,9999
+balanced_mean_0_2,IFRS,IFRS_Canadian_first_statements,2012,WINTRUST FINANCIAL CORP.,USA,comparison,9999
+balanced_mean_0_2,IFRS,IFRS_Canadian_first_statements,2012,PROSPERITY BCSH.INCO.,USA,comparison,9999
+balanced_mean_0_2,IFRS,IFRS_Canadian_first_statements,2012,ZIONS BANCORPORATION,USA,comparison,9999
+balanced_mean_0_2,IFRS,IFRS_Canadian_first_statements,2012,REGIONS FINL.CORP.,USA,comparison,9999
+balanced_mean_0_2,IFRS,IFRS_Canadian_first_statements,2012,PEOPLES UTD.FINL.INCO.,USA,comparison,9999
+balanced_mean_0_2,IFRS,IFRS_Canadian_first_statements,2012,TFS FINANCIAL CORP.,USA,comparison,9999
+balanced_mean_0_2,IFRS,IFRS_Canadian_first_statements,2012,NORTHWEST BCSH.INCO.,USA,comparison,9999
+balanced_mean_0_2,IFRS,IFRS_Canadian_first_statements,2012,CAPITOL FED.FINL.,USA,comparison,9999
+balanced_mean_0_2,IFRS,IFRS_Canadian_first_statements,2012,JP MORGAN CHASE & CO.,USA,comparison,9999
+balanced_mean_0_2,IFRS,IFRS_Canadian_first_statements,2012,CITY NATIONAL CORP.,USA,comparison,9999
+balanced_mean_0_2,IFRS,IFRS_Canadian_first_statements,2012,COMMERCE BCSH.INCO.,USA,comparison,9999
+balanced_mean_0_2,IFRS,IFRS_Canadian_first_statements,2012,INTERNATIONAL BCSH.CORP.,USA,comparison,9999
+balanced_mean_0_2,IFRS,IFRS_Canadian_first_statements,2012,FIRSTMERIT CORP.,USA,comparison,9999
+balanced_mean_0_2,IFRS,IFRS_Canadian_first_statements,2012,FIFTH THIRD BANCORP,USA,comparison,9999
+balanced_mean_0_2,IFRS,IFRS_Canadian_first_statements,2012,TRUSTMARK CORP.,USA,comparison,9999
+balanced_mean_0_2,IFRS,IFRS_Canadian_first_statements,2012,FNB CORP.,USA,comparison,9999
+balanced_mean_0_2,IFRS,IFRS_Canadian_first_statements,2012,HUNTINGTON BCSH.INCO.,USA,comparison,9999
+balanced_mean_0_2,IFRS,IFRS_Canadian_first_statements,2012,FULTON FINANCIAL CORP.,USA,comparison,9999
+balanced_mean_0_2,IFRS,IFRS_Canadian_first_statements,2012,NAT.PENN BCSH.INCO.,USA,comparison,9999
+balanced_mean_0_2,IFRS,IFRS_Canadian_first_statements,2012,SUSQUEHANNA BCSH.INCO.,USA,comparison,9999
+balanced_mean_0_2,IFRS,IFRS_Canadian_first_statements,2012,OLD NAT.BANC.(INDIANA),USA,comparison,9999
+balanced_mean_0_2,IFRS,IFRS_Canadian_first_statements,2012,BANK OF AMERICA CORP.,USA,comparison,9999
+balanced_mean_0_2,IFRS,IFRS_Canadian_first_statements,2012,VALLEY NATIONAL BANCORP,USA,comparison,9999
+balanced_mean_0_2,IFRS,IFRS_Canadian_first_statements,2012,WELLS FARGO & CO.,USA,comparison,9999
+balanced_mean_0_2,IFRS,IFRS_Canadian_first_statements,2012,UTD.BKSH.INCO.,USA,comparison,9999
+balanced_mean_0_2,IFRS,IFRS_Canadian_first_statements,2012,NORTHERN TRUST CORP.,USA,comparison,9999
+balanced_mean_0_2,IFRS,IFRS_Canadian_first_statements,2012,SUNTRUST BANKS INCO.,USA,comparison,9999
+balanced_mean_0_2,IFRS,IFRS_Canadian_first_statements,2012,HANCOCK WHITNEY CORP.,USA,comparison,9999
+balanced_mean_0_2,IFRS,IFRS_Canadian_first_statements,2012,1ST.CTZN.BCSH.INCO.,USA,comparison,9999
+balanced_mean_0_2,IFRS,IFRS_Canadian_first_statements,2012,CATHAY GEN.BANCORP,USA,comparison,9999
+balanced_mean_0_2,IFRS,IFRS_Canadian_first_statements,2012,BOK FINANCIAL CORP.,USA,comparison,9999
+balanced_mean_0_2,IFRS,IFRS_Canadian_first_statements,2012,PRIVATEBANCORP INCO.,USA,comparison,9999
+balanced_mean_0_2,IFRS,IFRS_Canadian_first_statements,2012,ASTORIA FINL.CORP.,USA,comparison,9999
+balanced_mean_0_2,IFRS,IFRS_Canadian_first_statements,2012,KEYCORP,USA,comparison,9999
+balanced_mean_0_2,IFRS,IFRS_Canadian_first_statements,2012,HUDSON CITY BANC.INCO.,USA,comparison,9999
+balanced_mean_0_2,IFRS,IFRS_Canadian_first_statements,2012,IBERIABANK CORP.,USA,comparison,9999
+balanced_mean_0_2,IFRS,IFRS_Canadian_first_statements,2012,WAFD INCO.,USA,comparison,9999
+balanced_mean_0_2,IFRS,IFRS_Canadian_first_statements,2012,STATE STREET CORP.,USA,comparison,9999
 balanced_mean_0_2,SUPPLY_CHAIN,first_cycle_conflict_mineral_reporters,2014,Apple Inc,USA,treated,2014
 balanced_mean_0_2,SUPPLY_CHAIN,first_cycle_conflict_mineral_reporters,2014,Intel Corporation,USA,treated,2014
 balanced_mean_0_2,SUPPLY_CHAIN,first_cycle_conflict_mineral_reporters,2014,Cisco Systems Inc,USA,treated,2014

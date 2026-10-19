@@ -1,5 +1,5 @@
 {
-  "passed": 122,
+  "passed": 125,
   "checks": [
     {
       "check": "unique_HTML_ids",
@@ -310,10 +310,6 @@
       "passed": true
     },
     {
-      "check": "local_link_data/issuers/irish-crosslisted-eligibility-review.json",
-      "passed": true
-    },
-    {
       "check": "local_link_data/issuers/issuer-exposure-family-weights.csv",
       "passed": true
     },
@@ -327,6 +323,14 @@
     },
     {
       "check": "local_link_data/issuers/jibs-mechanism-models-all.csv",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/issuers/new-issuer-evidence-public.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/issuers/new-issuer-filing-facts.csv",
       "passed": true
     },
     {
@@ -446,6 +450,10 @@
       "passed": true
     },
     {
+      "check": "no_licensed_identifiers_covered-issuer-pooled-events.csv",
+      "passed": true
+    },
+    {
       "check": "no_licensed_identifiers_covered-issuer-support.csv",
       "passed": true
     },
@@ -483,6 +491,10 @@
     },
     {
       "check": "no_licensed_identifiers_jibs-mechanism-models-all.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_identifiers_new-issuer-filing-facts.csv",
       "passed": true
     },
     {

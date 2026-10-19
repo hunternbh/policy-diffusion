@@ -1,0 +1,11 @@
+{
+  "prepared_before_new_coefficients": true,
+  "hashes": {
+    "C:\\Users\\hia_n\\Desktop\\policy-diffusion\\17-issuer-regulation-expansion\\2026-10-19\\data\\covered-issuer-study-membership-local.parquet": "799813c32c7dcce7f65663efd8427ade5789a85add8a14d12d1c0d62ce215e0d",
+    "C:\\Users\\hia_n\\Desktop\\policy-diffusion\\18-additional-source-supported-families\\2026-10-19\\data\\new-treated-source-membership-local.parquet": "caee8f42f93caa58294ae68465e59dd92726ca4cc365350eb14488ed06ec5b7a",
+    "C:\\Users\\hia_n\\Desktop\\policy-diffusion\\18-additional-source-supported-families\\2026-10-19\\data\\new-study-comparison-candidates-local.parquet": "f98758220d922ec1997e9eba8a3c72279db3d80835e266f5110526843373d53d",
+    "C:\\Users\\hia_n\\Desktop\\policy-diffusion\\18-additional-source-supported-families\\2026-10-19\\data\\all-data-EU-report-catalogue-local.parquet": "2309419b1f11d81de3eb13aa717b35e46699e09cfedb5ee4722f35b22d53f57f"
+  },
+  "legal_country_calendar_changed": false,
+  "why_diffusion_input_unchanged": "New issuer compliance/publication evidence changes covered studies, not national legal choices. Complete mechanism matrix refitted without using post-policy effects as prior learning."
+}

@@ -1,14 +1,14 @@
 {
   "title": "Global Reporting Regulation, Stock Liquidity, and Policy Diffusion",
-  "abstract": "We examine stock liquidity around the implementation of 17 families of reporting regulation and study their international diffusion. The issuer outcome panel contains 1,055,142 security-years in 90 jurisdictions. Separate family-specific cohort comparisons yield a first-year log-spread estimate of -0.049 with equal family weights and +0.015 with market-capitalisation family weights. These estimates describe geographic policy exposure. A separate source-corroborated issuer analysis covers auditor reporting, digital filing, conflict minerals and banking disclosure. Across these four selected families, first-year log-spread estimates are -0.022 and +0.209 under the two weighting schemes. Longer-window support is narrower, and pretrends limit causal interpretation. The diffusion models provide no evidence that survives broad multiplicity adjustment. The findings show why legal scope, information timing and economic weights matter when combining heterogeneous reporting policies.",
+  "abstract": "We examine stock liquidity around 17 families of reporting regulation and their international diffusion. The issuer panel contains 1,055,142 security-years in 90 jurisdictions. Geographic exposure contrasts yield first-year log-spread estimates of -0.049 with equal family weights and +0.015 with market-capitalisation family weights. A separate source-corroborated analysis covers six families: auditor reporting, digital filing, conflict minerals, banking disclosure, IFRS and statutory nonfinancial reporting. Canadian bank IFRS releases and German first-cycle statutory reports extend this evidence using local archives and primary issuer sources. Across these selected studies, first-year log-spread estimates are -0.090 and +0.191 under the two weighting schemes. Longer-window support covers four source-supported families. Other outcomes, pretrends, prior voluntary disclosure and common legal waves limit a general causal liquidity interpretation. No diffusion coefficient survives broad multiplicity adjustment. The findings show why legal scope, information timing and weights matter when combining reporting policies.",
   "sections": [
     [
       "1. Introduction",
       [
         "Disclosure regulation can improve liquidity by supplying credible information to investors. Whether this channel operates depends on what is disclosed, who receives it, and which firms are required to report. A confidential tax return, a public auditor report and a crypto-asset white paper do not impose the same information shock on ordinary equity markets. We ask how liquidity changes around these rules and whether prior foreign implementation helps explain subsequent policy choices.",
         "We follow the empirical logic of Krueger et al. (2023): establish the reporting obligation, connect it to firms and information timing, examine complementary liquidity outcomes, and assess identification before drawing conclusions. Our setting extends beyond comprehensive sustainability reporting to 17 economic regulation families. We then use the competition, learning, emulation and coercion framework in Koning, Mertens and Roosenboom (2018) to examine diffusion.",
-        "The analysis distinguishes two populations. The broad panel assigns geographic exposure to individual vendor-issuer outcomes on country-family calendars. The narrower studies require source evidence about covered issuers or actual reports. This distinction permits a broad comparison without implying that every company in a country is legally covered. Banking phases enter each aggregate once.",
-        "Table 2 gives equal and market-capitalisation family weights equal prominence. The first-year equal-family exposure estimates indicate lower spreads and price impact; the market-capitalisation estimates are less favourable. Source-corroborated issuer results also differ by family. These differences identify the population and policy mix to which an estimate applies. They do not establish a common causal benefit from reporting regulation."
+        "The analysis distinguishes two populations. The broad panel assigns geographic exposure to individual vendor-issuer outcomes on country-family calendars. Source-corroborated studies instead require specific legal, filing or report evidence. Their six families include IFRS transition reporting and first statutory nonfinancial statements. This permits a broad comparison without implying that every company in a country is legally covered. Banking phases enter each aggregate once.",
+        "Table 2 gives equal and market-capitalisation family weights equal prominence. First-year equal-family spreads decline in both populations, while market-capitalisation estimates are less favourable. Complementary outcomes and pre-policy differences constrain interpretation. Table 3 identifies each source-supported study, including small treated groups. The estimates apply to these policy mixes and selected issuer populations; they do not establish a common causal reporting benefit."
       ]
     ],
     [
@@ -16,21 +16,21 @@
       [
         "Public reporting can reduce adverse selection when it supplies incremental information. Enforcement, prior disclosure and compliance costs can moderate the effect. Comprehensive mandatory E/S/G requires a response on environmental, social and governance topics; the final topic determines the joint date. Comply-or-explain requires a response, while CSR spending and climate-only rules do not establish all-topic disclosure. The inherited review retains 37 qualifying country phases from 41 reviews; earliest separate topic histories remain incomplete. In the reference study, voluntary earnings guidance is an information-environment proxy, rather than a voluntary ESG treatment.",
         "Eligibility is rule specific (Table 1). Confidential CbCR goes to tax authorities; its actual return date is not a public disclosure date. Public bank CbCR attaches to credit institutions and consolidation perimeters, with partial and full phases. Listed holding companies are not automatically the regulated reporter. Beneficial-ownership rules can exempt securities-reporting issuers, while MiCA concerns crypto assets and services. Country calendars therefore cannot certify ordinary-equity coverage.",
-        "The 2000-2025 market panel contains 99,100 vendor quote/company identifiers and 1,055,142 security-years. Outcomes are the log median relative quoted spread, log median Amihud price impact and the fraction of valid observed returns equal to zero. Each outcome requires 120 valid observations; logged proxies use annual 1/99 winsorisation. The calendar-year and observed-return denominator differ from the reference paper. A vendor company code is not a complete historical legal-entity register.",
-        "For each family, cohort and endpoint, we subtract the weighted change from year g-1 among known later implementers from the change among implementers in g. We select one company home quote by pre-event market capitalisation and require fixed issuer, country and outcome coverage. Geographic studies require at least 30 issuers per country and three comparison markets. First-year contrasts use g-1 and g; balanced contrasts fix support from g-3 to g+2 and average years 0-2. Unknown histories are never classified as never-treated.",
-        "GDP in g-1 is allocated across sampled issuers within countries. In covered studies, the denominator is the fixed source-study country universe, so each cohort does not receive a fresh country GDP mass. Cohort weights equal treated economic mass. Across families, equal weights assign 1/F; market-cap weights use summed pre-event treated issuer capitalisation. Equal-issuer and issuer-cap within-family alternatives are disclosed. Repeated policy exposures are not a unique-issuer investment portfolio.",
+        "The 2000-2025 market panel contains 99,100 vendor quote/company identifiers and 1,055,142 security-years. Outcomes are log median relative quoted spread, log median Amihud price impact and the fraction of valid observed returns equal to zero. Each requires 120 valid observations; logged proxies use annual 1/99 winsorisation. The calendar-year and observed-return denominator differ from the reference paper. A vendor code is not a complete historical legal-entity register. Source archives link period-specific reports to named issuers and historical share identifiers.",
+        "For each family, cohort and endpoint, we subtract the weighted change from year g -1 among known later implementers from the change among implementers in g. We select one company home quote by pre-event market capitalisation and require fixed issuer, country and outcome coverage. Geographic studies require at least 30 issuers per country and three comparison markets. First-year contrasts use g -1 and g; balanced contrasts fix support from g -3 to g +2 and average years 0-2. Unknown histories are never classified as never-treated.",
+        "GDP in g -1 is allocated across sampled issuers within countries. In covered studies, the denominator is the fixed source-study country universe, so each cohort does not receive a fresh country GDP mass. Cohort weights equal treated economic mass. Across families, equal weights assign 1/F; market-cap weights use summed pre-event treated issuer capitalisation. Equal-issuer and issuer-cap within-family alternatives are disclosed. Repeated policy exposures are not a unique-issuer investment portfolio. For IFRS, comparison firms are US domestic bank parents with contemporaneous auditor US GAAP language. For German statutory reports, comparison parents must be US incorporated; separately covered German subsidiaries remain possible. Source candidates are ranked by pre-event capitalisation before new liquidity coefficients are inspected.",
         "Country influence functions preserve covariance across geographic families; 1,999 shared multiplier draws yield conditional intervals, lead diagnostics and Holm adjustment across 12 principal coefficients. Collective legal waves, concurrent reforms and spillovers still limit policy inference. Covered-study intervals describe issuer sampling only. Few common regulatory waves do not support causal policy p-values. Their minimum of three treated and twenty comparison issuers permits sparse case studies, not a representative global census."
       ]
     ],
     [
       "3. Liquidity results",
       [
-        "Table 2 Panel A reports issuer outcomes under geographic exposure. The first-year contrast supports 15 families. Equal-family log spread is -0.049, approximately a 4.8% decline, log price impact is -0.072, and the zero-return fraction falls by 0.00764, or 0.764 percentage points. With market-cap family weights, the corresponding estimates are +0.015, +0.009 and -0.00249. Their conditional intervals include zero. Confidential tax CbCR receives 33.1% of market-cap exposure weight; that audience is tax authorities rather than public investors.",
-        "The balanced comparison supports nine families. Equal-family log spread is -0.032 and log price impact is -0.013; market-cap values are +0.040 and +0.095. The family set changes with the horizon, so these contrasts are not a dynamic continuation of the 15-family estimate. Figure 1 reports every attempted family. Figure 2 shows balanced profiles; joint lead diagnostics reject for spreads under both schemes. The complete estimates include timing-shift and independent-choice sensitivities.",
-        "Table 3 extends covered-issuer evidence beyond banking. US CAM eligibility uses reported filer class, EGC status, fiscal end and the PCAOB phase; SEC acceptance dates determine filing years. First supported required-report cohorts contain 114, 1,025 and 625 issuers in 2019-2021 before complete-outcome screens. The estimated first-year sample contains 1,481 treated issuer-cohort observations and 2,767 comparison issuer-cohort observations. Comparisons require known nonrequirement in every post year, not an absent checkbox. CAM log spread is +0.236 and price impact is +0.207.",
-        "The early US XBRL study uses explicit mandatory-compliance cover checks and filer class, rather than unchecked boxes. Six treated issuers and 62 later-phase comparisons have complete first-year outcomes; log spread is -0.329. The comparisons are valid only through 2009 and cannot support years 0-2. Apple, Intel and Cisco supply three first-cycle conflict-minerals reporters. Their first-year log spread is -0.085, but price impact and zero returns rise. The REIT comparison screen does not certify absence of all incidental manufacturing activity.",
-        "The observed banking publication study has three matched full-report publishers and 21 first-year comparisons; log spread is +0.089. Actual dates are 20 March 2015 for Deutsche Bank, 27 March for Aareal and 30 June for HSBC. HSBC is a listed parent reporter. Publication does not necessarily mark the first-ever voluntary disclosure. A separate statutory initial-bank sensitivity retains the larger institution sample; the two banking phases never enter the same aggregate.",
-        "Panel B of Table 2 combines the four supported observed-report/phase studies. Equal-family first-year log spread is -0.022; market-cap log spread is +0.209, dominated by the CAM sample. Price impact and zero-return fractions increase under both schemes. Balanced support contains only banking and conflict minerals. These sparse, source-selected populations and different industry exposures prevent generalisation to all 17 legally covered issuer populations."
+        "Table 2 Panel A reports issuer outcomes under geographic exposure. Fifteen families support the first year. Equal-family log spread is -0.049 and price impact is -0.072; the zero-return fraction falls by 0.00764. Market-cap family estimates are +0.015, +0.009 and -0.00249, with conditional intervals including zero. Confidential tax CbCR receives 33.1% of this exposure weight, although the report audience is tax authorities.",
+        "The balanced geographic comparison supports nine families. Equal-family spread is -0.032 and price impact is -0.013; market-cap values are +0.040 and +0.095. Joint lead diagnostics reject for spreads under both schemes. Different horizons change support and cannot be interpreted as one dynamic path. Timing shifts, independent-choice sensitivities and complete event profiles remain available.",
+        "Table 3 retains auditor reporting, early XBRL, conflict minerals and observed bank publication studies. CAM first-year spread is +0.236, with 1,481 treated and 2,767 comparison issuer-cohort observations. XBRL supports six treated issuers and 62 later-phase comparisons valid through 2009 only. Conflict minerals and observed full bank reporting each have three source-selected treated issuers; their comparator and consolidation limits remain explicit.",
+        "The IFRS study follows Royal Bank of Canada, Toronto-Dominion, Bank of Montreal and Bank of Nova Scotia. Their first required IFRS interim statements cover the quarter ended 31 January 2012 and are public on 28 February,1 March or 6 March 2012. Earlier 2012 restatement releases are recorded separately. Forty-two US banks have first-year outcome support and contemporaneous domestic-parent/US GAAP evidence. The GDP-weighted spread contrast is -0.235, but price impact rises by 0.132. Balanced support contains four treated banks and 39 comparisons. Canadian-US banking differences and anticipation limit identification.",
+        "The statutory nonfinancial study follows BASF, Bayer and BMW. Original 2017 reports recovered from the all-data EU archive explicitly identify German HGB nonfinancial obligations. Bayer and BMW describe a first statutory 2017 cycle; prior voluntary reports are observed. Public report year 2018 is corroborated. BASF and Bayer report/results bundle dates are 27 and 28 February 2018; BMW retains year precision because a scheduled March date does not by itself establish actual publication. Three treated issuers and 35 US parent comparisons support first-year spread -0.217, price impact -0.235 and zero returns -0.01242. Balanced support retains 31 comparisons. Monsanto/Covestro changes at Bayer, industry composition, European reforms and subsidiary spillovers are material competing explanations.",
+        "Panel B combines these six source-supported families, counting banking once. First-year equal-family spread is -0.090 and market-cap spread is +0.191. Price-impact estimates are +0.002 and +0.190; zero-return fractions rise under both schemes. Figure 1 shows every supported family. The four-family balanced subset yields spreads of -0.073 and -0.081, while price impact rises. Figure 2 shows material pre-policy differences in spreads and price impact. Sparse selected issuers, common legal waves and changing family support preclude an all 17-family covered-issuer causal interpretation."
       ]
     ],
     [
@@ -99,7 +99,7 @@
         [
           "Comprehensive mandatory E/S/G",
           "Yes / Yes",
-          "37 country phases; issuer gaps"
+          "3 German statutory report publishers"
         ],
         [
           "Extractive payments",
@@ -114,7 +114,7 @@
         [
           "IFRS reporting",
           "Yes / No",
-          "Prior GAAP and report gaps"
+          "4 dated Canadian first IFRS reporters"
         ],
         [
           "Supply-chain reporting",
@@ -137,7 +137,7 @@
           "US early phase; first exhibit unknown"
         ]
       ],
-      "note": "Coverage through 2025 only; future schedules are excluded. Geographic support is outcome support, not verified legal eligibility. Covered issuer studies support four families in the first year and two in the balanced observed-report subset. Country and issuer thresholds, exemptions, reporting periods and actual publication dates remain separate. Full legal scopes and event-level gap overlays are online."
+      "note": "Coverage through 2025 only; future schedules are excluded. Geographic support is outcome support, not verified legal eligibility. Covered issuer studies support six families in the first year and four in the balanced observed-report subset. Country and issuer thresholds, exemptions, reporting periods and actual publication dates remain separate. Full legal scopes and event-level gap overlays are online."
     },
     {
       "title": "Table 2. Both cross-family weighting schemes",
@@ -178,34 +178,34 @@
           "+0.0067\n[-0.0073, +0.0206]"
         ],
         [
-          "B. Source-corroborated subset\nFirst year (4 families): Log spread",
-          "-0.022\n[-0.098, +0.053]",
-          "+0.209\n[+0.170, +0.248]"
+          "B. Source-corroborated subset\nFirst year (6 families): Log spread",
+          "-0.090\n[-0.143, -0.038]",
+          "+0.191\n[+0.153, +0.228]"
         ],
         [
-          "B. Source-corroborated subset\nFirst year (4 families): Log price impact",
-          "+0.029\n[-0.130, +0.188]",
-          "+0.201\n[+0.135, +0.267]"
+          "B. Source-corroborated subset\nFirst year (6 families): Log price impact",
+          "+0.002\n[-0.110, +0.114]",
+          "+0.190\n[+0.127, +0.254]"
         ],
         [
-          "B. Source-corroborated subset\nFirst year (4 families): Zero-return fraction",
-          "+0.0071\n[+0.0018, +0.0125]",
-          "+0.0065\n[+0.0042, +0.0088]"
+          "B. Source-corroborated subset\nFirst year (6 families): Zero-return fraction",
+          "+0.0011\n[-0.0042, +0.0063]",
+          "+0.0058\n[+0.0036, +0.0080]"
         ],
         [
-          "B. Source-corroborated subset\nYears 0-2 (2 families): Log spread",
-          "+0.023\n[-0.126, +0.173]",
-          "-0.034\n[-0.143, +0.074]"
+          "B. Source-corroborated subset\nYears 0-2 (4 families): Log spread",
+          "-0.073\n[-0.157, +0.012]",
+          "-0.081\n[-0.156, -0.007]"
         ],
         [
-          "B. Source-corroborated subset\nYears 0-2 (2 families): Log price impact",
-          "+0.293\n[+0.058, +0.528]",
-          "+0.339\n[+0.185, +0.493]"
+          "B. Source-corroborated subset\nYears 0-2 (4 families): Log price impact",
+          "+0.179\n[+0.051, +0.308]",
+          "+0.242\n[+0.134, +0.350]"
         ],
         [
-          "B. Source-corroborated subset\nYears 0-2 (2 families): Zero-return fraction",
-          "+0.0112\n[+0.0032, +0.0192]",
-          "+0.0083\n[+0.0029, +0.0137]"
+          "B. Source-corroborated subset\nYears 0-2 (4 families): Zero-return fraction",
+          "+0.0005\n[-0.0065, +0.0074]",
+          "+0.0017\n[-0.0036, +0.0071]"
         ]
       ],
       "note": "GDP weights within families. Panel A intervals condition on country sampling and the observed policy calendar; Panel B intervals describe issuer sampling only and are not causal policy confidence intervals. Zero returns are fractions. Samples are fixed within each horizon; family composition differs across horizons and populations. Equal-issuer/cap within-family alternatives and full diagnostics are online. No unsupported family is assigned a zero estimate."
@@ -249,6 +249,20 @@
           "+0.0155"
         ],
         [
+          "Canadian first IFRS reports (2012)",
+          "4 / 42",
+          "-0.235",
+          "+0.132",
+          "-0.0096"
+        ],
+        [
+          "German statutory E/S/G (2018)",
+          "3 / 35",
+          "-0.217",
+          "-0.235",
+          "-0.0124"
+        ],
+        [
           "Alternative: bank initial phase (2014)",
           "23 / 21",
           "+0.035",
@@ -256,41 +270,58 @@
           "+0.0006"
         ]
       ],
-      "note": "Counts are issuer-cohort observations; comparison issuers can recur across CAM cohorts. GDP is allocated over the fixed study country universe. The observed-report aggregate uses the first four rows. The last row replaces banking full reports in a separate sensitivity. Sparse, selected treated groups, industry differences, common waves and subsidiary spillovers limit interpretation; REIT comparisons are industry screened rather than legally certified noncovered. Full estimates include balanced and alternative within-family weights."
+      "note": "Counts are issuer-cohort observations; comparison issuers can recur across CAM cohorts. GDP is allocated over the fixed study country universe. The observed-report aggregate uses the first six rows. The last row replaces banking full reports in a separate sensitivity. Sparse, selected treated groups, industry differences, common waves and subsidiary spillovers limit interpretation; REIT comparisons are industry screened rather than legally certified noncovered. IFRS controls require current domestic-parent/US-GAAP evidence; German E/S/G controls can have covered subsidiaries. Full estimates retain balanced and alternative weights."
     }
   ],
   "figures": [
     {
       "name": "issuer-family-spread",
-      "title": "Figure 1. Individual issuer outcomes across regulation exposures",
-      "note": "First-year geographic exposure contrasts. All 17 attempted families appear; 15 have common outcome support. Bounds condition on country sampling and are not a certificate of eligible-issuer coverage. Right-hand weights use sampled treated capitalisation in the pre-event year."
+      "title": "Figure 1. Six source-supported regulation families",
+      "note": "First-year GDP-weighted issuer comparisons. Bars describe conditional issuer sampling, not causal policy confidence intervals. Every supported family appears; banking enters once. Right panel shows pre-event market-cap family weights. Zero-return outcomes are fractions. Small treated groups and different industry/country exposures remain material."
     },
     {
       "name": "issuer-balanced-profiles",
-      "title": "Figure 2. Balanced issuer exposure profiles under both weighting schemes",
-      "note": "Nine common-support families, fixed issuers and cohorts from g-3 to g+2. Year -1 is the zero reference. Shading gives simultaneous country-sampling bands. Joint lead diagnostics reject for log spreads under both schemes; profiles do not establish parallel trends or causal policy effects."
+      "title": "Figure 2. Four-family source-supported balanced profiles",
+      "note": "Fixed g-3 through g+2 support: observed bank reports, conflict minerals, Canadian IFRS and German statutory nonfinancial reports. Year -1 is zero. Shading describes pointwise issuer sampling, with shared-issuer covariance retained across families. These sparse collective policy waves do not support causal policy inference. The broad geographic panel has separate adverse lead diagnostics."
     }
   ],
   "references": [
-    "Krueger, P., Z. Sautner, D. Y. Tang and R. Zhong. 2023. The Effects of Mandatory ESG Disclosure Around the World. Supplied January/February 2023 working paper; published in Journal of Accounting Research (2024), doi:10.1111/1475-679X.12548.",
+    "Krueger, P., Z. Sautner, D. Y. Tang and R. Zhong. 2023. The Effects of Mandatory ESG Disclosure Around the World. Supplied 2023 working paper; Journal of Accounting Research (2024), doi:10.1111/1475-679X.12548.",
     "Koning, M., G. Mertens and P. Roosenboom. 2018. Drivers of institutional change around the world: The case of IFRS. Journal of International Business Studies. Supplied local article.",
-    "PCAOB. AS3101 and auditor-reporting implementation resources: pcaobus.org/oversight/standards/auditing-standards/details/AS3101.",
-    "SEC. Interactive Data Compliance and Disclosure Interpretations, Q105.04; Release 33-9002. sec.gov/files/divisions/corpfin/guidance/interactivedatainterp.htm.",
-    "SEC. Conflict Minerals, Release 34-67716 (2012). Federal Register official copy: public-inspection.federalregister.gov/2012-21153.pdf. Apple, Intel and Cisco first-cycle Form SD sources and date precision appear in the online evidence register.",
-    "IRS. T.D. 9773, Internal Revenue Bulletin 2016-29. irs.gov/irb/2016-29_IRB. Bank report sources, Irish statutory accounts, legal scope sources and all attempted downloads are recorded in the online source register."
+    "BASF, Bayer and BMW. 2017 statutory/annual reports, public in 2018. BASF: report.basf.com/2017/en/. Bayer: bayer.com/en/investors/fyq4-2017-conference-call. BMW: 2017 Sustainable Value Report, p 2 and assurance report; original archived PDF and primary release sources in companion source register.",
+    "Royal Bank of Canada, Toronto-Dominion, Bank of Montreal and Bank of Nova Scotia. First-quarter 2012 issuer releases and preceding restatement disclosures. RBC: rbc.com/investor-relations/_assets-custom/pdf/q112release.pdf. Other exact URLs and hashes appear in the source register.",
+    "Bank of Canada and OSFI. Chartered-bank transition notes and IFRS reporting instructions: bankofcanada.ca/rates/banking-and-financial-statistics/notes-for-tables-chartered-banks/. Historical 2011/2012 fiscal boundaries are kept separate from first actual public statements.",
+    "PCAOB AS3101; SEC Interactive Data CDI Q105.04 and Release 33-9002; SEC Conflict Minerals Release 34-67716; IRS T.D. 9773. Legal texts, original documents, failed downloads, and inherited bank/date audits are retained in the companion evidence register."
   ],
   "source_review": {
-    "requests_dispositioned": 25,
-    "saved_responses": 15,
-    "substantive_documents_saved": 12,
-    "archive_locators_saved": 2,
-    "off_target_sitemaps": 1,
-    "download_failures_retained": 10,
-    "CAM_full_submission_reviews": 30,
-    "XBRL_cover_reviews": 1385,
-    "manufacturing_annual_filings_reviewed": 27,
-    "global_legal_review_complete": false,
-    "OCR": "Existing inherited OCR archive preserved. Newly selected readable PDFs/HTML do not require OCR. HTTP blocks cannot be solved by OCR."
+    "source_files_inventoried": 15477,
+    "archive_entries_indexed": 19236,
+    "PDF_entries_indexed": 12326,
+    "EU_catalogue_rows": 6576,
+    "EU_unique_catalogue_reports": 6133,
+    "selected_local_original_PDFs": 10,
+    "primary_URL_requests": 19,
+    "primary_responses_saved": 14,
+    "primary_download_failures": 5,
+    "US_control_filings_inspected": 402,
+    "US_control_full_submissions_hashed": 173,
+    "control_source_support": {
+      "ESG_German_first_statutory_reports": {
+        "selected": 80,
+        "all_three_source_years_verified": 70
+      },
+      "IFRS_Canadian_first_statements": {
+        "selected": 60,
+        "all_three_source_years_verified": 51
+      }
+    },
+    "new_treated_issuers": 7,
+    "new_families": 2,
+    "actual_day_dates": 6,
+    "year_only_dates": 1,
+    "no_AI_assurance_spreadsheet_used_for_legal_classification": true,
+    "global_issuer_eligibility_complete": false,
+    "OCR": "Targeted originals have readable text; inherited OCR archive retained. No OCR substitution for failed HTTP requests."
   },
   "scope_boundary": "Not an all17-family verified covered-issuer ATT. All attempted and unsupported results retained."
 }

@@ -1,0 +1,13 @@
+{
+  "reviewed_at": "2026-10-19T05:22:43.138609+00:00",
+  "source_supported_new_treated_issuers": 7,
+  "families": 2,
+  "German_statutory_nonfinancial_issuers": 3,
+  "Canadian_first_IFRS_issuers": 4,
+  "new_actual_day_dates": 6,
+  "new_year_precision_only": 1,
+  "selection": "Predetermined source availability and legal verification; no new liquidity coefficients inspected.",
+  "nonincluded_Canadian_candidates": "National Bank and CIBC first-report identity/date review not complete in this selected extension; not inferred noncovered.",
+  "German_prior_voluntary_disclosure": true,
+  "public_report_day_not_first_ever_information": true
+}

@@ -120,14 +120,14 @@
     "family": "ESG_MANDATORY_REVIEWED",
     "label": "Comprehensive mandatory E/S/G",
     "eligibility_rule": "Mandatory response on all E, S and G topics, including comply-or-explain; phase and issuer scope required.",
-    "filing_date_and_remaining_gap": "37 qualifying country phases from 41 inherited reviews. Two Irish-crosslisted eligibility examples corroborated; actual publication dates remain unknown. JCI promise is not verified publication.",
-    "disposition": "country_dates_reviewed_issuer_threshold_gaps",
+    "filing_date_and_remaining_gap": "BASF, Bayer and BMW explicitly report under German HGB 2017 first statutory cycle; public report year 2018. BASF/Bayer report-results bundle dates corroborated; BMW actual day withheld. Prior voluntary reports observed. Irish cases and global historical thresholds remain incomplete.",
+    "disposition": "three_German_first_statutory_nonfinancial_publishers_supported",
     "issuer_specific_eligibility_complete": false,
     "all_first_ever_histories_complete": false,
     "first_year_geographic_issuer_estimated": true,
-    "first_year_covered_issuer_estimated": false,
+    "first_year_covered_issuer_estimated": true,
     "balanced_geographic_issuer_estimated": true,
-    "balanced_covered_issuer_estimated": false
+    "balanced_covered_issuer_estimated": true
   },
   {
     "family": "EXTRACTIVE_PAYMENTS",
@@ -159,14 +159,14 @@
     "family": "IFRS",
     "label": "IFRS reporting",
     "eligibility_rule": "Regulated-market consolidated accounts, sector elections, US-GAAP exemptions and domestic options.",
-    "filing_date_and_remaining_gap": "Need pre-adoption accounting basis, market segment, consolidation and actual first IFRS report. Firm headquarters or current name alone is insufficient.",
-    "disposition": "accounting_basis_and_first_report_gaps",
+    "filing_date_and_remaining_gap": "Four Canadian banks: first required IFRS interim reports public in 2012, all four actual release days verified. US bank comparisons require contemporaneous US incorporation and auditor US-GAAP phrases. Other countries, accounting exemptions and first-report histories remain incomplete.",
+    "disposition": "four_Canadian_first_IFRS_statement_publishers_supported",
     "issuer_specific_eligibility_complete": false,
     "all_first_ever_histories_complete": false,
     "first_year_geographic_issuer_estimated": true,
-    "first_year_covered_issuer_estimated": false,
+    "first_year_covered_issuer_estimated": true,
     "balanced_geographic_issuer_estimated": false,
-    "balanced_covered_issuer_estimated": false
+    "balanced_covered_issuer_estimated": true
   },
   {
     "family": "SUPPLY_CHAIN",
