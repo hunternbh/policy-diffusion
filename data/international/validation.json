@@ -1,0 +1,354 @@
+{
+  "passed": 85,
+  "checks": [
+    {
+      "check": "global_estimator_rerun_reproduces_prior_independent_panel",
+      "passed": true
+    },
+    {
+      "check": "raw_global_GDP_reconstruction_IFRS_log_spread",
+      "passed": true
+    },
+    {
+      "check": "raw_global_GDP_reconstruction_IFRS_log_impact",
+      "passed": true
+    },
+    {
+      "check": "raw_global_GDP_reconstruction_IFRS_zero_fraction",
+      "passed": true
+    },
+    {
+      "check": "raw_global_GDP_reconstruction_ESG_MANDATORY_REVIEWED_log_spread",
+      "passed": true
+    },
+    {
+      "check": "raw_global_GDP_reconstruction_ESG_MANDATORY_REVIEWED_log_impact",
+      "passed": true
+    },
+    {
+      "check": "raw_global_GDP_reconstruction_ESG_MANDATORY_REVIEWED_zero_fraction",
+      "passed": true
+    },
+    {
+      "check": "raw_global_GDP_reconstruction_AUDIT_REPORTING_log_spread",
+      "passed": true
+    },
+    {
+      "check": "raw_global_GDP_reconstruction_AUDIT_REPORTING_log_impact",
+      "passed": true
+    },
+    {
+      "check": "raw_global_GDP_reconstruction_AUDIT_REPORTING_zero_fraction",
+      "passed": true
+    },
+    {
+      "check": "raw_global_market_cap_weights_inclusive_first_year",
+      "passed": true
+    },
+    {
+      "check": "raw_global_market_cap_weights_balanced_mean_0_2",
+      "passed": true
+    },
+    {
+      "check": "weighted_reconstruction_inclusive_first_year_equal_family_log_spread",
+      "passed": true
+    },
+    {
+      "check": "weighted_reconstruction_inclusive_first_year_equal_family_log_impact",
+      "passed": true
+    },
+    {
+      "check": "weighted_reconstruction_inclusive_first_year_equal_family_zero_fraction",
+      "passed": true
+    },
+    {
+      "check": "weighted_reconstruction_inclusive_first_year_baseline_market_cap_family_log_spread",
+      "passed": true
+    },
+    {
+      "check": "weighted_reconstruction_inclusive_first_year_baseline_market_cap_family_log_impact",
+      "passed": true
+    },
+    {
+      "check": "weighted_reconstruction_inclusive_first_year_baseline_market_cap_family_zero_fraction",
+      "passed": true
+    },
+    {
+      "check": "weighted_reconstruction_balanced_mean_0_2_equal_family_log_spread",
+      "passed": true
+    },
+    {
+      "check": "weighted_reconstruction_balanced_mean_0_2_equal_family_log_impact",
+      "passed": true
+    },
+    {
+      "check": "weighted_reconstruction_balanced_mean_0_2_equal_family_zero_fraction",
+      "passed": true
+    },
+    {
+      "check": "weighted_reconstruction_balanced_mean_0_2_baseline_market_cap_family_log_spread",
+      "passed": true
+    },
+    {
+      "check": "weighted_reconstruction_balanced_mean_0_2_baseline_market_cap_family_log_impact",
+      "passed": true
+    },
+    {
+      "check": "weighted_reconstruction_balanced_mean_0_2_baseline_market_cap_family_zero_fraction",
+      "passed": true
+    },
+    {
+      "check": "15_first_year_9_longer_families",
+      "passed": true
+    },
+    {
+      "check": "17_attempted_families_all_retained",
+      "passed": true
+    },
+    {
+      "check": "international_nonfinancial_23_IFRS_21_countries",
+      "passed": true
+    },
+    {
+      "check": "no_future_implementation_in_main_table",
+      "passed": true
+    },
+    {
+      "check": "actual_treated_country_counts",
+      "passed": true
+    },
+    {
+      "check": "diffusion_refit_reproduces_complete_matrix",
+      "passed": true
+    },
+    {
+      "check": "global_paper_population",
+      "passed": true
+    },
+    {
+      "check": "unique_HTML_ids",
+      "passed": true
+    },
+    {
+      "check": "local_anchor_appendix",
+      "passed": true
+    },
+    {
+      "check": "local_anchor_diffusion",
+      "passed": true
+    },
+    {
+      "check": "local_anchor_families",
+      "passed": true
+    },
+    {
+      "check": "local_anchor_main",
+      "passed": true
+    },
+    {
+      "check": "local_anchor_overview",
+      "passed": true
+    },
+    {
+      "check": "local_anchor_sample",
+      "passed": true
+    },
+    {
+      "check": "local_anchor_top",
+      "passed": true
+    },
+    {
+      "check": "local_file_assets/favicon.svg",
+      "passed": true
+    },
+    {
+      "check": "local_file_assets/international-event-profiles.png",
+      "passed": true
+    },
+    {
+      "check": "local_file_assets/international-family-effects.png",
+      "passed": true
+    },
+    {
+      "check": "local_file_assets/international.css",
+      "passed": true
+    },
+    {
+      "check": "local_file_data/international/issuer-exposure-family-did.csv",
+      "passed": true
+    },
+    {
+      "check": "local_file_data/international/issuer-exposure-family-weights.csv",
+      "passed": true
+    },
+    {
+      "check": "local_file_data/international/issuer-exposure-pooled-did.csv",
+      "passed": true
+    },
+    {
+      "check": "local_file_data/international/issuer-exposure-pooled-events.csv",
+      "passed": true
+    },
+    {
+      "check": "local_file_data/international/issuer-exposure-support.csv",
+      "passed": true
+    },
+    {
+      "check": "local_file_data/international/jibs-mechanism-models-all.csv",
+      "passed": true
+    },
+    {
+      "check": "local_file_data/international/policy-calendar.csv",
+      "passed": true
+    },
+    {
+      "check": "local_file_data/issuers/all-family-eligibility-and-filing-dispositions.json",
+      "passed": true
+    },
+    {
+      "check": "local_file_data/issuers/source-review-register.json",
+      "passed": true
+    },
+    {
+      "check": "local_file_downloads/international-policy-results.zip",
+      "passed": true
+    },
+    {
+      "check": "local_file_downloads/issuer-regulation-findings.zip",
+      "passed": true
+    },
+    {
+      "check": "local_file_downloads/manuscript.txt",
+      "passed": true
+    },
+    {
+      "check": "local_file_downloads/paper.pdf",
+      "passed": true
+    },
+    {
+      "check": "local_file_downloads/regulation-json-register.zip",
+      "passed": true
+    },
+    {
+      "check": "local_file_downloads/selected-issuer-case-studies.pdf",
+      "passed": true
+    },
+    {
+      "check": "sample_first",
+      "passed": true
+    },
+    {
+      "check": "HTML_paper_exact_table_family-coverage",
+      "passed": true
+    },
+    {
+      "check": "HTML_paper_exact_table_main-results",
+      "passed": true
+    },
+    {
+      "check": "HTML_paper_exact_table_diffusion-results",
+      "passed": true
+    },
+    {
+      "check": "no_old_issuer_numbers_in_headline",
+      "passed": true
+    },
+    {
+      "check": "case_studies_only_in_appendix",
+      "passed": true
+    },
+    {
+      "check": "caption_free_main_reading",
+      "passed": true
+    },
+    {
+      "check": "details_summary_first",
+      "passed": true
+    },
+    {
+      "check": "source_reviews_remain_linked",
+      "passed": true
+    },
+    {
+      "check": "accessible_static_page",
+      "passed": true
+    },
+    {
+      "check": "all_current_PDF_copies_match",
+      "passed": true
+    },
+    {
+      "check": "five_page_paper",
+      "passed": true
+    },
+    {
+      "check": "all_tables_and_figures_in_PDF",
+      "passed": true
+    },
+    {
+      "check": "no_PDF_replacement_glyphs",
+      "passed": true
+    },
+    {
+      "check": "prior_selected_case_PDF_archived",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_identifiers_international-diffusion-primary.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_identifiers_international-family-coverage.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_identifiers_issuer-exposure-family-did.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_identifiers_issuer-exposure-family-events.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_identifiers_issuer-exposure-family-weights.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_identifiers_issuer-exposure-group-time-cells.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_identifiers_issuer-exposure-pooled-did.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_identifiers_issuer-exposure-pooled-events.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_identifiers_issuer-exposure-principal-estimates.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_identifiers_issuer-exposure-support.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_identifiers_jibs-mechanism-models-all.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_identifiers_policy-calendar.csv",
+      "passed": true
+    }
+  ],
+  "global_liquidity_rerun": true,
+  "global_diffusion_rerun": true,
+  "raw_reconstruction_families": [
+    "IFRS",
+    "ESG_MANDATORY_REVIEWED",
+    "AUDIT_REPORTING"
+  ],
+  "scope": "International policy exposure, not complete issuer legal eligibility.",
+  "visual_QA": "Five PDF pages rendered and inspected; final browser proof recorded separately."
+}

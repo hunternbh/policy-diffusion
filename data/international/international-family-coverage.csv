@@ -1,0 +1,18 @@
+family,label,first_year_supported,treated_jurisdictions,treated_company_cohorts,first_supported_year,last_supported_year,market_cap_weight,longer_window_supported
+AUDIT_OVERSIGHT,Audit institutions / rotation,True,4,3399,2004.0,2007.0,0.025966658253018,True
+AUDIT_REPORTING,Auditor reporting,True,19,5364,2012.0,2016.0,0.0993512778296423,True
+BENEFICIAL_OWNERSHIP,Beneficial ownership,True,11,6507,2016.0,2020.0,0.1025368909222306,True
+CBCR_BANK_PUBLIC,Public bank country reports,True,15,3288,2014.0,2014.0,0.0648361043467116,True
+CBCR_CONFIDENTIAL,Confidential tax country reports,True,42,21796,2016.0,2020.0,0.3315615812163264,True
+CBCR_PUBLIC,Public multinational country reports,True,1,32,2023.0,2023.0,0.0001605585551179,False
+CLIMATE_DISCLOSURE,Climate / emissions disclosure,True,2,711,2013.0,2023.0,0.0196111618426935,True
+CLIMATE_SECTORAL,Sectoral climate rules,False,0,0,,,0.0,False
+DIGITAL_ASSET,Digital-asset regulation,True,2,762,2018.0,2020.0,0.00537915058494,True
+ESG_MANDATORY_REVIEWED,Nonfinancial reporting,True,23,8265,2002.0,2019.0,0.1069584895771284,True
+EXTRACTIVE_PAYMENTS,Payments to governments,True,5,2767,2014.0,2015.0,0.0635102279172223,False
+GOVERNANCE,Corporate governance,True,6,2385,2001.0,2004.0,0.0124643310069865,False
+IFRS,IFRS financial reporting,True,21,5841,2005.0,2011.0,0.0652306300059832,False
+SUPPLY_CHAIN,Supply-chain reporting,True,5,5012,2012.0,2022.0,0.0953579811941292,True
+SUSTAINABILITY_FINANCIAL,Financial-focus sustainability,True,3,713,2024.0,2025.0,0.0051758557217925,False
+SUSTAINABILITY_INFORMED,Sustainability frameworks,False,0,0,,,0.0,False
+XBRL,Electronic financial reporting,True,1,345,2007.0,2007.0,0.001899101026077,False

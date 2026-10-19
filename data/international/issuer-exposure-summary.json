@@ -1,0 +1,12 @@
+{
+  "annual_rows_with_unambiguous_vendor_company": 1055142,
+  "vendor_issuers": 99100,
+  "ambiguous_security_year_company_maps_excluded": 0,
+  "families_attempted": 17,
+  "pooled_cells": 108,
+  "estimated_family_cells": 603,
+  "all_family_cells": 918,
+  "individual_outcome_changes_fixed_in_cohort": true,
+  "not_verified_legal_eligibility_panel": true,
+  "elapsed_seconds": 76.66708612442017
+}

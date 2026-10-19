@@ -1,7 +1,9 @@
 # Policy diffusion
 
-Public report: https://hunternbh.github.io/policy-diffusion/
+International reporting regulation, liquidity and diffusion: https://hunternbh.github.io/policy-diffusion/
 
-The coauthor brief opens with the sample and datasets, then presents liquidity and diffusion evidence with concise explanations. Market-cap estimates lead; material equal-family sensitivity is disclosed and retained with the full paper table. The PDF, source data and estimates are unchanged. Figure 2 displays the market-cap series from the paper's longer-window figure; the complete original figure remains in the appendix.
+The main paper uses the global Datastream panel and national policy implementation histories: 17 attempted families, 15 supported first-year families and nine balanced-window families. These are international policy-exposure comparisons, not a census of legally covered issuers. GDP weights are used within families; equal and pre-implementation market-cap weights are reported across families.
 
-The report covers nine source-supported first-year families and seven longer-window families. All weighting alternatives, source reviews, policy records and support failures remain in the linked downloads and `data/issuers/`. Licensed issuer-level observations remain local.
+`data/international/` contains rerun aggregate estimates, support checks, weights, policy calendar and diffusion models. `downloads/international-policy-results.zip` includes the analysis code and design. Licensed observations and company identifiers remain local.
+
+The selected German, Canadian and US company studies are supplementary, under `downloads/selected-issuer-case-studies.pdf` and `data/issuers/`. Their market-cap weights do not determine the headline international results. Original policy records and source reviews remain accessible.

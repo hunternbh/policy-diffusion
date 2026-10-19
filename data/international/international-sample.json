@@ -1,0 +1,16 @@
+{
+  "balanced_mean_0_2": {
+    "companies": 23906,
+    "jurisdictions": 48,
+    "treated_companies": 18470,
+    "treated_jurisdictions": 36,
+    "company_cohort_exposures": 32663
+  },
+  "inclusive_first_year": {
+    "companies": 41425,
+    "jurisdictions": 56,
+    "treated_companies": 30703,
+    "treated_jurisdictions": 48,
+    "company_cohort_exposures": 67187
+  }
+}
