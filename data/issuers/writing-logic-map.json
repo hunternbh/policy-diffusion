@@ -13,5 +13,18 @@
   "original_prose": true,
   "reference_positive_results_imported": false,
   "result_selection": "Core ESG/banking questions specified before follow-up fits; complete fixed matrix retained. Exploratory bank spread finding framed descriptively.",
-  "no_version_chronology": true
+  "no_version_chronology": true,
+  "extractive_and_composition_extension": {
+    "question": "How do incremental public reporting and the policy composition represented by weights affect the interpretation of liquidity contrasts?",
+    "flow": [
+      "Information problem and scope",
+      "Documented legal obligation and actual report dates",
+      "Source-eligible issuer sample and comparison boundary",
+      "Both coequal weights and complementary liquidity measures",
+      "Exact composition decomposition and every exclusion sensitivity",
+      "Identification limits and lagged diffusion mechanisms"
+    ],
+    "prose": "Original academic prose follows the reference logic; no copied passages or conclusion-selected weights.",
+    "presentation": "Eight pages; three tables; two figures; complete estimates and source gaps online."
+  }
 }

@@ -1,11 +1,78 @@
 {
-  "prepared_before_new_coefficients": true,
-  "hashes": {
-    "C:\\Users\\hia_n\\Desktop\\policy-diffusion\\17-issuer-regulation-expansion\\2026-10-19\\data\\covered-issuer-study-membership-local.parquet": "799813c32c7dcce7f65663efd8427ade5789a85add8a14d12d1c0d62ce215e0d",
-    "C:\\Users\\hia_n\\Desktop\\policy-diffusion\\18-additional-source-supported-families\\2026-10-19\\data\\new-treated-source-membership-local.parquet": "caee8f42f93caa58294ae68465e59dd92726ca4cc365350eb14488ed06ec5b7a",
-    "C:\\Users\\hia_n\\Desktop\\policy-diffusion\\18-additional-source-supported-families\\2026-10-19\\data\\new-study-comparison-candidates-local.parquet": "f98758220d922ec1997e9eba8a3c72279db3d80835e266f5110526843373d53d",
-    "C:\\Users\\hia_n\\Desktop\\policy-diffusion\\18-additional-source-supported-families\\2026-10-19\\data\\all-data-EU-report-catalogue-local.parquet": "2309419b1f11d81de3eb13aa717b35e46699e09cfedb5ee4722f35b22d53f57f"
-  },
-  "legal_country_calendar_changed": false,
-  "why_diffusion_input_unchanged": "New issuer compliance/publication evidence changes covered studies, not national legal choices. Complete mechanism matrix refitted without using post-policy effects as prior learning."
+  "recorded_at": "2026-10-19T06:00:09.114184+00:00",
+  "new_coefficients_selected_by_sign": false,
+  "national_calendar_unchanged": true,
+  "inputs": [
+    {
+      "path": "19-extractive-issuer-and-composition-review\\2026-10-19\\analysis-plan.json",
+      "sha256": "7d3784f20b93af3ebfb3e907f550c464ddba7f295b234747632f6931fff38241",
+      "bytes": 2058
+    },
+    {
+      "path": "19-extractive-issuer-and-composition-review\\2026-10-19\\geographic-analysis-plan.json",
+      "sha256": "ca8d2198936838dd40be073986bf1598360e8dbc58a3f7b9a24058fd255b128e",
+      "bytes": 2600
+    },
+    {
+      "path": "19-extractive-issuer-and-composition-review\\2026-10-19\\data\\classified-dated-policy-cases.csv",
+      "sha256": "88dcb4fb7594cb179901125c8250176d20ab227f4882fa950e896cd54e25534d",
+      "bytes": 452099
+    },
+    {
+      "path": "19-extractive-issuer-and-composition-review\\2026-10-19\\data\\lagged-mechanism-panel.parquet",
+      "sha256": "6a69264260b89b1b14c46918c8a2a3ee942a96c3c285a6ab6e7edca8a0fc652f",
+      "bytes": 236865
+    },
+    {
+      "path": "19-extractive-issuer-and-composition-review\\2026-10-19\\data\\macro-country-year.csv",
+      "sha256": "f02902991d0e4f7f7447005ef224315c5dea694702608886004644e351558585",
+      "bytes": 1102987
+    },
+    {
+      "path": "19-extractive-issuer-and-composition-review\\2026-10-19\\data\\covered-issuer-study-membership-local.parquet",
+      "sha256": "5581a0c498205afeecaac7d833f8e311317d1e61467fffeabb5022d1a9e8d96d",
+      "bytes": 170825
+    },
+    {
+      "path": "19-extractive-issuer-and-composition-review\\2026-10-19\\data\\extractive-treated-membership-local.parquet",
+      "sha256": "ef446563753ab6f8c57627452f8820e87f78f436eb9d4216e969a4b022f755dc",
+      "bytes": 9590
+    },
+    {
+      "path": "19-extractive-issuer-and-composition-review\\2026-10-19\\data\\extractive-comparison-membership-local.parquet",
+      "sha256": "1abb0d6a7f5a70ff0c95b156e81239ebf9b89de71594f60a751287857e6b4702",
+      "bytes": 11893
+    },
+    {
+      "path": "19-extractive-issuer-and-composition-review\\2026-10-19\\data\\extractive-US-control-source-evidence.parquet",
+      "sha256": "343a5835ebe954a4e1dd34a3cebc418336a7340f1551391294e51a91dab169b9",
+      "bytes": 57115
+    },
+    {
+      "path": "19-extractive-issuer-and-composition-review\\2026-10-19\\data\\extractive-issuer-eligibility-and-dates.json",
+      "sha256": "827940c4a45aca36bd005d38a8e70bd86c7bca8f37a12a3bd1cf475c46617af9",
+      "bytes": 12468
+    },
+    {
+      "path": "19-extractive-issuer-and-composition-review\\2026-10-19\\sources\\extractive-source-manifest.json",
+      "sha256": "3f5fdb911f27513db236a569cdc4c1739b22444f113e0305511f2558d58cdfeb",
+      "bytes": 7261
+    },
+    {
+      "path": "09-expanded-policy-paper\\2026-10-18\\data\\security-year-liquidity.parquet",
+      "sha256": "9cf75b0191df9658d02cd4073501fdd2ac8f4edf551a1646258192d2bcd15755",
+      "bytes": 90181480
+    },
+    {
+      "path": "17-issuer-regulation-expansion\\2026-10-19\\data\\us-issuer-filing-eligibility.parquet",
+      "sha256": "46a907fa0c2826dd2afde4d20fe3ffae8867842a9bdb0ffed1c6bbfc19104fda",
+      "bytes": 4821837
+    },
+    {
+      "path": "17-issuer-regulation-expansion\\2026-10-19\\data\\all-annual-company-mapping.parquet",
+      "sha256": "d905c50c7954de0642f7ce87488ab20ea2634565c139100130c797dc6d218f7f",
+      "bytes": 6046756
+    }
+  ],
+  "inference": "Reproducible estimates do not certify causal identification or complete issuer scope."
 }

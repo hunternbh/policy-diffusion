@@ -1,6 +1,7 @@
 {
   "overlays": 441,
   "original_register_unchanged": true,
-  "new_subset_cross_references": "CAN IFRS and DEU ESG_SCOPED only",
+  "extension_cross_references": "GBR and FRA extractive payment issuer facts; prior CAN IFRS/DEU ESG evidence retained",
+  "new_extractives_overlays": 3,
   "global_eligibility_or_first_history_certification": false
 }

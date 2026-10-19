@@ -1,0 +1,6 @@
+{
+  "frozen_at": "2026-10-19T05:51:30.174359+00:00",
+  "candidates": 60,
+  "rule": "Top 60 eligible available 2015-cap US ordinary resource-sector SIC1000-1499 or2911 exact bounded ISIN/CUSIP/CIK candidates, before post-event coefficients; no outcome replacement.",
+  "scope_boundary": "US resource-sector parent comparison, not globally certified untreated group. Full text foreign-listing/foreign-payment-regime flags retained; absence is not proof of no subsidiary exposure."
+}

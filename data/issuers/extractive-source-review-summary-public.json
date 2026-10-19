@@ -1,0 +1,25 @@
+{
+  "additional_treated_issuers": 3,
+  "additional_family": "EXTRACTIVE_PAYMENTS",
+  "selected_comparison_candidates": 60,
+  "full_SEC_filings_reviewed": 164,
+  "source_complete_all_three_years": 44,
+  "first_year_outcome_supported_comparisons": 35,
+  "balanced_outcome_supported_comparisons": 24,
+  "direct_foreign_coverage_flags_withheld": true,
+  "global_subsidiary_noncoverage_certified": false,
+  "source_requests": 12,
+  "preserved_local_or_downloaded_source_documents": 10,
+  "failed_primary_downloads_or_wrong_response": 5,
+  "OCR_needed": false,
+  "selected_scope_pages_visually_checked": [
+    "BP statutory introduction and basis, physical3",
+    "Total statutory payment declaration, physical315 of archived original",
+    "Tullow transparency and prior voluntary history, physical173"
+  ],
+  "remaining_gaps": [
+    "Rio actual statutory publication date",
+    "Other global eligible issuers, foreign subsidiaries and historical listing perimeters"
+  ],
+  "national_adoption_calendar_changed": false
+}

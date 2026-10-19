@@ -1,36 +1,23 @@
 {
-  "frozen_at": "2026-10-19T05:17:14.437496+00:00",
-  "selection": "Expand source-supported economic families using all-data source archives and primary issuer publications. Select source availability and legal evidence before viewing new liquidity coefficients; retain all attempted studies irrespective of sign. Preserve original four-family estimates.",
-  "candidate_extensions": [
-    "IFRS: Canadian reporting issuers with explicit first IFRS financial-statement publications, actual release dates, pre-adoption share identity and U.S.-GAAP bank comparisons.",
-    "Mandatory E/S/G: European first statutory nonfinancial statements, legal-scope self-declarations, historical share identity, actual report-release evidence.",
-    "Climate/governance/extractive extensions only if distinct legal obligations, first actual report years and adequately evidenced comparisons can be established."
+  "frozen_at": "2026-10-19T05:49:47.384336+00:00",
+  "prior_release": "C:\\Users\\hia_n\\Desktop\\policy-diffusion\\18-additional-source-supported-families\\2026-10-19",
+  "new_family": "EXTRACTIVE_PAYMENTS",
+  "candidate_issuers": [
+    "BP plc",
+    "Rio Tinto plc",
+    "Total SA",
+    "Tullow Oil plc"
   ],
-  "main_weights": "GDP allocated over fixed source-study country issuer universe; equal family and pre-event market-cap family across economic families. Equal issuer / issuer-cap alternatives. Banking phases never double-counted.",
+  "selection": "Named source-available first statutory extractive-payment publishers; verify statutory reports and actual publication year before new outcome estimation. No sign-based substitutions. Rio voluntary Taxes paid release is not automatic proof of actual statutory filing.",
+  "comparisons": "Select 60 largest g-1 US ordinary resource-extraction parents by pre-event cap with period-keyed CIK/CUSIP and bounded ISIN; inspect contemporary SEC headers, primary-US-share listing and scope language. US Section13q had no operative first obligation in 2016-18. Foreign group/subsidiary and voluntary reporting remain possible spillovers, not certified absence.",
   "targets": [
-    "g-1 to g first-year",
-    "fixed g-3 through g+2, average0..2"
+    "first year g-1 to g",
+    "balanced fixed g-3..g+2, mean0..2"
   ],
-  "minimum_support": "3treated/20comparison; sparse selected case studies remain descriptive. No thresholds relaxed after inspecting outcomes.",
-  "controls": "Known not yet/directly required through endpoints; unknown does not mean no. Contemporary accounting/filing evidence required where available. Subsidiary exposure and industry differences retained as limitations.",
-  "inference": "Preserve shared issuer sampling covariance; few legal waves do not establish causal policy p-values. Broad geographic panel remains separate.",
-  "first_dates": "Separate statutory/reporting-year dates, actual public release, earliest observed restatement information and first mandatory statements. No PDF metadata/signature substituted for publication.",
-  "prior_release": "C:\\Users\\hia_n\\Desktop\\policy-diffusion\\17-issuer-regulation-expansion\\2026-10-19",
-  "new_coefficients_not_inspected": true,
-  "outcomes": [
-    "log_spread",
-    "log_impact",
-    "zero_fraction"
-  ],
-  "within_family_weights": [
-    "gdp_country_allocated",
-    "equal_issuer",
-    "baseline_issuer_market_cap"
-  ],
-  "across_family_weights": [
-    "equal_family",
-    "baseline_market_cap_family"
-  ],
-  "economic_families": 17,
-  "prior_design_sha256": "982eea84869b73db8e1c19191f9f1f2ccb8e5fe5586efd7cac1afaf25ad9daaa"
+  "minimum_support": "3 treated,20 comparisons, unchanged",
+  "weights": "GDP within fixed source-study country universe; equal-family and pre-event treated-cap across same supported families. Preserve both requested weights coequally.",
+  "composition_diagnostics": "Decompose cap-minus-equal by family contribution. Report cap concentration, effective family count, and leave-one-family-out sensitivity for every family, without selecting a preferred omission. Do not search weights to obtain significance.",
+  "mechanism_story": "Separate public mandatory report content from private tax returns, first statutory cycle from first-ever information, and issuer effects from geographic exposure. These distinctions do not imply positive results.",
+  "inference": "Descriptive issuer sampling intervals, few legal waves; no causal policy significance. Preserve all prior family coefficients and all results regardless of sign.",
+  "new_coefficients_inspected": false
 }

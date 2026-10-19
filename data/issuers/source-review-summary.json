@@ -26,5 +26,16 @@
   "year_only_dates": 1,
   "no_AI_assurance_spreadsheet_used_for_legal_classification": true,
   "global_issuer_eligibility_complete": false,
-  "OCR": "Targeted originals have readable text; inherited OCR archive retained. No OCR substitution for failed HTTP requests."
+  "OCR": "Targeted originals have readable text; inherited OCR archive retained. No OCR substitution for failed HTTP requests.",
+  "extractive_target_issuers_admitted": 3,
+  "extractive_pending_statutory_date_issuers": 1,
+  "extractive_additional_local_PDFs": 3,
+  "extractive_extra_source_requests": 12,
+  "extractive_preserved_source_documents": 10,
+  "extractive_source_failures": 5,
+  "extractive_US_full_filings_reviewed": 164,
+  "extractive_control_candidates": 60,
+  "extractive_controls_three_post_years": 44,
+  "source_supported_first_year_families": 7,
+  "source_supported_balanced_families": 5
 }

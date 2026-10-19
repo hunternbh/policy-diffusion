@@ -133,14 +133,14 @@
     "family": "EXTRACTIVE_PAYMENTS",
     "label": "Extractive payments",
     "eligibility_rule": "Resource-extraction issuer, project and payment thresholds; US first effective cycle differs from repealed rule.",
-    "filing_date_and_remaining_gap": "Local 10-K ZIPs do not contain Form SD. Need sector/perimeter and actual resource-payment report filings; do not reuse conflict-minerals Form SD membership.",
-    "disposition": "sector_and_distinct_FormSD_gaps",
+    "filing_date_and_remaining_gap": "BP, Total SA and Tullow FY2015 statutory payment reports public in2016. Actual dates24June,16March and15March respectively. Total signature15March is not filing16March; Tullow prior voluntary reporting since2013. US resource comparisons use contemporary domestic-parent/listing evidence with direct foreign-regime flags withheld. Foreign subsidiary and voluntary-report spillovers remain possible. Rio statutory date and other jurisdictions remain pending.",
+    "disposition": "three_first_statutory_payment_reporters_verified",
     "issuer_specific_eligibility_complete": false,
     "all_first_ever_histories_complete": false,
     "first_year_geographic_issuer_estimated": true,
-    "first_year_covered_issuer_estimated": false,
+    "first_year_covered_issuer_estimated": true,
     "balanced_geographic_issuer_estimated": false,
-    "balanced_covered_issuer_estimated": false
+    "balanced_covered_issuer_estimated": true
   },
   {
     "family": "GOVERNANCE",

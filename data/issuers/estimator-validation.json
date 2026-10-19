@@ -1,5 +1,5 @@
 {
-  "passed": 136,
+  "passed": 161,
   "checks": [
     {
       "check": "issuer-exposure_all_aggregate_contributions_reconstruct",
@@ -318,6 +318,18 @@
       "passed": true
     },
     {
+      "check": "raw_GDP_reconstruction_Extractive_first_statutory_reports_balanced_mean_0_2_log_spread",
+      "passed": true
+    },
+    {
+      "check": "raw_GDP_reconstruction_Extractive_first_statutory_reports_balanced_mean_0_2_log_impact",
+      "passed": true
+    },
+    {
+      "check": "raw_GDP_reconstruction_Extractive_first_statutory_reports_balanced_mean_0_2_zero_fraction",
+      "passed": true
+    },
+    {
       "check": "raw_GDP_reconstruction_IFRS_Canadian_first_statements_balanced_mean_0_2_log_spread",
       "passed": true
     },
@@ -375,6 +387,18 @@
     },
     {
       "check": "raw_GDP_reconstruction_ESG_German_first_statutory_reports_inclusive_first_year_zero_fraction",
+      "passed": true
+    },
+    {
+      "check": "raw_GDP_reconstruction_Extractive_first_statutory_reports_inclusive_first_year_log_spread",
+      "passed": true
+    },
+    {
+      "check": "raw_GDP_reconstruction_Extractive_first_statutory_reports_inclusive_first_year_log_impact",
+      "passed": true
+    },
+    {
+      "check": "raw_GDP_reconstruction_Extractive_first_statutory_reports_inclusive_first_year_zero_fraction",
       "passed": true
     },
     {
@@ -526,7 +550,7 @@
       "passed": true
     },
     {
-      "check": "six_first_year_four_balanced_source_supported_families",
+      "check": "seven_first_year_five_balanced_source_supported_families",
       "passed": true
     },
     {
@@ -543,6 +567,82 @@
     },
     {
       "check": "new_treatment_population_source_selected_before_outcomes",
+      "passed": true
+    },
+    {
+      "check": "extractive_three_positive_legal_report_reviews",
+      "passed": true
+    },
+    {
+      "check": "Total_signature_not_used_as_actual_filing",
+      "passed": true
+    },
+    {
+      "check": "Tullow_prior_voluntary_history_retained",
+      "passed": true
+    },
+    {
+      "check": "extractive_source_SHA_BP_plc_local2015",
+      "passed": true
+    },
+    {
+      "check": "extractive_source_SHA_Total_SE_local2015",
+      "passed": true
+    },
+    {
+      "check": "extractive_source_SHA_Tullow_Oil_plc_local2015",
+      "passed": true
+    },
+    {
+      "check": "extractive_source_SHA_Rio_2015_voluntary_report",
+      "passed": true
+    },
+    {
+      "check": "extractive_source_SHA_Total_2015_annual",
+      "passed": true
+    },
+    {
+      "check": "extractive_source_SHA_UK_2014_3209",
+      "passed": true
+    },
+    {
+      "check": "extractive_source_SHA_BP_report_mirror",
+      "passed": true
+    },
+    {
+      "check": "extractive_source_SHA_Tullow_annual_mirror",
+      "passed": true
+    },
+    {
+      "check": "extractive_source_SHA_SEC_2016_FederalRegister",
+      "passed": true
+    },
+    {
+      "check": "extractive_source_SHA_SEC_2020_FederalRegister_corrected",
+      "passed": true
+    },
+    {
+      "check": "extractive_accepted_comparisons_pass_contemporaneous_source_filters",
+      "passed": true
+    },
+    {
+      "check": "resource_control_selection_frozen_before_coefficients",
+      "passed": true
+    },
+    {
+      "check": "exact_weight_difference_decomposition",
+      "passed": true
+    },
+    {
+      "check": "effective_family_count_in_range",
+      "passed": true
+    },
+    {
+      "check": "every_single_family_omission_disclosed",
+      "passed": true
+    },
+    {
+      "check": "diffusion_full_matrix_refitted_same_legal_input",
       "passed": true
     }
   ],

@@ -37,6 +37,44 @@ inclusive_first_year,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2
 inclusive_first_year,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,GILEAD SCIENCES INCO.,USA,comparison,9999
 inclusive_first_year,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,COSTCO WHOLESALE CORP.,USA,comparison,9999
 inclusive_first_year,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,TEXAS INSTRUMENTS INCO.,USA,comparison,9999
+inclusive_first_year,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,BP plc,GBR,treated,2016
+inclusive_first_year,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,Total SA,FRA,treated,2016
+inclusive_first_year,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,Tullow Oil plc,GBR,treated,2016
+inclusive_first_year,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,MARATHON OIL CORP.,USA,comparison,9999
+inclusive_first_year,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,PIONEER NTRL.RES.CO.,USA,comparison,9999
+inclusive_first_year,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,CARRIZO O&G.INCO.,USA,comparison,9999
+inclusive_first_year,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,DEVON ENERGY CORP.,USA,comparison,9999
+inclusive_first_year,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,NUSTAR ENERGY LP,USA,comparison,9999
+inclusive_first_year,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,CIMAREX EN.CO.,USA,comparison,9999
+inclusive_first_year,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,COMPASS MRLS.INTL.INCO.,USA,comparison,9999
+inclusive_first_year,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,WESTERN REFINING INCO.,USA,comparison,9999
+inclusive_first_year,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,ALLIANCE HOLDINGS GP LP.,USA,comparison,9999
+inclusive_first_year,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,CONCHO RESOURCES INCO.,USA,comparison,9999
+inclusive_first_year,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,CVR ENERGY INCO.,USA,comparison,9999
+inclusive_first_year,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,DYNEGY INCO.,USA,comparison,9999
+inclusive_first_year,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,WESTERN GAS PARTNERS LP.,USA,comparison,9999
+inclusive_first_year,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,WILLIAMS PARTNERS LP.,USA,comparison,9999
+inclusive_first_year,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,MARATHON PETROLEUM CORP.,USA,comparison,9999
+inclusive_first_year,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,WPX ENERGY INCO.,USA,comparison,9999
+inclusive_first_year,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,MATADOR RESOURCES CO.,USA,comparison,9999
+inclusive_first_year,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,NORTHERN TIER ENERGY LP.,USA,comparison,9999
+inclusive_first_year,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,PBF ENERGY INCO.,USA,comparison,9999
+inclusive_first_year,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,PHILLIPS 66,USA,comparison,9999
+inclusive_first_year,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,DIAMONDBACK ENERGY INCO.,USA,comparison,9999
+inclusive_first_year,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,CVR REFINING LP.,USA,comparison,9999
+inclusive_first_year,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,EP ENERGY CORP.,USA,comparison,9999
+inclusive_first_year,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,PARSLEY ENERGY INCO.,USA,comparison,9999
+inclusive_first_year,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,RANGE RES.CORP.,USA,comparison,9999
+inclusive_first_year,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,HESS CORP.,USA,comparison,9999
+inclusive_first_year,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,NOBLE ENERGY INCO.,USA,comparison,9999
+inclusive_first_year,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,CONTINENTAL RES.INCO.,USA,comparison,9999
+inclusive_first_year,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,OCEANEERING INTL.INCO.,USA,comparison,9999
+inclusive_first_year,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,ANADARKO PETROLEUM CORP.,USA,comparison,9999
+inclusive_first_year,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,PDC ENERGY INCO.,USA,comparison,9999
+inclusive_first_year,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,BAKER HUGHES CO.,USA,comparison,9999
+inclusive_first_year,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,EOG RES.INCO.,USA,comparison,9999
+inclusive_first_year,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,PATTERSON UTI EN.INCO.,USA,comparison,9999
+inclusive_first_year,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,NEWFIELD EXPLORATION CO.,USA,comparison,9999
 inclusive_first_year,IFRS,IFRS_Canadian_first_statements,2012,Bank of Montreal,CAN,treated,2012
 inclusive_first_year,IFRS,IFRS_Canadian_first_statements,2012,Bank of Nova Scotia,CAN,treated,2012
 inclusive_first_year,IFRS,IFRS_Canadian_first_statements,2012,Royal Bank of Canada,CAN,treated,2012
@@ -4574,6 +4612,33 @@ balanced_mean_0_2,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018
 balanced_mean_0_2,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,GILEAD SCIENCES INCO.,USA,comparison,9999
 balanced_mean_0_2,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,COSTCO WHOLESALE CORP.,USA,comparison,9999
 balanced_mean_0_2,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,TEXAS INSTRUMENTS INCO.,USA,comparison,9999
+balanced_mean_0_2,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,BP plc,GBR,treated,2016
+balanced_mean_0_2,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,Total SA,FRA,treated,2016
+balanced_mean_0_2,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,Tullow Oil plc,GBR,treated,2016
+balanced_mean_0_2,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,MARATHON OIL CORP.,USA,comparison,9999
+balanced_mean_0_2,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,PIONEER NTRL.RES.CO.,USA,comparison,9999
+balanced_mean_0_2,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,CARRIZO O&G.INCO.,USA,comparison,9999
+balanced_mean_0_2,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,DEVON ENERGY CORP.,USA,comparison,9999
+balanced_mean_0_2,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,NUSTAR ENERGY LP,USA,comparison,9999
+balanced_mean_0_2,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,CIMAREX EN.CO.,USA,comparison,9999
+balanced_mean_0_2,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,COMPASS MRLS.INTL.INCO.,USA,comparison,9999
+balanced_mean_0_2,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,CONCHO RESOURCES INCO.,USA,comparison,9999
+balanced_mean_0_2,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,CVR ENERGY INCO.,USA,comparison,9999
+balanced_mean_0_2,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,WESTERN GAS PARTNERS LP.,USA,comparison,9999
+balanced_mean_0_2,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,MARATHON PETROLEUM CORP.,USA,comparison,9999
+balanced_mean_0_2,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,WPX ENERGY INCO.,USA,comparison,9999
+balanced_mean_0_2,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,MATADOR RESOURCES CO.,USA,comparison,9999
+balanced_mean_0_2,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,PBF ENERGY INCO.,USA,comparison,9999
+balanced_mean_0_2,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,PHILLIPS 66,USA,comparison,9999
+balanced_mean_0_2,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,DIAMONDBACK ENERGY INCO.,USA,comparison,9999
+balanced_mean_0_2,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,RANGE RES.CORP.,USA,comparison,9999
+balanced_mean_0_2,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,HESS CORP.,USA,comparison,9999
+balanced_mean_0_2,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,CONTINENTAL RES.INCO.,USA,comparison,9999
+balanced_mean_0_2,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,OCEANEERING INTL.INCO.,USA,comparison,9999
+balanced_mean_0_2,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,ANADARKO PETROLEUM CORP.,USA,comparison,9999
+balanced_mean_0_2,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,PDC ENERGY INCO.,USA,comparison,9999
+balanced_mean_0_2,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,EOG RES.INCO.,USA,comparison,9999
+balanced_mean_0_2,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,PATTERSON UTI EN.INCO.,USA,comparison,9999
 balanced_mean_0_2,IFRS,IFRS_Canadian_first_statements,2012,Bank of Montreal,CAN,treated,2012
 balanced_mean_0_2,IFRS,IFRS_Canadian_first_statements,2012,Bank of Nova Scotia,CAN,treated,2012
 balanced_mean_0_2,IFRS,IFRS_Canadian_first_statements,2012,Royal Bank of Canada,CAN,treated,2012

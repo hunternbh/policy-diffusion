@@ -1,0 +1,65 @@
+{
+  "records": [
+    {
+      "issuer": "BP plc",
+      "family": "EXTRACTIVE_PAYMENTS",
+      "study": "Extractive_first_statutory_reports",
+      "required_reporting_period": "2015-01-01/2015-12-31",
+      "observed_publication_year": 2016,
+      "actual_publication_date": "2016-06-24",
+      "date_precision": "day_corroborated_statutory_report_or_registered_language_version",
+      "source_key": "BP_report_mirror",
+      "primary_source_url": "https://www.sec.gov/Archives/edgar/data/313807/000119163816002266/bp201607046kbatch.htm",
+      "document_sha256": "2acb20ea29cce98d45f6aeae3227b56a055be627efe3d62001e0e351cd69bc59",
+      "issuer_identity_basis": "Dated issuer-origin report, raw catalogue ISIN and same bounded pre-event home ordinary share; BP6K additionally prints ISIN. Total catalogue current nameSE is not backfilled legal form: report issuer isTOTAL SA.",
+      "legal_scope": "Positive issuer statutory reporting declaration, not country membership alone. Total group employee count exceeds historical French5000 phase.",
+      "publication_review": "Actual June24 report announcement, separately corroborated in contemporaneous issuer SEC6K exhibit1.4. The same6K explicitly prints ordinary-share ISIN.",
+      "prior_reporting_review": "First statutory2015 payment report; sustainability reporting predates mandate.",
+      "source_origin": "Total original recovered from all-data EU report ZIP; BP and Tullow issuer-origin statutory PDFs recovered on archival mirrors after direct primary download failure. Archived CSR PDFs corroborate issuer and prior reporting.",
+      "global_group_eligibility_certified": false
+    },
+    {
+      "issuer": "Total SA",
+      "family": "EXTRACTIVE_PAYMENTS",
+      "study": "Extractive_first_statutory_reports",
+      "required_reporting_period": "2015-01-01/2015-12-31",
+      "observed_publication_year": 2016,
+      "actual_publication_date": "2016-03-16",
+      "date_precision": "day_corroborated_statutory_report_or_registered_language_version",
+      "source_key": "Total_SE_local2015",
+      "primary_source_url": "https://totalenergies.com/sites/g/files/nytnzq121/files/atoms/files/total-ddr2015-en_acces.pdf",
+      "document_sha256": "e6fedb9bb89d0d549370d652967f7f6e3d609812110767db138a90dc35165235",
+      "issuer_identity_basis": "Dated issuer-origin report, raw catalogue ISIN and same bounded pre-event home ordinary share; BP6K additionally prints ISIN. Total catalogue current nameSE is not backfilled legal form: report issuer isTOTAL SA.",
+      "legal_scope": "Positive issuer statutory reporting declaration, not country membership alone. Total group employee count exceeds historical French5000 phase.",
+      "publication_review": "French registration document filed AMF March16,2016, stated on report front certification; March15 is signature, not filing. English translation publication day not separately established.",
+      "prior_reporting_review": "FY2015 first applicable large-company cycle. Report itself gives96,019 group employees and statutory payment chapter.",
+      "source_origin": "Total original recovered from all-data EU report ZIP; BP and Tullow issuer-origin statutory PDFs recovered on archival mirrors after direct primary download failure. Archived CSR PDFs corroborate issuer and prior reporting.",
+      "global_group_eligibility_certified": false
+    },
+    {
+      "issuer": "Tullow Oil plc",
+      "family": "EXTRACTIVE_PAYMENTS",
+      "study": "Extractive_first_statutory_reports",
+      "required_reporting_period": "2015-01-01/2015-12-31",
+      "observed_publication_year": 2016,
+      "actual_publication_date": "2016-03-15",
+      "date_precision": "day_corroborated_statutory_report_or_registered_language_version",
+      "source_key": "Tullow_annual_mirror",
+      "primary_source_url": "https://www.sec.gov/files/rules/final/2016/34-78167.pdf",
+      "document_sha256": "7dac6f3143f9fb0314e49cbad7a143434baf5f2b487e84850bf5101d9a24cf5e",
+      "issuer_identity_basis": "Dated issuer-origin report, raw catalogue ISIN and same bounded pre-event home ordinary share; BP6K additionally prints ISIN. Total catalogue current nameSE is not backfilled legal form: report issuer isTOTAL SA.",
+      "legal_scope": "Positive issuer statutory reporting declaration, not country membership alone. Total group employee count exceeds historical French5000 phase.",
+      "publication_review": "SEC2016 final rule footnote302 cites actual2015 Annual Report & Accounts dated March15,2016. Annual-report mail schedule alone not used. Regulator citation corroborates report in2016.",
+      "prior_reporting_review": "Explicit early adopter since2013; FY2015 first mandatory cycle, not first-ever disclosure.",
+      "source_origin": "Total original recovered from all-data EU report ZIP; BP and Tullow issuer-origin statutory PDFs recovered on archival mirrors after direct primary download failure. Archived CSR PDFs corroborate issuer and prior reporting.",
+      "global_group_eligibility_certified": false
+    }
+  ],
+  "not_admitted": [
+    {
+      "issuer": "Rio Tinto plc",
+      "reason": "Voluntary Taxes paid report release28June2016 is not the separately required statutory filing. First statutory actual publication still unverified; no liquidity coefficient inspected for candidate."
+    }
+  ],
+  "boundary": "Selected source-supported statutory reporters; not all-country eligible issuer universe. Actual first mandatory information can follow voluntary reporting."
+}

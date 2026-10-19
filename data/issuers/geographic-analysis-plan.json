@@ -1,0 +1,37 @@
+{
+  "frozen_at": "2026-10-19T05:17:14.437496+00:00",
+  "selection": "Expand source-supported economic families using all-data source archives and primary issuer publications. Select source availability and legal evidence before viewing new liquidity coefficients; retain all attempted studies irrespective of sign. Preserve original four-family estimates.",
+  "candidate_extensions": [
+    "IFRS: Canadian reporting issuers with explicit first IFRS financial-statement publications, actual release dates, pre-adoption share identity and U.S.-GAAP bank comparisons.",
+    "Mandatory E/S/G: European first statutory nonfinancial statements, legal-scope self-declarations, historical share identity, actual report-release evidence.",
+    "Climate/governance/extractive extensions only if distinct legal obligations, first actual report years and adequately evidenced comparisons can be established."
+  ],
+  "main_weights": "GDP allocated over fixed source-study country issuer universe; equal family and pre-event market-cap family across economic families. Equal issuer / issuer-cap alternatives. Banking phases never double-counted.",
+  "targets": [
+    "g-1 to g first-year",
+    "fixed g-3 through g+2, average0..2"
+  ],
+  "minimum_support": "3treated/20comparison; sparse selected case studies remain descriptive. No thresholds relaxed after inspecting outcomes.",
+  "controls": "Known not yet/directly required through endpoints; unknown does not mean no. Contemporary accounting/filing evidence required where available. Subsidiary exposure and industry differences retained as limitations.",
+  "inference": "Preserve shared issuer sampling covariance; few legal waves do not establish causal policy p-values. Broad geographic panel remains separate.",
+  "first_dates": "Separate statutory/reporting-year dates, actual public release, earliest observed restatement information and first mandatory statements. No PDF metadata/signature substituted for publication.",
+  "prior_release": "C:\\Users\\hia_n\\Desktop\\policy-diffusion\\17-issuer-regulation-expansion\\2026-10-19",
+  "new_coefficients_not_inspected": true,
+  "outcomes": [
+    "log_spread",
+    "log_impact",
+    "zero_fraction"
+  ],
+  "within_family_weights": [
+    "gdp_country_allocated",
+    "equal_issuer",
+    "baseline_issuer_market_cap"
+  ],
+  "across_family_weights": [
+    "equal_family",
+    "baseline_market_cap_family"
+  ],
+  "economic_families": 17,
+  "prior_design_sha256": "982eea84869b73db8e1c19191f9f1f2ccb8e5fe5586efd7cac1afaf25ad9daaa",
+  "extension_plan": "analysis-plan.json"
+}

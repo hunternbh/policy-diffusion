@@ -1,0 +1,4 @@
+issuer,family,required_reporting_period,observed_publication_year,actual_publication_date,date_precision,primary_source_url,document_sha256
+BP plc,EXTRACTIVE_PAYMENTS,2015-01-01/2015-12-31,2016,2016-06-24,day_corroborated_statutory_report_or_registered_language_version,https://www.sec.gov/Archives/edgar/data/313807/000119163816002266/bp201607046kbatch.htm,2acb20ea29cce98d45f6aeae3227b56a055be627efe3d62001e0e351cd69bc59
+Total SA,EXTRACTIVE_PAYMENTS,2015-01-01/2015-12-31,2016,2016-03-16,day_corroborated_statutory_report_or_registered_language_version,https://totalenergies.com/sites/g/files/nytnzq121/files/atoms/files/total-ddr2015-en_acces.pdf,e6fedb9bb89d0d549370d652967f7f6e3d609812110767db138a90dc35165235
+Tullow Oil plc,EXTRACTIVE_PAYMENTS,2015-01-01/2015-12-31,2016,2016-03-15,day_corroborated_statutory_report_or_registered_language_version,https://www.sec.gov/files/rules/final/2016/34-78167.pdf,7dac6f3143f9fb0314e49cbad7a143434baf5f2b487e84850bf5101d9a24cf5e

@@ -1,5 +1,5 @@
 {
-  "passed": 125,
+  "passed": 140,
   "checks": [
     {
       "check": "unique_HTML_ids",
@@ -290,6 +290,14 @@
       "passed": true
     },
     {
+      "check": "local_link_data/issuers/covered-all-leave-one-family-out.csv",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/issuers/covered-family-concentration.csv",
+      "passed": true
+    },
+    {
       "check": "local_link_data/issuers/covered-issuer-family-did.csv",
       "passed": true
     },
@@ -306,7 +314,23 @@
       "passed": true
     },
     {
+      "check": "local_link_data/issuers/covered-weight-composition-decomposition.csv",
+      "passed": true
+    },
+    {
       "check": "local_link_data/issuers/estimator-validation.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/issuers/extractive-issuer-evidence-public.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/issuers/extractive-issuer-filing-facts.csv",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/issuers/extractive-source-review-summary-public.json",
       "passed": true
     },
     {
@@ -315,10 +339,6 @@
     },
     {
       "check": "local_link_data/issuers/issuer-exposure-pooled-did.csv",
-      "passed": true
-    },
-    {
-      "check": "local_link_data/issuers/issuer-exposure-principal-estimates.csv",
       "passed": true
     },
     {
@@ -430,6 +450,14 @@
       "passed": true
     },
     {
+      "check": "no_licensed_identifiers_covered-all-leave-one-family-out.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_identifiers_covered-family-concentration.csv",
+      "passed": true
+    },
+    {
       "check": "no_licensed_identifiers_covered-issuer-events.csv",
       "passed": true
     },
@@ -455,6 +483,14 @@
     },
     {
       "check": "no_licensed_identifiers_covered-issuer-support.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_identifiers_covered-weight-composition-decomposition.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_identifiers_extractive-issuer-filing-facts.csv",
       "passed": true
     },
     {
@@ -500,8 +536,32 @@
     {
       "check": "registry_and_topic_bank_controls_preserved",
       "passed": true
+    },
+    {
+      "check": "seven_first_five_balanced_visible",
+      "passed": true
+    },
+    {
+      "check": "all_omissions_and_decomposition_linked",
+      "passed": true
+    },
+    {
+      "check": "actual_extractives_dates_and_prior_voluntary_visible",
+      "passed": true
+    },
+    {
+      "check": "no_stale_six_family_principal_claim",
+      "passed": true
+    },
+    {
+      "check": "hero_updated_seven_first_five_balanced",
+      "passed": true
+    },
+    {
+      "check": "source_register_no_absolute_local_archive_paths",
+      "passed": true
     }
   ],
   "PDF_all_pages_visually_reviewed": true,
-  "visual_notes": "Eight final pages inspected: no clipped tables, overlap, missing minus signs or unreadable figure labels. Table2 padding reduced and zero fractions displayed to four decimals. Source-summary metadata changes do not change rendered pages."
+  "visual_notes": "All final eight pages inspected, including corrected seven-row table note and references; no clipping, overlap or lost minus signs."
 }

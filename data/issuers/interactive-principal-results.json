@@ -99,96 +99,96 @@
     "target": "inclusive_first_year",
     "across_weight": "equal_family",
     "outcome": "log_spread",
-    "estimate": -0.0901149754555043,
-    "families": 6,
+    "estimate": -0.0766185033871774,
+    "families": 7,
     "population": "covered"
   },
   {
     "target": "inclusive_first_year",
     "across_weight": "equal_family",
     "outcome": "log_impact",
-    "estimate": 0.0021739780259152,
-    "families": 6,
+    "estimate": 0.025035196800962,
+    "families": 7,
     "population": "covered"
   },
   {
     "target": "inclusive_first_year",
     "across_weight": "equal_family",
     "outcome": "zero_fraction",
-    "estimate": 0.0010925086493736,
-    "families": 6,
+    "estimate": 0.001413516063515,
+    "families": 7,
     "population": "covered"
   },
   {
     "target": "inclusive_first_year",
     "across_weight": "baseline_market_cap_family",
     "outcome": "log_spread",
-    "estimate": 0.1907969142252008,
-    "families": 6,
+    "estimate": 0.1871312518269968,
+    "families": 7,
     "population": "covered"
   },
   {
     "target": "inclusive_first_year",
     "across_weight": "baseline_market_cap_family",
     "outcome": "log_impact",
-    "estimate": 0.1903638317981568,
-    "families": 6,
+    "estimate": 0.1898101319956276,
+    "families": 7,
     "population": "covered"
   },
   {
     "target": "inclusive_first_year",
     "across_weight": "baseline_market_cap_family",
     "outcome": "zero_fraction",
-    "estimate": 0.0057931794204441,
-    "families": 6,
+    "estimate": 0.0057449370734329,
+    "families": 7,
     "population": "covered"
   },
   {
     "target": "balanced_mean_0_2",
     "across_weight": "equal_family",
     "outcome": "log_spread",
-    "estimate": -0.0726455954343705,
-    "families": 4,
+    "estimate": -0.0420863130997406,
+    "families": 5,
     "population": "covered"
   },
   {
     "target": "balanced_mean_0_2",
     "across_weight": "equal_family",
     "outcome": "log_impact",
-    "estimate": 0.1794571829582517,
-    "families": 4,
+    "estimate": 0.14915372468371,
+    "families": 5,
     "population": "covered"
   },
   {
     "target": "balanced_mean_0_2",
     "across_weight": "equal_family",
     "outcome": "zero_fraction",
-    "estimate": 0.0004581124653342,
-    "families": 4,
+    "estimate": 0.000514402811922,
+    "families": 5,
     "population": "covered"
   },
   {
     "target": "balanced_mean_0_2",
     "across_weight": "baseline_market_cap_family",
     "outcome": "log_spread",
-    "estimate": -0.0813099288937129,
-    "families": 4,
+    "estimate": -0.0578409929041154,
+    "families": 5,
     "population": "covered"
   },
   {
     "target": "balanced_mean_0_2",
     "across_weight": "baseline_market_cap_family",
     "outcome": "log_impact",
-    "estimate": 0.2419965965883444,
-    "families": 4,
+    "estimate": 0.2108826369461259,
+    "families": 5,
     "population": "covered"
   },
   {
     "target": "balanced_mean_0_2",
     "across_weight": "baseline_market_cap_family",
     "outcome": "zero_fraction",
-    "estimate": 0.0017341971983482,
-    "families": 4,
+    "estimate": 0.0015896234928773,
+    "families": 5,
     "population": "covered"
   }
 ]
