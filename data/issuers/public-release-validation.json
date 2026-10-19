@@ -1,5 +1,5 @@
 {
-  "passed": 66,
+  "passed": 69,
   "checks": [
     {
       "check": "unique_HTML_ids",
@@ -23,6 +23,10 @@
     },
     {
       "check": "local_anchor_overview",
+      "passed": true
+    },
+    {
+      "check": "local_anchor_sample",
       "passed": true
     },
     {
@@ -54,15 +58,7 @@
       "passed": true
     },
     {
-      "check": "local_file_assets/issuer-family-spread.svg",
-      "passed": true
-    },
-    {
       "check": "local_file_assets/reader-market-cap-profiles.png",
-      "passed": true
-    },
-    {
-      "check": "local_file_assets/reader-market-cap-profiles.svg",
       "passed": true
     },
     {
@@ -163,6 +159,22 @@
     },
     {
       "check": "no_dashboard_widgets_or_JS_dependency",
+      "passed": true
+    },
+    {
+      "check": "short_topic_title",
+      "passed": true
+    },
+    {
+      "check": "sample_before_results",
+      "passed": true
+    },
+    {
+      "check": "sample_scope_explicit",
+      "passed": true
+    },
+    {
+      "check": "no_main_caption_or_tutorial_headings",
       "passed": true
     },
     {
