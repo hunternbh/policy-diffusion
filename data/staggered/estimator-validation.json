@@ -1,0 +1,307 @@
+{
+  "checks": [
+    {
+      "check": "known_constant_ATT_under_common_trend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "constant_changes_have_zero_sampling_residual",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "weighted_contrast_matches_independent_dot_product",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "shared_country_covariance_not_independent_pooling",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "all_weights_nonnegative_normalized",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "all_aggregates_reconstruct",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "bank_not_double_counted",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "no_already_treated_controls",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "no_unknown_as_never_control",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "inclusive-e0-all_weights_nonnegative_normalized",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "inclusive-e0-all_aggregates_reconstruct",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "inclusive-e0-bank_not_double_counted",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "inclusive-e0-no_already_treated_controls",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "inclusive-e0-no_unknown_as_never_control",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "JPM_preferred_trust_security_rejected",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "JPM_historical_common_CUSIP_retained",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Aareal_future_ISIN_not_backfilled",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "no_duplicate_bank_quote",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "parent_filers_not_silently_licensed_banks",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source_hash_db_2015_publication_confirmation",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source_hash_danske_2014_publication",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source_hash_danske_2014_report",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source_hash_nordea_2014_publication",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source_hash_nordea_2014_report",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source_hash_aareal_2014_report",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source_hash_kbc_bank_2014_report",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source_hash_ing_2014_filing_record",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source_hash_ing_2014_report_mirror",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source_hash_swedbank_reports_index",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source_hash_swedbank_2014_publication",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source_hash_commerzbank_2014_publication",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source_hash_erste_2014_exchange_report",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source_hash_erste_historical_index",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source_hash_apra_2013_dsib_list",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source_hash_osfi_dsib_2018_confirmation",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source_hash_gleif_api_documentation",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source_hash_did_method_documentation",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source_hash_did_aggregation_documentation",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source_hash_lloyds_2014_report",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source_hash_boi_2014_report",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source_hash_seb_reports_archive",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source_hash_seb_2014_publication",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source_hash_erste_2014_full",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source_hash_erste_2013_full",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source_hash_aareal_2014_publication",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source_hash_danske_2013_publication",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source_hash_danske_2013_report",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source_hash_seb_2014_report",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source_hash_eba_2013_credit_register",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source_hash_seb_2014_full_wrapper",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source_hash_seb_2014_full_pdf",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source_hash_eba_2014_roster",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source_hash_eba_2015_roster",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source_hash_fsb_2013_gsib",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source_hash_deutsche_2014_full_report",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source_hash_bnp_fortis_2014_annual",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source_hash_bnp_fortis_2014_half",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source_hash_hsbc_historical_report_index",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source_hash_hsbc_2014_cbcr",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source_hash_hsbc_2013_cbcr",
+      "passed": true,
+      "detail": null
+    }
+  ],
+  "passed": 60,
+  "source_hashes_verified": 41,
+  "scope": "Meaningful numerical/selection invariants; does not establish parallel trends, historical relationship continuity or causal policy assignment."
+}

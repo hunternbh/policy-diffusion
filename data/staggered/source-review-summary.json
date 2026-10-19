@@ -1,0 +1,17 @@
+{
+  "source_responses_dispositioned": 44,
+  "targeted_content_reviews": 29,
+  "failed_or_rejected_responses": 5,
+  "historical_bank_census_asof": "2013-06-30",
+  "observed_report_examples": 12,
+  "source_verified_full_report_actual_dates": [
+    "HSBC2014-06-30(partial2013)",
+    "HSBC2015-06-30(full2014)",
+    "DB2015-03-20(full2014)",
+    "Aareal2015-03-27(full2014)",
+    "Nordea2015-02-12(full2014)"
+  ],
+  "all_earliest_issuer_histories_resolved": false,
+  "earliest_E_S_G_histories_exhaustive": false,
+  "prior_legal_review": "41countryreviews/37qualifyingphases in release15 retained unchanged; new bank sources do not resolve missing global issuer thresholds."
+}

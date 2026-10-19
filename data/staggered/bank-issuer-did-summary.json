@@ -1,0 +1,16 @@
+{
+  "attempted_cells": 54,
+  "estimated_cells": 54,
+  "matched_main_treated_institutions": 24,
+  "matched_main_comparison_groups": 21,
+  "same_country_residuals_clustered": true,
+  "EU_treatment_is_one_common_policy_wave": true,
+  "bank_design_not_staggered_when_calendar_cohort_is_common": true,
+  "actual_dates_not_equated_to_first_ever_publication": true,
+  "source_verified_full_reports_with_observed_publication_dates": [
+    "Aareal Bank AG",
+    "Deutsche Bank AG",
+    "HSBC Holdings plc"
+  ],
+  "identity_limit": "Most EU matches combine current direct LEI/ISIN with historical bank census and quote validity, not an archived historical LEI-to-equity relationship. Three dated-report identity checks are reported separately."
+}

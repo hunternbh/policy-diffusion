@@ -1,0 +1,1 @@
+(()=>{const q=document.querySelector('#issuer-search'),rows=[...document.querySelectorAll('#issuer-rows tr')];q.addEventListener('input',()=>{let n=0;for(const r of rows){r.hidden=!r.textContent.toLocaleLowerCase().includes(q.value.toLocaleLowerCase());if(!r.hidden)n++}document.querySelector('#issuer-count').textContent=n+' reviewed equity-link candidates'});})();

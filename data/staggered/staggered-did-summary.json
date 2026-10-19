@@ -1,0 +1,13 @@
+{
+  "created_at": "2026-10-19T02:58:51.591255+00:00",
+  "economic_families_attempted": 17,
+  "family_result_cells": 1836,
+  "estimated_family_cells": 918,
+  "group_time_cells": 13680,
+  "pooled_cells": 432,
+  "bootstrap_draws": 1999,
+  "covariance_preserves_country_reuse_across_families": true,
+  "seed": 20261019,
+  "elapsed_seconds": 11.208942413330078,
+  "primary_aggregation": "GDP within-family; equal-family and baseline-marketcap-family across-family. Same primary-outcome family coverage; bank phases combined and publishedbenchmarkexcluded."
+}

@@ -1,0 +1,215 @@
+design,bank_name,iso3,arm
+statutory_initial_2014,Erste Group Bank AG,AUT,treated
+statutory_initial_2014,Aareal Bank AG,DEU,treated
+statutory_initial_2014,Deutsche Bank AG,DEU,treated
+statutory_initial_2014,Danske Bank A/S,DNK,treated
+statutory_initial_2014,Jyske Bank A/S,DNK,treated
+statutory_initial_2014,Sydbank A/S,DNK,treated
+statutory_initial_2014,Credit Agricole SA,FRA,treated
+statutory_initial_2014,Societe Generale SA,FRA,treated
+statutory_initial_2014,Commerzbank AG,DEU,treated
+statutory_initial_2014,Credito Emiliano SpA,ITA,treated
+statutory_initial_2014,Mediobanca SpA,ITA,treated
+statutory_initial_2014,Intesa Sanpaolo SpA,ITA,treated
+statutory_initial_2014,Bank Handlowy w Warszawie SA,POL,treated
+statutory_initial_2014,Bank Ochrony Srodowiska SA,POL,treated
+statutory_initial_2014,PKO Bank Polski SA,POL,treated
+statutory_initial_2014,Banco BPI SA,PRT,treated
+statutory_initial_2014,Banco Santander SA,ESP,treated
+statutory_initial_2014,CaixaBank SA,ESP,treated
+statutory_initial_2014,Banco de Sabadell SA,ESP,treated
+statutory_initial_2014,Bankinter SA,ESP,treated
+statutory_initial_2014,Skandinaviska Enskilda Banken AB,SWE,treated
+statutory_initial_2014,Swedbank AB,SWE,treated
+statutory_initial_2014,Bank of America,USA,comparison
+statutory_initial_2014,Bank of New York Mellon,USA,comparison
+statutory_initial_2014,Citigroup,USA,comparison
+statutory_initial_2014,Goldman Sachs,USA,comparison
+statutory_initial_2014,JPMorgan Chase,USA,comparison
+statutory_initial_2014,Morgan Stanley,USA,comparison
+statutory_initial_2014,State Street,USA,comparison
+statutory_initial_2014,Wells Fargo,USA,comparison
+statutory_initial_2014,Mitsubishi UFJ Financial Group,JPN,comparison
+statutory_initial_2014,Mizuho Financial Group,JPN,comparison
+statutory_initial_2014,Sumitomo Mitsui Financial Group,JPN,comparison
+statutory_initial_2014,Credit Suisse Group,CHE,comparison
+statutory_initial_2014,Commonwealth Bank of Australia,AUS,comparison
+statutory_initial_2014,National Australia Bank,AUS,comparison
+statutory_initial_2014,Westpac Banking Corporation,AUS,comparison
+statutory_initial_2014,Australia and New Zealand Banking Group,AUS,comparison
+statutory_initial_2014,Royal Bank of Canada,CAN,comparison
+statutory_initial_2014,Bank of Montreal,CAN,comparison
+statutory_initial_2014,Toronto-Dominion Bank,CAN,comparison
+statutory_initial_2014,National Bank of Canada,CAN,comparison
+statutory_full_2015,Erste Group Bank AG,AUT,treated
+statutory_full_2015,Aareal Bank AG,DEU,treated
+statutory_full_2015,Deutsche Bank AG,DEU,treated
+statutory_full_2015,Danske Bank A/S,DNK,treated
+statutory_full_2015,Jyske Bank A/S,DNK,treated
+statutory_full_2015,Sydbank A/S,DNK,treated
+statutory_full_2015,Credit Agricole SA,FRA,treated
+statutory_full_2015,Societe Generale SA,FRA,treated
+statutory_full_2015,Commerzbank AG,DEU,treated
+statutory_full_2015,Credito Emiliano SpA,ITA,treated
+statutory_full_2015,Mediobanca SpA,ITA,treated
+statutory_full_2015,Intesa Sanpaolo SpA,ITA,treated
+statutory_full_2015,Bank Handlowy w Warszawie SA,POL,treated
+statutory_full_2015,Bank Ochrony Srodowiska SA,POL,treated
+statutory_full_2015,PKO Bank Polski SA,POL,treated
+statutory_full_2015,Banco BPI SA,PRT,treated
+statutory_full_2015,Banco Santander SA,ESP,treated
+statutory_full_2015,CaixaBank SA,ESP,treated
+statutory_full_2015,Banco de Sabadell SA,ESP,treated
+statutory_full_2015,Bankinter SA,ESP,treated
+statutory_full_2015,Skandinaviska Enskilda Banken AB,SWE,treated
+statutory_full_2015,Swedbank AB,SWE,treated
+statutory_full_2015,Bank of America,USA,comparison
+statutory_full_2015,Bank of New York Mellon,USA,comparison
+statutory_full_2015,Citigroup,USA,comparison
+statutory_full_2015,Goldman Sachs,USA,comparison
+statutory_full_2015,JPMorgan Chase,USA,comparison
+statutory_full_2015,Morgan Stanley,USA,comparison
+statutory_full_2015,State Street,USA,comparison
+statutory_full_2015,Wells Fargo,USA,comparison
+statutory_full_2015,Mitsubishi UFJ Financial Group,JPN,comparison
+statutory_full_2015,Mizuho Financial Group,JPN,comparison
+statutory_full_2015,Sumitomo Mitsui Financial Group,JPN,comparison
+statutory_full_2015,Credit Suisse Group,CHE,comparison
+statutory_full_2015,Commonwealth Bank of Australia,AUS,comparison
+statutory_full_2015,National Australia Bank,AUS,comparison
+statutory_full_2015,Westpac Banking Corporation,AUS,comparison
+statutory_full_2015,Australia and New Zealand Banking Group,AUS,comparison
+statutory_full_2015,Royal Bank of Canada,CAN,comparison
+statutory_full_2015,Bank of Montreal,CAN,comparison
+statutory_full_2015,Toronto-Dominion Bank,CAN,comparison
+statutory_full_2015,National Bank of Canada,CAN,comparison
+dated_report_identity_only_2014,Erste Group Bank AG,AUT,treated
+dated_report_identity_only_2014,Aareal Bank AG,DEU,treated
+dated_report_identity_only_2014,Deutsche Bank AG,DEU,treated
+dated_report_identity_only_2014,Bank of America,USA,comparison
+dated_report_identity_only_2014,Bank of New York Mellon,USA,comparison
+dated_report_identity_only_2014,Citigroup,USA,comparison
+dated_report_identity_only_2014,Goldman Sachs,USA,comparison
+dated_report_identity_only_2014,JPMorgan Chase,USA,comparison
+dated_report_identity_only_2014,Morgan Stanley,USA,comparison
+dated_report_identity_only_2014,State Street,USA,comparison
+dated_report_identity_only_2014,Wells Fargo,USA,comparison
+dated_report_identity_only_2014,Mitsubishi UFJ Financial Group,JPN,comparison
+dated_report_identity_only_2014,Mizuho Financial Group,JPN,comparison
+dated_report_identity_only_2014,Sumitomo Mitsui Financial Group,JPN,comparison
+dated_report_identity_only_2014,Credit Suisse Group,CHE,comparison
+dated_report_identity_only_2014,Commonwealth Bank of Australia,AUS,comparison
+dated_report_identity_only_2014,National Australia Bank,AUS,comparison
+dated_report_identity_only_2014,Westpac Banking Corporation,AUS,comparison
+dated_report_identity_only_2014,Australia and New Zealand Banking Group,AUS,comparison
+dated_report_identity_only_2014,Royal Bank of Canada,CAN,comparison
+dated_report_identity_only_2014,Bank of Montreal,CAN,comparison
+dated_report_identity_only_2014,Toronto-Dominion Bank,CAN,comparison
+dated_report_identity_only_2014,National Bank of Canada,CAN,comparison
+observed_full_publication_subset_2015,Aareal Bank AG,DEU,treated
+observed_full_publication_subset_2015,Deutsche Bank AG,DEU,treated
+observed_full_publication_subset_2015,HSBC Holdings plc,GBR,treated
+observed_full_publication_subset_2015,Bank of America,USA,comparison
+observed_full_publication_subset_2015,Bank of New York Mellon,USA,comparison
+observed_full_publication_subset_2015,Citigroup,USA,comparison
+observed_full_publication_subset_2015,Goldman Sachs,USA,comparison
+observed_full_publication_subset_2015,JPMorgan Chase,USA,comparison
+observed_full_publication_subset_2015,Morgan Stanley,USA,comparison
+observed_full_publication_subset_2015,State Street,USA,comparison
+observed_full_publication_subset_2015,Wells Fargo,USA,comparison
+observed_full_publication_subset_2015,Mitsubishi UFJ Financial Group,JPN,comparison
+observed_full_publication_subset_2015,Mizuho Financial Group,JPN,comparison
+observed_full_publication_subset_2015,Sumitomo Mitsui Financial Group,JPN,comparison
+observed_full_publication_subset_2015,Credit Suisse Group,CHE,comparison
+observed_full_publication_subset_2015,Commonwealth Bank of Australia,AUS,comparison
+observed_full_publication_subset_2015,National Australia Bank,AUS,comparison
+observed_full_publication_subset_2015,Westpac Banking Corporation,AUS,comparison
+observed_full_publication_subset_2015,Australia and New Zealand Banking Group,AUS,comparison
+observed_full_publication_subset_2015,Royal Bank of Canada,CAN,comparison
+observed_full_publication_subset_2015,Bank of Montreal,CAN,comparison
+observed_full_publication_subset_2015,Toronto-Dominion Bank,CAN,comparison
+observed_full_publication_subset_2015,National Bank of Canada,CAN,comparison
+initial_plus_documented_HSBC_parent,Erste Group Bank AG,AUT,treated
+initial_plus_documented_HSBC_parent,Aareal Bank AG,DEU,treated
+initial_plus_documented_HSBC_parent,Deutsche Bank AG,DEU,treated
+initial_plus_documented_HSBC_parent,Danske Bank A/S,DNK,treated
+initial_plus_documented_HSBC_parent,Jyske Bank A/S,DNK,treated
+initial_plus_documented_HSBC_parent,Sydbank A/S,DNK,treated
+initial_plus_documented_HSBC_parent,Credit Agricole SA,FRA,treated
+initial_plus_documented_HSBC_parent,Societe Generale SA,FRA,treated
+initial_plus_documented_HSBC_parent,Commerzbank AG,DEU,treated
+initial_plus_documented_HSBC_parent,Credito Emiliano SpA,ITA,treated
+initial_plus_documented_HSBC_parent,Mediobanca SpA,ITA,treated
+initial_plus_documented_HSBC_parent,Intesa Sanpaolo SpA,ITA,treated
+initial_plus_documented_HSBC_parent,Bank Handlowy w Warszawie SA,POL,treated
+initial_plus_documented_HSBC_parent,Bank Ochrony Srodowiska SA,POL,treated
+initial_plus_documented_HSBC_parent,PKO Bank Polski SA,POL,treated
+initial_plus_documented_HSBC_parent,Banco BPI SA,PRT,treated
+initial_plus_documented_HSBC_parent,Banco Santander SA,ESP,treated
+initial_plus_documented_HSBC_parent,CaixaBank SA,ESP,treated
+initial_plus_documented_HSBC_parent,Banco de Sabadell SA,ESP,treated
+initial_plus_documented_HSBC_parent,Bankinter SA,ESP,treated
+initial_plus_documented_HSBC_parent,Skandinaviska Enskilda Banken AB,SWE,treated
+initial_plus_documented_HSBC_parent,Swedbank AB,SWE,treated
+initial_plus_documented_HSBC_parent,HSBC Holdings plc,GBR,treated
+initial_plus_documented_HSBC_parent,Bank of America,USA,comparison
+initial_plus_documented_HSBC_parent,Bank of New York Mellon,USA,comparison
+initial_plus_documented_HSBC_parent,Citigroup,USA,comparison
+initial_plus_documented_HSBC_parent,Goldman Sachs,USA,comparison
+initial_plus_documented_HSBC_parent,JPMorgan Chase,USA,comparison
+initial_plus_documented_HSBC_parent,Morgan Stanley,USA,comparison
+initial_plus_documented_HSBC_parent,State Street,USA,comparison
+initial_plus_documented_HSBC_parent,Wells Fargo,USA,comparison
+initial_plus_documented_HSBC_parent,Mitsubishi UFJ Financial Group,JPN,comparison
+initial_plus_documented_HSBC_parent,Mizuho Financial Group,JPN,comparison
+initial_plus_documented_HSBC_parent,Sumitomo Mitsui Financial Group,JPN,comparison
+initial_plus_documented_HSBC_parent,Credit Suisse Group,CHE,comparison
+initial_plus_documented_HSBC_parent,Commonwealth Bank of Australia,AUS,comparison
+initial_plus_documented_HSBC_parent,National Australia Bank,AUS,comparison
+initial_plus_documented_HSBC_parent,Westpac Banking Corporation,AUS,comparison
+initial_plus_documented_HSBC_parent,Australia and New Zealand Banking Group,AUS,comparison
+initial_plus_documented_HSBC_parent,Royal Bank of Canada,CAN,comparison
+initial_plus_documented_HSBC_parent,Bank of Montreal,CAN,comparison
+initial_plus_documented_HSBC_parent,Toronto-Dominion Bank,CAN,comparison
+initial_plus_documented_HSBC_parent,National Bank of Canada,CAN,comparison
+exclude_Sydbank_reorganisation,Erste Group Bank AG,AUT,treated
+exclude_Sydbank_reorganisation,Aareal Bank AG,DEU,treated
+exclude_Sydbank_reorganisation,Deutsche Bank AG,DEU,treated
+exclude_Sydbank_reorganisation,Danske Bank A/S,DNK,treated
+exclude_Sydbank_reorganisation,Jyske Bank A/S,DNK,treated
+exclude_Sydbank_reorganisation,Credit Agricole SA,FRA,treated
+exclude_Sydbank_reorganisation,Societe Generale SA,FRA,treated
+exclude_Sydbank_reorganisation,Commerzbank AG,DEU,treated
+exclude_Sydbank_reorganisation,Credito Emiliano SpA,ITA,treated
+exclude_Sydbank_reorganisation,Mediobanca SpA,ITA,treated
+exclude_Sydbank_reorganisation,Intesa Sanpaolo SpA,ITA,treated
+exclude_Sydbank_reorganisation,Bank Handlowy w Warszawie SA,POL,treated
+exclude_Sydbank_reorganisation,Bank Ochrony Srodowiska SA,POL,treated
+exclude_Sydbank_reorganisation,PKO Bank Polski SA,POL,treated
+exclude_Sydbank_reorganisation,Banco BPI SA,PRT,treated
+exclude_Sydbank_reorganisation,Banco Santander SA,ESP,treated
+exclude_Sydbank_reorganisation,CaixaBank SA,ESP,treated
+exclude_Sydbank_reorganisation,Banco de Sabadell SA,ESP,treated
+exclude_Sydbank_reorganisation,Bankinter SA,ESP,treated
+exclude_Sydbank_reorganisation,Skandinaviska Enskilda Banken AB,SWE,treated
+exclude_Sydbank_reorganisation,Swedbank AB,SWE,treated
+exclude_Sydbank_reorganisation,Bank of America,USA,comparison
+exclude_Sydbank_reorganisation,Bank of New York Mellon,USA,comparison
+exclude_Sydbank_reorganisation,Citigroup,USA,comparison
+exclude_Sydbank_reorganisation,Goldman Sachs,USA,comparison
+exclude_Sydbank_reorganisation,JPMorgan Chase,USA,comparison
+exclude_Sydbank_reorganisation,Morgan Stanley,USA,comparison
+exclude_Sydbank_reorganisation,State Street,USA,comparison
+exclude_Sydbank_reorganisation,Wells Fargo,USA,comparison
+exclude_Sydbank_reorganisation,Mitsubishi UFJ Financial Group,JPN,comparison
+exclude_Sydbank_reorganisation,Mizuho Financial Group,JPN,comparison
+exclude_Sydbank_reorganisation,Sumitomo Mitsui Financial Group,JPN,comparison
+exclude_Sydbank_reorganisation,Credit Suisse Group,CHE,comparison
+exclude_Sydbank_reorganisation,Commonwealth Bank of Australia,AUS,comparison
+exclude_Sydbank_reorganisation,National Australia Bank,AUS,comparison
+exclude_Sydbank_reorganisation,Westpac Banking Corporation,AUS,comparison
+exclude_Sydbank_reorganisation,Australia and New Zealand Banking Group,AUS,comparison
+exclude_Sydbank_reorganisation,Royal Bank of Canada,CAN,comparison
+exclude_Sydbank_reorganisation,Bank of Montreal,CAN,comparison
+exclude_Sydbank_reorganisation,Toronto-Dominion Bank,CAN,comparison
+exclude_Sydbank_reorganisation,National Bank of Canada,CAN,comparison

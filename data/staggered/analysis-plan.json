@@ -1,0 +1,69 @@
+{
+  "frozen_at": "2026-10-19T02:29:11.109232+00:00",
+  "human_weight_instruction": "Do both equal and market-cap weights across families. Retain proposed GDP weighting within families, and provide equal-country/market-cap within-family alternatives.",
+  "estimand": "Family-specific group-time DiD followed by explicit nonnegative cohort/time aggregation within families and nonnegative aggregation across supported regulation families. A country-market policy-exposure estimand, separate from bank-issuer tests.",
+  "method": "Unconditional panel group-time DID building blocks following Callaway/SantAnna. Separate regulation-family treatment G by country; not-yet-treated known controls only; no already-treated focal-family controls. No generic TWFE coefficient.",
+  "family_definition": "17economic regulation classes: combine BANK_PARTIAL/FULL as one bank-public-CbCR family using initial2014publicphase in primary. Full2015is a separate phase sensitivity, not an extra equally weighted family. Published ESG benchmark is separate, never counted twice.",
+  "primary_country_outcomes": "Mean of annual screened security-level logspread,logimpact,zerofraction within country, with>=30validsecurityobservations for eachoutcome/year. Market composition may change and is explicitly checked in fixed-security sensitivity.",
+  "outcomes": [
+    "log_spread",
+    "log_impact",
+    "zero_fraction",
+    "illiquidity_pc1",
+    "log_trading_value_to_cap",
+    "return_volatility"
+  ],
+  "event_times": [
+    -3,
+    -2,
+    0,
+    1,
+    2
+  ],
+  "reference_event_time": -1,
+  "primary_summary": "Equal average of e=0,1,2, requiring the same supported cohorts and countries for all five estimated pre/post event times. This prevents early-cohort overrepresentation and changing event-study support.",
+  "controls": "For each cohort g, require known G>g+2, not missing-as-never. Bank nonEUhome geography controls remain explicitly subject to foreign-subsidiary exposure; EEAoutsideEUexcluded. Unknown other-law histories are not certified absent.",
+  "weights_within_family": [
+    "equal_country",
+    "gdp_constant_usd",
+    "baseline_market_cap"
+  ],
+  "weights_across_families": [
+    "equal_family",
+    "baseline_market_cap_family"
+  ],
+  "market_cap_definition": "Sum sampled quote marketcaps in g-1 across supported treated country/cohort cells, once per family. Fixed across eventtimes. Across-family cap weights count repeated exposure to different laws and are not a unique-firm portfolio marketcap.",
+  "common_coverage": "Primary cross-family comparison uses the same regulation-family set across all three primary outcomes and both requested across-family weights, conditional on within-family weight scheme. Additional available-family estimates disclosed separately. Unsupported families are listed, never entered as zero.",
+  "support": "Point estimate requires at least1treated and3controlcountries in a cohort and complete annual countryoutcomes in g-3..g+2. Inference flags fewer than5treated or5controlcountries/clusters and singlecollectivewave designs; no false policy-replication claim.",
+  "inference": "Country-cluster influence-function multiplier draws shared across all cohort/family/outcome cells to preserve repeated-country covariance.1999Rademacher draws,fixedseed20261019. Report pointwiseSE/95CI and joint max-t eventprofile bands; also conservative EU-as-one-block diagnostics with explicit single-treated-block flag. These are conditional market-sampling diagnostics, not proof of exogenous regulation or independent national policy choices.",
+  "sensitivity_configurations": [
+    "baseline",
+    "one_year_public_availability_lag",
+    "fixed_security_composition",
+    "exclude_documented_other_family_events",
+    "independent_choices_only",
+    "bank_full_phase_calendar"
+  ],
+  "pretrends": "Report leads e=-3,-2, joint bootstrap pretrend diagnostic and simultaneous bands. Do not drop or select families according to pretest p-values.",
+  "bank_issuer_protocol": "Map historical EBAgroup identities and public entity/ISIN evidence to major primary Datastream equities. Keep direct institution vs listed parent vs subsidiary distinct, de-duplicate group/ISIN/shareclasses. Exact identifier and dated-source-confirmed links separated from current-only/fuzzy candidates. No fuzzy match auto-promoted. Record actual publication dates only with primary dated evidence; statutory deadlines/reportperiod ends remain separate.",
+  "bank_issuer_design": "Annual issuer-level home-regime exposure DID with verified matched banking groups and separately documented nonEUbank comparison issuers; foreignEUsubsidiary spillovers flagged. Additional first-observed-public-filing timing estimates only for issuers with evidenced dates and sufficient not-yet/othercontrol support. Unresolved issuer/date rows remain in an explicit disposition table, not fabricated.",
+  "selection": "All supported families, requested weights, contrary results, unsupported designs, failed fits and match dispositions retained. Main paper concerns all-regulation aggregation; banking is a separate issuer-level application.",
+  "legal_scope_limits": "Country phases are not universal issuer eligibility or a certified first-ever E/S/G topic census. Simultaneous other regulations can confound individual law effects. No causal claim without credible paralleltrends/noanticipation/nointerference assumptions.",
+  "input_hashes": {
+    "data/classified-dated-policy-cases.csv": "88dcb4fb7594cb179901125c8250176d20ab227f4882fa950e896cd54e25534d",
+    "data/macro-country-year.csv": "f02902991d0e4f7f7447005ef224315c5dea694702608886004644e351558585",
+    "data/mandatory-topic-and-issuer-coverage.json": "4268380788a79161af456c9e796f55a2790496b96ea7e29a5706dc8ebc32d590",
+    "data/banking-historical-group-roster.csv": "0b97583d28478c84e4b316d935969235511623a47f8431ce04d742143cf99117"
+  },
+  "coverage_amendment": {
+    "recorded_at": "2026-10-19T02:33:02.849020+00:00",
+    "prior_plan_sha256": "75587a8a80451294955213a7aed8f8749d93bcc4228d225f86e9d589b68bb758",
+    "new_coefficient_values_inspected": false,
+    "reason": "The human requests all regulation families. Requiring three earlier years and two later years excludes laws solely because of panel boundaries. Add first-year group-timeDID with just g-1/g support as an explicitly broader endpoint, retaining the frozen balanced0..2 design and its event/pretrend diagnostics. No sign/significance-based inclusion.",
+    "endpoints": [
+      "inclusive_e0_known_later_controls",
+      "balanced_mean_e0_e1_e2_common_prepost_support"
+    ],
+    "comparison": "Family coverage differs across endpoints; never imply a horizon difference is only a dynamic effect. Unsupported families still listed, never zero."
+  }
+}
