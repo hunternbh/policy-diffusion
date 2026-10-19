@@ -1,0 +1,40 @@
+{
+  "resolved": [
+    {
+      "gap": "Rio statutory filing",
+      "resolution": "Official parent register and every payload table confirm29June2016;28Junevoluntaryrelease retained separately."
+    },
+    {
+      "gap": "Extractive parent coverage",
+      "resolution": "Rio, Anglo and Ferrexpo positive group statutory filings; Fresnillo full public statutory report recovered in RNS15June2016. Original reports and bounded pre-event ordinary-share matches corroborate identity."
+    },
+    {
+      "gap": "Governance issuer coverage",
+      "resolution": "Five original FY2011report Code statements and US parent comparison source filters; first2010Code revision cycle."
+    }
+  ],
+  "partially_resolved": [
+    {
+      "gap": "Publication days",
+      "resolution": "BAE26March and ITV29March source available; other governance reporters use corroborated2012year, no approval/archive stamp substituted."
+    },
+    {
+      "gap": "Foreign venue/subsidiary exposure",
+      "resolution": "Direct foreign-listing/Code flags withheld; no complete historical legal-group/venue panel exists."
+    }
+  ],
+  "remaining": [
+    {
+      "gap": "Fresnillo2015statutory package",
+      "reason": "Official2015record has start-filing link; full statutory public report recovered15June2016. Actual register filing day still unlocated, not exemption."
+    },
+    {
+      "gap": "Global financial size and issuer ownership histories",
+      "reason": "Selected Compustat and vendor identifiers do not constitute a global historical Worldscope/ownership/venue panel."
+    },
+    {
+      "gap": "Other family eligibility and confidential filing dates",
+      "reason": "Public country calendars and public reports do not establish every issuer threshold/exemption or nonpublic tax-return date."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "new_governance_issuer_reports": 5,
+  "additional_control_full_filings": 353,
+  "control_candidates": 120,
+  "source_complete_three_years": 100,
+  "new_extractive_issuers": 4,
+  "total_extractive_issuers": 7,
+  "Rio_statutory_filing_date": "2016-06-29",
+  "Anglo_statutory_filing_date": "2016-06-30",
+  "Ferrexpo_statutory_filing_date": "2016-06-28",
+  "official_filing_CSVs_preserved": 12,
+  "local_original_governance_and_prior_reports": 7,
+  "governance_phase": "2010UKCode revision, FY2011reporting public2012, not first-ever governance disclosure",
+  "date_uncertainty_retained": [
+    "Pearson approval7March versus mailing22March/submissionannouncement23March",
+    "GKN actual first public day unresolved",
+    "Drax approval20February versus mailing8March, first public day unresolved",
+    "BMW scheduled day not actual-day proof"
+  ],
+  "OCR_needed": false,
+  "selected_source_documents_preserved": true,
+  "failed_primary_requests_retained": true,
+  "global_eligibility_complete": false
+}

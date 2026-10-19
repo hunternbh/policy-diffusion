@@ -53,13 +53,176 @@
       "prior_reporting_review": "Explicit early adopter since2013; FY2015 first mandatory cycle, not first-ever disclosure.",
       "source_origin": "Total original recovered from all-data EU report ZIP; BP and Tullow issuer-origin statutory PDFs recovered on archival mirrors after direct primary download failure. Archived CSR PDFs corroborate issuer and prior reporting.",
       "global_group_eligibility_certified": false
-    }
-  ],
-  "not_admitted": [
+    },
     {
       "issuer": "Rio Tinto plc",
-      "reason": "Voluntary Taxes paid report release28June2016 is not the separately required statutory filing. First statutory actual publication still unverified; no liquidity coefficient inspected for candidate."
+      "family": "EXTRACTIVE_PAYMENTS",
+      "study": "Extractive_first_statutory_reports",
+      "required_reporting_period": "2015-01-01/2015-12-31",
+      "observed_publication_year": 2016,
+      "actual_publication_date": "2016-06-29",
+      "actual_statutory_filing_date": "2016-06-29",
+      "date_precision": "day_official_register_and_all_filing_CSVs",
+      "source_key": "Rio_Tinto_plc_registry",
+      "primary_source_url": "https://extractives.company-information.service.gov.uk/company/00719885",
+      "statutory_package_url": "https://extractives.company-information.service.gov.uk/company/00719885/year/2015/version/1/zip",
+      "document_sha256": "c91fe837ad2902c355910fc7873f1bae597564b5573537fd9b86bc09d8dab40b",
+      "registry_HTML_sha256": "e768dcc82a1a9483af3247ad88c10c7fb528c61c5db7e4bd6afdc709aeea6a6c",
+      "company_number": "00719885",
+      "statutory_payload_members": [
+        {
+          "member": "government-payments-rio-tinto-plc-2015.csv",
+          "rows": 42,
+          "sha256": "932f4ffd9b5df5c198b05431eccda0119a36e387802ccc344521c354a86d4ddf",
+          "FilingDate": "29 Jun 2016"
+        },
+        {
+          "member": "government-totals-rio-tinto-plc-2015.csv",
+          "rows": 29,
+          "sha256": "06851a9b4c870cfaaa45a5aeebe6909582f7c308b9f1052526c5b750ff21bf19",
+          "FilingDate": "29 Jun 2016"
+        },
+        {
+          "member": "project-payments-rio-tinto-plc-2015.csv",
+          "rows": 51,
+          "sha256": "ffd28e5dc570205fcb7bea430464924e518c5babede363991c14e80e7b2d07ed",
+          "FilingDate": "29 Jun 2016"
+        },
+        {
+          "member": "project-totals-rio-tinto-plc-2015.csv",
+          "rows": 29,
+          "sha256": "502c31585bc850171060942dd85ca373fc7ecde54849534e5940eee2acaee36f",
+          "FilingDate": "29 Jun 2016"
+        }
+      ],
+      "issuer_identity_basis": "Official parent company name/number; original archived issuer report and catalogue ISIN; exact bounded2015home ordinary quote. Rio UK plc quote selected, not Australian Ltd sibling.",
+      "legal_scope": "Positive official annual extractive group filing for FY2015; UK statutory reporting. Domestic incorporation and group reporting fact, not inferred from trading-country alone.",
+      "prior_reporting_review": "Rio voluntary Taxes paid report release28June2016 is separate from statutory register29June2016; report contains project detail and prior annual voluntary tax reporting, so first-ever information is not asserted.",
+      "global_group_eligibility_certified": false
+    },
+    {
+      "issuer": "Anglo American plc",
+      "family": "EXTRACTIVE_PAYMENTS",
+      "study": "Extractive_first_statutory_reports",
+      "required_reporting_period": "2015-01-01/2015-12-31",
+      "observed_publication_year": 2016,
+      "actual_publication_date": "2016-06-30",
+      "actual_statutory_filing_date": "2016-06-30",
+      "date_precision": "day_official_register_and_all_filing_CSVs",
+      "source_key": "Anglo_American_plc_registry",
+      "primary_source_url": "https://extractives.company-information.service.gov.uk/company/03564138",
+      "statutory_package_url": "https://extractives.company-information.service.gov.uk/company/03564138/year/2015/version/1/zip",
+      "document_sha256": "ad763b98617a45df99d711a78caa34217951306809fc999a27b56d0ee1b238c9",
+      "registry_HTML_sha256": "da55578a8400572d35fc3ead942a98d0e2f5acdb2d1b823131c11476458b6d84",
+      "company_number": "03564138",
+      "statutory_payload_members": [
+        {
+          "member": "government-payments-anglo-american-plc-2015.csv",
+          "rows": 82,
+          "sha256": "acfaa5110ee6a508866993f6f8c49139daf7aae2050e48ce661c28009ec7a17f",
+          "FilingDate": "30 Jun 2016"
+        },
+        {
+          "member": "government-totals-anglo-american-plc-2015.csv",
+          "rows": 62,
+          "sha256": "5553490b1e773e32caffa2df531e10a39b0068fa07b0bdb71c8e8b5949d31395",
+          "FilingDate": "30 Jun 2016"
+        },
+        {
+          "member": "project-payments-anglo-american-plc-2015.csv",
+          "rows": 102,
+          "sha256": "edd8f28cf35c3f54be36061247160a7126df5fce98d6b973291b4a9e9ecc3339",
+          "FilingDate": "30 Jun 2016"
+        },
+        {
+          "member": "project-totals-anglo-american-plc-2015.csv",
+          "rows": 59,
+          "sha256": "e5878b1af9a4eea8801aed4f999aa3cf52c1f6bcbd473f92465274e98f2864fc",
+          "FilingDate": "30 Jun 2016"
+        }
+      ],
+      "issuer_identity_basis": "Official parent company name/number; original archived issuer report and catalogue ISIN; exact bounded2015home ordinary quote. Rio UK plc quote selected, not Australian Ltd sibling.",
+      "legal_scope": "Positive official annual extractive group filing for FY2015; UK statutory reporting. Domestic incorporation and group reporting fact, not inferred from trading-country alone.",
+      "prior_reporting_review": "Earlier sustainability/tax information may exist; statutory first cycle is not asserted first-ever disclosure.",
+      "global_group_eligibility_certified": false
+    },
+    {
+      "issuer": "Ferrexpo plc",
+      "family": "EXTRACTIVE_PAYMENTS",
+      "study": "Extractive_first_statutory_reports",
+      "required_reporting_period": "2015-01-01/2015-12-31",
+      "observed_publication_year": 2016,
+      "actual_publication_date": "2016-06-28",
+      "actual_statutory_filing_date": "2016-06-28",
+      "date_precision": "day_official_register_and_all_filing_CSVs",
+      "source_key": "Ferrexpo_plc_registry",
+      "primary_source_url": "https://extractives.company-information.service.gov.uk/company/05432915",
+      "statutory_package_url": "https://extractives.company-information.service.gov.uk/company/05432915/year/2015/version/1/zip",
+      "document_sha256": "9f42810395ae96c5cdc5cc72f87f58ee5e5b3c079f8cfa7f859248b9d979d72b",
+      "registry_HTML_sha256": "020d288d982f25977030c5ad38deeac23e7b03da7c821c6620d7ac93b6b8fc08",
+      "company_number": "05432915",
+      "statutory_payload_members": [
+        {
+          "member": "government-payments-ferrexpo-plc-2015.csv",
+          "rows": 6,
+          "sha256": "585976816194372622ca43380c692771dc34193dd5852021545e7313b844fc64",
+          "FilingDate": "28 Jun 2016"
+        },
+        {
+          "member": "government-totals-ferrexpo-plc-2015.csv",
+          "rows": 3,
+          "sha256": "a8bd69b3f39324b8b8b3de2f9565eaefa6d5399aab65e445163f04e4c6d62735",
+          "FilingDate": "28 Jun 2016"
+        },
+        {
+          "member": "project-payments-ferrexpo-plc-2015.csv",
+          "rows": 2,
+          "sha256": "0b1a6d5b3446cdd0a967c4fbdc07608b0b9163da501dde6cdb476956c0487a61",
+          "FilingDate": "28 Jun 2016"
+        },
+        {
+          "member": "project-totals-ferrexpo-plc-2015.csv",
+          "rows": 1,
+          "sha256": "804155df35848657f9be3ec7272ee1d65f272fd594f9d24d73f817b2c2b358c6",
+          "FilingDate": "28 Jun 2016"
+        }
+      ],
+      "issuer_identity_basis": "Official parent company name/number; original archived issuer report and catalogue ISIN; exact bounded2015home ordinary quote. Rio UK plc quote selected, not Australian Ltd sibling.",
+      "legal_scope": "Positive official annual extractive group filing for FY2015; UK statutory reporting. Domestic incorporation and group reporting fact, not inferred from trading-country alone.",
+      "prior_reporting_review": "Earlier sustainability/tax information may exist; statutory first cycle is not asserted first-ever disclosure.",
+      "global_group_eligibility_certified": false
+    },
+    {
+      "issuer": "Fresnillo plc",
+      "family": "EXTRACTIVE_PAYMENTS",
+      "study": "Extractive_first_statutory_reports",
+      "required_reporting_period": "2015-01-01/2015-12-31",
+      "observed_publication_year": 2016,
+      "actual_publication_date": "2016-06-15",
+      "actual_statutory_filing_date": null,
+      "date_precision": "day_full_statutory_report_in_issuer_RNS;CompaniesHouse_filing_date_unknown",
+      "source_key": "Fresnillo_2015_RNS_full_statutory_report",
+      "primary_source_url": "https://shareprices.com/rns/report-on-payments-to-governments-3wga25waz6o1bo5/",
+      "document_sha256": "af6708033ee1f5dc91212731e0cd82fe7f36d17bfa021416800dd2bb3933c9cc",
+      "RNS_number": "2368B",
+      "legal_scope": "Full issuer-authored FY2015group payment report expressly applies UK2014regulations and2015amendment and FCA DTR obligations. Positive mandatory-report coverage and actual public release are established independently of missing register package.",
+      "issuer_identity_basis": "Named UK parent in full RNS; original all-data2015annual report and catalogue ISIN; same bounded pre2016GBR ordinary quote.",
+      "prior_reporting_review": "First statutory2015cycle, not asserted first-ever tax or sustainability information.",
+      "registry_boundary": "No2015filed CompaniesHouse package located; actual statutory registry filing day remains unknown. This is not a noncoverage classification.",
+      "global_group_eligibility_certified": false
     }
   ],
-  "boundary": "Selected source-supported statutory reporters; not all-country eligible issuer universe. Actual first mandatory information can follow voluntary reporting."
+  "resolved_Rio": {
+    "company_number": "00719885",
+    "FY2015_statutory_filing_date": "2016-06-29",
+    "voluntary_Taxes_paid_release_date": "2016-06-28",
+    "first_ever_information_not_certified": true
+  },
+  "registry_gaps": [
+    {
+      "issuer": "Fresnillo plc",
+      "reason": "Actual public statutory report recovered in full RNS15June2016. No2015filed package located in official register; registry filing day remains unknown, not legal noncoverage."
+    }
+  ],
+  "boundary": "Official statutory filing dates, earlier public reports and group/quote identity are distinct. No complete global subsidiary noncoverage claim."
 }

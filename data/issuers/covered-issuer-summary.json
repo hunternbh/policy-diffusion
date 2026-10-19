@@ -4,8 +4,8 @@
     "2020": 1025,
     "2021": 625
   },
-  "source_corroborated_studies_attempted": 8,
-  "economic_families_attempted_in_covered_subset": 7,
+  "source_corroborated_studies_attempted": 9,
+  "economic_families_attempted_in_covered_subset": 8,
   "covered_subset_all_families_complete": false,
   "source_fact_records": [
     {
@@ -33,8 +33,8 @@
       "Cisco_signature_date_not_substituted_for_filing": "2014-05-30"
     }
   ],
-  "family_cells": 144,
-  "estimated_family_cells": 126,
+  "family_cells": 162,
+  "estimated_family_cells": 144,
   "aggregate_cells": 72,
   "sampling_inference_only_no_causal_policy_pvalues": true
 }

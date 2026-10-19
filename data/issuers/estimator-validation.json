@@ -1,5 +1,5 @@
 {
-  "passed": 161,
+  "passed": 214,
   "checks": [
     {
       "check": "issuer-exposure_all_aggregate_contributions_reconstruct",
@@ -342,6 +342,18 @@
       "passed": true
     },
     {
+      "check": "raw_GDP_reconstruction_UK_2010_governance_code_reports_balanced_mean_0_2_log_spread",
+      "passed": true
+    },
+    {
+      "check": "raw_GDP_reconstruction_UK_2010_governance_code_reports_balanced_mean_0_2_log_impact",
+      "passed": true
+    },
+    {
+      "check": "raw_GDP_reconstruction_UK_2010_governance_code_reports_balanced_mean_0_2_zero_fraction",
+      "passed": true
+    },
+    {
       "check": "raw_GDP_reconstruction_first_cycle_conflict_mineral_reporters_balanced_mean_0_2_log_spread",
       "passed": true
     },
@@ -435,6 +447,18 @@
     },
     {
       "check": "raw_GDP_reconstruction_SEC_XBRL_2009_early_phase_inclusive_first_year_zero_fraction",
+      "passed": true
+    },
+    {
+      "check": "raw_GDP_reconstruction_UK_2010_governance_code_reports_inclusive_first_year_log_spread",
+      "passed": true
+    },
+    {
+      "check": "raw_GDP_reconstruction_UK_2010_governance_code_reports_inclusive_first_year_log_impact",
+      "passed": true
+    },
+    {
+      "check": "raw_GDP_reconstruction_UK_2010_governance_code_reports_inclusive_first_year_zero_fraction",
       "passed": true
     },
     {
@@ -550,7 +574,7 @@
       "passed": true
     },
     {
-      "check": "seven_first_year_five_balanced_source_supported_families",
+      "check": "eight_first_year_six_balanced_source_supported_families",
       "passed": true
     },
     {
@@ -570,7 +594,7 @@
       "passed": true
     },
     {
-      "check": "extractive_three_positive_legal_report_reviews",
+      "check": "extractive_seven_positive_legal_report_reviews",
       "passed": true
     },
     {
@@ -643,6 +667,194 @@
     },
     {
       "check": "diffusion_full_matrix_refitted_same_legal_input",
+      "passed": true
+    },
+    {
+      "check": "five_positive_revised_Code_reporters",
+      "passed": true
+    },
+    {
+      "check": "revision_not_initial_national_adoption",
+      "passed": true
+    },
+    {
+      "check": "source_support_amendment_keeps_all_initial_candidates",
+      "passed": true
+    },
+    {
+      "check": "support_amendment_before_any_governance_estimate",
+      "passed": true
+    },
+    {
+      "check": "governance_comparisons_pass_each_postyear_source_filter",
+      "passed": true
+    },
+    {
+      "check": "BAE_and_ITV_actual_dated_public_report_evidence",
+      "passed": true
+    },
+    {
+      "check": "uncertain_governance_days_withheld",
+      "passed": true
+    },
+    {
+      "check": "new_source_hash_BAE_Systems_plc_2011",
+      "passed": true
+    },
+    {
+      "check": "new_source_hash_BAE_Systems_plc_2012",
+      "passed": true
+    },
+    {
+      "check": "new_source_hash_Pearson_plc_2012",
+      "passed": true
+    },
+    {
+      "check": "new_source_hash_GKN_plc_2012",
+      "passed": true
+    },
+    {
+      "check": "new_source_hash_Drax_Group_plc_2011",
+      "passed": true
+    },
+    {
+      "check": "new_source_hash_Drax_Group_plc_2012",
+      "passed": true
+    },
+    {
+      "check": "new_source_hash_ITV_plc_2012",
+      "passed": true
+    },
+    {
+      "check": "new_source_hash_Rio_statutory_register",
+      "passed": true
+    },
+    {
+      "check": "new_source_hash_Rio_2015_statutory_zip",
+      "passed": true
+    },
+    {
+      "check": "new_source_hash_UK_government_2010_code",
+      "passed": true
+    },
+    {
+      "check": "new_source_hash_FRC_2009_10_annual",
+      "passed": true
+    },
+    {
+      "check": "new_source_hash_Rio_Tinto_plc_registry",
+      "passed": true
+    },
+    {
+      "check": "new_source_hash_Anglo_American_plc_registry",
+      "passed": true
+    },
+    {
+      "check": "new_source_hash_Fresnillo_plc_registry",
+      "passed": true
+    },
+    {
+      "check": "new_source_hash_Ferrexpo_plc_registry",
+      "passed": true
+    },
+    {
+      "check": "new_source_hash_BAE_Systems_plc_publication_RNS",
+      "passed": true
+    },
+    {
+      "check": "new_source_hash_Pearson_plc_publication_RNS",
+      "passed": true
+    },
+    {
+      "check": "new_source_hash_Drax_Group_plc_publication_RNS",
+      "passed": true
+    },
+    {
+      "check": "new_source_hash_ITV_plc_publication_RNS",
+      "passed": true
+    },
+    {
+      "check": "new_source_hash_Fresnillo_2015_RNS_full_statutory_report",
+      "passed": true
+    },
+    {
+      "check": "Rio_statutory29June_not_voluntary28June",
+      "passed": true
+    },
+    {
+      "check": "official_four_payload_tables_00719885",
+      "passed": true
+    },
+    {
+      "check": "official_identity_period_government-payments-rio-tinto-plc-2015.csv",
+      "passed": true
+    },
+    {
+      "check": "official_identity_period_government-totals-rio-tinto-plc-2015.csv",
+      "passed": true
+    },
+    {
+      "check": "official_identity_period_project-payments-rio-tinto-plc-2015.csv",
+      "passed": true
+    },
+    {
+      "check": "official_identity_period_project-totals-rio-tinto-plc-2015.csv",
+      "passed": true
+    },
+    {
+      "check": "official_four_payload_tables_03564138",
+      "passed": true
+    },
+    {
+      "check": "official_identity_period_government-payments-anglo-american-plc-2015.csv",
+      "passed": true
+    },
+    {
+      "check": "official_identity_period_government-totals-anglo-american-plc-2015.csv",
+      "passed": true
+    },
+    {
+      "check": "official_identity_period_project-payments-anglo-american-plc-2015.csv",
+      "passed": true
+    },
+    {
+      "check": "official_identity_period_project-totals-anglo-american-plc-2015.csv",
+      "passed": true
+    },
+    {
+      "check": "official_four_payload_tables_05432915",
+      "passed": true
+    },
+    {
+      "check": "official_identity_period_government-payments-ferrexpo-plc-2015.csv",
+      "passed": true
+    },
+    {
+      "check": "official_identity_period_government-totals-ferrexpo-plc-2015.csv",
+      "passed": true
+    },
+    {
+      "check": "official_identity_period_project-payments-ferrexpo-plc-2015.csv",
+      "passed": true
+    },
+    {
+      "check": "official_identity_period_project-totals-ferrexpo-plc-2015.csv",
+      "passed": true
+    },
+    {
+      "check": "national_legal_calendar_unchanged",
+      "passed": true
+    },
+    {
+      "check": "Fresnillo_actual_public_report_not_imputed_registry_filing",
+      "passed": true
+    },
+    {
+      "check": "all_current_input_provenance_hashes_match",
+      "passed": true
+    },
+    {
+      "check": "extractive_original_three_retained_plus_four_positive_source_reports",
       "passed": true
     }
   ],

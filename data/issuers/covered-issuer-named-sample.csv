@@ -37,7 +37,11 @@ inclusive_first_year,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2
 inclusive_first_year,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,GILEAD SCIENCES INCO.,USA,comparison,9999
 inclusive_first_year,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,COSTCO WHOLESALE CORP.,USA,comparison,9999
 inclusive_first_year,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,TEXAS INSTRUMENTS INCO.,USA,comparison,9999
+inclusive_first_year,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,Anglo American plc,GBR,treated,2016
 inclusive_first_year,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,BP plc,GBR,treated,2016
+inclusive_first_year,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,Ferrexpo plc,GBR,treated,2016
+inclusive_first_year,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,Fresnillo plc,GBR,treated,2016
+inclusive_first_year,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,Rio Tinto plc,GBR,treated,2016
 inclusive_first_year,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,Total SA,FRA,treated,2016
 inclusive_first_year,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,Tullow Oil plc,GBR,treated,2016
 inclusive_first_year,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,MARATHON OIL CORP.,USA,comparison,9999
@@ -4437,6 +4441,51 @@ inclusive_first_year,XBRL,SEC_XBRL_2009_early_phase,2009,PEET'S COF.& TEA INCO.,
 inclusive_first_year,XBRL,SEC_XBRL_2009_early_phase,2009,ISTA PHARMS.INCO.,USA,comparison,9999
 inclusive_first_year,XBRL,SEC_XBRL_2009_early_phase,2009,OPKO HEALTH INCO.,USA,comparison,9999
 inclusive_first_year,XBRL,SEC_XBRL_2009_early_phase,2009,CRAY INCO.,USA,comparison,9999
+inclusive_first_year,GOVERNANCE,UK_2010_governance_code_reports,2012,BAE Systems plc,GBR,treated,2012
+inclusive_first_year,GOVERNANCE,UK_2010_governance_code_reports,2012,Drax Group plc,GBR,treated,2012
+inclusive_first_year,GOVERNANCE,UK_2010_governance_code_reports,2012,GKN plc,GBR,treated,2012
+inclusive_first_year,GOVERNANCE,UK_2010_governance_code_reports,2012,ITV plc,GBR,treated,2012
+inclusive_first_year,GOVERNANCE,UK_2010_governance_code_reports,2012,Pearson plc,GBR,treated,2012
+inclusive_first_year,GOVERNANCE,UK_2010_governance_code_reports,2012,NETAPP INCO.,USA,comparison,9999
+inclusive_first_year,GOVERNANCE,UK_2010_governance_code_reports,2012,MARATHON OIL CORP.,USA,comparison,9999
+inclusive_first_year,GOVERNANCE,UK_2010_governance_code_reports,2012,JUNIPER NETWORKS INCO.,USA,comparison,9999
+inclusive_first_year,GOVERNANCE,UK_2010_governance_code_reports,2012,RAYTHEON CO.,USA,comparison,9999
+inclusive_first_year,GOVERNANCE,UK_2010_governance_code_reports,2012,BROADCOM CORP.,USA,comparison,9999
+inclusive_first_year,GOVERNANCE,UK_2010_governance_code_reports,2012,DEVON ENERGY CORP.,USA,comparison,9999
+inclusive_first_year,GOVERNANCE,UK_2010_governance_code_reports,2012,TIME WARNER INCO.,USA,comparison,9999
+inclusive_first_year,GOVERNANCE,UK_2010_governance_code_reports,2012,MONSANTO CO.,USA,comparison,9999
+inclusive_first_year,GOVERNANCE,UK_2010_governance_code_reports,2012,COMCAST CORP.,USA,comparison,9999
+inclusive_first_year,GOVERNANCE,UK_2010_governance_code_reports,2012,LAS VEGAS SANDS CORP.,USA,comparison,9999
+inclusive_first_year,GOVERNANCE,UK_2010_governance_code_reports,2012,VIACOM INCO.,USA,comparison,9999
+inclusive_first_year,GOVERNANCE,UK_2010_governance_code_reports,2012,SPECTRA ENERGY CORP.,USA,comparison,9999
+inclusive_first_year,GOVERNANCE,UK_2010_governance_code_reports,2012,TIME WARNER CABLE INCO.,USA,comparison,9999
+inclusive_first_year,GOVERNANCE,UK_2010_governance_code_reports,2012,PHILIP MORRIS INTL.INCO.,USA,comparison,9999
+inclusive_first_year,GOVERNANCE,UK_2010_governance_code_reports,2012,CSX CORP.,USA,comparison,9999
+inclusive_first_year,GOVERNANCE,UK_2010_governance_code_reports,2012,STRYKER CORP.,USA,comparison,9999
+inclusive_first_year,GOVERNANCE,UK_2010_governance_code_reports,2012,AMGEN INCO.,USA,comparison,9999
+inclusive_first_year,GOVERNANCE,UK_2010_governance_code_reports,2012,NIKE INCO.,USA,comparison,9999
+inclusive_first_year,GOVERNANCE,UK_2010_governance_code_reports,2012,APPLE INCO.,USA,comparison,9999
+inclusive_first_year,GOVERNANCE,UK_2010_governance_code_reports,2012,EMERSON ELECTRIC CO.,USA,comparison,9999
+inclusive_first_year,GOVERNANCE,UK_2010_governance_code_reports,2012,HESS CORP.,USA,comparison,9999
+inclusive_first_year,GOVERNANCE,UK_2010_governance_code_reports,2012,INTEL CORP.,USA,comparison,9999
+inclusive_first_year,GOVERNANCE,UK_2010_governance_code_reports,2012,APPLIED MATS.INCO.,USA,comparison,9999
+inclusive_first_year,GOVERNANCE,UK_2010_governance_code_reports,2012,PACCAR INCO.,USA,comparison,9999
+inclusive_first_year,GOVERNANCE,UK_2010_governance_code_reports,2012,ANADARKO PETROLEUM CORP.,USA,comparison,9999
+inclusive_first_year,GOVERNANCE,UK_2010_governance_code_reports,2012,PEPSICO INCO.,USA,comparison,9999
+inclusive_first_year,GOVERNANCE,UK_2010_governance_code_reports,2012,EMC CORP.,USA,comparison,9999
+inclusive_first_year,GOVERNANCE,UK_2010_governance_code_reports,2012,PRECN.CASTPARTS CORP.,USA,comparison,9999
+inclusive_first_year,GOVERNANCE,UK_2010_governance_code_reports,2012,QUALCOMM INCO.,USA,comparison,9999
+inclusive_first_year,GOVERNANCE,UK_2010_governance_code_reports,2012,CELGENE CORP.,USA,comparison,9999
+inclusive_first_year,GOVERNANCE,UK_2010_governance_code_reports,2012,EOG RES.INCO.,USA,comparison,9999
+inclusive_first_year,GOVERNANCE,UK_2010_governance_code_reports,2012,WASTE MANAGEMENT INCO.,USA,comparison,9999
+inclusive_first_year,GOVERNANCE,UK_2010_governance_code_reports,2012,STARBUCKS CORP.,USA,comparison,9999
+inclusive_first_year,GOVERNANCE,UK_2010_governance_code_reports,2012,ALLERGAN INCO.,USA,comparison,9999
+inclusive_first_year,GOVERNANCE,UK_2010_governance_code_reports,2012,CISCO SYSTEMS INCO.,USA,comparison,9999
+inclusive_first_year,GOVERNANCE,UK_2010_governance_code_reports,2012,AUTO.DATA PROC.INCO.,USA,comparison,9999
+inclusive_first_year,GOVERNANCE,UK_2010_governance_code_reports,2012,BIOGEN INCO.,USA,comparison,9999
+inclusive_first_year,GOVERNANCE,UK_2010_governance_code_reports,2012,KINDER MORGAN EN.PTNS.LP,USA,comparison,9999
+inclusive_first_year,GOVERNANCE,UK_2010_governance_code_reports,2012,COSTCO WHOLESALE CORP.,USA,comparison,9999
+inclusive_first_year,GOVERNANCE,UK_2010_governance_code_reports,2012,TEXAS INSTRUMENTS INCO.,USA,comparison,9999
 inclusive_first_year,SUPPLY_CHAIN,first_cycle_conflict_mineral_reporters,2014,Apple Inc,USA,treated,2014
 inclusive_first_year,SUPPLY_CHAIN,first_cycle_conflict_mineral_reporters,2014,Intel Corporation,USA,treated,2014
 inclusive_first_year,SUPPLY_CHAIN,first_cycle_conflict_mineral_reporters,2014,Cisco Systems Inc,USA,treated,2014
@@ -4612,7 +4661,11 @@ balanced_mean_0_2,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018
 balanced_mean_0_2,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,GILEAD SCIENCES INCO.,USA,comparison,9999
 balanced_mean_0_2,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,COSTCO WHOLESALE CORP.,USA,comparison,9999
 balanced_mean_0_2,ESG_MANDATORY_REVIEWED,ESG_German_first_statutory_reports,2018,TEXAS INSTRUMENTS INCO.,USA,comparison,9999
+balanced_mean_0_2,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,Anglo American plc,GBR,treated,2016
 balanced_mean_0_2,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,BP plc,GBR,treated,2016
+balanced_mean_0_2,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,Ferrexpo plc,GBR,treated,2016
+balanced_mean_0_2,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,Fresnillo plc,GBR,treated,2016
+balanced_mean_0_2,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,Rio Tinto plc,GBR,treated,2016
 balanced_mean_0_2,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,Total SA,FRA,treated,2016
 balanced_mean_0_2,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,Tullow Oil plc,GBR,treated,2016
 balanced_mean_0_2,EXTRACTIVE_PAYMENTS,Extractive_first_statutory_reports,2016,MARATHON OIL CORP.,USA,comparison,9999
@@ -4682,6 +4735,48 @@ balanced_mean_0_2,IFRS,IFRS_Canadian_first_statements,2012,HUDSON CITY BANC.INCO
 balanced_mean_0_2,IFRS,IFRS_Canadian_first_statements,2012,IBERIABANK CORP.,USA,comparison,9999
 balanced_mean_0_2,IFRS,IFRS_Canadian_first_statements,2012,WAFD INCO.,USA,comparison,9999
 balanced_mean_0_2,IFRS,IFRS_Canadian_first_statements,2012,STATE STREET CORP.,USA,comparison,9999
+balanced_mean_0_2,GOVERNANCE,UK_2010_governance_code_reports,2012,BAE Systems plc,GBR,treated,2012
+balanced_mean_0_2,GOVERNANCE,UK_2010_governance_code_reports,2012,Drax Group plc,GBR,treated,2012
+balanced_mean_0_2,GOVERNANCE,UK_2010_governance_code_reports,2012,GKN plc,GBR,treated,2012
+balanced_mean_0_2,GOVERNANCE,UK_2010_governance_code_reports,2012,ITV plc,GBR,treated,2012
+balanced_mean_0_2,GOVERNANCE,UK_2010_governance_code_reports,2012,Pearson plc,GBR,treated,2012
+balanced_mean_0_2,GOVERNANCE,UK_2010_governance_code_reports,2012,NETAPP INCO.,USA,comparison,9999
+balanced_mean_0_2,GOVERNANCE,UK_2010_governance_code_reports,2012,MARATHON OIL CORP.,USA,comparison,9999
+balanced_mean_0_2,GOVERNANCE,UK_2010_governance_code_reports,2012,JUNIPER NETWORKS INCO.,USA,comparison,9999
+balanced_mean_0_2,GOVERNANCE,UK_2010_governance_code_reports,2012,RAYTHEON CO.,USA,comparison,9999
+balanced_mean_0_2,GOVERNANCE,UK_2010_governance_code_reports,2012,BROADCOM CORP.,USA,comparison,9999
+balanced_mean_0_2,GOVERNANCE,UK_2010_governance_code_reports,2012,DEVON ENERGY CORP.,USA,comparison,9999
+balanced_mean_0_2,GOVERNANCE,UK_2010_governance_code_reports,2012,TIME WARNER INCO.,USA,comparison,9999
+balanced_mean_0_2,GOVERNANCE,UK_2010_governance_code_reports,2012,MONSANTO CO.,USA,comparison,9999
+balanced_mean_0_2,GOVERNANCE,UK_2010_governance_code_reports,2012,COMCAST CORP.,USA,comparison,9999
+balanced_mean_0_2,GOVERNANCE,UK_2010_governance_code_reports,2012,LAS VEGAS SANDS CORP.,USA,comparison,9999
+balanced_mean_0_2,GOVERNANCE,UK_2010_governance_code_reports,2012,VIACOM INCO.,USA,comparison,9999
+balanced_mean_0_2,GOVERNANCE,UK_2010_governance_code_reports,2012,SPECTRA ENERGY CORP.,USA,comparison,9999
+balanced_mean_0_2,GOVERNANCE,UK_2010_governance_code_reports,2012,TIME WARNER CABLE INCO.,USA,comparison,9999
+balanced_mean_0_2,GOVERNANCE,UK_2010_governance_code_reports,2012,PHILIP MORRIS INTL.INCO.,USA,comparison,9999
+balanced_mean_0_2,GOVERNANCE,UK_2010_governance_code_reports,2012,CSX CORP.,USA,comparison,9999
+balanced_mean_0_2,GOVERNANCE,UK_2010_governance_code_reports,2012,STRYKER CORP.,USA,comparison,9999
+balanced_mean_0_2,GOVERNANCE,UK_2010_governance_code_reports,2012,AMGEN INCO.,USA,comparison,9999
+balanced_mean_0_2,GOVERNANCE,UK_2010_governance_code_reports,2012,NIKE INCO.,USA,comparison,9999
+balanced_mean_0_2,GOVERNANCE,UK_2010_governance_code_reports,2012,APPLE INCO.,USA,comparison,9999
+balanced_mean_0_2,GOVERNANCE,UK_2010_governance_code_reports,2012,EMERSON ELECTRIC CO.,USA,comparison,9999
+balanced_mean_0_2,GOVERNANCE,UK_2010_governance_code_reports,2012,HESS CORP.,USA,comparison,9999
+balanced_mean_0_2,GOVERNANCE,UK_2010_governance_code_reports,2012,INTEL CORP.,USA,comparison,9999
+balanced_mean_0_2,GOVERNANCE,UK_2010_governance_code_reports,2012,APPLIED MATS.INCO.,USA,comparison,9999
+balanced_mean_0_2,GOVERNANCE,UK_2010_governance_code_reports,2012,PACCAR INCO.,USA,comparison,9999
+balanced_mean_0_2,GOVERNANCE,UK_2010_governance_code_reports,2012,ANADARKO PETROLEUM CORP.,USA,comparison,9999
+balanced_mean_0_2,GOVERNANCE,UK_2010_governance_code_reports,2012,EMC CORP.,USA,comparison,9999
+balanced_mean_0_2,GOVERNANCE,UK_2010_governance_code_reports,2012,PRECN.CASTPARTS CORP.,USA,comparison,9999
+balanced_mean_0_2,GOVERNANCE,UK_2010_governance_code_reports,2012,QUALCOMM INCO.,USA,comparison,9999
+balanced_mean_0_2,GOVERNANCE,UK_2010_governance_code_reports,2012,EOG RES.INCO.,USA,comparison,9999
+balanced_mean_0_2,GOVERNANCE,UK_2010_governance_code_reports,2012,WASTE MANAGEMENT INCO.,USA,comparison,9999
+balanced_mean_0_2,GOVERNANCE,UK_2010_governance_code_reports,2012,STARBUCKS CORP.,USA,comparison,9999
+balanced_mean_0_2,GOVERNANCE,UK_2010_governance_code_reports,2012,ALLERGAN INCO.,USA,comparison,9999
+balanced_mean_0_2,GOVERNANCE,UK_2010_governance_code_reports,2012,CISCO SYSTEMS INCO.,USA,comparison,9999
+balanced_mean_0_2,GOVERNANCE,UK_2010_governance_code_reports,2012,AUTO.DATA PROC.INCO.,USA,comparison,9999
+balanced_mean_0_2,GOVERNANCE,UK_2010_governance_code_reports,2012,BIOGEN INCO.,USA,comparison,9999
+balanced_mean_0_2,GOVERNANCE,UK_2010_governance_code_reports,2012,COSTCO WHOLESALE CORP.,USA,comparison,9999
+balanced_mean_0_2,GOVERNANCE,UK_2010_governance_code_reports,2012,TEXAS INSTRUMENTS INCO.,USA,comparison,9999
 balanced_mean_0_2,SUPPLY_CHAIN,first_cycle_conflict_mineral_reporters,2014,Apple Inc,USA,treated,2014
 balanced_mean_0_2,SUPPLY_CHAIN,first_cycle_conflict_mineral_reporters,2014,Intel Corporation,USA,treated,2014
 balanced_mean_0_2,SUPPLY_CHAIN,first_cycle_conflict_mineral_reporters,2014,Cisco Systems Inc,USA,treated,2014

@@ -1,7 +1,8 @@
 {
   "overlays": 441,
   "original_register_unchanged": true,
-  "extension_cross_references": "GBR and FRA extractive payment issuer facts; prior CAN IFRS/DEU ESG evidence retained",
-  "new_extractives_overlays": 3,
+  "updated_cross_references": "GBR extractive parent filings and GBR2010revised-Code issuer phase",
+  "updated_event_overlays": 4,
+  "initial_national_governance_calendar_unchanged": true,
   "global_eligibility_or_first_history_certification": false
 }

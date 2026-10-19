@@ -26,5 +26,23 @@
     ],
     "prose": "Original academic prose follows the reference logic; no copied passages or conclusion-selected weights.",
     "presentation": "Eight pages; three tables; two figures; complete estimates and source gaps online."
+  },
+  "Rio_and_revised_governance_extension": {
+    "question": "How do verified issuer obligations, actual public reports and the regulation mix affect stock liquidity contrasts?",
+    "logic": [
+      "Economic information problem",
+      "Institutional scope and legal/report timing",
+      "Issuer sample and comparison support",
+      "Both weights and complementary liquidity outcomes",
+      "Composition decomposition and identification diagnostics",
+      "Lagged international diffusion"
+    ],
+    "source_distinctions": [
+      "Rio statutory filing29June2016 versus voluntary report28June",
+      "Fresnillo actual public statutory report15June2016 despite missing registry package",
+      "FY2011UK2010Code revision statements public2012 versus initial1993governance adoption",
+      "Prior voluntary practices and explained departures retained"
+    ],
+    "writing": "Original concise academic prose following reference logic, without release-history commentary or sign-selected conclusions."
   }
 }

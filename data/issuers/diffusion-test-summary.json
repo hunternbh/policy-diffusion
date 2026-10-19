@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-10-19T05:53:25.805414+00:00",
+  "created_at": "2026-10-19T06:22:14.935113+00:00",
   "attempted_designs": 1330,
   "coefficient_cells": 3344,
   "estimated_focal_coefficients": 433,
@@ -13,6 +13,6 @@
     "unstable_withheld": 9
   },
   "primary_family_estimable_coefficients": 4,
-  "elapsed_seconds": 5.367585182189941,
+  "elapsed_seconds": 5.804460048675537,
   "inference": "Associations conditional on documented cases. Standard errors cluster by country; t reference countries-1df. Holm covers every stable focal coefficient including LPM sensitivities; no causal diffusion conclusion."
 }

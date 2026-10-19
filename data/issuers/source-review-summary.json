@@ -36,6 +36,16 @@
   "extractive_US_full_filings_reviewed": 164,
   "extractive_control_candidates": 60,
   "extractive_controls_three_post_years": 44,
-  "source_supported_first_year_families": 7,
-  "source_supported_balanced_families": 5
+  "source_supported_first_year_families": 8,
+  "source_supported_balanced_families": 6,
+  "inherited_source_audit_context": "Prior IFRS/ESG/extractive counts refer to preserved earlier reviews; the following UK governance/Rio extension is additive.",
+  "governance_additional_local_original_PDFs": 7,
+  "governance_treated_issuers": 5,
+  "governance_US_full_filings_reviewed": 353,
+  "governance_control_candidates": 120,
+  "governance_controls_all_three_source_years": 100,
+  "additional_extractives_issuers": 4,
+  "extractive_treated_issuers": 7,
+  "Rio_statutory_filing_resolved": true,
+  "Rio_statutory_filing_date": "2016-06-29"
 }

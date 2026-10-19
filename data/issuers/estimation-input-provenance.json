@@ -1,78 +1,94 @@
 {
-  "recorded_at": "2026-10-19T06:00:09.114184+00:00",
-  "new_coefficients_selected_by_sign": false,
+  "recorded_at": "2026-10-19T06:39:39.109661+00:00",
   "national_calendar_unchanged": true,
+  "new_coefficients_selected_by_sign": false,
+  "governance_source_support_amendment_before_any_governance_coefficient": true,
   "inputs": [
     {
-      "path": "19-extractive-issuer-and-composition-review\\2026-10-19\\analysis-plan.json",
-      "sha256": "7d3784f20b93af3ebfb3e907f550c464ddba7f295b234747632f6931fff38241",
-      "bytes": 2058
+      "path": "20-rio-and-governance-issuer-review/2026-10-19/analysis-plan.json",
+      "sha256": "b8e170449e55c194070ab9ce59bae8bd07345fba0f567f670d78a934f7996c1c",
+      "bytes": 3856
     },
     {
-      "path": "19-extractive-issuer-and-composition-review\\2026-10-19\\geographic-analysis-plan.json",
+      "path": "20-rio-and-governance-issuer-review/2026-10-19/geographic-analysis-plan.json",
       "sha256": "ca8d2198936838dd40be073986bf1598360e8dbc58a3f7b9a24058fd255b128e",
       "bytes": 2600
     },
     {
-      "path": "19-extractive-issuer-and-composition-review\\2026-10-19\\data\\classified-dated-policy-cases.csv",
+      "path": "20-rio-and-governance-issuer-review/2026-10-19/data/classified-dated-policy-cases.csv",
       "sha256": "88dcb4fb7594cb179901125c8250176d20ab227f4882fa950e896cd54e25534d",
       "bytes": 452099
     },
     {
-      "path": "19-extractive-issuer-and-composition-review\\2026-10-19\\data\\lagged-mechanism-panel.parquet",
+      "path": "20-rio-and-governance-issuer-review/2026-10-19/data/lagged-mechanism-panel.parquet",
       "sha256": "6a69264260b89b1b14c46918c8a2a3ee942a96c3c285a6ab6e7edca8a0fc652f",
       "bytes": 236865
     },
     {
-      "path": "19-extractive-issuer-and-composition-review\\2026-10-19\\data\\macro-country-year.csv",
+      "path": "20-rio-and-governance-issuer-review/2026-10-19/data/macro-country-year.csv",
       "sha256": "f02902991d0e4f7f7447005ef224315c5dea694702608886004644e351558585",
       "bytes": 1102987
     },
     {
-      "path": "19-extractive-issuer-and-composition-review\\2026-10-19\\data\\covered-issuer-study-membership-local.parquet",
-      "sha256": "5581a0c498205afeecaac7d833f8e311317d1e61467fffeabb5022d1a9e8d96d",
-      "bytes": 170825
+      "path": "20-rio-and-governance-issuer-review/2026-10-19/data/covered-issuer-study-membership-local.parquet",
+      "sha256": "84eb5dbb5b283c6452b7a42cc4affd8633fa79bb6d8158f8c3a9580e26b51804",
+      "bytes": 174544
     },
     {
-      "path": "19-extractive-issuer-and-composition-review\\2026-10-19\\data\\extractive-treated-membership-local.parquet",
-      "sha256": "ef446563753ab6f8c57627452f8820e87f78f436eb9d4216e969a4b022f755dc",
-      "bytes": 9590
+      "path": "20-rio-and-governance-issuer-review/2026-10-19/data/extractive-treated-membership-local.parquet",
+      "sha256": "571954e14c38d56962a50dbb418367d544cdc0df9689872b46dca181327a05a1",
+      "bytes": 10443
     },
     {
-      "path": "19-extractive-issuer-and-composition-review\\2026-10-19\\data\\extractive-comparison-membership-local.parquet",
+      "path": "20-rio-and-governance-issuer-review/2026-10-19/data/extractive-comparison-membership-local.parquet",
       "sha256": "1abb0d6a7f5a70ff0c95b156e81239ebf9b89de71594f60a751287857e6b4702",
       "bytes": 11893
     },
     {
-      "path": "19-extractive-issuer-and-composition-review\\2026-10-19\\data\\extractive-US-control-source-evidence.parquet",
-      "sha256": "343a5835ebe954a4e1dd34a3cebc418336a7340f1551391294e51a91dab169b9",
-      "bytes": 57115
+      "path": "20-rio-and-governance-issuer-review/2026-10-19/data/governance-treated-membership-local.parquet",
+      "sha256": "93a92be2befc973a61e5446c01c1889da0c72316ac05cfa96280910361a8f9df",
+      "bytes": 10234
     },
     {
-      "path": "19-extractive-issuer-and-composition-review\\2026-10-19\\data\\extractive-issuer-eligibility-and-dates.json",
-      "sha256": "827940c4a45aca36bd005d38a8e70bd86c7bca8f37a12a3bd1cf475c46617af9",
-      "bytes": 12468
+      "path": "20-rio-and-governance-issuer-review/2026-10-19/data/governance-comparison-membership-local.parquet",
+      "sha256": "0b4585a63f65c3073d97b6c5562f5d42b2b7bcc37908ccb6013fa85981fb6a07",
+      "bytes": 14017
     },
     {
-      "path": "19-extractive-issuer-and-composition-review\\2026-10-19\\sources\\extractive-source-manifest.json",
-      "sha256": "3f5fdb911f27513db236a569cdc4c1739b22444f113e0305511f2558d58cdfeb",
-      "bytes": 7261
+      "path": "20-rio-and-governance-issuer-review/2026-10-19/data/governance-US-control-source-evidence.parquet",
+      "sha256": "5c42e24c53ac9c76073412bcc31979468c1813fcaaccba997ab25946269b0d65",
+      "bytes": 109530
     },
     {
-      "path": "09-expanded-policy-paper\\2026-10-18\\data\\security-year-liquidity.parquet",
+      "path": "20-rio-and-governance-issuer-review/2026-10-19/data/extractive-issuer-eligibility-and-dates.json",
+      "sha256": "c42972132e489cfe351e688d669718785d4e80d4decb74a8ae1b963c623f5ba6",
+      "bytes": 25663
+    },
+    {
+      "path": "20-rio-and-governance-issuer-review/2026-10-19/data/governance-issuer-eligibility-and-dates.json",
+      "sha256": "213221022df610d9b37715deedc33470e7239d23e4ea269006a8b61f29a513ca",
+      "bytes": 23197
+    },
+    {
+      "path": "20-rio-and-governance-issuer-review/2026-10-19/sources/rio-governance-source-manifest.json",
+      "sha256": "9a46c4732642fedf99d8e8e4ea42fe8f2b6db88b93289e8807aaefe4e80337e2",
+      "bytes": 16774
+    },
+    {
+      "path": "09-expanded-policy-paper/2026-10-18/data/security-year-liquidity.parquet",
       "sha256": "9cf75b0191df9658d02cd4073501fdd2ac8f4edf551a1646258192d2bcd15755",
       "bytes": 90181480
     },
     {
-      "path": "17-issuer-regulation-expansion\\2026-10-19\\data\\us-issuer-filing-eligibility.parquet",
+      "path": "17-issuer-regulation-expansion/2026-10-19/data/us-issuer-filing-eligibility.parquet",
       "sha256": "46a907fa0c2826dd2afde4d20fe3ffae8867842a9bdb0ffed1c6bbfc19104fda",
       "bytes": 4821837
     },
     {
-      "path": "17-issuer-regulation-expansion\\2026-10-19\\data\\all-annual-company-mapping.parquet",
+      "path": "17-issuer-regulation-expansion/2026-10-19/data/all-annual-company-mapping.parquet",
       "sha256": "d905c50c7954de0642f7ce87488ab20ea2634565c139100130c797dc6d218f7f",
       "bytes": 6046756
     }
   ],
-  "inference": "Reproducible estimates do not certify causal identification or complete issuer scope."
+  "boundary": "Numerical reproducibility does not certify global eligible-issuer coverage or causal identification."
 }

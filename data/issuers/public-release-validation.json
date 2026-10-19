@@ -1,5 +1,5 @@
 {
-  "passed": 140,
+  "passed": 150,
   "checks": [
     {
       "check": "unique_HTML_ids",
@@ -290,6 +290,10 @@
       "passed": true
     },
     {
+      "check": "local_link_data/issuers/coverage-resolution-ledger.json",
+      "passed": true
+    },
+    {
       "check": "local_link_data/issuers/covered-all-leave-one-family-out.csv",
       "passed": true
     },
@@ -330,7 +334,15 @@
       "passed": true
     },
     {
-      "check": "local_link_data/issuers/extractive-source-review-summary-public.json",
+      "check": "local_link_data/issuers/governance-initial60-support.csv",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/issuers/governance-issuer-evidence-public.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/issuers/governance-issuer-filing-facts.csv",
       "passed": true
     },
     {
@@ -350,7 +362,7 @@
       "passed": true
     },
     {
-      "check": "local_link_data/issuers/new-issuer-filing-facts.csv",
+      "check": "local_link_data/issuers/rio-governance-source-summary-public.json",
       "passed": true
     },
     {
@@ -494,6 +506,14 @@
       "passed": true
     },
     {
+      "check": "no_licensed_identifiers_governance-initial60-support.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_identifiers_governance-issuer-filing-facts.csv",
+      "passed": true
+    },
+    {
       "check": "no_licensed_identifiers_issuer-exposure-family-did.csv",
       "passed": true
     },
@@ -538,30 +558,50 @@
       "passed": true
     },
     {
-      "check": "seven_first_five_balanced_visible",
+      "check": "hero_eight_first_six_balanced",
       "passed": true
     },
     {
-      "check": "all_omissions_and_decomposition_linked",
+      "check": "eight_family_source_report_visible",
       "passed": true
     },
     {
-      "check": "actual_extractives_dates_and_prior_voluntary_visible",
+      "check": "Rio_actual_statutory_date_visible",
       "passed": true
     },
     {
-      "check": "no_stale_six_family_principal_claim",
+      "check": "Fresnillo_public_report_and_registry_gap_distinct",
       "passed": true
     },
     {
-      "check": "hero_updated_seven_first_five_balanced",
+      "check": "governance_revision_boundary_visible",
       "passed": true
     },
     {
-      "check": "source_register_no_absolute_local_archive_paths",
+      "check": "source_support_amendment_disclosed",
+      "passed": true
+    },
+    {
+      "check": "both_weights_and_complete_sensitivities_linked",
+      "passed": true
+    },
+    {
+      "check": "one_interactive_script_stylesheet",
+      "passed": true
+    },
+    {
+      "check": "UTF8_symbols_not_corrupted",
+      "passed": true
+    },
+    {
+      "check": "source_register_no_absolute_archive_paths",
+      "passed": true
+    },
+    {
+      "check": "paper_snapshot_same_final_PDF",
       "passed": true
     }
   ],
   "PDF_all_pages_visually_reviewed": true,
-  "visual_notes": "All final eight pages inspected, including corrected seven-row table note and references; no clipping, overlap or lost minus signs."
+  "visual_notes": "All final eight pages reviewed: text, nine-row source table, eight-family forest and six-family balanced plots fit; source counts, dates and minus signs verified."
 }

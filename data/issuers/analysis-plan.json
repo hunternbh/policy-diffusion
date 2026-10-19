@@ -1,23 +1,53 @@
 {
-  "frozen_at": "2026-10-19T05:49:47.384336+00:00",
-  "prior_release": "C:\\Users\\hia_n\\Desktop\\policy-diffusion\\18-additional-source-supported-families\\2026-10-19",
-  "new_family": "EXTRACTIVE_PAYMENTS",
-  "candidate_issuers": [
-    "BP plc",
-    "Rio Tinto plc",
-    "Total SA",
-    "Tullow Oil plc"
+  "frozen_at": "2026-10-19T06:16:17.605499+00:00",
+  "prior_release": "19-extractive-issuer-and-composition-review/2026-10-19",
+  "objectives": [
+    "Resolve Rio first statutory payment filing from official Companies House extractives service and preserve downloadable filing.",
+    "Expand governance-family issuer coverage using original annual reports in the all-data EU report ZIPs."
   ],
-  "selection": "Named source-available first statutory extractive-payment publishers; verify statutory reports and actual publication year before new outcome estimation. No sign-based substitutions. Rio voluntary Taxes paid release is not automatic proof of actual statutory filing.",
-  "comparisons": "Select 60 largest g-1 US ordinary resource-extraction parents by pre-event cap with period-keyed CIK/CUSIP and bounded ISIN; inspect contemporary SEC headers, primary-US-share listing and scope language. US Section13q had no operative first obligation in 2016-18. Foreign group/subsidiary and voluntary reporting remain possible spillovers, not certified absence.",
+  "governance_candidates": [
+    "BAE Systems plc",
+    "Pearson plc",
+    "GKN plc",
+    "Drax Group plc",
+    "ITV plc"
+  ],
+  "selection": "Named archived FY2011 annual reports before new coefficients. Positive declaration against 2010 UK Code and first legally applicable fiscal period required. Historical ordinary ISIN and actual publication year corroboration. Failures remain visible; no outcome-based replacement.",
+  "treatment_definition": "First required reporting against the revised 2010 UK Corporate Governance Code, financial years beginning on/after29June2010; UK premium listing compliance statement. This is a governance-code revision, not first-ever governance disclosure or initial1993country adoption. Earlier voluntary practices and2008CombinedCode remain distinct.",
+  "comparison_rule": "60 largest available pre2012 US nonfinancial ordinary-parent candidates by2011cap with exact period-keyed CIK/CUSIP and bounded ISIN; contemporaneous2012-14US incorporation and ordinary US listing evidence. Withhold direct foreign-premium/listing/code obligation evidence. No claim of global subsidiary noncoverage; US governance changes are concurrent confounds.",
   "targets": [
-    "first year g-1 to g",
-    "balanced fixed g-3..g+2, mean0..2"
+    "g-1 to g first-year",
+    "fixed g-3..g+2, mean0..2"
   ],
-  "minimum_support": "3 treated,20 comparisons, unchanged",
-  "weights": "GDP within fixed source-study country universe; equal-family and pre-event treated-cap across same supported families. Preserve both requested weights coequally.",
-  "composition_diagnostics": "Decompose cap-minus-equal by family contribution. Report cap concentration, effective family count, and leave-one-family-out sensitivity for every family, without selecting a preferred omission. Do not search weights to obtain significance.",
-  "mechanism_story": "Separate public mandatory report content from private tax returns, first statutory cycle from first-ever information, and issuer effects from geographic exposure. These distinctions do not imply positive results.",
-  "inference": "Descriptive issuer sampling intervals, few legal waves; no causal policy significance. Preserve all prior family coefficients and all results regardless of sign.",
-  "new_coefficients_inspected": false
+  "minimum_support": "3treated and20comparisons; unchanged",
+  "within_weights": [
+    "GDP allocated over fixed source-study country issuer universe",
+    "equal issuer",
+    "baseline issuer market cap"
+  ],
+  "across_weights": [
+    "equal economic family",
+    "pre-event treated issuer market cap"
+  ],
+  "composition": "Both weights coequal, exact difference decomposition, concentration and every single-family omission. Banking phases once. Retain all supported families regardless of sign.",
+  "country_policy_calendar": "New issuer evidence for a revised governance phase does not rewrite1993nationalfirst-recordedgovernancecase or add a national adoption choice. Broad exposure and diffusion rerun unchanged unless separate substantiated chronology corrections arise.",
+  "coverage_resolution": "Resolve specific documented gaps; global historical ownership, thresholds and first-ever histories cannot be certified from country or company names.",
+  "inference": "Descriptive issuer sampling covariance; sparse common waves and pretrends do not establish causal policy inference.",
+  "new_coefficients_inspected": false,
+  "additional_extractives_source_candidates": {
+    "frozen_at": "2026-10-19T06:19:43.778935+00:00",
+    "candidates": [
+      "Anglo American plc",
+      "Fresnillo plc",
+      "Ferrexpo plc"
+    ],
+    "reason": "New official extractives filing history service positively documents group reports; join to pre-event ordinary shares and original all-data reports. Selected before new coefficients; no outcome replacements."
+  },
+  "support_amendment": {
+    "frozen_at": "2026-10-19T06:24:17.194348+00:00",
+    "trigger": "Original top60source candidates yield only18first-year and17balanced complete three-outcome comparisons, below unchanged20minimum. No governance coefficient has been estimated.",
+    "rule": "Append the next60pre2011capitalisation-ranked candidates: fixed top120universe. Retain all original candidates and all source/outcome failures; no sign or p-value selection, no individual replacements.",
+    "threshold_unchanged": 20,
+    "governance_coefficients_available_before_amendment": false
+  }
 }
