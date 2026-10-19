@@ -1,0 +1,19 @@
+{
+  "dataset": "Worldscope export (usbank.sas7bdat)",
+  "annual_records": 31908,
+  "company_codes": 2331,
+  "years": [
+    1990,
+    2023
+  ],
+  "countries": {
+    "United States": 31908
+  },
+  "is_global_export": false,
+  "provisional_matched_stock_years": 6015,
+  "country_disagreement_rows_withheld": 3,
+  "ambiguous_ISIN_year_keys_withheld": 18,
+  "legal_eligibility_certified": false,
+  "raw_values_published": false,
+  "financial_units_and_legal_group_scope": "Require independent validation before applying statutory thresholds"
+}

@@ -1,0 +1,304 @@
+[
+  {
+    "family": "AUDIT_OVERSIGHT",
+    "label": "Audit oversight / rotation",
+    "market_jurisdictions_audited": 90,
+    "documented_market_implementation_jurisdictions": 35,
+    "first_year_treated_company_cohorts": 3399,
+    "source_selected_reporter_matches": 0,
+    "matches_same_observed_report_year": 0,
+    "provisional_baseline_size_field_matches": 0,
+    "global_issuer_eligibility_complete": false,
+    "required_fields": [
+      "historical_auditor_client_engagement",
+      "audit_firm_registration",
+      "engagement_start_rotation_history"
+    ],
+    "structural_boundary": "Need auditor-client and engagement histories; regulator registration has no universal issuer filing date."
+  },
+  {
+    "family": "AUDIT_REPORTING",
+    "label": "Expanded auditor reporting",
+    "market_jurisdictions_audited": 90,
+    "documented_market_implementation_jurisdictions": 36,
+    "first_year_treated_company_cohorts": 5364,
+    "source_selected_reporter_matches": 0,
+    "matches_same_observed_report_year": 0,
+    "provisional_baseline_size_field_matches": 0,
+    "global_issuer_eligibility_complete": false,
+    "required_fields": [
+      "country_KAM_CAM_rule",
+      "listed_parent_entity_class",
+      "auditor_and_reporting_period",
+      "phase_exemption_history"
+    ],
+    "structural_boundary": "All 1,052 formerly unresolved or entity-withheld linked annual filings reviewed in full. 0 filing rows retain insufficient/conflicting positive eligibility evidence; 0 entity-scope cases withheld. Dimensioned subsidiary facts are separated from parent facts."
+  },
+  {
+    "family": "BENEFICIAL_OWNERSHIP",
+    "label": "Beneficial ownership",
+    "market_jurisdictions_audited": 90,
+    "documented_market_implementation_jurisdictions": 18,
+    "first_year_treated_company_cohorts": 6507,
+    "source_selected_reporter_matches": 0,
+    "matches_same_observed_report_year": 0,
+    "provisional_baseline_size_field_matches": 0,
+    "global_issuer_eligibility_complete": false,
+    "required_fields": [
+      "legal_entity_and_register_jurisdiction",
+      "historical_listing_venue",
+      "securities_reporting_exemptions",
+      "ownership_control_history"
+    ],
+    "structural_boundary": "No blanket listed-equity treatment. Exempt issuer is not missing disclosure. Historical venue, reporting and subsidiary records are required."
+  },
+  {
+    "family": "CBCR_BANK_PUBLIC",
+    "label": "Banking public CbCR",
+    "market_jurisdictions_audited": 90,
+    "documented_market_implementation_jurisdictions": 28,
+    "first_year_treated_company_cohorts": 3288,
+    "source_selected_reporter_matches": 23,
+    "matches_same_observed_report_year": 22,
+    "provisional_baseline_size_field_matches": 0,
+    "global_issuer_eligibility_complete": false,
+    "required_fields": [
+      "regulated_credit_institution_status",
+      "historical_consolidation_perimeter",
+      "reporting_parent_to_equity_link",
+      "public_report_and_reporting_period"
+    ],
+    "structural_boundary": "Five observed full-report publishers, including source-reviewed Erste and Societe Generale. Societe Generale AMF filing4March2015; Erste retrospective issuer calendar27March2015. Other parents require positive historical share, entity-perimeter, six-field content or date evidence. First-ever disclosure histories are not certified."
+  },
+  {
+    "family": "CBCR_CONFIDENTIAL",
+    "label": "Confidential tax CbCR",
+    "market_jurisdictions_audited": 90,
+    "documented_market_implementation_jurisdictions": 76,
+    "first_year_treated_company_cohorts": 21796,
+    "source_selected_reporter_matches": 0,
+    "matches_same_observed_report_year": 0,
+    "provisional_baseline_size_field_matches": 295,
+    "global_issuer_eligibility_complete": false,
+    "required_fields": [
+      "historical_ultimate_parent_and_MNE_status",
+      "consolidated_revenue_units_currency",
+      "fiscal_period_and_national_threshold",
+      "confidential_tax_return_timestamp"
+    ],
+    "structural_boundary": "Tax-authority filing is confidential. No public first-publication date exists for the confidential return. Global UPE and revenue histories absent."
+  },
+  {
+    "family": "CBCR_PUBLIC",
+    "label": "General public tax CbCR",
+    "market_jurisdictions_audited": 90,
+    "documented_market_implementation_jurisdictions": 28,
+    "first_year_treated_company_cohorts": 32,
+    "source_selected_reporter_matches": 0,
+    "matches_same_observed_report_year": 0,
+    "provisional_baseline_size_field_matches": 0,
+    "global_issuer_eligibility_complete": false,
+    "required_fields": [
+      "historical_ultimate_parent_and_MNE_status",
+      "consolidated_revenue_units_currency",
+      "jurisdictional_nexus",
+      "first_public_report"
+    ],
+    "structural_boundary": "FY implementation dates are not report availability. Future public reports are excluded from Table 1; no verified eligible-issuer filing cohort through 2025."
+  },
+  {
+    "family": "CLIMATE_DISCLOSURE",
+    "label": "Climate disclosure",
+    "market_jurisdictions_audited": 90,
+    "documented_market_implementation_jurisdictions": 7,
+    "first_year_treated_company_cohorts": 711,
+    "source_selected_reporter_matches": 4,
+    "matches_same_observed_report_year": 0,
+    "provisional_baseline_size_field_matches": 0,
+    "global_issuer_eligibility_complete": false,
+    "required_fields": [
+      "historical_listing_venue",
+      "size_or_sector_thresholds",
+      "fiscal_period_and_phase",
+      "actual_required_report"
+    ],
+    "structural_boundary": "Four FY2013UKquoted-parent GHG reports public2014:BAE,Pearson,GKN,Drax. Earlier voluntary and sectoral emissions information retained. UKearliestdocumentedclimatephasecorrected2013,2022financial-riskphaseseparate. Global historical thresholds, venues and first-ever histories incomplete."
+  },
+  {
+    "family": "CLIMATE_SECTORAL",
+    "label": "Sectoral climate reporting",
+    "market_jurisdictions_audited": 90,
+    "documented_market_implementation_jurisdictions": 0,
+    "first_year_treated_company_cohorts": 0,
+    "source_selected_reporter_matches": 0,
+    "matches_same_observed_report_year": 0,
+    "provisional_baseline_size_field_matches": 0,
+    "global_issuer_eligibility_complete": false,
+    "required_fields": [
+      "regulated_sector_membership",
+      "size_threshold_and_phase",
+      "actual_required_report"
+    ],
+    "structural_boundary": "No supported source-corroborated issuer cohort; terminal-period support is insufficient."
+  },
+  {
+    "family": "DIGITAL_ASSET",
+    "label": "Digital assets",
+    "market_jurisdictions_audited": 90,
+    "documented_market_implementation_jurisdictions": 31,
+    "first_year_treated_company_cohorts": 762,
+    "source_selected_reporter_matches": 0,
+    "matches_same_observed_report_year": 0,
+    "provisional_baseline_size_field_matches": 0,
+    "global_issuer_eligibility_complete": false,
+    "required_fields": [
+      "token_issuer_or_service_authorisation",
+      "regulated_token_offer",
+      "whitepaper_or_authorisation_date"
+    ],
+    "structural_boundary": "Require token-offer authorisation and white-paper publication histories. Equity home-market dates alone are exposure only."
+  },
+  {
+    "family": "ESG_MANDATORY_REVIEWED",
+    "label": "Comprehensive mandatory E/S/G",
+    "market_jurisdictions_audited": 90,
+    "documented_market_implementation_jurisdictions": 37,
+    "first_year_treated_company_cohorts": 8265,
+    "source_selected_reporter_matches": 3,
+    "matches_same_observed_report_year": 0,
+    "provisional_baseline_size_field_matches": 0,
+    "global_issuer_eligibility_complete": false,
+    "required_fields": [
+      "E_S_G_topic_and_response_requirement",
+      "historical_listing_venue_and_entity_class",
+      "consolidated_size_and_employee_thresholds",
+      "fiscal_period_and_phase"
+    ],
+    "structural_boundary": "BASF, Bayer and BMW explicitly report under German HGB 2017 first statutory cycle; public report year 2018. BASF/Bayer report-results bundle dates corroborated; BMW actual day withheld. Prior voluntary reports observed. Irish cases and global historical thresholds remain incomplete."
+  },
+  {
+    "family": "EXTRACTIVE_PAYMENTS",
+    "label": "Extractive payments",
+    "market_jurisdictions_audited": 90,
+    "documented_market_implementation_jurisdictions": 9,
+    "first_year_treated_company_cohorts": 2767,
+    "source_selected_reporter_matches": 7,
+    "matches_same_observed_report_year": 0,
+    "provisional_baseline_size_field_matches": 0,
+    "global_issuer_eligibility_complete": false,
+    "required_fields": [
+      "extractive_or_logging_activity",
+      "entity_and_consolidation_scope",
+      "payment_project_threshold",
+      "actual_statutory_payment_report"
+    ],
+    "structural_boundary": "Seven statutory report publishers public2016. CorrectFresnillo06344120packagefiled16June2016;publicRNS15June. Prior06477966lookupwrongentity,retracted. Rio29June,Anglo30June,Ferrexpo28Juneofficialpayloadsverified. Otherjurisdictionsandhistoricalsubsidiariesremainincomplete."
+  },
+  {
+    "family": "GOVERNANCE",
+    "label": "Corporate governance",
+    "market_jurisdictions_audited": 90,
+    "documented_market_implementation_jurisdictions": 12,
+    "first_year_treated_company_cohorts": 2385,
+    "source_selected_reporter_matches": 0,
+    "matches_same_observed_report_year": 0,
+    "provisional_baseline_size_field_matches": 0,
+    "global_issuer_eligibility_complete": false,
+    "required_fields": [
+      "historical_listing_venue_and_market_segment",
+      "company_class_index_or_size_phase",
+      "applicable_code_revision",
+      "reporting_period"
+    ],
+    "structural_boundary": "Five original FY2011 revised-Code reports support2012 reporting year. BAE26March, ITV29March, Drax1March and Pearson observed available23March; GKN exact day unestablished. Earlier practices retained; not initial national governance adoption."
+  },
+  {
+    "family": "IFRS",
+    "label": "IFRS reporting",
+    "market_jurisdictions_audited": 90,
+    "documented_market_implementation_jurisdictions": 36,
+    "first_year_treated_company_cohorts": 5841,
+    "source_selected_reporter_matches": 4,
+    "matches_same_observed_report_year": 0,
+    "provisional_baseline_size_field_matches": 0,
+    "global_issuer_eligibility_complete": false,
+    "required_fields": [
+      "domestic_foreign_issuer_status",
+      "historical_regulated_market_listing",
+      "consolidated_or_separate_accounts",
+      "accounting_standard_election_and_exemption_history"
+    ],
+    "structural_boundary": "Four Canadian banks: first required IFRS interim reports public in 2012, all four actual release days verified. US bank comparisons require contemporaneous US incorporation and auditor US-GAAP phrases. Other countries, accounting exemptions and first-report histories remain incomplete."
+  },
+  {
+    "family": "SUPPLY_CHAIN",
+    "label": "Supply-chain reporting",
+    "market_jurisdictions_audited": 90,
+    "documented_market_implementation_jurisdictions": 8,
+    "first_year_treated_company_cohorts": 5012,
+    "source_selected_reporter_matches": 3,
+    "matches_same_observed_report_year": 0,
+    "provisional_baseline_size_field_matches": 326,
+    "global_issuer_eligibility_complete": false,
+    "required_fields": [
+      "manufacturing_import_or_supply_activity",
+      "revenue_employee_or_other_scope_threshold",
+      "historical_group_perimeter",
+      "national_reporting_cycle"
+    ],
+    "structural_boundary": "Apple 29May2014, Intel22May2014, Cisco30May2014 actual SEC filing dates verified; Cisco UTC acceptance on31May is separate. Three selected reporters, not all global covered supply-chain issuers."
+  },
+  {
+    "family": "SUSTAINABILITY_FINANCIAL",
+    "label": "Financial sustainability disclosure",
+    "market_jurisdictions_audited": 90,
+    "documented_market_implementation_jurisdictions": 9,
+    "first_year_treated_company_cohorts": 713,
+    "source_selected_reporter_matches": 0,
+    "matches_same_observed_report_year": 0,
+    "provisional_baseline_size_field_matches": 0,
+    "global_issuer_eligibility_complete": false,
+    "required_fields": [
+      "national_mandatory_versus_voluntary_phase",
+      "listing_and_entity_class",
+      "size_threshold_and_fiscal_period",
+      "first_required_report"
+    ],
+    "structural_boundary": "Late panel phases and unknown first actual reports; no source-corroborated issuer test supported."
+  },
+  {
+    "family": "SUSTAINABILITY_INFORMED",
+    "label": "Informed sustainability reporting",
+    "market_jurisdictions_audited": 90,
+    "documented_market_implementation_jurisdictions": 0,
+    "first_year_treated_company_cohorts": 0,
+    "source_selected_reporter_matches": 0,
+    "matches_same_observed_report_year": 0,
+    "provisional_baseline_size_field_matches": 0,
+    "global_issuer_eligibility_complete": false,
+    "required_fields": [
+      "national_framework_legal_force",
+      "sector_and_entity_scope",
+      "actual_reporting_obligation"
+    ],
+    "structural_boundary": "No supported outcome comparison; no issuer filing date imputed from framework adoption."
+  },
+  {
+    "family": "XBRL",
+    "label": "XBRL / digital filing",
+    "market_jurisdictions_audited": 90,
+    "documented_market_implementation_jurisdictions": 4,
+    "first_year_treated_company_cohorts": 345,
+    "source_selected_reporter_matches": 0,
+    "matches_same_observed_report_year": 0,
+    "provisional_baseline_size_field_matches": 0,
+    "global_issuer_eligibility_complete": false,
+    "required_fields": [
+      "public_securities_versus_private_tax_object",
+      "listing_filer_class_phase",
+      "format_election_and_exemption_history",
+      "format_bearing_filing"
+    ],
+    "structural_boundary": "All15 source-selected first-phase candidates have official SEC format dates verified against original EX101 instance payloads. Six satisfy outcome/comparison support. Earlier voluntary format records retained; comparators used only through2009."
+  }
+]

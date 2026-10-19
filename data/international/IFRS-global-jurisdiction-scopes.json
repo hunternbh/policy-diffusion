@@ -1,0 +1,3278 @@
+[
+  {
+    "iso3": "ARE",
+    "profile_date": "16 June 2016",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/united-arab-emirates",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": null
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "ARG",
+    "profile_date": "27 December 2023",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/argentina",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": null
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "AUS",
+    "profile_date": "23 June 2017",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/australia.html",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": false
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "AUT",
+    "profile_date": "16 June 2016",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/austria.html",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": false
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "BEL",
+    "profile_date": "18 July 2016",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/belgium",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": false
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "BGR",
+    "profile_date": "30 July 2026",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/bulgaria.html",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": false
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "BHR",
+    "profile_date": "16 June 2016",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/bahrain",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": null
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "BIH",
+    "profile_date": "02 April 2025",
+    "source_url": "https://www.ifrs.org/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction/bosnia-and-herzegovina/",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": false
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": false
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "BRA",
+    "profile_date": "07 May 2026",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/brazil",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": null
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "BWA",
+    "profile_date": "08 February 2017",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/botswana",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": null
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "CAN",
+    "profile_date": "03 October 2023",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/canada.html",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": false
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "CHE",
+    "profile_date": "14 August 2019",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/switzerland",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": false
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": null
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "CHL",
+    "profile_date": "16 June 2016",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/chile.html",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": null
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "CHN",
+    "profile_date": "12 January 2018",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/china.html",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": false
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": false
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": false
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "CIV",
+    "profile_date": "23 January 2018",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/cote-divoire",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Standard is required or permitted",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Standard is under consideration",
+        "publisher_status": false
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "COL",
+    "profile_date": "16 June 2016",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/colombia",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": null
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "CYP",
+    "profile_date": "17 April 2026",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/cyprus",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": true
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "CZE",
+    "profile_date": "18 July 2016",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/czechia",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": false
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "DEU",
+    "profile_date": "18 July 2016",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/germany",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": false
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "DNK",
+    "profile_date": "20 March 2019",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/denmark",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": false
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "ECU",
+    "profile_date": "16 June 2016",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/ecuador",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": null
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "EGY",
+    "profile_date": "31 January 2024",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/egypt",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": false
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": false
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": false
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "ESP",
+    "profile_date": "18 July 2016",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/spain",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": false
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "EST",
+    "profile_date": "16 June 2016",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/estonia",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": false
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "FIN",
+    "profile_date": "19 October 2018",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/finland.html",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": false
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "FRA",
+    "profile_date": "18 July 2016",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/france",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": false
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "GBR",
+    "profile_date": "10 May 2024",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/united-kingdom",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": null
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": null
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "GHA",
+    "profile_date": "16 June 2016",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/ghana",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": null
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "GRC",
+    "profile_date": "16 June 2016",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/greece",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": false
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "HKG",
+    "profile_date": "07 November 2023",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/hong-kong-sar.html",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": null
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "HRV",
+    "profile_date": "16 June 2016",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/croatia",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": false
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "HUN",
+    "profile_date": "16 June 2016",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/hungary",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": false
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "IDN",
+    "profile_date": "20 August 2024",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/indonesia.html",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": false
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": false
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": false
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "IND",
+    "profile_date": "11 October 2019",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/india",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": false
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": false
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": false
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "IRL",
+    "profile_date": "16 June 2016",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/ireland",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": null
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "ISL",
+    "profile_date": "16 June 2016",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/iceland",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": false
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "ISR",
+    "profile_date": "22 June 2023",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/israel.html",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": null
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "ITA",
+    "profile_date": "18 July 2016",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/italy",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": false
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "JAM",
+    "profile_date": "16 June 2016",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/jamaica",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": null
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "JOR",
+    "profile_date": "16 June 2016",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/jordan",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": null
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "JPN",
+    "profile_date": "11 September 2020",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/japan",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": false
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": false
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "KAZ",
+    "profile_date": "12 December 2016",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/kazakhstan",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": null
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "KEN",
+    "profile_date": "16 June 2016",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/kenya",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": null
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "KOR",
+    "profile_date": "21 November 2024",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/south-korea",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": false
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "KWT",
+    "profile_date": "16 June 2016",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/kuwait",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": false
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "LBN",
+    "profile_date": null,
+    "source_url": null,
+    "source_status": "readable_IFAC_jurisdiction_review_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "IFAC jurisdiction review; national statutory text and historical issuer matching still required.",
+    "fallback_source_url": "https://www.ifac.org/about-ifac/membership/profile/lebanon",
+    "sha256": "a35a3e55d01ceac0d29a29427d07c662a0431f2867e210f1d2c36d8c58c1f96f"
+  },
+  {
+    "iso3": "LTU",
+    "profile_date": "18 July 2016",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/lithuania.html",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": false
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "LUX",
+    "profile_date": "16 June 2016",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/luxembourg",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": false
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "LVA",
+    "profile_date": "18 July 2016",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/latvia.html",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": false
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "MAR",
+    "profile_date": "10 January 2025",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/morocco",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": false
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": false
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "MEX",
+    "profile_date": "16 June 2016",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/mexico",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": false
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "MKD",
+    "profile_date": "16 June 2016",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/macedonia",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": null
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "MLT",
+    "profile_date": "16 June 2016",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/malta",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": false
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "MNE",
+    "profile_date": "21 April 2023",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/montenegro",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": false
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "MNG",
+    "profile_date": "16 June 2016",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/mongolia.html",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": true
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "MUS",
+    "profile_date": "16 June 2016",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/mauritius",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": null
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "MWI",
+    "profile_date": "30 August 2016",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/malawi",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": false
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "MYS",
+    "profile_date": "20 March 2019",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/malaysia.html",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": null
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "NGA",
+    "profile_date": "16 June 2016",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/nigeria",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": null
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "NLD",
+    "profile_date": "18 July 2016",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/netherlands",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": false
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "NOR",
+    "profile_date": "12 December 2018",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/norway",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": true
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "NZL",
+    "profile_date": "29 March 2019",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/new-zealand.html",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": false
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "OMN",
+    "profile_date": "16 June 2016",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/oman",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": true
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "PAK",
+    "profile_date": "11 July 2024",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/pakistan",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": null
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "PER",
+    "profile_date": "16 June 2016",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/peru",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": null
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "PHL",
+    "profile_date": "24 October 2023",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/philippines",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": null
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "POL",
+    "profile_date": "18 July 2016",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/poland.html",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": false
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "PRT",
+    "profile_date": "18 July 2016",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/portugal",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": false
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "PSE",
+    "profile_date": "16 June 2016",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/palestine",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": null
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "QAT",
+    "profile_date": "16 June 2016",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/qatar",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": null
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "ROU",
+    "profile_date": "18 July 2016",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/romania",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": false
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "RUS",
+    "profile_date": "04 September 2019",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/russia",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": true
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "SAU",
+    "profile_date": "28 July 2022",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/saudi-arabia.html",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": null
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "SGP",
+    "profile_date": "16 June 2016",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/singapore",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": null
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "SRB",
+    "profile_date": "08 February 2017",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/serbia",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": null
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "SVK",
+    "profile_date": "16 June 2016",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/slovakia",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": false
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "SVN",
+    "profile_date": "16 June 2016",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/slovenia.html",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": false
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "SWE",
+    "profile_date": "18 July 2016",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/sweden.html",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": false
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "THA",
+    "profile_date": "03 January 2024",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/thailand",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": false
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": false
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "TTO",
+    "profile_date": "16 June 2016",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/trinidad-and-tobago",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": null
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "TUN",
+    "profile_date": null,
+    "source_url": null,
+    "source_status": "readable_IFAC_jurisdiction_review_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "IFAC jurisdiction review; national statutory text and historical issuer matching still required.",
+    "fallback_source_url": "https://www.ifac.org/about-ifac/membership/profile/tunisia",
+    "sha256": "26c1d93199dee2418cf95927716144caa0cda178ee41ce6900a3dd3a156a6ddb"
+  },
+  {
+    "iso3": "TUR",
+    "profile_date": "31 December 2024",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/turkiye.html",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": false
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "TWN",
+    "profile_date": "16 August 2024",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/chinese-taipei.html",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": false
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "TZA",
+    "profile_date": "16 June 2016",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/tanzania",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": null
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "UKR",
+    "profile_date": "26 July 2022",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/ukraine",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": null
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": null
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "USA",
+    "profile_date": "04 April 2025",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/united-states",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": false
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": false
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": false
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "VEN",
+    "profile_date": "16 June 2016",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/venezuela",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": null
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "VNM",
+    "profile_date": "16 June 2016",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/vietnam",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": false
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": false
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": false
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": false
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "ZAF",
+    "profile_date": "16 June 2016",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/south-africa",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": null
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  },
+  {
+    "iso3": "ZMB",
+    "profile_date": "08 February 2017",
+    "source_url": "https://www.ifrs.org/content/ifrs/home/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/view-jurisdiction.html/zambia",
+    "source_status": "readable_publisher_profile_saved",
+    "historical_issuer_eligibility_complete": false,
+    "scope_reading": "Structured publisher summary, as dated; not retrospectively backfilled.",
+    "publisher_status_items": [
+      {
+        "question": "IFRS Accounting Standards are required for domestic public companies",
+        "publisher_status": true
+      },
+      {
+        "question": "IFRS Accounting Standards are permitted but not required for domestic public companies",
+        "publisher_status": null
+      },
+      {
+        "question": "IFRS Accounting Standards are required or permitted for listings by foreign companies",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is required or permitted",
+        "publisher_status": true
+      },
+      {
+        "question": "The IFRS for SMEs Accounting Standard is under consideration",
+        "publisher_status": null
+      }
+    ],
+    "historical_entity_fields_still_needed": [
+      "dated legal issuer identity",
+      "domestic or foreign legal status",
+      "exact market and segment",
+      "consolidated versus separate statements",
+      "election and exemption history"
+    ]
+  }
+]

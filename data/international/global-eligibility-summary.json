@@ -1,0 +1,23 @@
+{
+  "audited_at": "2026-10-19T19:50:36.872616+00:00",
+  "jurisdictions": 90,
+  "families": 17,
+  "country_family_cells": 1530,
+  "stock_years": 1055142,
+  "vendor_company_records": 99100,
+  "stock_years_with_provisional_complete_size_fields": 24319,
+  "countries_with_any_provisional_complete_size_fields": 1,
+  "complete_global_issuer_eligibility_families": 0,
+  "source_selected_reports_not_promoted_to_global_coverage": true,
+  "D_source_available": true,
+  "data_transfer_running": true,
+  "eligibility_complete": false,
+  "remaining_inputs": [
+    "Historical legal entity, consolidation and ultimate-parent panel",
+    "Dated incorporation and exact listing-venue/segment histories",
+    "Revenue, assets and employees with currency, units, fiscal periods and consolidation scope",
+    "Country-specific statutory phase, election and exemption histories",
+    "Actual reports or filing records; confidential tax timestamps require administrative access"
+  ],
+  "inference": "Existing international estimates remain policy-exposure comparisons. No worldwide issuer-eligible ATT is claimed."
+}

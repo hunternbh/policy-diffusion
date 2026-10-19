@@ -1,5 +1,5 @@
 {
-  "passed": 85,
+  "passed": 97,
   "checks": [
     {
       "check": "global_estimator_rerun_reproduces_prior_independent_panel",
@@ -174,6 +174,18 @@
       "passed": true
     },
     {
+      "check": "local_file_data/international/IFRS-global-jurisdiction-scopes.json",
+      "passed": true
+    },
+    {
+      "check": "local_file_data/international/global-country-family-eligibility-audit.csv",
+      "passed": true
+    },
+    {
+      "check": "local_file_data/international/global-family-eligibility-audit.json",
+      "passed": true
+    },
+    {
       "check": "local_file_data/international/issuer-exposure-family-did.csv",
       "passed": true
     },
@@ -199,6 +211,10 @@
     },
     {
       "check": "local_file_data/international/policy-calendar.csv",
+      "passed": true
+    },
+    {
+      "check": "local_file_data/international/worldscope-source-coverage-public.json",
       "passed": true
     },
     {
@@ -294,6 +310,10 @@
       "passed": true
     },
     {
+      "check": "no_licensed_identifiers_global-country-family-eligibility-audit.csv",
+      "passed": true
+    },
+    {
       "check": "no_licensed_identifiers_international-diffusion-primary.csv",
       "passed": true
     },
@@ -339,6 +359,34 @@
     },
     {
       "check": "no_licensed_identifiers_policy-calendar.csv",
+      "passed": true
+    },
+    {
+      "check": "all_90_by_17_country_family_cells",
+      "passed": true
+    },
+    {
+      "check": "no_unknowns_promoted_to_eligible",
+      "passed": true
+    },
+    {
+      "check": "global_profile_source_coverage",
+      "passed": true
+    },
+    {
+      "check": "provisional_financial_coverage_not_global",
+      "passed": true
+    },
+    {
+      "check": "Worldscope_export_country_and_size_verified",
+      "passed": true
+    },
+    {
+      "check": "Worldscope_conflicts_not_promoted_to_global_coverage",
+      "passed": true
+    },
+    {
+      "check": "eligibility_limitation_in_PDF_and_HTML",
       "passed": true
     }
   ],
