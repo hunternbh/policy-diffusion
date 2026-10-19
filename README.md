@@ -1,11 +1,7 @@
-# Reporting regulation, issuer liquidity, and diffusion
+# Reporting rules and the cost of trading
 
-Public research report: https://hunternbh.github.io/policy-diffusion/
+Public report: https://hunternbh.github.io/policy-diffusion/
 
-The principal paper reports individual issuer outcomes under geographic policy exposure across 17 attempted families, alongside source-corroborated studies of auditor reporting, XBRL, conflict minerals, banking, IFRS, statutory nonfinancial, extractive, revised-code governance and mandatory greenhouse-gas reporting. The HTML foregrounds pre-event market-cap family estimates. The equal-family sensitivity remains clearly linked and is reproduced with the full paper table; both specifications remain in the paper and downloads. The 6-page paper has 2 tables and 2 figures.
+The HTML follows a table/figure, then explanation sequence for accounting readers. Market-cap estimates lead; material equal-family sensitivity is explicitly disclosed and retained with the full paper table. The PDF, source data and estimates are unchanged. Figure 2 displays the market-cap series from the paper's longer-window figure; the complete original figure remains in the appendix.
 
-Source-supported issuer studies cover nine selected first-year families and seven balanced families, not all 17 global eligible-issuer populations. Missing thresholds, legal perimeters, first histories, and confidential tax dates are explicitly dispositioned. No unsupported family is assigned zero.
-
-`data/issuers/` contains all aggregate results, support failures, weights, and audit summaries; `downloads/issuer-regulation-findings.zip` also contains 441 additive event-scope JSONs. Original source-linked regulation records, prior source reviews and country-market results remain preserved. Licensed market/financial observations are not distributed.
-
-Static GitHub Pages site; serve the repository root over HTTP to use the interactive tables.
+The report covers nine source-supported first-year families and seven longer-window families. All weighting alternatives, source reviews, policy records and support failures remain in the linked downloads and `data/issuers/`. Licensed issuer-level observations remain local.
