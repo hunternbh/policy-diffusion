@@ -1,0 +1,10 @@
+{
+  "frozen_at": "2026-10-19T01:50:49.878814+00:00",
+  "files": {
+    "analysis-plan.json": "9602a433502fe6d675190cfa99c7cbe82ae509c06710da75a5f926fb56c93e20",
+    "data/classified-dated-policy-cases.csv": "88dcb4fb7594cb179901125c8250176d20ab227f4882fa950e896cd54e25534d",
+    "data/mandatory-topic-and-issuer-coverage.json": "4268380788a79161af456c9e796f55a2790496b96ea7e29a5706dc8ebc32d590",
+    "data/banking-public-cbcr-coverage.json": "ddef634b9911cdac575704c54f7cde6e2d6e3313c8e20d823056012227bde8ef"
+  },
+  "results_inspected_before_freeze": false
+}

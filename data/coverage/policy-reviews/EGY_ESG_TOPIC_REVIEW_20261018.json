@@ -1,0 +1,44 @@
+{
+  "record_id": "EGY_ESG_TOPIC_REVIEW_20261018",
+  "iso3": "EGY",
+  "country": "Egypt",
+  "author_publication_year": null,
+  "analysis_class": "ESG_MANDATORY_REVIEWED",
+  "reviewed_joint_mandatory_year": 2022,
+  "reviewed_period_boundary": null,
+  "boundary_basis": "first_covered_financial_year_end_year",
+  "topic_dates": {
+    "E": {
+      "mandatory_by_reviewed_year": 2022,
+      "precision": "reviewed_joint_regime_bound_not_earliest_national_topic_date",
+      "scope": "same issuer population as reviewed phase"
+    },
+    "S": {
+      "mandatory_by_reviewed_year": 2022,
+      "precision": "reviewed_joint_regime_bound_not_earliest_national_topic_date",
+      "scope": "same issuer population as reviewed phase"
+    },
+    "G": {
+      "mandatory_by_reviewed_year": 2022,
+      "precision": "reviewed_joint_regime_bound_not_earliest_national_topic_date",
+      "scope": "same issuer population as reviewed phase"
+    }
+  },
+  "issuer_scope": "AllEGX-listedcompaniesforESGunderResolution108/2021; NBFIswithissuedcapitalornetequity>=EGP100munder107/2021. AdditionalTCFDfor>=EGP500m;phase-inquarterlyprogressfrom1January2022.",
+  "mandatory_response": true,
+  "comply_or_explain_is_mandatory": true,
+  "source_keys": [
+    "egypt_2021_resolution_scope"
+  ],
+  "source_clauses": "FRA13July2021release:compliancebyFYending2022statements;quarterlyfrom1January2022;paragraphsaboutscope/transition",
+  "resolution_status": "qualifying_reviewed_reporting_phase",
+  "independent_national_choice": true,
+  "assignment_cluster": "EGY",
+  "prior_reporting_obligations": "",
+  "national_earliest_topic_census_complete": false,
+  "issuer_assignment": "Legal scope rule resolved; quote-level eligibility requires historical issuer/filer attributes.",
+  "review_notes": "2021resolutiondate is not the fullfirstreportingFY. ESGscopeandTCFDthresholdsarenotmerged.",
+  "date_evidence_grade": "national_primary_or_official_implementation_source",
+  "all_earliest_topic_dates_resolved": false,
+  "usable_as_verified_never_treated_control": false
+}

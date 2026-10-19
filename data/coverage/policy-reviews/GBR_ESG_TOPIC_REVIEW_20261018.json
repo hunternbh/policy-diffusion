@@ -1,0 +1,43 @@
+{
+  "record_id": "GBR_ESG_TOPIC_REVIEW_20261018",
+  "iso3": "GBR",
+  "country": "United Kingdom",
+  "author_publication_year": 2013,
+  "analysis_class": "ESG_MANDATORY_REVIEWED",
+  "reviewed_joint_mandatory_year": 2007,
+  "reviewed_period_boundary": "2007-10-01",
+  "boundary_basis": "first_covered_fiscal_period_start",
+  "topic_dates": {
+    "E": {
+      "date": "2007-10-01",
+      "basis": "enhancedquotedcompanybusinessreview;FYstart"
+    },
+    "S": {
+      "date": "2007-10-01",
+      "basis": "enhancedquotedcompanybusinessreview;FYstart"
+    },
+    "G": {
+      "year_upper_bound": 2007,
+      "basis": "directorsreportgovernanceduties forcoveredquotedcompanies; earliestnationalGdate notasserted"
+    }
+  },
+  "issuer_scope": "UKquotedcompanies underCompaniesAct2006section417enhancedbusinessreview; materialenvironmental,employee,social/communityinformation or omittedkindstatement; statutorydirector/governancereporting applies. The2013strategic/GHG/genderamendment is separate.",
+  "mandatory_response": true,
+  "comply_or_explain_is_mandatory": true,
+  "source_keys": [
+    "uk_business_review_2007",
+    "uk_strategic_2013",
+    "uk_original_2006_417"
+  ],
+  "source_clauses": "CompaniesAct2006s417(5);officialParliamentgovernmentresponsecommencement;2013regulationsreplaceexistingreview",
+  "resolution_status": "qualifying_reviewed_reporting_phase",
+  "independent_national_choice": true,
+  "assignment_cluster": "GBR",
+  "prior_reporting_obligations": "",
+  "national_earliest_topic_census_complete": false,
+  "issuer_assignment": "Legal scope rule resolved; quote-level eligibility requires historical issuer/filer attributes.",
+  "review_notes": "The firstreviewednamedtopicresponse predates the2013GHG/strategicreportamendment. Governancehasanupperbound, not an invented exactfirstdate.",
+  "date_evidence_grade": "national_primary_or_official_implementation_source",
+  "all_earliest_topic_dates_resolved": false,
+  "usable_as_verified_never_treated_control": false
+}

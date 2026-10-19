@@ -111,5 +111,17 @@
     "voluntary_not_inferred_from_missing_or_explain": true,
     "first_full_ESG_date": null,
     "reported_KSTZ_benchmark_year": 2004
+  },
+  "mandatory_topic_review": {
+    "record_id": "CAN_ESG_TOPIC_REVIEW_20261018",
+    "reviewed_phase_year": null,
+    "date_boundary": "2004-03-30",
+    "boundary_basis": "conditional_financial_disclosure_not_comprehensive_ESG_mandate",
+    "issuer_scope": "AIFfilersunderNI51-102; nonventure/reporting-issuerexemptions, materiality andfundamentalpolicyconditions matter. Environmentalfinancialeffects, employees andconditionalS/Epolicyinformation are not a universalrequirementtoreportorexplainallESGpolicies.",
+    "evidence_grade": "national_primary_or_official_implementation_source",
+    "resolution_status": "excluded_conditional_financial_disclosure",
+    "earliest_national_topic_history_complete": false,
+    "project_review_path": "15-mandatory-topics-and-banking-coverage/2026-10-18/data/policy-reviews/CAN_ESG_TOPIC_REVIEW_20261018.json",
+    "public_review_path": "data/coverage/policy-reviews/CAN_ESG_TOPIC_REVIEW_20261018.json"
   }
 }

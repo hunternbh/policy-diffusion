@@ -1,0 +1,44 @@
+{
+  "record_id": "TWN_ESG_TOPIC_REVIEW_20261018",
+  "iso3": "TWN",
+  "country": "Taiwan (China)",
+  "author_publication_year": 2019,
+  "analysis_class": "ESG_MANDATORY_REVIEWED",
+  "reviewed_joint_mandatory_year": 2014,
+  "reviewed_period_boundary": null,
+  "boundary_basis": "reviewed_rule_adoption_year_first_reports_for_preceding_year",
+  "topic_dates": {
+    "E": {
+      "mandatory_by_reviewed_year": 2014,
+      "precision": "reviewed_joint_regime_bound_not_earliest_national_topic_date",
+      "scope": "same issuer population as reviewed phase"
+    },
+    "S": {
+      "mandatory_by_reviewed_year": 2014,
+      "precision": "reviewed_joint_regime_bound_not_earliest_national_topic_date",
+      "scope": "same issuer population as reviewed phase"
+    },
+    "G": {
+      "mandatory_by_reviewed_year": 2014,
+      "precision": "reviewed_joint_regime_bound_not_earliest_national_topic_date",
+      "scope": "same issuer population as reviewed phase"
+    }
+  },
+  "issuer_scope": "TWSElisted food/chemical/financial-insurance companies, companies with food-and-beverage revenue>=50%, or commonstockcapital>=NTD10bn based onlatestfinancialreport. Latercapitalbands andTPExrules areseparate. GRIcoreprofile and materialE/S disclosures, with sectordetails/assurance.",
+  "mandatory_response": true,
+  "comply_or_explain_is_mandatory": true,
+  "source_keys": [
+    "twse_2014_rules"
+  ],
+  "source_clauses": "TWSE26November2014rulesarticles2-6; reportprecedingyear;June30deadline withfirst-time/assuranceextensiontoDecember31",
+  "resolution_status": "qualifying_reviewed_reporting_phase",
+  "independent_national_choice": true,
+  "assignment_cluster": "TWN",
+  "prior_reporting_obligations": "",
+  "national_earliest_topic_census_complete": false,
+  "issuer_assignment": "Legal scope rule resolved; quote-level eligibility requires historical issuer/filer attributes.",
+  "review_notes": "2014is the verifiedruleyear; first2015publicreporting is a timing sensitivity, not an observed issuer filingdate. Author2019year does not identify the firstscopephase.",
+  "date_evidence_grade": "national_primary_or_official_implementation_source",
+  "all_earliest_topic_dates_resolved": false,
+  "usable_as_verified_never_treated_control": false
+}

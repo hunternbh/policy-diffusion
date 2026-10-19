@@ -108,5 +108,17 @@
     "voluntary_not_inferred_from_missing_or_explain": true,
     "first_full_ESG_date": null,
     "reported_KSTZ_benchmark_year": 2015
+  },
+  "mandatory_topic_review": {
+    "record_id": "IND_ESG_TOPIC_REVIEW_20261018",
+    "reviewed_phase_year": 2012,
+    "date_boundary": "2012-12-31",
+    "boundary_basis": "first_covered_fiscal_year_end",
+    "issuer_scope": "Top100 listed companies by BSE/NSE market capitalization as at31March2012; other companies initially voluntary. Subsequent LODR34(2)(f) expands top500; top1000 and BRSR phases remain distinct.",
+    "evidence_grade": "national_primary_or_official_implementation_source",
+    "resolution_status": "qualifying_reviewed_reporting_phase",
+    "earliest_national_topic_history_complete": false,
+    "project_review_path": "15-mandatory-topics-and-banking-coverage/2026-10-18/data/policy-reviews/IND_ESG_TOPIC_REVIEW_20261018.json",
+    "public_review_path": "data/coverage/policy-reviews/IND_ESG_TOPIC_REVIEW_20261018.json"
   }
 }

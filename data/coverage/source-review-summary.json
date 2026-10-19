@@ -1,0 +1,20 @@
+{
+  "created_at": "2026-10-19T01:54:34.326405+00:00",
+  "reviewed_countries": 41,
+  "qualifying_reviewed_ESG_phases": 37,
+  "excluded_full_ESG_assignments": [
+    "ARG",
+    "CAN",
+    "PAK",
+    "CHN"
+  ],
+  "new_source_requests": 86,
+  "saved_readable_responses": 61,
+  "not_saved_or_not_verified_responses": 25,
+  "historical_bank_roster_rows": 228,
+  "unique_bank_group_LEIs": 143,
+  "observed_bank_report_examples": 5,
+  "first_publication_dates_observed": 1,
+  "review_outcome": "Targeted dates and coverage resolved where supported. Earliest-topic census, some original national clauses and complete issuer/filing panels remain explicitly unverified.",
+  "original_source_bytes_preserved": true
+}

@@ -1,0 +1,42 @@
+{
+  "record_id": "HKG_ESG_TOPIC_REVIEW_20261018",
+  "iso3": "HKG",
+  "country": "Hong Kong",
+  "author_publication_year": 2015,
+  "analysis_class": "ESG_MANDATORY_REVIEWED",
+  "reviewed_joint_mandatory_year": 2016,
+  "reviewed_period_boundary": "2016-01-01",
+  "boundary_basis": "first_covered_fiscal_period_start",
+  "topic_dates": {
+    "E": {
+      "date": "2016-01-01",
+      "basis": "general disclosures; environmentalKPIs2017-01-01separate"
+    },
+    "S": {
+      "date": "2016-01-01",
+      "basis": "general disclosures; socialKPIs initiallyrecommended"
+    },
+    "G": {
+      "year_upper_bound": 2016,
+      "basis": "separate listing CorporateGovernanceCode"
+    }
+  },
+  "issuer_scope": "Main Board and GEM listed issuers within the HKEX ESG reporting rules; annual E/S general disclosures on comply-or-explain; separate Corporate Governance Code. Environmental KPIs become comply-or-explain forFYstarts1January2017.",
+  "mandatory_response": true,
+  "comply_or_explain_is_mandatory": true,
+  "source_keys": [
+    "hkex_esg_2016",
+    "hkex_2019_review"
+  ],
+  "source_clauses": "HKEX2019reviewparagraphs13-16;Appendix27paragraphs1-5",
+  "resolution_status": "qualifying_reviewed_reporting_phase",
+  "independent_national_choice": true,
+  "assignment_cluster": "HKG",
+  "prior_reporting_obligations": "",
+  "national_earliest_topic_census_complete": false,
+  "issuer_assignment": "Legal scope rule resolved; quote-level eligibility requires historical issuer/filer attributes.",
+  "review_notes": "2015 is the policy change year;2016 is firstcoveredFY. General disclosures and quantitative KPIs are not interchangeable.",
+  "date_evidence_grade": "national_primary_or_official_implementation_source",
+  "all_earliest_topic_dates_resolved": false,
+  "usable_as_verified_never_treated_control": false
+}

@@ -111,5 +111,17 @@
     "voluntary_not_inferred_from_missing_or_explain": true,
     "first_full_ESG_date": null,
     "reported_KSTZ_benchmark_year": null
+  },
+  "mandatory_topic_review": {
+    "record_id": "MLT_ESG_TOPIC_REVIEW_20261018",
+    "reviewed_phase_year": 2017,
+    "date_boundary": "2017-01-01",
+    "boundary_basis": "first_covered_fiscal_period_start",
+    "issuer_scope": "Large listed/public-interest entities, >500employees and assets>EUR20m or turnover>EUR40m; group/parent exemptions and listing rules.",
+    "evidence_grade": "official_summary_or_country_mapping_national_clause_not_fully_archived",
+    "resolution_status": "qualifying_reviewed_reporting_phase",
+    "earliest_national_topic_history_complete": false,
+    "project_review_path": "15-mandatory-topics-and-banking-coverage/2026-10-18/data/policy-reviews/MLT_ESG_TOPIC_REVIEW_20261018.json",
+    "public_review_path": "data/coverage/policy-reviews/MLT_ESG_TOPIC_REVIEW_20261018.json"
   }
 }

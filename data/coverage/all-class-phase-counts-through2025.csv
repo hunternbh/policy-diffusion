@@ -1,0 +1,19 @@
+analysis_class,label,country_phase_entries,independent_entries,earliest_reviewed_year,latest_reviewed_year
+AUDIT_OVERSIGHT,Audit oversight / rotation,35,7,2003,2019
+AUDIT_REPORTING,Expanded auditor reporting,36,9,2012,2021
+BENEFICIAL_OWNERSHIP,Beneficial-ownership registers,18,12,2016,2024
+CBCR_BANK_FULL,Bank public CbCR: full disclosures,28,0,2015,2015
+CBCR_BANK_PARTIAL,Bank public CbCR: initial disclosures,28,0,2014,2014
+CBCR_CONFIDENTIAL,Confidential tax CbCR,120,93,2016,2025
+CBCR_PUBLIC,Public tax CbCR: general MNEs,28,1,2023,2025
+CLIMATE_DISCLOSURE,Climate reporting,6,6,2022,2025
+CLIMATE_SECTORAL,Climate: financial institutions,1,1,2025,2025
+DIGITAL_ASSET,Token-offer / digital-asset rules,31,4,2018,2025
+ESG_MANDATORY_REVIEWED,Mandatory E/S/G response: reviewed phases,37,17,2002,2022
+EXTRACTIVE_PAYMENTS,Extractive-payment reporting,9,4,2014,2023
+GOVERNANCE,Governance disclosure,12,12,1993,2015
+IFRS,Financial reporting (IFRS),36,11,2005,2012
+SUPPLY_CHAIN,Supply-chain reporting / due diligence,8,8,2012,2024
+SUSTAINABILITY_FINANCIAL,Sustainability-related financial reporting,6,6,2024,2025
+SUSTAINABILITY_INFORMED,ISSB-informed sector reporting,1,1,2024,2024
+XBRL,Structured financial filing,4,4,2007,2011

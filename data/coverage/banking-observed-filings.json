@@ -1,0 +1,63 @@
+[
+  {
+    "group": "HSBC Holdings plc",
+    "regulated_filer_example": "HSBC Bank plc appears as UK principal subsidiary; group parent publishes consolidated report. Parent is not automatically a UK institution.",
+    "LEI": "MLU0ZO3ML4LN2LL2TL39",
+    "source_key": "hsbc_2013_cbcr",
+    "period_end": "2013-12-31",
+    "observed_publication_date": null,
+    "date_evidence": "PDF period end is not a filing date; no date invented.",
+    "content": "Country turnover, FTEs, principal subsidiaries and activities; no country profit/tax table.",
+    "role": "partial_public_group_disclosure",
+    "equity_ISIN": null
+  },
+  {
+    "group": "HSBC Holdings plc",
+    "regulated_filer_example": "Group parent report can cover regulated subsidiaries; assess each legal entity separately.",
+    "LEI": "MLU0ZO3ML4LN2LL2TL39",
+    "source_key": "hsbc_2014_cbcr",
+    "period_end": "2014-12-31",
+    "observed_publication_date": "2015-06-30",
+    "date_evidence": "HSBC historical reporting index dates this exact report30June2015. The171103file-name prefix is not treated as the original publication date.",
+    "content": "Country turnover, FTEs, profit before tax, cash corporation tax and subsidies statement.",
+    "role": "full_public_group_disclosure",
+    "equity_ISIN": null
+  },
+  {
+    "group": "Deutsche Bank AG",
+    "regulated_filer_example": "German credit institution and listed parent reports underKWG26a.",
+    "LEI": "7LTWFZYICNSX8D621K86",
+    "source_key": "deutsche_2014_full_report",
+    "period_end": "2014-12-31",
+    "observed_publication_date": null,
+    "date_evidence": "Annual report financial note45 identifies2014period; source-index publication date not independently recovered. PDF compilation stamp is not filing date.",
+    "content": "Full country revenues, FTE, pretax income and accounting income tax; computation before cross-border intragroup eliminations underBundesbankguidance.",
+    "role": "full_public_listed_institution_disclosure",
+    "equity_ISIN": "DE0005140008",
+    "identifier_evidence": "AnnualreportPDFp3;CbCRfinancialnotepages446-447(PDF540-541)."
+  },
+  {
+    "group": "BNP Paribas Fortis NV/SA",
+    "regulated_filer_example": "Belgian credit institution; a subsidiary ofBNPParibasSA, not the same equity issuer as its listed French parent.",
+    "LEI": null,
+    "source_key": "bnp_fortis_2014_half",
+    "period_end": "2014-06-30",
+    "observed_publication_date": null,
+    "date_evidence": "Period end is not an observed public filing date.",
+    "content": "Country revenues,FTE,activities;Article89identified,without full tax/profit table.",
+    "role": "partial_public_institution_disclosure",
+    "equity_ISIN": null
+  },
+  {
+    "group": "BNP Paribas Fortis NV/SA",
+    "regulated_filer_example": "Do not match Fortis2014report directly toBNPParibasSAshares without parent/consolidation evidence.",
+    "LEI": null,
+    "source_key": "bnp_fortis_2014_annual",
+    "period_end": "2014-12-31",
+    "observed_publication_date": null,
+    "date_evidence": "April2015file-name date is not independently certified publication date.",
+    "content": "Country revenues,pretax income,current/deferred/corporationtax,FTE,activities;Article89identified.",
+    "role": "full_public_institution_disclosure",
+    "equity_ISIN": null
+  }
+]

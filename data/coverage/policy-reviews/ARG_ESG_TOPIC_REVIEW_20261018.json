@@ -1,0 +1,44 @@
+{
+  "record_id": "ARG_ESG_TOPIC_REVIEW_20261018",
+  "iso3": "ARG",
+  "country": "Argentina",
+  "author_publication_year": 2008,
+  "analysis_class": "ESG_SCOPE_EXCLUDED",
+  "reviewed_joint_mandatory_year": null,
+  "reviewed_period_boundary": null,
+  "boundary_basis": "subnational_law_not_national_treatment",
+  "topic_dates": {
+    "E": {
+      "mandatory_by_reviewed_year": null,
+      "precision": "reviewed_joint_regime_bound_not_earliest_national_topic_date",
+      "scope": "same issuer population as reviewed phase"
+    },
+    "S": {
+      "mandatory_by_reviewed_year": null,
+      "precision": "reviewed_joint_regime_bound_not_earliest_national_topic_date",
+      "scope": "same issuer population as reviewed phase"
+    },
+    "G": {
+      "mandatory_by_reviewed_year": null,
+      "precision": "reviewed_joint_regime_bound_not_earliest_national_topic_date",
+      "scope": "same issuer population as reviewed phase"
+    }
+  },
+  "issuer_scope": "CABAlegal-domiciledbusinesses principallyoperatinginthecityfor>=1year; mandatoryBRSAonlywith>300workers AND revenueabove medium-enterprise thresholds; voluntaryforothers.",
+  "mandatory_response": false,
+  "comply_or_explain_is_mandatory": true,
+  "source_keys": [
+    "argentina_caba_law"
+  ],
+  "source_clauses": "Law2594articles2-4",
+  "resolution_status": "excluded_subnational_scope",
+  "independent_national_choice": true,
+  "assignment_cluster": "ARG",
+  "prior_reporting_obligations": "",
+  "national_earliest_topic_census_complete": false,
+  "issuer_assignment": "Legal scope rule resolved; quote-level eligibility requires historical issuer/filer attributes.",
+  "review_notes": "Law2594waspassed6December2007,promulgated16January2008,published28January2008. No countrywidelisted-issuer treatment year is assigned.",
+  "date_evidence_grade": "national_primary_or_official_implementation_source",
+  "all_earliest_topic_dates_resolved": false,
+  "usable_as_verified_never_treated_control": false
+}

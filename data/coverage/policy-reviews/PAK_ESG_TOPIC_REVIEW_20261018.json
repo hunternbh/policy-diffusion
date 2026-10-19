@@ -1,0 +1,44 @@
+{
+  "record_id": "PAK_ESG_TOPIC_REVIEW_20261018",
+  "iso3": "PAK",
+  "country": "Pakistan",
+  "author_publication_year": 2009,
+  "analysis_class": "ESG_SCOPE_EXCLUDED",
+  "reviewed_joint_mandatory_year": null,
+  "reviewed_period_boundary": "2009-07-01",
+  "boundary_basis": "CSR_activity_reporting_fiscal_period_start",
+  "topic_dates": {
+    "E": {
+      "mandatory_by_reviewed_year": null,
+      "precision": "reviewed_joint_regime_bound_not_earliest_national_topic_date",
+      "scope": "same issuer population as reviewed phase"
+    },
+    "S": {
+      "mandatory_by_reviewed_year": null,
+      "precision": "reviewed_joint_regime_bound_not_earliest_national_topic_date",
+      "scope": "same issuer population as reviewed phase"
+    },
+    "G": {
+      "mandatory_by_reviewed_year": null,
+      "precision": "reviewed_joint_regime_bound_not_earliest_national_topic_date",
+      "scope": "same issuer population as reviewed phase"
+    }
+  },
+  "issuer_scope": "Allpubliccompanies underCSRGeneralOrder2009; descriptiveandmonetarydisclosureofCSRactivitiesundertaken. CSRvoluntaryguidelinesandcorporategovernanceareseparate.",
+  "mandatory_response": false,
+  "comply_or_explain_is_mandatory": true,
+  "source_keys": [
+    "pakistan_csr_order"
+  ],
+  "source_clauses": "SRO983(I)/2009clauses1(2),2;FYbeginningon/after1July2009",
+  "resolution_status": "excluded_CSR_activity_only",
+  "independent_national_choice": true,
+  "assignment_cluster": "PAK",
+  "prior_reporting_obligations": "",
+  "national_earliest_topic_census_complete": false,
+  "issuer_assignment": "Legal scope rule resolved; quote-level eligibility requires historical issuer/filer attributes.",
+  "review_notes": "The source establishesmandatoryCSRactivityreporting,butdoesnotverifythefirstsame-scopecomprehensiveE/S/Gpolicyresponse. No fullESGdate is manufactured.",
+  "date_evidence_grade": "national_primary_or_official_implementation_source",
+  "all_earliest_topic_dates_resolved": false,
+  "usable_as_verified_never_treated_control": false
+}

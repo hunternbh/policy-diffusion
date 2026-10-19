@@ -1,0 +1,42 @@
+{
+  "record_id": "FRA_ESG_TOPIC_REVIEW_20261018",
+  "iso3": "FRA",
+  "country": "France",
+  "author_publication_year": 2001,
+  "analysis_class": "ESG_MANDATORY_REVIEWED",
+  "reviewed_joint_mandatory_year": 2002,
+  "reviewed_period_boundary": "2002-01-01",
+  "boundary_basis": "first_covered_fiscal_period_start",
+  "topic_dates": {
+    "E": {
+      "date": "2002-01-01",
+      "basis": "FYstart;NRE116II,lastparagraph"
+    },
+    "S": {
+      "date": "2002-01-01",
+      "basis": "FYstart;NRE116II,lastparagraph"
+    },
+    "G": {
+      "date": "2001-01-01",
+      "basis": "FYstart;NRE116II,firstthreeparagraphs"
+    }
+  },
+  "issuer_scope": "French companies whose securities are admitted to a regulated market for environmental/social paragraph; director remuneration and mandates under the first three paragraphs apply fromFY2001.",
+  "mandatory_response": true,
+  "comply_or_explain_is_mandatory": true,
+  "source_keys": [
+    "legacy_france_nre_law",
+    "france_nre_decree"
+  ],
+  "source_clauses": "Law2001-420Article116I-II;Decree2002-221articles1-2",
+  "resolution_status": "qualifying_reviewed_reporting_phase",
+  "independent_national_choice": true,
+  "assignment_cluster": "FRA",
+  "prior_reporting_obligations": "",
+  "national_earliest_topic_census_complete": false,
+  "issuer_assignment": "Legal scope rule resolved; quote-level eligibility requires historical issuer/filer attributes.",
+  "review_notes": "The law explicitly distinguishes FY2001 for remuneration/mandates from FY2002 for the social/environmental paragraph. Publication-year2001 is not the joint E/S/G period.",
+  "date_evidence_grade": "national_primary_or_official_implementation_source",
+  "all_earliest_topic_dates_resolved": false,
+  "usable_as_verified_never_treated_control": false
+}

@@ -1,0 +1,18 @@
+Measure,Controls,"Logit coefficient
+(SE)",Raw p,Broad Holm p,Rows / countries
+Export peers,No,"0.458
+(0.264)",0.0883,1.000,233/58
+Export peers,Yes,"-0.055
+(0.320)",0.8654,1.000,218/55
+Relative GDP-growth learning,No,"-0.409
+(0.695)",0.5601,1.000,74/33
+Relative GDP-growth learning,Yes,"-0.754
+(0.850)",0.3821,1.000,69/31
+Language peers,No,"0.105
+(0.275)",0.7032,1.000,411/66
+Language peers,Yes,"0.009
+(0.281)",0.9737,1.000,348/53
+Credit + aid / GDP,No,"-0.720
+(0.186)",0.0003,0.142,269/48
+Credit + aid / GDP,Yes,"-0.798
+(0.345)",0.0257,1.000,255/45

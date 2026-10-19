@@ -5801,6 +5801,18 @@
         "voluntary_not_inferred_from_missing_or_explain": true,
         "first_full_ESG_date": null,
         "reported_KSTZ_benchmark_year": 2015
+      },
+      "mandatory_topic_review": {
+        "record_id": "IND_ESG_TOPIC_REVIEW_20261018",
+        "reviewed_phase_year": 2012,
+        "date_boundary": "2012-12-31",
+        "boundary_basis": "first_covered_fiscal_year_end",
+        "issuer_scope": "Top100 listed companies by BSE/NSE market capitalization as at31March2012; other companies initially voluntary. Subsequent LODR34(2)(f) expands top500; top1000 and BRSR phases remain distinct.",
+        "evidence_grade": "national_primary_or_official_implementation_source",
+        "resolution_status": "qualifying_reviewed_reporting_phase",
+        "earliest_national_topic_history_complete": false,
+        "project_review_path": "15-mandatory-topics-and-banking-coverage/2026-10-18/data/policy-reviews/IND_ESG_TOPIC_REVIEW_20261018.json",
+        "public_review_path": "data/coverage/policy-reviews/IND_ESG_TOPIC_REVIEW_20261018.json"
       }
     },
     {
@@ -5934,6 +5946,18 @@
         "voluntary_not_inferred_from_missing_or_explain": true,
         "first_full_ESG_date": null,
         "reported_KSTZ_benchmark_year": 2011
+      },
+      "mandatory_topic_review": {
+        "record_id": "PHL_ESG_TOPIC_REVIEW_20261018",
+        "reviewed_phase_year": 2019,
+        "date_boundary": null,
+        "boundary_basis": "first_covered_annual_report_year",
+        "issuer_scope": "Philippine publicly-listed companies; sustainability template attached toSECForm17-A, or qualifying existing report/link; firstthreeimplementationyearscomply-or-explain. The referenced2011CSRAct is a bill, not this reporting mandate.",
+        "evidence_grade": "national_primary_or_official_implementation_source",
+        "resolution_status": "qualifying_reviewed_reporting_phase",
+        "earliest_national_topic_history_complete": false,
+        "project_review_path": "15-mandatory-topics-and-banking-coverage/2026-10-18/data/policy-reviews/PHL_ESG_TOPIC_REVIEW_20261018.json",
+        "public_review_path": "data/coverage/policy-reviews/PHL_ESG_TOPIC_REVIEW_20261018.json"
       }
     },
     {
@@ -19377,6 +19401,18 @@
         "voluntary_not_inferred_from_missing_or_explain": true,
         "first_full_ESG_date": null,
         "reported_KSTZ_benchmark_year": 2008
+      },
+      "mandatory_topic_review": {
+        "record_id": "ARG_ESG_TOPIC_REVIEW_20261018",
+        "reviewed_phase_year": null,
+        "date_boundary": null,
+        "boundary_basis": "subnational_law_not_national_treatment",
+        "issuer_scope": "CABAlegal-domiciledbusinesses principallyoperatinginthecityfor>=1year; mandatoryBRSAonlywith>300workers AND revenueabove medium-enterprise thresholds; voluntaryforothers.",
+        "evidence_grade": "national_primary_or_official_implementation_source",
+        "resolution_status": "excluded_subnational_scope",
+        "earliest_national_topic_history_complete": false,
+        "project_review_path": "15-mandatory-topics-and-banking-coverage/2026-10-18/data/policy-reviews/ARG_ESG_TOPIC_REVIEW_20261018.json",
+        "public_review_path": "data/coverage/policy-reviews/ARG_ESG_TOPIC_REVIEW_20261018.json"
       }
     },
     {
@@ -19492,6 +19528,18 @@
         "voluntary_not_inferred_from_missing_or_explain": true,
         "first_full_ESG_date": null,
         "reported_KSTZ_benchmark_year": 2003
+      },
+      "mandatory_topic_review": {
+        "record_id": "AUS_ESG_TOPIC_REVIEW_20261018",
+        "reviewed_phase_year": 2014,
+        "date_boundary": "2014-07-01",
+        "boundary_basis": "first_full_fiscal_period_start",
+        "issuer_scope": "ASX-listed entities subject to Listing Rule4.10.3 and third-edition governance recommendations; recommendation7.4 requires material economic/environmental/social risk exposure and management disclosure or an explanation. Materiality and listing exceptions apply.",
+        "evidence_grade": "national_primary_or_official_implementation_source",
+        "resolution_status": "qualifying_reviewed_reporting_phase",
+        "earliest_national_topic_history_complete": false,
+        "project_review_path": "15-mandatory-topics-and-banking-coverage/2026-10-18/data/policy-reviews/AUS_ESG_TOPIC_REVIEW_20261018.json",
+        "public_review_path": "data/coverage/policy-reviews/AUS_ESG_TOPIC_REVIEW_20261018.json"
       }
     },
     {
@@ -19607,6 +19655,18 @@
         "voluntary_not_inferred_from_missing_or_explain": true,
         "first_full_ESG_date": null,
         "reported_KSTZ_benchmark_year": 2016
+      },
+      "mandatory_topic_review": {
+        "record_id": "AUT_ESG_TOPIC_REVIEW_20261018",
+        "reviewed_phase_year": 2017,
+        "date_boundary": "2017-01-01",
+        "boundary_basis": "first_covered_fiscal_period_start",
+        "issuer_scope": "NaDiVeG, UGB243b/267a; large public-interest companies/groups with >500 employees; size tests and consolidated subsidiary exemption.",
+        "evidence_grade": "national_primary_or_official_implementation_source",
+        "resolution_status": "qualifying_reviewed_reporting_phase",
+        "earliest_national_topic_history_complete": false,
+        "project_review_path": "15-mandatory-topics-and-banking-coverage/2026-10-18/data/policy-reviews/AUT_ESG_TOPIC_REVIEW_20261018.json",
+        "public_review_path": "data/coverage/policy-reviews/AUT_ESG_TOPIC_REVIEW_20261018.json"
       }
     },
     {
@@ -19722,6 +19782,18 @@
         "voluntary_not_inferred_from_missing_or_explain": true,
         "first_full_ESG_date": null,
         "reported_KSTZ_benchmark_year": 2009
+      },
+      "mandatory_topic_review": {
+        "record_id": "BEL_ESG_TOPIC_REVIEW_20261018",
+        "reviewed_phase_year": 2017,
+        "date_boundary": "2017-01-01",
+        "boundary_basis": "first_covered_fiscal_period_start",
+        "issuer_scope": "Law3September2017; public-interest entities with >500 average employees and at least one financial-size test, including qualifying consolidated parents.",
+        "evidence_grade": "official_summary_or_country_mapping_national_clause_not_fully_archived",
+        "resolution_status": "qualifying_reviewed_reporting_phase",
+        "earliest_national_topic_history_complete": false,
+        "project_review_path": "15-mandatory-topics-and-banking-coverage/2026-10-18/data/policy-reviews/BEL_ESG_TOPIC_REVIEW_20261018.json",
+        "public_review_path": "data/coverage/policy-reviews/BEL_ESG_TOPIC_REVIEW_20261018.json"
       }
     },
     {
@@ -19837,6 +19909,18 @@
         "voluntary_not_inferred_from_missing_or_explain": true,
         "first_full_ESG_date": null,
         "reported_KSTZ_benchmark_year": null
+      },
+      "mandatory_topic_review": {
+        "record_id": "BGR_ESG_TOPIC_REVIEW_20261018",
+        "reviewed_phase_year": 2017,
+        "date_boundary": "2017-01-01",
+        "boundary_basis": "first_covered_fiscal_period_start",
+        "issuer_scope": "Large public-interest entities with >500 employees; parent groups subject to consolidated statement, subsidiaries can use qualifying parent reporting.",
+        "evidence_grade": "official_summary_or_country_mapping_national_clause_not_fully_archived",
+        "resolution_status": "qualifying_reviewed_reporting_phase",
+        "earliest_national_topic_history_complete": false,
+        "project_review_path": "15-mandatory-topics-and-banking-coverage/2026-10-18/data/policy-reviews/BGR_ESG_TOPIC_REVIEW_20261018.json",
+        "public_review_path": "data/coverage/policy-reviews/BGR_ESG_TOPIC_REVIEW_20261018.json"
       }
     },
     {
@@ -19952,6 +20036,18 @@
         "voluntary_not_inferred_from_missing_or_explain": true,
         "first_full_ESG_date": null,
         "reported_KSTZ_benchmark_year": 2004
+      },
+      "mandatory_topic_review": {
+        "record_id": "CAN_ESG_TOPIC_REVIEW_20261018",
+        "reviewed_phase_year": null,
+        "date_boundary": "2004-03-30",
+        "boundary_basis": "conditional_financial_disclosure_not_comprehensive_ESG_mandate",
+        "issuer_scope": "AIFfilersunderNI51-102; nonventure/reporting-issuerexemptions, materiality andfundamentalpolicyconditions matter. Environmentalfinancialeffects, employees andconditionalS/Epolicyinformation are not a universalrequirementtoreportorexplainallESGpolicies.",
+        "evidence_grade": "national_primary_or_official_implementation_source",
+        "resolution_status": "excluded_conditional_financial_disclosure",
+        "earliest_national_topic_history_complete": false,
+        "project_review_path": "15-mandatory-topics-and-banking-coverage/2026-10-18/data/policy-reviews/CAN_ESG_TOPIC_REVIEW_20261018.json",
+        "public_review_path": "data/coverage/policy-reviews/CAN_ESG_TOPIC_REVIEW_20261018.json"
       }
     },
     {
@@ -20067,6 +20163,18 @@
         "voluntary_not_inferred_from_missing_or_explain": true,
         "first_full_ESG_date": null,
         "reported_KSTZ_benchmark_year": 2015
+      },
+      "mandatory_topic_review": {
+        "record_id": "CHL_ESG_TOPIC_REVIEW_20261018",
+        "reviewed_phase_year": 2015,
+        "date_boundary": "2015-12-31",
+        "boundary_basis": "annual_reference_date",
+        "issuer_scope": "All Chilean openstockcorporations (sociedadesanonimasabiertas) underNCG385; mandatory questionnaire about adopted governance/CSR/sustainabledevelopment practices,referencing31December anddue31Marchnextyear; practiceadoptionitselfnotcompulsory.",
+        "evidence_grade": "national_primary_or_official_implementation_source",
+        "resolution_status": "qualifying_reviewed_reporting_phase",
+        "earliest_national_topic_history_complete": false,
+        "project_review_path": "15-mandatory-topics-and-banking-coverage/2026-10-18/data/policy-reviews/CHL_ESG_TOPIC_REVIEW_20261018.json",
+        "public_review_path": "data/coverage/policy-reviews/CHL_ESG_TOPIC_REVIEW_20261018.json"
       }
     },
     {
@@ -20182,6 +20290,18 @@
         "voluntary_not_inferred_from_missing_or_explain": true,
         "first_full_ESG_date": null,
         "reported_KSTZ_benchmark_year": 2008
+      },
+      "mandatory_topic_review": {
+        "record_id": "CHN_ESG_TOPIC_REVIEW_20261018",
+        "reviewed_phase_year": null,
+        "date_boundary": null,
+        "boundary_basis": "scoped_CSR_and_internal_control_history",
+        "issuer_scope": "SSECorporateGovernanceSectorconstituents,overseaslistedforeign-shareissuersandfinancialcompaniesmustsubmitCSR/internal-controlreportswithFY2008annualreports; otherissuersencouraged.",
+        "evidence_grade": "national_primary_or_official_implementation_source",
+        "resolution_status": "excluded_full_topic_template_not_verified",
+        "earliest_national_topic_history_complete": false,
+        "project_review_path": "15-mandatory-topics-and-banking-coverage/2026-10-18/data/policy-reviews/CHN_ESG_TOPIC_REVIEW_20261018.json",
+        "public_review_path": "data/coverage/policy-reviews/CHN_ESG_TOPIC_REVIEW_20261018.json"
       }
     },
     {
@@ -20297,6 +20417,18 @@
         "voluntary_not_inferred_from_missing_or_explain": true,
         "first_full_ESG_date": null,
         "reported_KSTZ_benchmark_year": null
+      },
+      "mandatory_topic_review": {
+        "record_id": "CYP_ESG_TOPIC_REVIEW_20261018",
+        "reviewed_phase_year": 2017,
+        "date_boundary": "2017-01-01",
+        "boundary_basis": "first_covered_fiscal_period_start",
+        "issuer_scope": "Large public-interest entities with >500 average employees; qualifying parent consolidated reporting and subsidiary exemption.",
+        "evidence_grade": "national_primary_or_official_implementation_source",
+        "resolution_status": "qualifying_reviewed_reporting_phase",
+        "earliest_national_topic_history_complete": false,
+        "project_review_path": "15-mandatory-topics-and-banking-coverage/2026-10-18/data/policy-reviews/CYP_ESG_TOPIC_REVIEW_20261018.json",
+        "public_review_path": "data/coverage/policy-reviews/CYP_ESG_TOPIC_REVIEW_20261018.json"
       }
     },
     {
@@ -20412,6 +20544,18 @@
         "voluntary_not_inferred_from_missing_or_explain": true,
         "first_full_ESG_date": null,
         "reported_KSTZ_benchmark_year": 2016
+      },
+      "mandatory_topic_review": {
+        "record_id": "DNK_ESG_TOPIC_REVIEW_20261018",
+        "reviewed_phase_year": 2016,
+        "date_boundary": "2016-01-01",
+        "boundary_basis": "first_covered_fiscal_period_start",
+        "issuer_scope": "Reporting classD entities with >=500employees fromFY2016; large classC and smaller classD enter the expanded four-topic requirements fromFY2018. PriorCSR2009/human-rights and climate2013 duties remain distinct.",
+        "evidence_grade": "national_primary_or_official_implementation_source",
+        "resolution_status": "qualifying_reviewed_reporting_phase",
+        "earliest_national_topic_history_complete": false,
+        "project_review_path": "15-mandatory-topics-and-banking-coverage/2026-10-18/data/policy-reviews/DNK_ESG_TOPIC_REVIEW_20261018.json",
+        "public_review_path": "data/coverage/policy-reviews/DNK_ESG_TOPIC_REVIEW_20261018.json"
       }
     },
     {
@@ -20527,6 +20671,18 @@
         "voluntary_not_inferred_from_missing_or_explain": true,
         "first_full_ESG_date": null,
         "reported_KSTZ_benchmark_year": null
+      },
+      "mandatory_topic_review": {
+        "record_id": "EST_ESG_TOPIC_REVIEW_20261018",
+        "reviewed_phase_year": 2017,
+        "date_boundary": "2017-01-01",
+        "boundary_basis": "first_covered_fiscal_period_start",
+        "issuer_scope": "Public-interest entities (listed companies, credit institutions, insurers) with >500 employees; country-specific Accounting Act scope.",
+        "evidence_grade": "official_summary_or_country_mapping_national_clause_not_fully_archived",
+        "resolution_status": "qualifying_reviewed_reporting_phase",
+        "earliest_national_topic_history_complete": false,
+        "project_review_path": "15-mandatory-topics-and-banking-coverage/2026-10-18/data/policy-reviews/EST_ESG_TOPIC_REVIEW_20261018.json",
+        "public_review_path": "data/coverage/policy-reviews/EST_ESG_TOPIC_REVIEW_20261018.json"
       }
     },
     {
@@ -20642,6 +20798,18 @@
         "voluntary_not_inferred_from_missing_or_explain": true,
         "first_full_ESG_date": null,
         "reported_KSTZ_benchmark_year": 2016
+      },
+      "mandatory_topic_review": {
+        "record_id": "FIN_ESG_TOPIC_REVIEW_20261018",
+        "reviewed_phase_year": 2017,
+        "date_boundary": "2017-12-31",
+        "boundary_basis": "first_covered_fiscal_year_end",
+        "issuer_scope": "Large public-interest reporting entities with >500 average employees; group non-financial statement can cover qualifying subsidiaries.",
+        "evidence_grade": "national_primary_or_official_implementation_source",
+        "resolution_status": "qualifying_reviewed_reporting_phase",
+        "earliest_national_topic_history_complete": false,
+        "project_review_path": "15-mandatory-topics-and-banking-coverage/2026-10-18/data/policy-reviews/FIN_ESG_TOPIC_REVIEW_20261018.json",
+        "public_review_path": "data/coverage/policy-reviews/FIN_ESG_TOPIC_REVIEW_20261018.json"
       }
     },
     {
@@ -20757,6 +20925,18 @@
         "voluntary_not_inferred_from_missing_or_explain": true,
         "first_full_ESG_date": null,
         "reported_KSTZ_benchmark_year": 2001
+      },
+      "mandatory_topic_review": {
+        "record_id": "FRA_ESG_TOPIC_REVIEW_20261018",
+        "reviewed_phase_year": 2002,
+        "date_boundary": "2002-01-01",
+        "boundary_basis": "first_covered_fiscal_period_start",
+        "issuer_scope": "French companies whose securities are admitted to a regulated market for environmental/social paragraph; director remuneration and mandates under the first three paragraphs apply fromFY2001.",
+        "evidence_grade": "national_primary_or_official_implementation_source",
+        "resolution_status": "qualifying_reviewed_reporting_phase",
+        "earliest_national_topic_history_complete": false,
+        "project_review_path": "15-mandatory-topics-and-banking-coverage/2026-10-18/data/policy-reviews/FRA_ESG_TOPIC_REVIEW_20261018.json",
+        "public_review_path": "data/coverage/policy-reviews/FRA_ESG_TOPIC_REVIEW_20261018.json"
       }
     },
     {
@@ -20872,6 +21052,18 @@
         "voluntary_not_inferred_from_missing_or_explain": true,
         "first_full_ESG_date": null,
         "reported_KSTZ_benchmark_year": 2016
+      },
+      "mandatory_topic_review": {
+        "record_id": "DEU_ESG_TOPIC_REVIEW_20261018",
+        "reviewed_phase_year": 2017,
+        "date_boundary": "2017-01-01",
+        "boundary_basis": "first_covered_fiscal_period_start",
+        "issuer_scope": "Large capital-market-oriented companies with >500 average employees; separate rules include credit institutions and insurers, with group/parent exemptions.",
+        "evidence_grade": "national_primary_or_official_implementation_source",
+        "resolution_status": "qualifying_reviewed_reporting_phase",
+        "earliest_national_topic_history_complete": false,
+        "project_review_path": "15-mandatory-topics-and-banking-coverage/2026-10-18/data/policy-reviews/DEU_ESG_TOPIC_REVIEW_20261018.json",
+        "public_review_path": "data/coverage/policy-reviews/DEU_ESG_TOPIC_REVIEW_20261018.json"
       }
     },
     {
@@ -20987,6 +21179,18 @@
         "voluntary_not_inferred_from_missing_or_explain": true,
         "first_full_ESG_date": null,
         "reported_KSTZ_benchmark_year": 2006
+      },
+      "mandatory_topic_review": {
+        "record_id": "GRC_ESG_TOPIC_REVIEW_20261018",
+        "reviewed_phase_year": 2016,
+        "date_boundary": "2016-07-07",
+        "boundary_basis": "first_covered_fiscal_year_end_national_early_implementation",
+        "issuer_scope": "Large public-interest entities with >500 employees under Law4403/2016; earlier environmental/employee KPI duties under3487/2006 are a distinct, narrower history.",
+        "evidence_grade": "national_primary_or_official_implementation_source",
+        "resolution_status": "qualifying_reviewed_reporting_phase",
+        "earliest_national_topic_history_complete": false,
+        "project_review_path": "15-mandatory-topics-and-banking-coverage/2026-10-18/data/policy-reviews/GRC_ESG_TOPIC_REVIEW_20261018.json",
+        "public_review_path": "data/coverage/policy-reviews/GRC_ESG_TOPIC_REVIEW_20261018.json"
       }
     },
     {
@@ -21102,6 +21306,18 @@
         "voluntary_not_inferred_from_missing_or_explain": true,
         "first_full_ESG_date": null,
         "reported_KSTZ_benchmark_year": 2015
+      },
+      "mandatory_topic_review": {
+        "record_id": "HKG_ESG_TOPIC_REVIEW_20261018",
+        "reviewed_phase_year": 2016,
+        "date_boundary": "2016-01-01",
+        "boundary_basis": "first_covered_fiscal_period_start",
+        "issuer_scope": "Main Board and GEM listed issuers within the HKEX ESG reporting rules; annual E/S general disclosures on comply-or-explain; separate Corporate Governance Code. Environmental KPIs become comply-or-explain forFYstarts1January2017.",
+        "evidence_grade": "national_primary_or_official_implementation_source",
+        "resolution_status": "qualifying_reviewed_reporting_phase",
+        "earliest_national_topic_history_complete": false,
+        "project_review_path": "15-mandatory-topics-and-banking-coverage/2026-10-18/data/policy-reviews/HKG_ESG_TOPIC_REVIEW_20261018.json",
+        "public_review_path": "data/coverage/policy-reviews/HKG_ESG_TOPIC_REVIEW_20261018.json"
       }
     },
     {
@@ -21217,6 +21433,18 @@
         "voluntary_not_inferred_from_missing_or_explain": true,
         "first_full_ESG_date": null,
         "reported_KSTZ_benchmark_year": 2016
+      },
+      "mandatory_topic_review": {
+        "record_id": "HUN_ESG_TOPIC_REVIEW_20261018",
+        "reviewed_phase_year": 2017,
+        "date_boundary": "2017-01-01",
+        "boundary_basis": "first_covered_fiscal_period_start",
+        "issuer_scope": "Public-interest entities with >500 employees and turnover>HUF12billion or assets>HUF6billion; consolidated parent scope and qualifying exemptions.",
+        "evidence_grade": "official_summary_or_country_mapping_national_clause_not_fully_archived",
+        "resolution_status": "qualifying_reviewed_reporting_phase",
+        "earliest_national_topic_history_complete": false,
+        "project_review_path": "15-mandatory-topics-and-banking-coverage/2026-10-18/data/policy-reviews/HUN_ESG_TOPIC_REVIEW_20261018.json",
+        "public_review_path": "data/coverage/policy-reviews/HUN_ESG_TOPIC_REVIEW_20261018.json"
       }
     },
     {
@@ -21332,6 +21560,18 @@
         "voluntary_not_inferred_from_missing_or_explain": true,
         "first_full_ESG_date": null,
         "reported_KSTZ_benchmark_year": 2015
+      },
+      "mandatory_topic_review": {
+        "record_id": "IND_ESG_TOPIC_REVIEW_20261018",
+        "reviewed_phase_year": 2012,
+        "date_boundary": "2012-12-31",
+        "boundary_basis": "first_covered_fiscal_year_end",
+        "issuer_scope": "Top100 listed companies by BSE/NSE market capitalization as at31March2012; other companies initially voluntary. Subsequent LODR34(2)(f) expands top500; top1000 and BRSR phases remain distinct.",
+        "evidence_grade": "national_primary_or_official_implementation_source",
+        "resolution_status": "qualifying_reviewed_reporting_phase",
+        "earliest_national_topic_history_complete": false,
+        "project_review_path": "15-mandatory-topics-and-banking-coverage/2026-10-18/data/policy-reviews/IND_ESG_TOPIC_REVIEW_20261018.json",
+        "public_review_path": "data/coverage/policy-reviews/IND_ESG_TOPIC_REVIEW_20261018.json"
       }
     },
     {
@@ -21447,6 +21687,18 @@
         "voluntary_not_inferred_from_missing_or_explain": true,
         "first_full_ESG_date": null,
         "reported_KSTZ_benchmark_year": 2012
+      },
+      "mandatory_topic_review": {
+        "record_id": "IDN_ESG_TOPIC_REVIEW_20261018",
+        "reviewed_phase_year": 2012,
+        "date_boundary": "2012-12-31",
+        "boundary_basis": "first_covered_fiscal_year_end",
+        "issuer_scope": "Issuers and public companies governed by Bapepam-LKX.K.6; annual report includes corporate governance and CSR covering environment, labour/health/safety, community and product responsibility. Natural-resource CSR spending law is separate.",
+        "evidence_grade": "national_primary_or_official_implementation_source",
+        "resolution_status": "qualifying_reviewed_reporting_phase",
+        "earliest_national_topic_history_complete": false,
+        "project_review_path": "15-mandatory-topics-and-banking-coverage/2026-10-18/data/policy-reviews/IDN_ESG_TOPIC_REVIEW_20261018.json",
+        "public_review_path": "data/coverage/policy-reviews/IDN_ESG_TOPIC_REVIEW_20261018.json"
       }
     },
     {
@@ -21562,6 +21814,18 @@
         "voluntary_not_inferred_from_missing_or_explain": true,
         "first_full_ESG_date": null,
         "reported_KSTZ_benchmark_year": 2016
+      },
+      "mandatory_topic_review": {
+        "record_id": "IRL_ESG_TOPIC_REVIEW_20261018",
+        "reviewed_phase_year": 2017,
+        "date_boundary": "2017-08-01",
+        "boundary_basis": "first_covered_fiscal_period_start",
+        "issuer_scope": "Large ineligible/public-interest entities with >500 employees, and qualifying holding-company groups; apply original2017scope and separately recorded2018amendment.",
+        "evidence_grade": "national_primary_or_official_implementation_source",
+        "resolution_status": "qualifying_reviewed_reporting_phase",
+        "earliest_national_topic_history_complete": false,
+        "project_review_path": "15-mandatory-topics-and-banking-coverage/2026-10-18/data/policy-reviews/IRL_ESG_TOPIC_REVIEW_20261018.json",
+        "public_review_path": "data/coverage/policy-reviews/IRL_ESG_TOPIC_REVIEW_20261018.json"
       }
     },
     {
@@ -21677,6 +21941,18 @@
         "voluntary_not_inferred_from_missing_or_explain": true,
         "first_full_ESG_date": null,
         "reported_KSTZ_benchmark_year": 2016
+      },
+      "mandatory_topic_review": {
+        "record_id": "ITA_ESG_TOPIC_REVIEW_20261018",
+        "reviewed_phase_year": 2017,
+        "date_boundary": "2017-01-01",
+        "boundary_basis": "first_covered_fiscal_period_start",
+        "issuer_scope": "Public-interest entities with >500 employees and assets>EUR20m or revenue>EUR40m; corresponding consolidated groups; qualifying subsidiary exemption.",
+        "evidence_grade": "national_primary_or_official_implementation_source",
+        "resolution_status": "qualifying_reviewed_reporting_phase",
+        "earliest_national_topic_history_complete": false,
+        "project_review_path": "15-mandatory-topics-and-banking-coverage/2026-10-18/data/policy-reviews/ITA_ESG_TOPIC_REVIEW_20261018.json",
+        "public_review_path": "data/coverage/policy-reviews/ITA_ESG_TOPIC_REVIEW_20261018.json"
       }
     },
     {
@@ -21792,6 +22068,18 @@
         "voluntary_not_inferred_from_missing_or_explain": true,
         "first_full_ESG_date": null,
         "reported_KSTZ_benchmark_year": 2007
+      },
+      "mandatory_topic_review": {
+        "record_id": "MYS_ESG_TOPIC_REVIEW_20261018",
+        "reviewed_phase_year": 2016,
+        "date_boundary": "2016-12-31",
+        "boundary_basis": "first_covered_fiscal_year_end",
+        "issuer_scope": "Main Market issuers with marketcap>=RM2bn at31December2015 (or relevant2016listing date), followed by other Main Market issuers forFYE>=31December2017; ACEphaseFYE>=31December2018. Listed REITmanagement-company rules also apply.",
+        "evidence_grade": "national_primary_or_official_implementation_source",
+        "resolution_status": "qualifying_reviewed_reporting_phase",
+        "earliest_national_topic_history_complete": false,
+        "project_review_path": "15-mandatory-topics-and-banking-coverage/2026-10-18/data/policy-reviews/MYS_ESG_TOPIC_REVIEW_20261018.json",
+        "public_review_path": "data/coverage/policy-reviews/MYS_ESG_TOPIC_REVIEW_20261018.json"
       }
     },
     {
@@ -21907,6 +22195,18 @@
         "voluntary_not_inferred_from_missing_or_explain": true,
         "first_full_ESG_date": null,
         "reported_KSTZ_benchmark_year": null
+      },
+      "mandatory_topic_review": {
+        "record_id": "MLT_ESG_TOPIC_REVIEW_20261018",
+        "reviewed_phase_year": 2017,
+        "date_boundary": "2017-01-01",
+        "boundary_basis": "first_covered_fiscal_period_start",
+        "issuer_scope": "Large listed/public-interest entities, >500employees and assets>EUR20m or turnover>EUR40m; group/parent exemptions and listing rules.",
+        "evidence_grade": "official_summary_or_country_mapping_national_clause_not_fully_archived",
+        "resolution_status": "qualifying_reviewed_reporting_phase",
+        "earliest_national_topic_history_complete": false,
+        "project_review_path": "15-mandatory-topics-and-banking-coverage/2026-10-18/data/policy-reviews/MLT_ESG_TOPIC_REVIEW_20261018.json",
+        "public_review_path": "data/coverage/policy-reviews/MLT_ESG_TOPIC_REVIEW_20261018.json"
       }
     },
     {
@@ -22022,6 +22322,18 @@
         "voluntary_not_inferred_from_missing_or_explain": true,
         "first_full_ESG_date": null,
         "reported_KSTZ_benchmark_year": 2016
+      },
+      "mandatory_topic_review": {
+        "record_id": "NLD_ESG_TOPIC_REVIEW_20261018",
+        "reviewed_phase_year": 2017,
+        "date_boundary": "2017-01-01",
+        "boundary_basis": "first_covered_fiscal_period_start",
+        "issuer_scope": "Large public-interest legal entities with >500employees, including qualifying consolidated parent groups; subsidiary exemption.",
+        "evidence_grade": "national_primary_or_official_implementation_source",
+        "resolution_status": "qualifying_reviewed_reporting_phase",
+        "earliest_national_topic_history_complete": false,
+        "project_review_path": "15-mandatory-topics-and-banking-coverage/2026-10-18/data/policy-reviews/NLD_ESG_TOPIC_REVIEW_20261018.json",
+        "public_review_path": "data/coverage/policy-reviews/NLD_ESG_TOPIC_REVIEW_20261018.json"
       }
     },
     {
@@ -22137,6 +22449,18 @@
         "voluntary_not_inferred_from_missing_or_explain": true,
         "first_full_ESG_date": null,
         "reported_KSTZ_benchmark_year": 2013
+      },
+      "mandatory_topic_review": {
+        "record_id": "NOR_ESG_TOPIC_REVIEW_20261018",
+        "reviewed_phase_year": 2013,
+        "date_boundary": null,
+        "boundary_basis": "first_covered_financial_year",
+        "issuer_scope": "Large enterprises under the Norwegian Accounting Act, including public limited companies and listed accounting entities and designatedlarge entities; policy, action, results or no-policy disclosure on human rights, labour/social, environment and anti-corruption.",
+        "evidence_grade": "national_primary_or_official_implementation_source",
+        "resolution_status": "qualifying_reviewed_reporting_phase",
+        "earliest_national_topic_history_complete": false,
+        "project_review_path": "15-mandatory-topics-and-banking-coverage/2026-10-18/data/policy-reviews/NOR_ESG_TOPIC_REVIEW_20261018.json",
+        "public_review_path": "data/coverage/policy-reviews/NOR_ESG_TOPIC_REVIEW_20261018.json"
       }
     },
     {
@@ -22252,6 +22576,18 @@
         "voluntary_not_inferred_from_missing_or_explain": true,
         "first_full_ESG_date": null,
         "reported_KSTZ_benchmark_year": 2009
+      },
+      "mandatory_topic_review": {
+        "record_id": "PAK_ESG_TOPIC_REVIEW_20261018",
+        "reviewed_phase_year": null,
+        "date_boundary": "2009-07-01",
+        "boundary_basis": "CSR_activity_reporting_fiscal_period_start",
+        "issuer_scope": "Allpubliccompanies underCSRGeneralOrder2009; descriptiveandmonetarydisclosureofCSRactivitiesundertaken. CSRvoluntaryguidelinesandcorporategovernanceareseparate.",
+        "evidence_grade": "national_primary_or_official_implementation_source",
+        "resolution_status": "excluded_CSR_activity_only",
+        "earliest_national_topic_history_complete": false,
+        "project_review_path": "15-mandatory-topics-and-banking-coverage/2026-10-18/data/policy-reviews/PAK_ESG_TOPIC_REVIEW_20261018.json",
+        "public_review_path": "data/coverage/policy-reviews/PAK_ESG_TOPIC_REVIEW_20261018.json"
       }
     },
     {
@@ -22367,6 +22703,18 @@
         "voluntary_not_inferred_from_missing_or_explain": true,
         "first_full_ESG_date": null,
         "reported_KSTZ_benchmark_year": 2015
+      },
+      "mandatory_topic_review": {
+        "record_id": "PER_ESG_TOPIC_REVIEW_20261018",
+        "reviewed_phase_year": 2016,
+        "date_boundary": null,
+        "boundary_basis": "first_covered_annual_report_year",
+        "issuer_scope": "Issuers with securities in the publicsecuritiesmarketregister subject toannualreport requirements; issuers withonlyMAVsecurities exempt. Sustainabilityresponse supplements existing corporate-governance report.",
+        "evidence_grade": "national_primary_or_official_implementation_source",
+        "resolution_status": "qualifying_reviewed_reporting_phase",
+        "earliest_national_topic_history_complete": false,
+        "project_review_path": "15-mandatory-topics-and-banking-coverage/2026-10-18/data/policy-reviews/PER_ESG_TOPIC_REVIEW_20261018.json",
+        "public_review_path": "data/coverage/policy-reviews/PER_ESG_TOPIC_REVIEW_20261018.json"
       }
     },
     {
@@ -22482,6 +22830,18 @@
         "voluntary_not_inferred_from_missing_or_explain": true,
         "first_full_ESG_date": null,
         "reported_KSTZ_benchmark_year": 2011
+      },
+      "mandatory_topic_review": {
+        "record_id": "PHL_ESG_TOPIC_REVIEW_20261018",
+        "reviewed_phase_year": 2019,
+        "date_boundary": null,
+        "boundary_basis": "first_covered_annual_report_year",
+        "issuer_scope": "Philippine publicly-listed companies; sustainability template attached toSECForm17-A, or qualifying existing report/link; firstthreeimplementationyearscomply-or-explain. The referenced2011CSRAct is a bill, not this reporting mandate.",
+        "evidence_grade": "national_primary_or_official_implementation_source",
+        "resolution_status": "qualifying_reviewed_reporting_phase",
+        "earliest_national_topic_history_complete": false,
+        "project_review_path": "15-mandatory-topics-and-banking-coverage/2026-10-18/data/policy-reviews/PHL_ESG_TOPIC_REVIEW_20261018.json",
+        "public_review_path": "data/coverage/policy-reviews/PHL_ESG_TOPIC_REVIEW_20261018.json"
       }
     },
     {
@@ -22597,6 +22957,18 @@
         "voluntary_not_inferred_from_missing_or_explain": true,
         "first_full_ESG_date": null,
         "reported_KSTZ_benchmark_year": 2016
+      },
+      "mandatory_topic_review": {
+        "record_id": "POL_ESG_TOPIC_REVIEW_20261018",
+        "reviewed_phase_year": 2017,
+        "date_boundary": "2017-01-01",
+        "boundary_basis": "first_covered_fiscal_period_start",
+        "issuer_scope": "Specified public-interest entities with >500FTE and assets>PLN85m or net revenue>PLN170m in current and preceding year; consolidated parent thresholds and exemptions.",
+        "evidence_grade": "national_primary_or_official_implementation_source",
+        "resolution_status": "qualifying_reviewed_reporting_phase",
+        "earliest_national_topic_history_complete": false,
+        "project_review_path": "15-mandatory-topics-and-banking-coverage/2026-10-18/data/policy-reviews/POL_ESG_TOPIC_REVIEW_20261018.json",
+        "public_review_path": "data/coverage/policy-reviews/POL_ESG_TOPIC_REVIEW_20261018.json"
       }
     },
     {
@@ -22712,6 +23084,18 @@
         "voluntary_not_inferred_from_missing_or_explain": true,
         "first_full_ESG_date": null,
         "reported_KSTZ_benchmark_year": 2010
+      },
+      "mandatory_topic_review": {
+        "record_id": "PRT_ESG_TOPIC_REVIEW_20261018",
+        "reviewed_phase_year": 2017,
+        "date_boundary": "2017-01-01",
+        "boundary_basis": "first_covered_fiscal_period_start",
+        "issuer_scope": "Large public-interest companies/groups with >500employees; statutory financial-size tests and consolidated subsidiary exemption.",
+        "evidence_grade": "official_summary_or_country_mapping_national_clause_not_fully_archived",
+        "resolution_status": "qualifying_reviewed_reporting_phase",
+        "earliest_national_topic_history_complete": false,
+        "project_review_path": "15-mandatory-topics-and-banking-coverage/2026-10-18/data/policy-reviews/PRT_ESG_TOPIC_REVIEW_20261018.json",
+        "public_review_path": "data/coverage/policy-reviews/PRT_ESG_TOPIC_REVIEW_20261018.json"
       }
     },
     {
@@ -22827,6 +23211,18 @@
         "voluntary_not_inferred_from_missing_or_explain": true,
         "first_full_ESG_date": null,
         "reported_KSTZ_benchmark_year": 2016
+      },
+      "mandatory_topic_review": {
+        "record_id": "ROU_ESG_TOPIC_REVIEW_20261018",
+        "reviewed_phase_year": 2017,
+        "date_boundary": "2017-01-01",
+        "boundary_basis": "first_covered_fiscal_period_start",
+        "issuer_scope": "Public-interest entities with >500employees under Ministry of Public Finance Order1938/2016; bank/insurance implementing instruments are separate scope records.",
+        "evidence_grade": "official_summary_or_country_mapping_national_clause_not_fully_archived",
+        "resolution_status": "qualifying_reviewed_reporting_phase",
+        "earliest_national_topic_history_complete": false,
+        "project_review_path": "15-mandatory-topics-and-banking-coverage/2026-10-18/data/policy-reviews/ROU_ESG_TOPIC_REVIEW_20261018.json",
+        "public_review_path": "data/coverage/policy-reviews/ROU_ESG_TOPIC_REVIEW_20261018.json"
       }
     },
     {
@@ -22942,6 +23338,18 @@
         "voluntary_not_inferred_from_missing_or_explain": true,
         "first_full_ESG_date": null,
         "reported_KSTZ_benchmark_year": 2016
+      },
+      "mandatory_topic_review": {
+        "record_id": "SGP_ESG_TOPIC_REVIEW_20261018",
+        "reviewed_phase_year": 2017,
+        "date_boundary": "2017-12-31",
+        "boundary_basis": "first_covered_fiscal_year_end",
+        "issuer_scope": "SGX-listed issuers subject to711A/711B: materialE/S/G factors, policies/practices/performance, targets, framework and boardstatement; first report has up to12months afterFYend. Mainboard/Catalisthistoricalrules.",
+        "evidence_grade": "national_primary_or_official_implementation_source",
+        "resolution_status": "qualifying_reviewed_reporting_phase",
+        "earliest_national_topic_history_complete": false,
+        "project_review_path": "15-mandatory-topics-and-banking-coverage/2026-10-18/data/policy-reviews/SGP_ESG_TOPIC_REVIEW_20261018.json",
+        "public_review_path": "data/coverage/policy-reviews/SGP_ESG_TOPIC_REVIEW_20261018.json"
       }
     },
     {
@@ -23057,6 +23465,18 @@
         "voluntary_not_inferred_from_missing_or_explain": true,
         "first_full_ESG_date": null,
         "reported_KSTZ_benchmark_year": 2017
+      },
+      "mandatory_topic_review": {
+        "record_id": "SVN_ESG_TOPIC_REVIEW_20261018",
+        "reviewed_phase_year": 2017,
+        "date_boundary": "2017-01-01",
+        "boundary_basis": "first_covered_fiscal_period_start",
+        "issuer_scope": "Public-interest entities with >500employees and qualifying parent groups; statement and group exemption under ZGD-1J.",
+        "evidence_grade": "official_summary_or_country_mapping_national_clause_not_fully_archived",
+        "resolution_status": "qualifying_reviewed_reporting_phase",
+        "earliest_national_topic_history_complete": false,
+        "project_review_path": "15-mandatory-topics-and-banking-coverage/2026-10-18/data/policy-reviews/SVN_ESG_TOPIC_REVIEW_20261018.json",
+        "public_review_path": "data/coverage/policy-reviews/SVN_ESG_TOPIC_REVIEW_20261018.json"
       }
     },
     {
@@ -23172,6 +23592,18 @@
         "voluntary_not_inferred_from_missing_or_explain": true,
         "first_full_ESG_date": null,
         "reported_KSTZ_benchmark_year": 2010
+      },
+      "mandatory_topic_review": {
+        "record_id": "ZAF_ESG_TOPIC_REVIEW_20261018",
+        "reviewed_phase_year": 2010,
+        "date_boundary": "2010-03-01",
+        "boundary_basis": "first_covered_fiscal_period_start",
+        "issuer_scope": "JSE-listed issuers subject to amended listingrequirements: applyKingIII or explain; integrated financial/sustainabilityreporting and boardresponsibilities. EarlierKingII/otherdisclosures remain distinct.",
+        "evidence_grade": "national_primary_or_official_implementation_source",
+        "resolution_status": "qualifying_reviewed_reporting_phase",
+        "earliest_national_topic_history_complete": false,
+        "project_review_path": "15-mandatory-topics-and-banking-coverage/2026-10-18/data/policy-reviews/ZAF_ESG_TOPIC_REVIEW_20261018.json",
+        "public_review_path": "data/coverage/policy-reviews/ZAF_ESG_TOPIC_REVIEW_20261018.json"
       }
     },
     {
@@ -23287,6 +23719,18 @@
         "voluntary_not_inferred_from_missing_or_explain": true,
         "first_full_ESG_date": null,
         "reported_KSTZ_benchmark_year": 2012
+      },
+      "mandatory_topic_review": {
+        "record_id": "ESP_ESG_TOPIC_REVIEW_20261018",
+        "reviewed_phase_year": 2017,
+        "date_boundary": "2017-01-01",
+        "boundary_basis": "first_covered_fiscal_period_start",
+        "issuer_scope": "Public-interest companies/groups with >500employees and large-size conditions under RDL18/2017; later Law11/2018 expansion is separate.",
+        "evidence_grade": "national_primary_or_official_implementation_source",
+        "resolution_status": "qualifying_reviewed_reporting_phase",
+        "earliest_national_topic_history_complete": false,
+        "project_review_path": "15-mandatory-topics-and-banking-coverage/2026-10-18/data/policy-reviews/ESP_ESG_TOPIC_REVIEW_20261018.json",
+        "public_review_path": "data/coverage/policy-reviews/ESP_ESG_TOPIC_REVIEW_20261018.json"
       }
     },
     {
@@ -23402,6 +23846,18 @@
         "voluntary_not_inferred_from_missing_or_explain": true,
         "first_full_ESG_date": null,
         "reported_KSTZ_benchmark_year": 2016
+      },
+      "mandatory_topic_review": {
+        "record_id": "SWE_ESG_TOPIC_REVIEW_20261018",
+        "reviewed_phase_year": 2017,
+        "date_boundary": "2017-01-01",
+        "boundary_basis": "first_covered_fiscal_period_start",
+        "issuer_scope": "All company types satisfying at least two of >250employees, assets>SEK175m, turnover>SEK350m in each of two preceding years; not limited to listed PIEs; qualifying group exemption.",
+        "evidence_grade": "official_summary_or_country_mapping_national_clause_not_fully_archived",
+        "resolution_status": "qualifying_reviewed_reporting_phase",
+        "earliest_national_topic_history_complete": false,
+        "project_review_path": "15-mandatory-topics-and-banking-coverage/2026-10-18/data/policy-reviews/SWE_ESG_TOPIC_REVIEW_20261018.json",
+        "public_review_path": "data/coverage/policy-reviews/SWE_ESG_TOPIC_REVIEW_20261018.json"
       }
     },
     {
@@ -23517,6 +23973,18 @@
         "voluntary_not_inferred_from_missing_or_explain": true,
         "first_full_ESG_date": null,
         "reported_KSTZ_benchmark_year": 2019
+      },
+      "mandatory_topic_review": {
+        "record_id": "TWN_ESG_TOPIC_REVIEW_20261018",
+        "reviewed_phase_year": 2014,
+        "date_boundary": null,
+        "boundary_basis": "reviewed_rule_adoption_year_first_reports_for_preceding_year",
+        "issuer_scope": "TWSElisted food/chemical/financial-insurance companies, companies with food-and-beverage revenue>=50%, or commonstockcapital>=NTD10bn based onlatestfinancialreport. Latercapitalbands andTPExrules areseparate. GRIcoreprofile and materialE/S disclosures, with sectordetails/assurance.",
+        "evidence_grade": "national_primary_or_official_implementation_source",
+        "resolution_status": "qualifying_reviewed_reporting_phase",
+        "earliest_national_topic_history_complete": false,
+        "project_review_path": "15-mandatory-topics-and-banking-coverage/2026-10-18/data/policy-reviews/TWN_ESG_TOPIC_REVIEW_20261018.json",
+        "public_review_path": "data/coverage/policy-reviews/TWN_ESG_TOPIC_REVIEW_20261018.json"
       }
     },
     {
@@ -23632,6 +24100,18 @@
         "voluntary_not_inferred_from_missing_or_explain": true,
         "first_full_ESG_date": null,
         "reported_KSTZ_benchmark_year": 2014
+      },
+      "mandatory_topic_review": {
+        "record_id": "TUR_ESG_TOPIC_REVIEW_20261018",
+        "reviewed_phase_year": 2020,
+        "date_boundary": null,
+        "boundary_basis": "first_covered_data_year_reported_2021",
+        "issuer_scope": "Public companies in CorporateGovernanceCommuniqueII17.1article1(5)scope; relevantlistedmarketexceptionsapply; newIPOs report the followingyear data. ESGpracticesvoluntary but compliance/noncompliance reporting is compulsory.",
+        "evidence_grade": "national_primary_or_official_implementation_source",
+        "resolution_status": "qualifying_reviewed_reporting_phase",
+        "earliest_national_topic_history_complete": false,
+        "project_review_path": "15-mandatory-topics-and-banking-coverage/2026-10-18/data/policy-reviews/TUR_ESG_TOPIC_REVIEW_20261018.json",
+        "public_review_path": "data/coverage/policy-reviews/TUR_ESG_TOPIC_REVIEW_20261018.json"
       }
     },
     {
@@ -23747,6 +24227,18 @@
         "voluntary_not_inferred_from_missing_or_explain": true,
         "first_full_ESG_date": null,
         "reported_KSTZ_benchmark_year": 2013
+      },
+      "mandatory_topic_review": {
+        "record_id": "GBR_ESG_TOPIC_REVIEW_20261018",
+        "reviewed_phase_year": 2007,
+        "date_boundary": "2007-10-01",
+        "boundary_basis": "first_covered_fiscal_period_start",
+        "issuer_scope": "UKquotedcompanies underCompaniesAct2006section417enhancedbusinessreview; materialenvironmental,employee,social/communityinformation or omittedkindstatement; statutorydirector/governancereporting applies. The2013strategic/GHG/genderamendment is separate.",
+        "evidence_grade": "national_primary_or_official_implementation_source",
+        "resolution_status": "qualifying_reviewed_reporting_phase",
+        "earliest_national_topic_history_complete": false,
+        "project_review_path": "15-mandatory-topics-and-banking-coverage/2026-10-18/data/policy-reviews/GBR_ESG_TOPIC_REVIEW_20261018.json",
+        "public_review_path": "data/coverage/policy-reviews/GBR_ESG_TOPIC_REVIEW_20261018.json"
       }
     },
     {

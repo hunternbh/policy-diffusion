@@ -111,5 +111,17 @@
     "voluntary_not_inferred_from_missing_or_explain": true,
     "first_full_ESG_date": null,
     "reported_KSTZ_benchmark_year": 2006
+  },
+  "mandatory_topic_review": {
+    "record_id": "GRC_ESG_TOPIC_REVIEW_20261018",
+    "reviewed_phase_year": 2016,
+    "date_boundary": "2016-07-07",
+    "boundary_basis": "first_covered_fiscal_year_end_national_early_implementation",
+    "issuer_scope": "Large public-interest entities with >500 employees under Law4403/2016; earlier environmental/employee KPI duties under3487/2006 are a distinct, narrower history.",
+    "evidence_grade": "national_primary_or_official_implementation_source",
+    "resolution_status": "qualifying_reviewed_reporting_phase",
+    "earliest_national_topic_history_complete": false,
+    "project_review_path": "15-mandatory-topics-and-banking-coverage/2026-10-18/data/policy-reviews/GRC_ESG_TOPIC_REVIEW_20261018.json",
+    "public_review_path": "data/coverage/policy-reviews/GRC_ESG_TOPIC_REVIEW_20261018.json"
   }
 }

@@ -1,0 +1,43 @@
+{
+  "record_id": "AUS_ESG_TOPIC_REVIEW_20261018",
+  "iso3": "AUS",
+  "country": "Australia",
+  "author_publication_year": 2003,
+  "analysis_class": "ESG_MANDATORY_REVIEWED",
+  "reviewed_joint_mandatory_year": 2014,
+  "reviewed_period_boundary": "2014-07-01",
+  "boundary_basis": "first_full_fiscal_period_start",
+  "topic_dates": {
+    "E": {
+      "date": "2014-07-01",
+      "basis": "named-topic recommendation7.4,firstfullFY"
+    },
+    "S": {
+      "date": "2014-07-01",
+      "basis": "named-topic recommendation7.4,firstfullFY"
+    },
+    "G": {
+      "year_upper_bound": 2014,
+      "basis": "mandatory governance-response framework already in force; earliest Gdate not inferred from this amendment"
+    }
+  },
+  "issuer_scope": "ASX-listed entities subject to Listing Rule4.10.3 and third-edition governance recommendations; recommendation7.4 requires material economic/environmental/social risk exposure and management disclosure or an explanation. Materiality and listing exceptions apply.",
+  "mandatory_response": true,
+  "comply_or_explain_is_mandatory": true,
+  "source_keys": [
+    "asx_2014_transition",
+    "asx_es_risks",
+    "legacy_asx_code"
+  ],
+  "source_clauses": "LR4.10.3;third-edition recommendation7.4; effective firstfullFYon/after1July2014",
+  "resolution_status": "qualifying_reviewed_reporting_phase",
+  "independent_national_choice": true,
+  "assignment_cluster": "AUS",
+  "prior_reporting_obligations": "Earlier governance framework dates to2003; environmental statutory duties and voluntary sustainability reporting predate2014.",
+  "national_earliest_topic_census_complete": false,
+  "issuer_assignment": "Legal scope rule resolved; quote-level eligibility requires historical issuer/filer attributes.",
+  "review_notes": "",
+  "date_evidence_grade": "national_primary_or_official_implementation_source",
+  "all_earliest_topic_dates_resolved": false,
+  "usable_as_verified_never_treated_control": false
+}

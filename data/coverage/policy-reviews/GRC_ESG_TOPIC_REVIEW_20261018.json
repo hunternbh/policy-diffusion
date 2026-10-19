@@ -1,0 +1,48 @@
+{
+  "record_id": "GRC_ESG_TOPIC_REVIEW_20261018",
+  "iso3": "GRC",
+  "country": "Greece",
+  "author_publication_year": 2006,
+  "analysis_class": "ESG_MANDATORY_REVIEWED",
+  "reviewed_joint_mandatory_year": 2016,
+  "reviewed_period_boundary": "2016-07-07",
+  "boundary_basis": "first_covered_fiscal_year_end_national_early_implementation",
+  "topic_dates": {
+    "E": {
+      "mandatory_by_reviewed_year": 2016,
+      "precision": "reviewed_joint_regime_bound_not_earliest_national_topic_date",
+      "scope": "same issuer population as reviewed phase"
+    },
+    "S": {
+      "mandatory_by_reviewed_year": 2016,
+      "precision": "reviewed_joint_regime_bound_not_earliest_national_topic_date",
+      "scope": "same issuer population as reviewed phase"
+    },
+    "G": {
+      "mandatory_by_reviewed_year": 2016,
+      "precision": "reviewed_joint_regime_bound_not_earliest_national_topic_date",
+      "scope": "same issuer population as reviewed phase"
+    }
+  },
+  "issuer_scope": "Large public-interest entities with >500 employees under Law4403/2016; earlier environmental/employee KPI duties under3487/2006 are a distinct, narrower history.",
+  "mandatory_response": true,
+  "comply_or_explain_is_mandatory": true,
+  "source_keys": [
+    "nfrd_grc_law",
+    "nfrd_original",
+    "nfrd_gri_country_mapping",
+    "nfrd_grc_circular",
+    "greece_2016_official_issuer_report"
+  ],
+  "source_clauses": "Law4403/2016non-financialreportprovisions;June2017implementationcircular;official2016issuerreportappliesLaw4403/2016.",
+  "resolution_status": "qualifying_reviewed_reporting_phase",
+  "independent_national_choice": false,
+  "assignment_cluster": "EU_NFRD",
+  "prior_reporting_obligations": "Pre-existing company, governance and material non-financial KPI duties may apply. National implementation is a coordinated EU wave.",
+  "national_earliest_topic_census_complete": false,
+  "issuer_assignment": "Legal scope rule resolved; quote-level eligibility requires historical issuer/filer attributes.",
+  "review_notes": "This is the reviewed comprehensive NFRD phase. It is not asserted to be the first environmental, employment or governance disclosure obligation in national history. Earlier generic materiality/financial KPI provisions are not recoded as an absent history. Circular62784/7June2017 expressly covers financial statements ending on/after7July2016, including non-financial statements. National early application is distinguished from the EU2017minimum.",
+  "date_evidence_grade": "national_primary_or_official_implementation_source",
+  "all_earliest_topic_dates_resolved": false,
+  "usable_as_verified_never_treated_control": false
+}

@@ -1,0 +1,46 @@
+{
+  "record_id": "EST_ESG_TOPIC_REVIEW_20261018",
+  "iso3": "EST",
+  "country": "Estonia",
+  "author_publication_year": 2016,
+  "analysis_class": "ESG_MANDATORY_REVIEWED",
+  "reviewed_joint_mandatory_year": 2017,
+  "reviewed_period_boundary": "2017-01-01",
+  "boundary_basis": "first_covered_fiscal_period_start",
+  "topic_dates": {
+    "E": {
+      "mandatory_by_reviewed_year": 2017,
+      "precision": "reviewed_joint_regime_bound_not_earliest_national_topic_date",
+      "scope": "same issuer population as reviewed phase"
+    },
+    "S": {
+      "mandatory_by_reviewed_year": 2017,
+      "precision": "reviewed_joint_regime_bound_not_earliest_national_topic_date",
+      "scope": "same issuer population as reviewed phase"
+    },
+    "G": {
+      "mandatory_by_reviewed_year": 2017,
+      "precision": "reviewed_joint_regime_bound_not_earliest_national_topic_date",
+      "scope": "same issuer population as reviewed phase"
+    }
+  },
+  "issuer_scope": "Public-interest entities (listed companies, credit institutions, insurers) with >500 employees; country-specific Accounting Act scope.",
+  "mandatory_response": true,
+  "comply_or_explain_is_mandatory": true,
+  "source_keys": [
+    "nfrd_est_law",
+    "nfrd_original",
+    "nfrd_gri_country_mapping"
+  ],
+  "source_clauses": "Accounting Act24(6);2015amendment; national-source link in GRI2017p19",
+  "resolution_status": "qualifying_reviewed_reporting_phase",
+  "independent_national_choice": false,
+  "assignment_cluster": "EU_NFRD",
+  "prior_reporting_obligations": "Pre-existing company, governance and material non-financial KPI duties may apply. National implementation is a coordinated EU wave.",
+  "national_earliest_topic_census_complete": false,
+  "issuer_assignment": "Legal scope rule resolved; quote-level eligibility requires historical issuer/filer attributes.",
+  "review_notes": "This is the reviewed comprehensive NFRD phase. It is not asserted to be the first environmental, employment or governance disclosure obligation in national history. Earlier generic materiality/financial KPI provisions are not recoded as an absent history. The calendar-year implementation is supported by the cited implementation evidence; the original national commencement clause has not all been independently archived and read. Exact national issuer fiscal assignment is not certified. The calendar-year implementation is supported by the cited implementation evidence; the original national commencement clause has not all been independently archived and read. Exact national issuer fiscal assignment is not certified.",
+  "date_evidence_grade": "official_summary_or_country_mapping_national_clause_not_fully_archived",
+  "all_earliest_topic_dates_resolved": false,
+  "usable_as_verified_never_treated_control": false
+}

@@ -111,5 +111,17 @@
     "voluntary_not_inferred_from_missing_or_explain": true,
     "first_full_ESG_date": null,
     "reported_KSTZ_benchmark_year": 2003
+  },
+  "mandatory_topic_review": {
+    "record_id": "AUS_ESG_TOPIC_REVIEW_20261018",
+    "reviewed_phase_year": 2014,
+    "date_boundary": "2014-07-01",
+    "boundary_basis": "first_full_fiscal_period_start",
+    "issuer_scope": "ASX-listed entities subject to Listing Rule4.10.3 and third-edition governance recommendations; recommendation7.4 requires material economic/environmental/social risk exposure and management disclosure or an explanation. Materiality and listing exceptions apply.",
+    "evidence_grade": "national_primary_or_official_implementation_source",
+    "resolution_status": "qualifying_reviewed_reporting_phase",
+    "earliest_national_topic_history_complete": false,
+    "project_review_path": "15-mandatory-topics-and-banking-coverage/2026-10-18/data/policy-reviews/AUS_ESG_TOPIC_REVIEW_20261018.json",
+    "public_review_path": "data/coverage/policy-reviews/AUS_ESG_TOPIC_REVIEW_20261018.json"
   }
 }

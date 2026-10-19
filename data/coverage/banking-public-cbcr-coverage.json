@@ -1,0 +1,89 @@
+{
+  "definition": "Sector-specific public Article89 reporting, separate from confidential BEPSAction13 and general-MNE public income-tax reporting.",
+  "holding_company_warning": "French law explicitly includes financial holding entities; UK guidance excludes holding companies as institutions. Do not generalise one national rule.",
+  "roster_counts": {
+    "2014": 123,
+    "2015": 105
+  },
+  "complete_issuer_census": false,
+  "rules": [
+    {
+      "id": "EU_ART89_PARTIAL",
+      "jurisdiction": "EU_member_states_2014",
+      "public_start": "2014-07-01",
+      "covered_information": "Names, nature and geographic location of establishments; turnover; full-time-equivalent employees.",
+      "scope": "Institutions as defined in the original CRR: credit institutions and investment firms, subject to CRD Article2 exclusions. Consolidated activities inside and outside the Union.",
+      "source_keys": [
+        "crdiv_original"
+      ],
+      "clause": "Article89(1)-(2)",
+      "national_implementation_verified_for_all_members": false
+    },
+    {
+      "id": "EU_ART89_FULL",
+      "jurisdiction": "EU_member_states_2015",
+      "public_start": "2015-01-01",
+      "covered_information": "Adds profit/loss before tax, tax on profit/loss and public subsidies. Annual consolidated country reporting.",
+      "scope": "Same original Article89 scope; no EUR750million MNE revenue threshold. Banking-group and regulated-filer roles differ.",
+      "source_keys": [
+        "crdiv_original"
+      ],
+      "clause": "Article89(1),(3)-(4)",
+      "national_implementation_verified_for_all_members": false
+    },
+    {
+      "id": "EU_GSII_CONFIDENTIAL_TRANSITION",
+      "jurisdiction": "EU_GSIIs",
+      "public_start": null,
+      "covered_information": "One-off confidential2014 profit/tax/subsidy submission to Commission, not an initial full public mandate.",
+      "scope": "Designated global systemically important institutions.",
+      "source_keys": [
+        "crdiv_original"
+      ],
+      "clause": "Article89(3)",
+      "national_implementation_verified_for_all_members": false
+    },
+    {
+      "id": "GBR_BANKING",
+      "jurisdiction": "GBR",
+      "public_start": "2014-07-01",
+      "full_public_deadline": "2015-12-31",
+      "covered_information": "Initial partial information by1July2014; full country disclosures by31December2015 and annually thereafter, for the immediately preceding accounting period.",
+      "scope": "UK-authorised CRR institutions. Holding companies and third-country branches are not themselves institutions; regulated subsidiaries may be. Qualifying prior group disclosures can discharge reporting with a public pointer.",
+      "source_keys": [
+        "crdiv_uk_law",
+        "crdiv_uk_guidance"
+      ],
+      "clause": "SI3118/2013regulations2-5;HMTguidance",
+      "national_implementation_verified_for_all_members": true
+    },
+    {
+      "id": "FRA_BANKING",
+      "jurisdiction": "FRA",
+      "public_start_year": 2014,
+      "partial_first_fiscal_year": 2013,
+      "full_public_start_year": 2015,
+      "full_first_fiscal_year": 2014,
+      "covered_information": "Partial2013accounts/publication2014; full2014accounts/publication2015. Consolidated annex or within six months of year end.",
+      "scope": "Credit institutions, financial companies, mixed financial holding companies and investment firms. French holding-company scope differs from the UK.",
+      "source_keys": [
+        "france_banking_2013_scope"
+      ],
+      "clause": "L511-45II-III,version28July2013",
+      "national_implementation_verified_for_all_members": true
+    },
+    {
+      "id": "DEU_BANKING",
+      "jurisdiction": "DEU",
+      "public_start_year": 2014,
+      "full_public_start_year": 2015,
+      "covered_information": "Country reporting in annex to consolidated accounts; accounting consolidation and Bundesbank guidance define calculation.",
+      "scope": "Institutions underKWG26a; do not substitute EU market-country equity coverage for authorised institution eligibility.",
+      "source_keys": [
+        "bundesbank_bank_cbcr_guidance"
+      ],
+      "clause": "KWG26a;BundesbankFebruary2015Q&A",
+      "national_implementation_verified_for_all_members": true
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "record_id": "PHL_ESG_TOPIC_REVIEW_20261018",
+  "iso3": "PHL",
+  "country": "Philippines",
+  "author_publication_year": 2011,
+  "analysis_class": "ESG_MANDATORY_REVIEWED",
+  "reviewed_joint_mandatory_year": 2019,
+  "reviewed_period_boundary": null,
+  "boundary_basis": "first_covered_annual_report_year",
+  "topic_dates": {
+    "E": {
+      "mandatory_by_reviewed_year": 2019,
+      "precision": "reviewed_joint_regime_bound_not_earliest_national_topic_date",
+      "scope": "same issuer population as reviewed phase"
+    },
+    "S": {
+      "mandatory_by_reviewed_year": 2019,
+      "precision": "reviewed_joint_regime_bound_not_earliest_national_topic_date",
+      "scope": "same issuer population as reviewed phase"
+    },
+    "G": {
+      "mandatory_by_reviewed_year": 2019,
+      "precision": "reviewed_joint_regime_bound_not_earliest_national_topic_date",
+      "scope": "same issuer population as reviewed phase"
+    }
+  },
+  "issuer_scope": "Philippine publicly-listed companies; sustainability template attached toSECForm17-A, or qualifying existing report/link; firstthreeimplementationyearscomply-or-explain. The referenced2011CSRAct is a bill, not this reporting mandate.",
+  "mandatory_response": true,
+  "comply_or_explain_is_mandatory": true,
+  "source_keys": [
+    "philippines_2019_mc4",
+    "philippines_2011_bill"
+  ],
+  "source_clauses": "SEC MC4/2019p1; first2019annualreport submitted2020; templateEconomicEnvironmentalSocialandGovernanceframework",
+  "resolution_status": "qualifying_reviewed_reporting_phase",
+  "independent_national_choice": true,
+  "assignment_cluster": "PHL",
+  "prior_reporting_obligations": "",
+  "national_earliest_topic_census_complete": false,
+  "issuer_assignment": "Legal scope rule resolved; quote-level eligibility requires historical issuer/filer attributes.",
+  "review_notes": "No artificial fiscal start/end date or actual filing date is filled.",
+  "date_evidence_grade": "national_primary_or_official_implementation_source",
+  "all_earliest_topic_dates_resolved": false,
+  "usable_as_verified_never_treated_control": false
+}

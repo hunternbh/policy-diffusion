@@ -1,0 +1,18 @@
+{
+  "pages": 9,
+  "prose_words": 2571,
+  "tables": 3,
+  "figures": 2,
+  "cases_through2025": 444,
+  "classes": 18,
+  "reviewed_ESG_phases": 37,
+  "baseline_liquidity_cells": 1254,
+  "all_liquidity_cells": 3990,
+  "stable_diffusion_coefficients": 433,
+  "broad_Holm_discoveries": 0,
+  "bank_partial_spread_equal": -0.2466980110676755,
+  "bank_partial_spread_GDP": -0.1090180701963587,
+  "bank_partial_spread_percent_equal": -21.862337500203598,
+  "bank_partial_spread_percent_GDP": -10.328578645008484,
+  "paper_sha256": "4385fafbdfd215236a452cef5c8d2e75d228c365c0b2a309127a1876db0fc684"
+}

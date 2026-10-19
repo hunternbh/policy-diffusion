@@ -1,0 +1,45 @@
+{
+  "record_id": "CHN_ESG_TOPIC_REVIEW_20261018",
+  "iso3": "CHN",
+  "country": "China",
+  "author_publication_year": 2008,
+  "analysis_class": "ESG_SCOPE_EXCLUDED",
+  "reviewed_joint_mandatory_year": null,
+  "reviewed_period_boundary": null,
+  "boundary_basis": "scoped_CSR_and_internal_control_history",
+  "topic_dates": {
+    "E": {
+      "mandatory_by_reviewed_year": null,
+      "precision": "reviewed_joint_regime_bound_not_earliest_national_topic_date",
+      "scope": "same issuer population as reviewed phase"
+    },
+    "S": {
+      "mandatory_by_reviewed_year": null,
+      "precision": "reviewed_joint_regime_bound_not_earliest_national_topic_date",
+      "scope": "same issuer population as reviewed phase"
+    },
+    "G": {
+      "mandatory_by_reviewed_year": null,
+      "precision": "reviewed_joint_regime_bound_not_earliest_national_topic_date",
+      "scope": "same issuer population as reviewed phase"
+    }
+  },
+  "issuer_scope": "SSECorporateGovernanceSectorconstituents,overseaslistedforeign-shareissuersandfinancialcompaniesmustsubmitCSR/internal-controlreportswithFY2008annualreports; otherissuersencouraged.",
+  "mandatory_response": false,
+  "comply_or_explain_is_mandatory": true,
+  "source_keys": [
+    "china_2008_scope",
+    "china_2008_requirement"
+  ],
+  "source_clauses": "SSEofficialFY2008reportingreviewandinternalcontrolrelease",
+  "resolution_status": "excluded_full_topic_template_not_verified",
+  "independent_national_choice": true,
+  "assignment_cluster": "CHN",
+  "prior_reporting_obligations": "",
+  "national_earliest_topic_census_complete": false,
+  "issuer_assignment": "Legal scope rule resolved; quote-level eligibility requires historical issuer/filer attributes.",
+  "review_notes": "MandatoryscopeisverifiedforasubsetandmustnotbeassignedtoallChineseequities. The completefirstE/S/Gtopic-templatehistoryacrossSSE/SZSEhasnotbeenverified;keepoutofthecomprehensivemandateestimationclass.",
+  "date_evidence_grade": "national_primary_or_official_implementation_source",
+  "all_earliest_topic_dates_resolved": false,
+  "usable_as_verified_never_treated_control": false
+}

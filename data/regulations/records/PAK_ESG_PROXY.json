@@ -111,5 +111,17 @@
     "voluntary_not_inferred_from_missing_or_explain": true,
     "first_full_ESG_date": null,
     "reported_KSTZ_benchmark_year": 2009
+  },
+  "mandatory_topic_review": {
+    "record_id": "PAK_ESG_TOPIC_REVIEW_20261018",
+    "reviewed_phase_year": null,
+    "date_boundary": "2009-07-01",
+    "boundary_basis": "CSR_activity_reporting_fiscal_period_start",
+    "issuer_scope": "Allpubliccompanies underCSRGeneralOrder2009; descriptiveandmonetarydisclosureofCSRactivitiesundertaken. CSRvoluntaryguidelinesandcorporategovernanceareseparate.",
+    "evidence_grade": "national_primary_or_official_implementation_source",
+    "resolution_status": "excluded_CSR_activity_only",
+    "earliest_national_topic_history_complete": false,
+    "project_review_path": "15-mandatory-topics-and-banking-coverage/2026-10-18/data/policy-reviews/PAK_ESG_TOPIC_REVIEW_20261018.json",
+    "public_review_path": "data/coverage/policy-reviews/PAK_ESG_TOPIC_REVIEW_20261018.json"
   }
 }

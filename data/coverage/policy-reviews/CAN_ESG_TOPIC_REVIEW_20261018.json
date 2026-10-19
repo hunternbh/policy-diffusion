@@ -1,0 +1,45 @@
+{
+  "record_id": "CAN_ESG_TOPIC_REVIEW_20261018",
+  "iso3": "CAN",
+  "country": "Canada",
+  "author_publication_year": 2004,
+  "analysis_class": "ESG_SCOPE_EXCLUDED",
+  "reviewed_joint_mandatory_year": null,
+  "reviewed_period_boundary": "2004-03-30",
+  "boundary_basis": "conditional_financial_disclosure_not_comprehensive_ESG_mandate",
+  "topic_dates": {
+    "E": {
+      "mandatory_by_reviewed_year": null,
+      "precision": "reviewed_joint_regime_bound_not_earliest_national_topic_date",
+      "scope": "same issuer population as reviewed phase"
+    },
+    "S": {
+      "mandatory_by_reviewed_year": null,
+      "precision": "reviewed_joint_regime_bound_not_earliest_national_topic_date",
+      "scope": "same issuer population as reviewed phase"
+    },
+    "G": {
+      "mandatory_by_reviewed_year": null,
+      "precision": "reviewed_joint_regime_bound_not_earliest_national_topic_date",
+      "scope": "same issuer population as reviewed phase"
+    }
+  },
+  "issuer_scope": "AIFfilersunderNI51-102; nonventure/reporting-issuerexemptions, materiality andfundamentalpolicyconditions matter. Environmentalfinancialeffects, employees andconditionalS/Epolicyinformation are not a universalrequirementtoreportorexplainallESGpolicies.",
+  "mandatory_response": false,
+  "comply_or_explain_is_mandatory": true,
+  "source_keys": [
+    "canada_aif_2004",
+    "canada_aif_effective"
+  ],
+  "source_clauses": "51-102F2item5.1environmentalprotection/employees/socialorenvironmentalpolicies;2004-03-30effective",
+  "resolution_status": "excluded_conditional_financial_disclosure",
+  "independent_national_choice": true,
+  "assignment_cluster": "CAN",
+  "prior_reporting_obligations": "",
+  "national_earliest_topic_census_complete": false,
+  "issuer_assignment": "Legal scope rule resolved; quote-level eligibility requires historical issuer/filer attributes.",
+  "review_notes": "Do not substitute TSXtimelydisclosurepublicationyearforverifiedcomprehensiveESGcoverage. This is not evidence of no CanadianESG-relatedduties.",
+  "date_evidence_grade": "national_primary_or_official_implementation_source",
+  "all_earliest_topic_dates_resolved": false,
+  "usable_as_verified_never_treated_control": false
+}

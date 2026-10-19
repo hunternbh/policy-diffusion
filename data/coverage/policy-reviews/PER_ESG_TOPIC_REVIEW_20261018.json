@@ -1,0 +1,46 @@
+{
+  "record_id": "PER_ESG_TOPIC_REVIEW_20261018",
+  "iso3": "PER",
+  "country": "Peru",
+  "author_publication_year": 2015,
+  "analysis_class": "ESG_MANDATORY_REVIEWED",
+  "reviewed_joint_mandatory_year": 2016,
+  "reviewed_period_boundary": null,
+  "boundary_basis": "first_covered_annual_report_year",
+  "topic_dates": {
+    "E": {
+      "mandatory_by_reviewed_year": 2016,
+      "precision": "reviewed_joint_regime_bound_not_earliest_national_topic_date",
+      "scope": "same issuer population as reviewed phase"
+    },
+    "S": {
+      "mandatory_by_reviewed_year": 2016,
+      "precision": "reviewed_joint_regime_bound_not_earliest_national_topic_date",
+      "scope": "same issuer population as reviewed phase"
+    },
+    "G": {
+      "mandatory_by_reviewed_year": 2016,
+      "precision": "reviewed_joint_regime_bound_not_earliest_national_topic_date",
+      "scope": "same issuer population as reviewed phase"
+    }
+  },
+  "issuer_scope": "Issuers with securities in the publicsecuritiesmarketregister subject toannualreport requirements; issuers withonlyMAVsecurities exempt. Sustainabilityresponse supplements existing corporate-governance report.",
+  "mandatory_response": true,
+  "comply_or_explain_is_mandatory": true,
+  "source_keys": [
+    "peru_sustainability_2016",
+    "peru_official_issuer2016",
+    "peru_official_annual2016"
+  ],
+  "source_clauses": "SMV033/2015articles2-4;FY2016firstannualreport;SMVtemplateandissuerannualreportexplicitlystateFY2016",
+  "resolution_status": "qualifying_reviewed_reporting_phase",
+  "independent_national_choice": true,
+  "assignment_cluster": "PER",
+  "prior_reporting_obligations": "",
+  "national_earliest_topic_census_complete": false,
+  "issuer_assignment": "Legal scope rule resolved; quote-level eligibility requires historical issuer/filer attributes.",
+  "review_notes": "2015resolutiondate is not firstcoveredFY. The report asks about policies/practices; voluntarypolicyadoption is distinctfrommandatoryreportsubmission.",
+  "date_evidence_grade": "national_primary_or_official_implementation_source",
+  "all_earliest_topic_dates_resolved": false,
+  "usable_as_verified_never_treated_control": false
+}
