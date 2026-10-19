@@ -1,18 +1,18 @@
 {
-  "created_at": "2026-10-19T19:34:47.072490+00:00",
-  "attempted_designs": 1330,
-  "coefficient_cells": 3344,
-  "estimated_focal_coefficients": 433,
-  "estimated_models": 403,
-  "raw_p_below_05": 80,
-  "holm_all_below_05": 0,
+  "created_at": "2026-10-19T20:35:28.778788+00:00",
+  "attempted_designs": 1260,
+  "coefficient_cells": 3168,
+  "estimated_focal_coefficients": 531,
+  "estimated_models": 531,
+  "raw_p_below_05": 154,
+  "holm_all_below_05": 35,
   "status_counts": {
-    "not_estimated_constant_focal_measure": 2238,
-    "not_estimated_insufficient_support": 664,
-    "estimated_exploratory": 433,
-    "unstable_withheld": 9
+    "not_estimated_constant_focal_measure": 1888,
+    "not_estimated_insufficient_support": 724,
+    "estimated_exploratory": 531,
+    "unstable_withheld": 25
   },
-  "primary_family_estimable_coefficients": 4,
-  "elapsed_seconds": 5.484962463378906,
+  "primary_family_estimable_coefficients": 3,
+  "elapsed_seconds": 6.948909759521484,
   "inference": "Associations conditional on documented cases. Standard errors cluster by country; t reference countries-1df. Holm covers every stable focal coefficient including LPM sensitivities; no causal diffusion conclusion."
 }

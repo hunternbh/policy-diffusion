@@ -1,60 +1,53 @@
-Reporting Regulation, Stock Liquidity, and International Diffusion
+Reporting Regulation, Market Liquidity, and Policy Diffusion
 
 Abstract
-We examine reporting regulation across countries using stock-market data from 90 jurisdictions over 2000-2025. Seventeen policy families are considered; 15 support first-year liquidity comparisons and nine support a balanced longer window. We estimate changes around recorded national implementation dates relative to comparison jurisdictions, then aggregate across regulation families. First-year log-spread estimates are -0.029 with equal family weights and +0.021 with market-capitalisation weights. The market-cap estimate is imprecise, and the liquidity measures do not establish a uniform improvement. We also examine international diffusion using lagged competition, learning, emulation and external-finance measures. No association survives correction across the complete model matrix. The analysis describes exposure to national policy changes; it does not establish the reporting obligations of every company.
+We examine reporting regulation in a global sample of 90 jurisdictions over 2000-2025. The paper has two parts. First, we aggregate stock liquidity within countries and compare changes around national implementation with changes in comparison countries. Seventeen regulation families are considered; 15 support first-year comparisons and nine support a longer window. The first-year spread estimate is -0.029 under equal family weights and +0.021 under market-cap weights, with both intervals spanning zero. Second, we examine whether competition, learning, emulation and external finance are associated with national adoption. We report both family-weighting schemes on matched samples. Only the external-finance association under market-cap family weights survives adjustment across the eight planned comparisons. The learning comparison has insufficient observations. None of the weighted associations survives the broader matrix correction. The evidence concerns national market exposure; company-specific reporting obligations are examined separately.
 
-1. Introduction
-Disclosure regulation can give investors more information and make companies easier to compare. If it narrows information differences between traders, shares may become easier to trade. Governments have extended reporting beyond financial statements to nonfinancial performance, ownership, supply chains and payments to governments. We ask whether liquidity changes accompany this wider set of reforms and how the policies spread across countries.
+Introduction
+Reporting rules can make companies easier to compare and reduce the information disadvantage faced by investors. They may therefore lower the cost of trading. The benefit need not be the same for every rule: some disclosures reach investors, while others are sent to tax authorities, and compliance costs or limited enforcement can offset information gains. We ask how stock-market liquidity changes around national regulation and how the policies spread across countries.
 
-We extend the international disclosure setting in Krueger et al. (2023) to a wider set of regulation families. National implementation dates are linked to company stock outcomes to examine liquidity before and after implementation. We then examine international adoption using the diffusion framework of Koning, Mertens and Roosenboom (2018). Original company reports provide supplementary evidence on reporting scope and timing.
+We extend the international disclosure setting in Krueger et al. (2023) beyond mandatory ESG reporting to 17 regulation families. Our first part studies market liquidity at the country level. Our second part follows Koning, Mertens and Roosenboom (2018) in examining competition, learning, emulation and external finance as explanations for adoption. Public disclosure, confidential tax reporting and regulatory institutions are kept distinct, because their information channels differ.
 
-The policies differ in what information they provide and who receives it. Public country reports can inform investors; confidential country-by-country tax reports go to tax authorities. Audit institutions, governance revisions and sectoral rules may affect markets without creating a new disclosure duty for every listed company. An average across these policies describes a broad policy environment rather than one common reporting treatment.
+1. Liquidity
+Datastream provides 1,055,142 stock-year observations for 99,100 vendor company records in 90 jurisdictions over 2000-2025. We form 2,050 country-year observations. The sample is broad, but is not a census of every listed company. We measure quoted bid-ask spreads, the price response to trading volume, and the share of daily returns equal to zero. Each measure requires 120 valid daily observations; higher values indicate lower liquidity. Spreads and price impact enter in logs and are winsorised by year at the first and ninety-ninth percentiles.
 
-2. Sample and research design
-Datastream supplies 1,055,142 stock-year observations in 90 jurisdictions from 2000 to 2025, linked to 99,100 vendor company records. One stock-year is one stock observed for one year. Each liquidity measure requires at least 120 valid daily observations. We use the log relative quoted spread, log Amihud price impact and fraction of observed returns equal to zero; higher values indicate lower liquidity. Logged measures are winsorised each year at the first and ninety-ninth percentiles. A global eligibility audit covers all 90 jurisdictions and 17 families (1,530 country-family cells). The available Worldscope export contains 31,908 annual US records for 2,331 company codes over 1990-2023. Combining provisional Worldscope and Compustat links provides size-field values for 24,319 stock-years (2.3% of the panel), all in the US. Public jurisdiction sources clarify IFRS scope across all 90 markets; historical entity, listing, election, threshold and exemption evidence is still required. Global issuer eligibility remains incomplete.
+Table 1 describes the regulation families. For each family and adoption cohort, we hold the company sample fixed, average company liquidity changes within each country, and compare adopting countries with documented comparison countries. Already-adopting countries are excluded from the comparison group, and unknown histories are not treated as nonadoption. The first-year estimates cover 48 adopting jurisdictions across 15 families; the longer window covers 36 across nine. The first comparison is year 0 against year -1. The longer window averages years 0 to 2 against year -1, with fixed observations from -3 through +2.
 
-Table 1 reports all 17 attempted families. The first-year comparisons cover 30,703 distinct treated company records in 48 jurisdictions across 15 families. The longer-window comparisons cover 18,470 treated company records in 36 jurisdictions across nine families. Companies may appear under several policies; company-policy exposures are not unique companies. Some families have broad international support, while others have only one supported treated jurisdiction.
+We weight country averages by GDP in the year before adoption. Within each family, adoption cohorts receive weight proportional to sampled adopting-country GDP. We then combine families in two ways: each family receives the same weight, or receives weight proportional to sampled company market value before implementation. Both schemes use the same family estimates. Countries need at least 30 companies with complete outcomes, and each comparison needs three comparison countries. Standard errors allow observations within a country to move together. National rules can also arrive in common legal waves, which limits causal inference.
 
-For each regulation family and implementation cohort, we compare the change from the preceding year in implementing jurisdictions with the change in comparison jurisdictions. Already implementing countries do not serve as controls for that family. Comparisons use documented later dates; the bank home-jurisdiction contrast also includes explicitly coded non-EU jurisdictions, which may still have national rules or affected subsidiaries. Missing histories are not coded as nonadoption. National implementation is an exposure assignment, not proof that each company must report.
+Table 2 asks whether liquidity improves across the regulation families. First-year log spreads are -0.029 under equal family weights and +0.021 under market-cap weights; neither is precise. Price impact and unchanged returns also depend on the weighting scheme. Only the equal-family unchanged-return result survives correction across the 12 principal liquidity comparisons. Figure 1 shows the family estimates and weights. Confidential tax country reporting receives 33.2% of market-cap weight and auditor reporting 9.9%. Figure 2 shows differences before implementation, so the subsequent changes cannot be attributed to regulation alone. The evidence does not establish a common liquidity gain across these policies.
 
-We select one share line per company using the largest market value before implementation and keep it fixed within each cohort. The first-year design uses years -1 and 0. The longer window requires complete outcomes from -3 through +2 and averages years 0-2 relative to -1. Each country requires 30 complete companies; each comparison requires 30 treated companies, 30 comparison companies and three comparison jurisdictions. The narrower longer-window sample is not a continuation of the first-year aggregate.
+2. Policy diffusion
+We next examine why countries adopt. The adoption panel contains documented histories for 90 jurisdictions in the global market sample. We include collective implementation waves and examine independent national decisions separately. Each country remains at risk until its recorded implementation year. Countries without a documented history do not enter as nonadopters. Foreign peers can include other jurisdictions with documented histories. The market-value weights are available for the 15 liquidity-supported families; both weighting schemes use that common eligible family set, subject to mechanism-specific data availability.
 
-Within a family, prior-year country GDP is divided across its complete company sample. Across families, equal weights describe the average supported family; market-cap weights use the sampled treated companies' pre-implementation market value. These are exposure weights across country-policy cohorts, not shares of worldwide legally covered issuers. Company exposure can recur across families. Country-clustered intervals condition on the observed implementation calendar; collective legal waves and few treated countries can make policy-level uncertainty larger. Date-plus-one and independent-national-choice specifications remain in the supplement.
+Following Koning, Mertens and Roosenboom (2018), competition measures earlier adoption among countries with similar export markets. Learning compares earlier economic outcomes among neighbouring adopters and nonadopters. Emulation measures adoption among language peers. External finance measures IMF credit and aid relative to GDP. Signals precede the adoption decision. Separate logit models compare countries within the same family and year. Equal-family weights give each represented family the same total weight; market-cap weights use the same pre-implementation family values as the liquidity analysis, renormalised over the represented families. Each pair of weighted models uses identical observations and predictor units, with country-clustered uncertainty.
 
-3. Liquidity
-Table 2 reports the international estimates under both family weights. First-year log spreads are -0.029 under equal weights and +0.021 under market-cap weights. Equal-weight price impact is -0.045 and the unchanged-return fraction is -0.0082; the corresponding market-cap estimates are +0.019 and -0.0027. Only the equal-weight unchanged-return result survives the adjustment across the 12 principal liquidity comparisons. The evidence does not establish lower trading costs across regulation families.
-
-Figure 1 reports the family estimates and their weights. Confidential country-by-country tax reporting receives 33.2% of first-year market-cap weight; international auditor reporting receives 9.9%. These weights reflect the global sampled exposure population. Figure 2 reports the balanced nine-family profiles. Pre-implementation differences are material, so subsequent changes cannot be attributed to the policies alone. Overlapping reforms, sector-specific eligibility and prior voluntary disclosures remain alternative explanations.
-
-4. International diffusion
-We examine whether implementation follows earlier adoption among trade peers, earlier economic outcomes among geographic neighbours, language or institutional peers, and external financial dependence. Signals precede the focal decision. Table 3 reports four pooled timing regressions with family-year strata and country-clustered uncertainty. The samples differ because the required histories differ. The external-finance coefficient is negative in this narrow comparison; its adjusted p-value is 0.0013 across these four models but 0.142 across the complete stable-coefficient matrix.
-
-The full exercise contains 1,330 timing and adoption-status designs and 433 stable focal coefficients. None survives the full multiplicity correction. These associations do not establish that one country caused another to adopt. Together, the liquidity and diffusion analyses provide international evidence on recorded policy implementation while distinguishing policy exposure, company eligibility and the information actually available to investors.
+Table 3 reports the four mechanisms under both weights. The external-finance coefficients are negative: equal family -1.111 (adjusted p=0.142); market-cap family -0.967 (adjusted p=0.018). Only the external-finance association under market-cap family weights survives adjustment across the eight planned comparisons. The learning comparison has insufficient observations. None of the weighted associations survives the broader matrix correction. Some unweighted adoption-status models show associations, particularly for public bank reporting; the pooled weighted status models do not survive the broader correction. Adoption status describes an established regime, while timing concerns the adoption decision. The appendix reports both, along with controls, independent decisions, liquidity-based learning and combined mechanisms. These associations do not establish that one country caused another to adopt.
 
 Table 1. International policy coverage
 Regulation family | Treated
 countries | Supported
-cohort years | Company-policy
-cohort exposures | Market-cap
+cohort years | Adoption
+cohorts | Market-cap
 weight | Longer
 window
-Audit institutions / rotation | 4 | 2004-2007 | 3,399 | 2.6% | Yes
-Auditor reporting | 19 | 2012-2016 | 5,364 | 9.9% | Yes
-Beneficial ownership | 11 | 2016-2020 | 6,507 | 10.3% | Yes
-Public bank country reports | 15 | 2014 | 3,288 | 6.5% | Yes
-Confidential tax country reports | 42 | 2016-2020 | 21,796 | 33.2% | Yes
-Public multinational country reports | 1 | 2023 | 32 | <0.1% | No
-Climate / emissions disclosure | 2 | 2013-2023 | 711 | 2.0% | Yes
+Audit institutions / rotation | 4 | 2004-2007 | 3 | 2.6% | Yes
+Auditor reporting | 19 | 2012-2016 | 2 | 9.9% | Yes
+Beneficial ownership | 11 | 2016-2020 | 5 | 10.3% | Yes
+Public bank country reports | 15 | 2014 | 1 | 6.5% | Yes
+Confidential tax country reports | 42 | 2016-2020 | 5 | 33.2% | Yes
+Public multinational country reports | 1 | 2023 | 1 | <0.1% | No
+Climate / emissions disclosure | 2 | 2013-2023 | 2 | 2.0% | Yes
 Sectoral climate rules | - | - | - | - | No
-Digital-asset regulation | 2 | 2018-2020 | 762 | 0.5% | Yes
-Nonfinancial reporting | 23 | 2002-2019 | 8,265 | 10.7% | Yes
-Payments to governments | 5 | 2014-2015 | 2,767 | 6.4% | No
-Corporate governance | 6 | 2001-2004 | 2,385 | 1.2% | No
-IFRS financial reporting | 21 | 2005-2011 | 5,841 | 6.5% | No
-Supply-chain reporting | 5 | 2012-2022 | 5,012 | 9.5% | Yes
-Financial-focus sustainability | 3 | 2024-2025 | 713 | 0.5% | No
+Digital-asset regulation | 2 | 2018-2020 | 2 | 0.5% | Yes
+Nonfinancial reporting | 23 | 2002-2019 | 10 | 10.7% | Yes
+Payments to governments | 5 | 2014-2015 | 2 | 6.4% | No
+Corporate governance | 6 | 2001-2004 | 4 | 1.2% | No
+IFRS financial reporting | 21 | 2005-2011 | 6 | 6.5% | No
+Supply-chain reporting | 5 | 2012-2022 | 5 | 9.5% | Yes
+Financial-focus sustainability | 3 | 2024-2025 | 2 | 0.5% | No
 Sustainability frameworks | - | - | - | - | No
-Electronic financial reporting | 1 | 2007 | 345 | 0.2% | No
+Electronic financial reporting | 1 | 2007 | 1 | 0.2% | No
 First-year GDP-weighted specification. Only supported implementation cohorts through 2025 appear; future schedules are excluded. Counts refer to national policy exposure, not verified legally covered companies. No means insufficient longer-window support, not a zero effect. Public bank phases enter once. Audit institutions/rotation and governance frameworks include different policy subtypes. Nonfinancial dates are reviewed reporting phases, not a harmonised claim to the earliest E, S and G duties in every country.
 
 Table 2. International liquidity comparisons
@@ -87,16 +80,22 @@ Unchanged returns (fraction) | -0.0006
 [-0.0070, +0.0210]
 GDP weights within regulation families. Brackets are 95% country-clustered conditional intervals; they do not capture all uncertainty from collective policy waves, scope errors or endogenous implementation. Higher outcomes indicate lower liquidity. Log outcomes and fractions are not percentage changes. Horizons have different family and company support. All outcomes and both weights are reported.
 
-Table 3. International diffusion
-Mechanism | Rows /
-countries | Logit
-coefficient | Raw p | Full-matrix
-adjusted p
-Competition | 233 / 58 | +0.458 | 0.0883 | 1.000
-Learning | 74 / 33 | -0.409 | 0.5601 | 1.000
-Emulation | 411 / 66 | +0.105 | 0.7032 | 1.000
-External finance | 269 / 48 | -0.720 | 0.0003 | 0.142
-Pooled first-recorded-implementation timing; separate single-mechanism logit models, family-year strata, country clustering. Continuous predictors are standardised within each model. Competition uses fixed-2000 export-pattern peers; learning uses lagged neighbouring GDP outcomes; emulation uses language peers; external finance combines credit and aid measures. These are associations in documented risk sets. Full-matrix Holm correction covers all 433 stable focal coefficients; the four-model correction gives 0.0013 for external finance.
+Table 3. Country adoption and policy diffusion
+Mechanism | Rows / countries /
+families | Equal family
+Coefficient [adjusted p] | Market-cap family
+Coefficient [adjusted p]
+Competition | 375 / 76 / 8 | +0.346
+[1.000] | +0.044
+[1.000]
+Learning | 41 / 25 / 2 | Not estimated | Not estimated
+Emulation | 419 / 53 / 12 | +0.361
+[1.000] | +0.215
+[1.000]
+External finance | 154 / 30 / 7 | -1.111
+[0.142] | -0.967
+[0.018]
+Separate weighted timing logit models with family-year fixed effects. Each pair uses identical country-family-year observations. Each family has equal total likelihood weight or its pre-implementation sampled market-cap mass, divided by usable rows. Country-clustered score-sandwich errors with t reference. Brackets report Holm-adjusted p-values across eight principal coefficients. Positive coefficients indicate a positive association with adoption. Continuous predictors are scaled by their common unweighted sample standard deviation; learning is binary. Wider matrix corrections and all unsupported models remain in the appendix.
 
 Figure 1. International family estimates and weights
 First-year national policy-exposure comparisons for all 15 supported families, GDP weighted within families. Bars show country-clustered conditional intervals. Right panel: sampled treated-company market capitalisation before implementation.

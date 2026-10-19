@@ -1,128 +1,561 @@
 {
-  "passed": 97,
+  "validated_at": "2026-10-19T20:46:40.701686+00:00",
+  "passed": 209,
   "checks": [
     {
-      "check": "global_estimator_rerun_reproduces_prior_independent_panel",
+      "check": "country_estimator_reproduces_equivalent_prior_GDP_aggregation",
       "passed": true
     },
     {
-      "check": "raw_global_GDP_reconstruction_IFRS_log_spread",
+      "check": "both_liquidity_weights_all_three_outcomes_two_windows",
       "passed": true
     },
     {
-      "check": "raw_global_GDP_reconstruction_IFRS_log_impact",
+      "check": "all_group_time_estimates_reconstructed_from_country_cells",
       "passed": true
     },
     {
-      "check": "raw_global_GDP_reconstruction_IFRS_zero_fraction",
+      "check": "family_weights_('balanced_mean_0_2', 'baseline', 'baseline_issuer_market_cap', 'baseline_market_cap_family', 'log_impact')",
       "passed": true
     },
     {
-      "check": "raw_global_GDP_reconstruction_ESG_MANDATORY_REVIEWED_log_spread",
+      "check": "family_weights_('balanced_mean_0_2', 'baseline', 'baseline_issuer_market_cap', 'baseline_market_cap_family', 'log_spread')",
       "passed": true
     },
     {
-      "check": "raw_global_GDP_reconstruction_ESG_MANDATORY_REVIEWED_log_impact",
+      "check": "family_weights_('balanced_mean_0_2', 'baseline', 'baseline_issuer_market_cap', 'baseline_market_cap_family', 'zero_fraction')",
       "passed": true
     },
     {
-      "check": "raw_global_GDP_reconstruction_ESG_MANDATORY_REVIEWED_zero_fraction",
+      "check": "family_weights_('balanced_mean_0_2', 'baseline', 'baseline_issuer_market_cap', 'equal_family', 'log_impact')",
       "passed": true
     },
     {
-      "check": "raw_global_GDP_reconstruction_AUDIT_REPORTING_log_spread",
+      "check": "family_weights_('balanced_mean_0_2', 'baseline', 'baseline_issuer_market_cap', 'equal_family', 'log_spread')",
       "passed": true
     },
     {
-      "check": "raw_global_GDP_reconstruction_AUDIT_REPORTING_log_impact",
+      "check": "family_weights_('balanced_mean_0_2', 'baseline', 'baseline_issuer_market_cap', 'equal_family', 'zero_fraction')",
       "passed": true
     },
     {
-      "check": "raw_global_GDP_reconstruction_AUDIT_REPORTING_zero_fraction",
+      "check": "family_weights_('balanced_mean_0_2', 'baseline', 'equal_issuer', 'baseline_market_cap_family', 'log_impact')",
       "passed": true
     },
     {
-      "check": "raw_global_market_cap_weights_inclusive_first_year",
+      "check": "family_weights_('balanced_mean_0_2', 'baseline', 'equal_issuer', 'baseline_market_cap_family', 'log_spread')",
       "passed": true
     },
     {
-      "check": "raw_global_market_cap_weights_balanced_mean_0_2",
+      "check": "family_weights_('balanced_mean_0_2', 'baseline', 'equal_issuer', 'baseline_market_cap_family', 'zero_fraction')",
       "passed": true
     },
     {
-      "check": "weighted_reconstruction_inclusive_first_year_equal_family_log_spread",
+      "check": "family_weights_('balanced_mean_0_2', 'baseline', 'equal_issuer', 'equal_family', 'log_impact')",
       "passed": true
     },
     {
-      "check": "weighted_reconstruction_inclusive_first_year_equal_family_log_impact",
+      "check": "family_weights_('balanced_mean_0_2', 'baseline', 'equal_issuer', 'equal_family', 'log_spread')",
       "passed": true
     },
     {
-      "check": "weighted_reconstruction_inclusive_first_year_equal_family_zero_fraction",
+      "check": "family_weights_('balanced_mean_0_2', 'baseline', 'equal_issuer', 'equal_family', 'zero_fraction')",
       "passed": true
     },
     {
-      "check": "weighted_reconstruction_inclusive_first_year_baseline_market_cap_family_log_spread",
+      "check": "family_weights_('balanced_mean_0_2', 'baseline', 'gdp_country_allocated', 'baseline_market_cap_family', 'log_impact')",
       "passed": true
     },
     {
-      "check": "weighted_reconstruction_inclusive_first_year_baseline_market_cap_family_log_impact",
+      "check": "family_weights_('balanced_mean_0_2', 'baseline', 'gdp_country_allocated', 'baseline_market_cap_family', 'log_spread')",
       "passed": true
     },
     {
-      "check": "weighted_reconstruction_inclusive_first_year_baseline_market_cap_family_zero_fraction",
+      "check": "family_weights_('balanced_mean_0_2', 'baseline', 'gdp_country_allocated', 'baseline_market_cap_family', 'zero_fraction')",
       "passed": true
     },
     {
-      "check": "weighted_reconstruction_balanced_mean_0_2_equal_family_log_spread",
+      "check": "family_weights_('balanced_mean_0_2', 'baseline', 'gdp_country_allocated', 'equal_family', 'log_impact')",
       "passed": true
     },
     {
-      "check": "weighted_reconstruction_balanced_mean_0_2_equal_family_log_impact",
+      "check": "family_weights_('balanced_mean_0_2', 'baseline', 'gdp_country_allocated', 'equal_family', 'log_spread')",
       "passed": true
     },
     {
-      "check": "weighted_reconstruction_balanced_mean_0_2_equal_family_zero_fraction",
+      "check": "family_weights_('balanced_mean_0_2', 'baseline', 'gdp_country_allocated', 'equal_family', 'zero_fraction')",
       "passed": true
     },
     {
-      "check": "weighted_reconstruction_balanced_mean_0_2_baseline_market_cap_family_log_spread",
+      "check": "family_weights_('balanced_mean_0_2', 'independent_choices_only', 'baseline_issuer_market_cap', 'baseline_market_cap_family', 'log_impact')",
       "passed": true
     },
     {
-      "check": "weighted_reconstruction_balanced_mean_0_2_baseline_market_cap_family_log_impact",
+      "check": "family_weights_('balanced_mean_0_2', 'independent_choices_only', 'baseline_issuer_market_cap', 'baseline_market_cap_family', 'log_spread')",
       "passed": true
     },
     {
-      "check": "weighted_reconstruction_balanced_mean_0_2_baseline_market_cap_family_zero_fraction",
+      "check": "family_weights_('balanced_mean_0_2', 'independent_choices_only', 'baseline_issuer_market_cap', 'baseline_market_cap_family', 'zero_fraction')",
       "passed": true
     },
     {
-      "check": "15_first_year_9_longer_families",
+      "check": "family_weights_('balanced_mean_0_2', 'independent_choices_only', 'baseline_issuer_market_cap', 'equal_family', 'log_impact')",
       "passed": true
     },
     {
-      "check": "17_attempted_families_all_retained",
+      "check": "family_weights_('balanced_mean_0_2', 'independent_choices_only', 'baseline_issuer_market_cap', 'equal_family', 'log_spread')",
       "passed": true
     },
     {
-      "check": "international_nonfinancial_23_IFRS_21_countries",
+      "check": "family_weights_('balanced_mean_0_2', 'independent_choices_only', 'baseline_issuer_market_cap', 'equal_family', 'zero_fraction')",
       "passed": true
     },
     {
-      "check": "no_future_implementation_in_main_table",
+      "check": "family_weights_('balanced_mean_0_2', 'independent_choices_only', 'equal_issuer', 'baseline_market_cap_family', 'log_impact')",
       "passed": true
     },
     {
-      "check": "actual_treated_country_counts",
+      "check": "family_weights_('balanced_mean_0_2', 'independent_choices_only', 'equal_issuer', 'baseline_market_cap_family', 'log_spread')",
       "passed": true
     },
     {
-      "check": "diffusion_refit_reproduces_complete_matrix",
+      "check": "family_weights_('balanced_mean_0_2', 'independent_choices_only', 'equal_issuer', 'baseline_market_cap_family', 'zero_fraction')",
       "passed": true
     },
     {
-      "check": "global_paper_population",
+      "check": "family_weights_('balanced_mean_0_2', 'independent_choices_only', 'equal_issuer', 'equal_family', 'log_impact')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('balanced_mean_0_2', 'independent_choices_only', 'equal_issuer', 'equal_family', 'log_spread')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('balanced_mean_0_2', 'independent_choices_only', 'equal_issuer', 'equal_family', 'zero_fraction')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('balanced_mean_0_2', 'independent_choices_only', 'gdp_country_allocated', 'baseline_market_cap_family', 'log_impact')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('balanced_mean_0_2', 'independent_choices_only', 'gdp_country_allocated', 'baseline_market_cap_family', 'log_spread')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('balanced_mean_0_2', 'independent_choices_only', 'gdp_country_allocated', 'baseline_market_cap_family', 'zero_fraction')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('balanced_mean_0_2', 'independent_choices_only', 'gdp_country_allocated', 'equal_family', 'log_impact')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('balanced_mean_0_2', 'independent_choices_only', 'gdp_country_allocated', 'equal_family', 'log_spread')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('balanced_mean_0_2', 'independent_choices_only', 'gdp_country_allocated', 'equal_family', 'zero_fraction')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('balanced_mean_0_2', 'public_availability_plus1', 'baseline_issuer_market_cap', 'baseline_market_cap_family', 'log_impact')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('balanced_mean_0_2', 'public_availability_plus1', 'baseline_issuer_market_cap', 'baseline_market_cap_family', 'log_spread')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('balanced_mean_0_2', 'public_availability_plus1', 'baseline_issuer_market_cap', 'baseline_market_cap_family', 'zero_fraction')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('balanced_mean_0_2', 'public_availability_plus1', 'baseline_issuer_market_cap', 'equal_family', 'log_impact')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('balanced_mean_0_2', 'public_availability_plus1', 'baseline_issuer_market_cap', 'equal_family', 'log_spread')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('balanced_mean_0_2', 'public_availability_plus1', 'baseline_issuer_market_cap', 'equal_family', 'zero_fraction')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('balanced_mean_0_2', 'public_availability_plus1', 'equal_issuer', 'baseline_market_cap_family', 'log_impact')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('balanced_mean_0_2', 'public_availability_plus1', 'equal_issuer', 'baseline_market_cap_family', 'log_spread')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('balanced_mean_0_2', 'public_availability_plus1', 'equal_issuer', 'baseline_market_cap_family', 'zero_fraction')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('balanced_mean_0_2', 'public_availability_plus1', 'equal_issuer', 'equal_family', 'log_impact')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('balanced_mean_0_2', 'public_availability_plus1', 'equal_issuer', 'equal_family', 'log_spread')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('balanced_mean_0_2', 'public_availability_plus1', 'equal_issuer', 'equal_family', 'zero_fraction')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('balanced_mean_0_2', 'public_availability_plus1', 'gdp_country_allocated', 'baseline_market_cap_family', 'log_impact')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('balanced_mean_0_2', 'public_availability_plus1', 'gdp_country_allocated', 'baseline_market_cap_family', 'log_spread')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('balanced_mean_0_2', 'public_availability_plus1', 'gdp_country_allocated', 'baseline_market_cap_family', 'zero_fraction')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('balanced_mean_0_2', 'public_availability_plus1', 'gdp_country_allocated', 'equal_family', 'log_impact')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('balanced_mean_0_2', 'public_availability_plus1', 'gdp_country_allocated', 'equal_family', 'log_spread')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('balanced_mean_0_2', 'public_availability_plus1', 'gdp_country_allocated', 'equal_family', 'zero_fraction')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('inclusive_first_year', 'baseline', 'baseline_issuer_market_cap', 'baseline_market_cap_family', 'log_impact')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('inclusive_first_year', 'baseline', 'baseline_issuer_market_cap', 'baseline_market_cap_family', 'log_spread')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('inclusive_first_year', 'baseline', 'baseline_issuer_market_cap', 'baseline_market_cap_family', 'zero_fraction')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('inclusive_first_year', 'baseline', 'baseline_issuer_market_cap', 'equal_family', 'log_impact')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('inclusive_first_year', 'baseline', 'baseline_issuer_market_cap', 'equal_family', 'log_spread')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('inclusive_first_year', 'baseline', 'baseline_issuer_market_cap', 'equal_family', 'zero_fraction')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('inclusive_first_year', 'baseline', 'equal_issuer', 'baseline_market_cap_family', 'log_impact')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('inclusive_first_year', 'baseline', 'equal_issuer', 'baseline_market_cap_family', 'log_spread')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('inclusive_first_year', 'baseline', 'equal_issuer', 'baseline_market_cap_family', 'zero_fraction')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('inclusive_first_year', 'baseline', 'equal_issuer', 'equal_family', 'log_impact')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('inclusive_first_year', 'baseline', 'equal_issuer', 'equal_family', 'log_spread')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('inclusive_first_year', 'baseline', 'equal_issuer', 'equal_family', 'zero_fraction')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('inclusive_first_year', 'baseline', 'gdp_country_allocated', 'baseline_market_cap_family', 'log_impact')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('inclusive_first_year', 'baseline', 'gdp_country_allocated', 'baseline_market_cap_family', 'log_spread')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('inclusive_first_year', 'baseline', 'gdp_country_allocated', 'baseline_market_cap_family', 'zero_fraction')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('inclusive_first_year', 'baseline', 'gdp_country_allocated', 'equal_family', 'log_impact')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('inclusive_first_year', 'baseline', 'gdp_country_allocated', 'equal_family', 'log_spread')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('inclusive_first_year', 'baseline', 'gdp_country_allocated', 'equal_family', 'zero_fraction')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('inclusive_first_year', 'independent_choices_only', 'baseline_issuer_market_cap', 'baseline_market_cap_family', 'log_impact')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('inclusive_first_year', 'independent_choices_only', 'baseline_issuer_market_cap', 'baseline_market_cap_family', 'log_spread')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('inclusive_first_year', 'independent_choices_only', 'baseline_issuer_market_cap', 'baseline_market_cap_family', 'zero_fraction')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('inclusive_first_year', 'independent_choices_only', 'baseline_issuer_market_cap', 'equal_family', 'log_impact')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('inclusive_first_year', 'independent_choices_only', 'baseline_issuer_market_cap', 'equal_family', 'log_spread')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('inclusive_first_year', 'independent_choices_only', 'baseline_issuer_market_cap', 'equal_family', 'zero_fraction')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('inclusive_first_year', 'independent_choices_only', 'equal_issuer', 'baseline_market_cap_family', 'log_impact')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('inclusive_first_year', 'independent_choices_only', 'equal_issuer', 'baseline_market_cap_family', 'log_spread')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('inclusive_first_year', 'independent_choices_only', 'equal_issuer', 'baseline_market_cap_family', 'zero_fraction')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('inclusive_first_year', 'independent_choices_only', 'equal_issuer', 'equal_family', 'log_impact')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('inclusive_first_year', 'independent_choices_only', 'equal_issuer', 'equal_family', 'log_spread')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('inclusive_first_year', 'independent_choices_only', 'equal_issuer', 'equal_family', 'zero_fraction')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('inclusive_first_year', 'independent_choices_only', 'gdp_country_allocated', 'baseline_market_cap_family', 'log_impact')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('inclusive_first_year', 'independent_choices_only', 'gdp_country_allocated', 'baseline_market_cap_family', 'log_spread')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('inclusive_first_year', 'independent_choices_only', 'gdp_country_allocated', 'baseline_market_cap_family', 'zero_fraction')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('inclusive_first_year', 'independent_choices_only', 'gdp_country_allocated', 'equal_family', 'log_impact')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('inclusive_first_year', 'independent_choices_only', 'gdp_country_allocated', 'equal_family', 'log_spread')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('inclusive_first_year', 'independent_choices_only', 'gdp_country_allocated', 'equal_family', 'zero_fraction')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('inclusive_first_year', 'public_availability_plus1', 'baseline_issuer_market_cap', 'baseline_market_cap_family', 'log_impact')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('inclusive_first_year', 'public_availability_plus1', 'baseline_issuer_market_cap', 'baseline_market_cap_family', 'log_spread')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('inclusive_first_year', 'public_availability_plus1', 'baseline_issuer_market_cap', 'baseline_market_cap_family', 'zero_fraction')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('inclusive_first_year', 'public_availability_plus1', 'baseline_issuer_market_cap', 'equal_family', 'log_impact')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('inclusive_first_year', 'public_availability_plus1', 'baseline_issuer_market_cap', 'equal_family', 'log_spread')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('inclusive_first_year', 'public_availability_plus1', 'baseline_issuer_market_cap', 'equal_family', 'zero_fraction')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('inclusive_first_year', 'public_availability_plus1', 'equal_issuer', 'baseline_market_cap_family', 'log_impact')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('inclusive_first_year', 'public_availability_plus1', 'equal_issuer', 'baseline_market_cap_family', 'log_spread')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('inclusive_first_year', 'public_availability_plus1', 'equal_issuer', 'baseline_market_cap_family', 'zero_fraction')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('inclusive_first_year', 'public_availability_plus1', 'equal_issuer', 'equal_family', 'log_impact')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('inclusive_first_year', 'public_availability_plus1', 'equal_issuer', 'equal_family', 'log_spread')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('inclusive_first_year', 'public_availability_plus1', 'equal_issuer', 'equal_family', 'zero_fraction')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('inclusive_first_year', 'public_availability_plus1', 'gdp_country_allocated', 'baseline_market_cap_family', 'log_impact')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('inclusive_first_year', 'public_availability_plus1', 'gdp_country_allocated', 'baseline_market_cap_family', 'log_spread')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('inclusive_first_year', 'public_availability_plus1', 'gdp_country_allocated', 'baseline_market_cap_family', 'zero_fraction')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('inclusive_first_year', 'public_availability_plus1', 'gdp_country_allocated', 'equal_family', 'log_impact')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('inclusive_first_year', 'public_availability_plus1', 'gdp_country_allocated', 'equal_family', 'log_spread')",
+      "passed": true
+    },
+    {
+      "check": "family_weights_('inclusive_first_year', 'public_availability_plus1', 'gdp_country_allocated', 'equal_family', 'zero_fraction')",
+      "passed": true
+    },
+    {
+      "check": "global_country_panel",
+      "passed": true
+    },
+    {
+      "check": "independent_raw_company_to_country_checks",
+      "passed": true
+    },
+    {
+      "check": "fixed_support_no_relaxation",
+      "passed": true
+    },
+    {
+      "check": "global_diffusion_focal_country_universe",
+      "passed": true
+    },
+    {
+      "check": "all_signals_precede_decision",
+      "passed": true
+    },
+    {
+      "check": "no_future_filled_trade_network",
+      "passed": true
+    },
+    {
+      "check": "collective_waves_included_in_main_diffusion",
+      "passed": true
+    },
+    {
+      "check": "no_duplicate_country_family_year",
+      "passed": true
+    },
+    {
+      "check": "eight_primary_diffusion_coefficients_preserved",
+      "passed": true
+    },
+    {
+      "check": "matched_diffusion_samples_financial_dependence",
+      "passed": true
+    },
+    {
+      "check": "matched_diffusion_samples_gdp_learning",
+      "passed": true
+    },
+    {
+      "check": "matched_diffusion_samples_language",
+      "passed": true
+    },
+    {
+      "check": "matched_diffusion_samples_trade_fixed2000",
+      "passed": true
+    },
+    {
+      "check": "eight_status_sensitivity_coefficients_preserved",
+      "passed": true
+    },
+    {
+      "check": "matched_status_samples_financial_dependence",
+      "passed": true
+    },
+    {
+      "check": "matched_status_samples_gdp_learning",
+      "passed": true
+    },
+    {
+      "check": "matched_status_samples_language",
+      "passed": true
+    },
+    {
+      "check": "matched_status_samples_trade_fixed2000",
+      "passed": true
+    },
+    {
+      "check": "complete_broad_correction_ledger",
+      "passed": true
+    },
+    {
+      "check": "unweighted_status_findings_retained",
+      "passed": true
+    },
+    {
+      "check": "learning_not_fit_below_fixed_minimum",
+      "passed": true
+    },
+    {
+      "check": "primary_Holm_counts_all_eight_planned_tests",
+      "passed": true
+    },
+    {
+      "check": "all_diffusion_family_masses_match_declared_weighting",
+      "passed": true
+    },
+    {
+      "check": "all_diffusion_row_weights_have_correct_family_totals",
+      "passed": true
+    },
+    {
+      "check": "independent_weighted_logit_coefficient_equal_family",
+      "passed": true
+    },
+    {
+      "check": "numerical_Hessian_country_cluster_SE_equal_family",
+      "passed": true
+    },
+    {
+      "check": "independent_weighted_logit_coefficient_baseline_market_cap_family",
+      "passed": true
+    },
+    {
+      "check": "numerical_Hessian_country_cluster_SE_baseline_market_cap_family",
       "passed": true
     },
     {
@@ -135,10 +568,6 @@
     },
     {
       "check": "local_anchor_diffusion",
-      "passed": true
-    },
-    {
-      "check": "local_anchor_families",
       "passed": true
     },
     {
@@ -178,11 +607,31 @@
       "passed": true
     },
     {
-      "check": "local_file_data/international/global-country-family-eligibility-audit.csv",
+      "check": "local_file_data/international/country-aggregation-verification.json",
       "passed": true
     },
     {
-      "check": "local_file_data/international/global-family-eligibility-audit.json",
+      "check": "local_file_data/international/country-diffusion-adoption-status.csv",
+      "passed": true
+    },
+    {
+      "check": "local_file_data/international/country-diffusion-expanded-matrix.csv",
+      "passed": true
+    },
+    {
+      "check": "local_file_data/international/country-diffusion-family-weights.csv",
+      "passed": true
+    },
+    {
+      "check": "local_file_data/international/country-diffusion-weighted-models.csv",
+      "passed": true
+    },
+    {
+      "check": "local_file_data/international/country-panel-coverage.json",
+      "passed": true
+    },
+    {
+      "check": "local_file_data/international/global-country-family-eligibility-audit.csv",
       "passed": true
     },
     {
@@ -194,15 +643,7 @@
       "passed": true
     },
     {
-      "check": "local_file_data/international/issuer-exposure-pooled-did.csv",
-      "passed": true
-    },
-    {
       "check": "local_file_data/international/issuer-exposure-pooled-events.csv",
-      "passed": true
-    },
-    {
-      "check": "local_file_data/international/issuer-exposure-support.csv",
       "passed": true
     },
     {
@@ -218,19 +659,11 @@
       "passed": true
     },
     {
-      "check": "local_file_data/issuers/all-family-eligibility-and-filing-dispositions.json",
-      "passed": true
-    },
-    {
       "check": "local_file_data/issuers/source-review-register.json",
       "passed": true
     },
     {
       "check": "local_file_downloads/international-policy-results.zip",
-      "passed": true
-    },
-    {
-      "check": "local_file_downloads/issuer-regulation-findings.zip",
       "passed": true
     },
     {
@@ -254,27 +687,55 @@
       "passed": true
     },
     {
-      "check": "HTML_paper_exact_table_family-coverage",
+      "check": "two_main_parts_in_paper",
       "passed": true
     },
     {
-      "check": "HTML_paper_exact_table_main-results",
+      "check": "country_main_unit",
       "passed": true
     },
     {
-      "check": "HTML_paper_exact_table_diffusion-results",
+      "check": "two_main_parts_in_HTML",
       "passed": true
     },
     {
-      "check": "no_old_issuer_numbers_in_headline",
+      "check": "paper_HTML_exact_family-coverage",
       "passed": true
     },
     {
-      "check": "case_studies_only_in_appendix",
+      "check": "paper_HTML_exact_main-results",
       "passed": true
     },
     {
-      "check": "caption_free_main_reading",
+      "check": "paper_HTML_exact_diffusion-results",
+      "passed": true
+    },
+    {
+      "check": "status_sensitivity_table_in_HTML",
+      "passed": true
+    },
+    {
+      "check": "status_findings_qualified_in_paper",
+      "passed": true
+    },
+    {
+      "check": "no_version_chronology_in_prose",
+      "passed": true
+    },
+    {
+      "check": "company_eligibility_only_appendix",
+      "passed": true
+    },
+    {
+      "check": "source_reviews_retained",
+      "passed": true
+    },
+    {
+      "check": "caption_free_accessible_HTML",
+      "passed": true
+    },
+    {
+      "check": "charts_reserve_space_for_anchor_navigation",
       "passed": true
     },
     {
@@ -282,121 +743,107 @@
       "passed": true
     },
     {
-      "check": "source_reviews_remain_linked",
+      "check": "current_PDF_copies_match",
       "passed": true
     },
     {
-      "check": "accessible_static_page",
+      "check": "five_pages_three_tables_two_figures",
       "passed": true
     },
     {
-      "check": "all_current_PDF_copies_match",
+      "check": "all_titles_present_in_PDF",
       "passed": true
     },
     {
-      "check": "five_page_paper",
+      "check": "no_replacement_glyphs",
       "passed": true
     },
     {
-      "check": "all_tables_and_figures_in_PDF",
+      "check": "concise_accounting_prose",
       "passed": true
     },
     {
-      "check": "no_PDF_replacement_glyphs",
+      "check": "no_licensed_company_identifiers_country-cohort-mean-changes.csv",
       "passed": true
     },
     {
-      "check": "prior_selected_case_PDF_archived",
+      "check": "no_licensed_company_identifiers_country-diffusion-adoption-status.csv",
       "passed": true
     },
     {
-      "check": "no_licensed_identifiers_global-country-family-eligibility-audit.csv",
+      "check": "no_licensed_company_identifiers_country-diffusion-expanded-matrix.csv",
       "passed": true
     },
     {
-      "check": "no_licensed_identifiers_international-diffusion-primary.csv",
+      "check": "no_licensed_company_identifiers_country-diffusion-family-weights.csv",
       "passed": true
     },
     {
-      "check": "no_licensed_identifiers_international-family-coverage.csv",
+      "check": "no_licensed_company_identifiers_country-diffusion-primary.csv",
       "passed": true
     },
     {
-      "check": "no_licensed_identifiers_issuer-exposure-family-did.csv",
+      "check": "no_licensed_company_identifiers_country-diffusion-weighted-models.csv",
       "passed": true
     },
     {
-      "check": "no_licensed_identifiers_issuer-exposure-family-events.csv",
+      "check": "no_licensed_company_identifiers_global-country-family-eligibility-audit.csv",
       "passed": true
     },
     {
-      "check": "no_licensed_identifiers_issuer-exposure-family-weights.csv",
+      "check": "no_licensed_company_identifiers_international-diffusion-primary.csv",
       "passed": true
     },
     {
-      "check": "no_licensed_identifiers_issuer-exposure-group-time-cells.csv",
+      "check": "no_licensed_company_identifiers_international-family-coverage.csv",
       "passed": true
     },
     {
-      "check": "no_licensed_identifiers_issuer-exposure-pooled-did.csv",
+      "check": "no_licensed_company_identifiers_issuer-exposure-family-did.csv",
       "passed": true
     },
     {
-      "check": "no_licensed_identifiers_issuer-exposure-pooled-events.csv",
+      "check": "no_licensed_company_identifiers_issuer-exposure-family-events.csv",
       "passed": true
     },
     {
-      "check": "no_licensed_identifiers_issuer-exposure-principal-estimates.csv",
+      "check": "no_licensed_company_identifiers_issuer-exposure-family-weights.csv",
       "passed": true
     },
     {
-      "check": "no_licensed_identifiers_issuer-exposure-support.csv",
+      "check": "no_licensed_company_identifiers_issuer-exposure-group-time-cells.csv",
       "passed": true
     },
     {
-      "check": "no_licensed_identifiers_jibs-mechanism-models-all.csv",
+      "check": "no_licensed_company_identifiers_issuer-exposure-pooled-did.csv",
       "passed": true
     },
     {
-      "check": "no_licensed_identifiers_policy-calendar.csv",
+      "check": "no_licensed_company_identifiers_issuer-exposure-pooled-events.csv",
       "passed": true
     },
     {
-      "check": "all_90_by_17_country_family_cells",
+      "check": "no_licensed_company_identifiers_issuer-exposure-principal-estimates.csv",
       "passed": true
     },
     {
-      "check": "no_unknowns_promoted_to_eligible",
+      "check": "no_licensed_company_identifiers_issuer-exposure-support.csv",
       "passed": true
     },
     {
-      "check": "global_profile_source_coverage",
+      "check": "no_licensed_company_identifiers_jibs-mechanism-models-all.csv",
       "passed": true
     },
     {
-      "check": "provisional_financial_coverage_not_global",
-      "passed": true
-    },
-    {
-      "check": "Worldscope_export_country_and_size_verified",
-      "passed": true
-    },
-    {
-      "check": "Worldscope_conflicts_not_promoted_to_global_coverage",
-      "passed": true
-    },
-    {
-      "check": "eligibility_limitation_in_PDF_and_HTML",
+      "check": "no_licensed_company_identifiers_policy-calendar.csv",
       "passed": true
     }
   ],
-  "global_liquidity_rerun": true,
-  "global_diffusion_rerun": true,
-  "raw_reconstruction_families": [
-    "IFRS",
-    "ESG_MANDATORY_REVIEWED",
-    "AUDIT_REPORTING"
-  ],
-  "scope": "International policy exposure, not complete issuer legal eligibility.",
-  "visual_QA": "Five PDF pages rendered and inspected; final browser proof recorded separately."
+  "main_unit": "Country-average market liquidity and national adoption decisions",
+  "liquidity_rerun": true,
+  "diffusion_feature_rebuild_and_rerun": true,
+  "both_weights_in_both_parts": true,
+  "country_cohort_cells_reconstructed": 4806,
+  "independent_numerical_weighted_logit_and_cluster_checks": true,
+  "visual_QA": "All five PDF pages rendered and inspected; browser verification recorded separately."
 }

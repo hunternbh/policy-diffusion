@@ -1,0 +1,15 @@
+{
+  "created_at": "2026-10-19T20:35:10.337854+00:00",
+  "rows": 12066,
+  "market_jurisdictions": 90,
+  "diffusion_jurisdictions": 90,
+  "families_without_published_benchmark": 15,
+  "focal_rule": "All documented country histories in the 90-market universe, including collective waves; independent choices are separately estimated. Missing histories are not invented.",
+  "peer_histories": "May include documented countries outside the focal market universe. All adoption shares use t-1; learning uses prior adopters before t-1.",
+  "source_network": "21-fresnillo-and-carbon-issuer-review\\2026-10-19\\data\\network-memberships.csv",
+  "source_network_sha256": "2e430b98d886fe907588070116702550a85f88c121d1edcde5f1e9f0940972db",
+  "source_calendar_sha256": "2807a3057582208d7e3ca108e7df643fa322bbdfa0708571a7b1def9c055e347",
+  "country_liquidity_source": "country-year-liquidity.parquet; consecutive-year changes only",
+  "benchmarked_success": "Fixed-cohort country changes from current liquidity rerun; excludes focal country and shared assignment clusters from controls.",
+  "calendar_limit": "Recorded implementation phases; not certified earliest adoption or real-time-vintage macro data."
+}

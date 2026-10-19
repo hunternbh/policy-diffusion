@@ -1,0 +1,20 @@
+{
+  "created_at": "2026-10-19T20:42:15.672810+00:00",
+  "primary_attempted_coefficients": 8,
+  "primary_stable_coefficients": 6,
+  "primary_Holm_below_05": 1,
+  "weighted_attempted_coefficients": 68,
+  "weighted_stable_coefficients": 44,
+  "weighted_matrix_Holm_below_05": 0,
+  "expanded_matrix_coefficients": 575,
+  "expanded_matrix_Holm_below_05": 0,
+  "status_counts": {
+    "estimated": 44,
+    "not_estimated_insufficient_support": 24
+  },
+  "weights": "Equal total likelihood mass per family or baseline sampled adoption-cohort market-cap mass; divided by usable risk-set row count. Weights conditional on observed adoption calendar.",
+  "inference": "Explicit country-cluster score sandwich; t reference countries minus one. Collective waves and historical policy-selection errors are not absorbed by this uncertainty measure.",
+  "expanded_unweighted_Holm_below_05": 35,
+  "status_primary_stable_coefficients": 8,
+  "status_primary_expanded_Holm_below_05": 0
+}
