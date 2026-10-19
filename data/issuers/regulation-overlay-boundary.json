@@ -1,8 +1,12 @@
 {
-  "overlays": 441,
+  "original_overlays": 441,
   "original_register_unchanged": true,
-  "updated_cross_references": "GBR extractive parent filings and GBR2010revised-Code issuer phase",
-  "updated_event_overlays": 4,
-  "initial_national_governance_calendar_unchanged": true,
-  "global_eligibility_or_first_history_certification": false
+  "additional_reviewed_phase_records": 1,
+  "GBR_climate_old_G": 2022,
+  "GBR_climate_corrected_G": 2013,
+  "legal_effective_date": "2013-10-01",
+  "application_FY_end_from": "2013-09-30",
+  "issuer_actual_public_report_G": 2014,
+  "national_governance_initial_G_unchanged": 1993,
+  "global_issuer_and_first_history_certification": false
 }

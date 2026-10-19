@@ -11,6 +11,18 @@
     {
       "gap": "Governance issuer coverage",
       "resolution": "Five original FY2011report Code statements and US parent comparison source filters; first2010Code revision cycle."
+    },
+    {
+      "gap": "Fresnillo actual registry filing",
+      "resolution": "Correctparent06344120;FY2015filing16June2016inallfourofficialpayloads;public15June. Wrongprevious06477966negativequeryretracted."
+    },
+    {
+      "gap": "Additional issuer-family coverage",
+      "resolution": "FourUKquotedparentFY2013mandatoryGHGreportsand343fullcomparisonSECsubmissionssupportninthfamily. PearsonstatutoryscopeparagraphrecoveredbyOCR."
+    },
+    {
+      "gap": "Earlier UK climate reporting phase",
+      "resolution": "EnactedSI2013/1970FYendthreshold30September2013;firstrecordednationalclimatecalendar2013,previous2022phaseseparateandpreserved."
     }
   ],
   "partially_resolved": [
@@ -24,10 +36,6 @@
     }
   ],
   "remaining": [
-    {
-      "gap": "Fresnillo2015statutory package",
-      "reason": "Official2015record has start-filing link; full statutory public report recovered15June2016. Actual register filing day still unlocated, not exemption."
-    },
     {
       "gap": "Global financial size and issuer ownership histories",
       "reason": "Selected Compustat and vendor identifiers do not constitute a global historical Worldscope/ownership/venue panel."

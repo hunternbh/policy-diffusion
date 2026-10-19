@@ -81,14 +81,14 @@
     "family": "CLIMATE_DISCLOSURE",
     "label": "Climate disclosure",
     "eligibility_rule": "Country-specific listing, size, financial-sector and phased climate reporting requirements.",
-    "filing_date_and_remaining_gap": "Climate-only is not comprehensive E/S/G. Historical tiers, fiscal years and actual first reports are not globally linked.",
-    "disposition": "historical_threshold_and_report_gaps",
+    "filing_date_and_remaining_gap": "Four FY2013UKquoted-parent GHG reports public2014:BAE,Pearson,GKN,Drax. Earlier voluntary and sectoral emissions information retained. UKearliestdocumentedclimatephasecorrected2013,2022financial-riskphaseseparate. Global historical thresholds, venues and first-ever histories incomplete.",
+    "disposition": "four_UK_first_mandatory_GHG_reporters",
     "issuer_specific_eligibility_complete": false,
     "all_first_ever_histories_complete": false,
     "first_year_geographic_issuer_estimated": true,
-    "first_year_covered_issuer_estimated": false,
+    "first_year_covered_issuer_estimated": true,
     "balanced_geographic_issuer_estimated": true,
-    "balanced_covered_issuer_estimated": false
+    "balanced_covered_issuer_estimated": true
   },
   {
     "family": "CLIMATE_SECTORAL",
@@ -133,7 +133,7 @@
     "family": "EXTRACTIVE_PAYMENTS",
     "label": "Extractive payments",
     "eligibility_rule": "Resource-extraction issuer, project and payment thresholds; US first effective cycle differs from repealed rule.",
-    "filing_date_and_remaining_gap": "FY2015 report year2016: existing BP, Total SA, Tullow joined by Rio, Anglo American, Ferrexpo and Fresnillo. Official register/four CSVs confirm Rio29June, Anglo30June, Ferrexpo28June2016. Fresnillo full statutory report public15June2016 in issuerRNS; register filing day unknown. Rio voluntary28June release separate. Other countries and foreign subsidiaries remain incomplete.",
+    "filing_date_and_remaining_gap": "Seven statutory report publishers public2016. CorrectFresnillo06344120packagefiled16June2016;publicRNS15June. Prior06477966lookupwrongentity,retracted. Rio29June,Anglo30June,Ferrexpo28Juneofficialpayloadsverified. Otherjurisdictionsandhistoricalsubsidiariesremainincomplete.",
     "disposition": "seven_statutory_payment_reporters_with_official_Rio_resolution",
     "issuer_specific_eligibility_complete": false,
     "all_first_ever_histories_complete": false,

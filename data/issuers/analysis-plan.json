@@ -1,53 +1,48 @@
 {
-  "frozen_at": "2026-10-19T06:16:17.605499+00:00",
-  "prior_release": "19-extractive-issuer-and-composition-review/2026-10-19",
-  "objectives": [
-    "Resolve Rio first statutory payment filing from official Companies House extractives service and preserve downloadable filing.",
-    "Expand governance-family issuer coverage using original annual reports in the all-data EU report ZIPs."
-  ],
-  "governance_candidates": [
+  "frozen_at": "2026-10-19T06:52:00.566943+00:00",
+  "prior_release": "20-rio-and-governance-issuer-review/2026-10-19",
+  "new_family": "CLIMATE_DISCLOSURE",
+  "new_study": "UK_2013_mandatory_GHG_reports",
+  "candidate_issuers": [
     "BAE Systems plc",
     "Pearson plc",
     "GKN plc",
     "Drax Group plc",
     "ITV plc"
   ],
-  "selection": "Named archived FY2011 annual reports before new coefficients. Positive declaration against 2010 UK Code and first legally applicable fiscal period required. Historical ordinary ISIN and actual publication year corroboration. Failures remain visible; no outcome-based replacement.",
-  "treatment_definition": "First required reporting against the revised 2010 UK Corporate Governance Code, financial years beginning on/after29June2010; UK premium listing compliance statement. This is a governance-code revision, not first-ever governance disclosure or initial1993country adoption. Earlier voluntary practices and2008CombinedCode remain distinct.",
-  "comparison_rule": "60 largest available pre2012 US nonfinancial ordinary-parent candidates by2011cap with exact period-keyed CIK/CUSIP and bounded ISIN; contemporaneous2012-14US incorporation and ordinary US listing evidence. Withhold direct foreign-premium/listing/code obligation evidence. No claim of global subsidiary noncoverage; US governance changes are concurrent confounds.",
+  "selection": "Existing all-data FY2013 annual reports, named before any new climate coefficients. Explicit quoted-parent mandatory greenhouse-gas reporting evidence and bounded 2013 ordinary identifiers required. All source failures retained; no sign-selected replacement.",
+  "legal_definition": "UK quoted-company mandatory greenhouse-gas reporting, SI2013/1970, first relevant financial years ending on/after30September2013; distinguish from later TCFD financial-risk disclosure and prior voluntary emissions. Confirm final enacted application before admitting.",
+  "comparison_selection": "Top120 available2013-cap US nonfinancial ordinary parents, exact period-keyed CIK/CUSIP and bounded ISIN. Full fiscal2014-16 SEC submissions corroborate US incorporation/listing; direct London/Toronto listing and UK governance/carbon-reporting flags withheld. Other venue/subsidiary histories not globally certified.",
+  "timing": "Actual annual public report year2014; exact day withheld without dated publication evidence. Board approval and archive-capture dates are not publication.",
   "targets": [
-    "g-1 to g first-year",
-    "fixed g-3..g+2, mean0..2"
+    "first report year g-1 to g",
+    "balanced fixed g-3..g+2; average0..2"
   ],
-  "minimum_support": "3treated and20comparisons; unchanged",
+  "minimum_support": "unchanged3treated20comparison",
   "within_weights": [
-    "GDP allocated over fixed source-study country issuer universe",
+    "GDP allocated across fixed country issuer universe",
     "equal issuer",
-    "baseline issuer market cap"
+    "baseline market cap"
   ],
   "across_weights": [
     "equal economic family",
-    "pre-event treated issuer market cap"
+    "baseline treated issuer market cap economic family"
   ],
-  "composition": "Both weights coequal, exact difference decomposition, concentration and every single-family omission. Banking phases once. Retain all supported families regardless of sign.",
-  "country_policy_calendar": "New issuer evidence for a revised governance phase does not rewrite1993nationalfirst-recordedgovernancecase or add a national adoption choice. Broad exposure and diffusion rerun unchanged unless separate substantiated chronology corrections arise.",
-  "coverage_resolution": "Resolve specific documented gaps; global historical ownership, thresholds and first-ever histories cannot be certified from country or company names.",
-  "inference": "Descriptive issuer sampling covariance; sparse common waves and pretrends do not establish causal policy inference.",
+  "outcomes": [
+    "log_spread",
+    "log_impact",
+    "zero_fraction"
+  ],
+  "no_outcome_selection": true,
   "new_coefficients_inspected": false,
-  "additional_extractives_source_candidates": {
-    "frozen_at": "2026-10-19T06:19:43.778935+00:00",
-    "candidates": [
-      "Anglo American plc",
-      "Fresnillo plc",
-      "Ferrexpo plc"
-    ],
-    "reason": "New official extractives filing history service positively documents group reports; join to pre-event ordinary shares and original all-data reports. Selected before new coefficients; no outcome replacements."
-  },
+  "scope": "Admit a genuinely additional economic family, not relabel another study as a family. Retain every supported outcome and alternate weight, all failures, composition and all family omissions. Update national chronology only if earlier statutory phase belongs to current family definition; rebuild diffusion inputs consistently.",
+  "Fresnillo": "Attempt official registry, ordinary Companies House history and issuer filings; preserve failed searches and never substitute15June2016public report date for unknown registry submission day.",
   "support_amendment": {
     "frozen_at": "2026-10-19T06:24:17.194348+00:00",
     "trigger": "Original top60source candidates yield only18first-year and17balanced complete three-outcome comparisons, below unchanged20minimum. No governance coefficient has been estimated.",
     "rule": "Append the next60pre2011capitalisation-ranked candidates: fixed top120universe. Retain all original candidates and all source/outcome failures; no sign or p-value selection, no individual replacements.",
     "threshold_unchanged": 20,
     "governance_coefficients_available_before_amendment": false
-  }
+  },
+  "support_amendment_context": "Preserved governance-study source support amendment from prior release; new carbon universe was fixed120before coefficients."
 }

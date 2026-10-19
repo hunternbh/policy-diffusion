@@ -742,12 +742,12 @@
   {
     "key": "Fresnillo_plc_registry",
     "url": "https://extractives.company-information.service.gov.uk/company/06477966",
-    "failure": "Official register offers a start-filing link for2015 rather than a filed2015package. No statutory2015package located; this does not establish exemption or absence of prior reporting.",
+    "failure": "Wrongcompanynumber;nogaporcoverageinferencevalidforFresnillo. Correctpackagefiled16June2016.",
     "sha256": "8a18aa8bbb8cdb676446dc393bf483dfbc7beb4eeddf3cb7aa8bb0b9fa90fba7",
     "reviewed": true,
     "review_scope": "Targeted legal compliance, first applicable period, parent identity, prior disclosure and actual publication/filing evidence. Original PDF text and relevant pages reviewed; not legal certification of every page.",
     "OCR_status": "readable_selected_documents_no_OCR_needed",
-    "disposition": "unresolved_record_boundary"
+    "disposition": "RETRACTED_WRONG_ENTITY_NEGATIVE_SEARCH"
   },
   {
     "key": "Ferrexpo_plc_registry",
@@ -813,5 +813,296 @@
     "review_scope": "Targeted legal compliance, first applicable period, parent identity, prior disclosure and actual publication/filing evidence. Original PDF text and relevant pages reviewed; not legal certification of every page.",
     "OCR_status": "readable_selected_documents_no_OCR_needed",
     "disposition": "source_preserved"
+  },
+  {
+    "key": "BAE_Systems_plc_2013",
+    "company": "BAE Systems plc",
+    "catalogue_year": 2013,
+    "report_title": "Annual Report 2012",
+    "CRC": 3223672715,
+    "sha256": "3b96ac7cc66292e0d6c36a6ba2fd36e08e195ee7e75c5612676622156de25b27",
+    "reviewed": true,
+    "review_scope": "Targeted enacted-lawscope,originalparent/listing,mandatoryreportcontent,priorinformation,publicationyear/dayandofficialregistryidentity/date. Selectedsourcepagesvisuallyreviewed;notallpageslegallycertified.",
+    "OCR_status": "readable_selected_evidence"
+  },
+  {
+    "key": "BAE_Systems_plc_2014",
+    "company": "BAE Systems plc",
+    "catalogue_year": 2014,
+    "report_title": "Annual Report 2013",
+    "CRC": 491739573,
+    "sha256": "734c47df09beb2cddeb990257ece48c53595b4d92bc8f1a41ff3415ea01f0053",
+    "reviewed": true,
+    "review_scope": "Targeted enacted-lawscope,originalparent/listing,mandatoryreportcontent,priorinformation,publicationyear/dayandofficialregistryidentity/date. Selectedsourcepagesvisuallyreviewed;notallpageslegallycertified.",
+    "OCR_status": "readable_selected_evidence"
+  },
+  {
+    "key": "Pearson_plc_2013",
+    "company": "Pearson plc",
+    "catalogue_year": 2013,
+    "report_title": "Annual Report and Accounts 2012",
+    "CRC": 2567696114,
+    "sha256": "210295e655b06c59cadeb98eaf50fe8eb24c291b8d16e808e02a5465d85442ce",
+    "reviewed": true,
+    "review_scope": "Targeted enacted-lawscope,originalparent/listing,mandatoryreportcontent,priorinformation,publicationyear/dayandofficialregistryidentity/date. Selectedsourcepagesvisuallyreviewed;notallpageslegallycertified.",
+    "OCR_status": "readable_selected_evidence"
+  },
+  {
+    "key": "Pearson_plc_2014",
+    "company": "Pearson plc",
+    "catalogue_year": 2014,
+    "report_title": "Annual Report and Accounts 2013. Helping people make measurable progress in their lives through learning",
+    "CRC": 2206615593,
+    "sha256": "d4daa9b0902334837f8990d51649590e165e216664e0f73209cfb675b25126dc",
+    "reviewed": true,
+    "review_scope": "Targeted enacted-lawscope,originalparent/listing,mandatoryreportcontent,priorinformation,publicationyear/dayandofficialregistryidentity/date. Selectedsourcepagesvisuallyreviewed;notallpageslegallycertified.",
+    "OCR_status": "Pearsonpage54OCRrequiredandrecovered"
+  },
+  {
+    "key": "GKN_plc_2013",
+    "company": "GKN plc",
+    "catalogue_year": 2013,
+    "report_title": "Annual Report and Accounts 2012. Engineering that moves the world",
+    "CRC": 2585218563,
+    "sha256": "b8105a9d92e6409a2ef3af04462b5ba5e8c0e5660a34cbc81a5e293da584d32a",
+    "reviewed": true,
+    "review_scope": "Targeted enacted-lawscope,originalparent/listing,mandatoryreportcontent,priorinformation,publicationyear/dayandofficialregistryidentity/date. Selectedsourcepagesvisuallyreviewed;notallpageslegallycertified.",
+    "OCR_status": "readable_selected_evidence"
+  },
+  {
+    "key": "GKN_plc_2014",
+    "company": "GKN plc",
+    "catalogue_year": 2014,
+    "report_title": "Annual Report and Accounts 2013. Engineering > That Moves the World",
+    "CRC": 3895010179,
+    "sha256": "c8d8f69807da8fbccccb39b561aae01deebda9ff207a28aa58e915e7bb9f002b",
+    "reviewed": true,
+    "review_scope": "Targeted enacted-lawscope,originalparent/listing,mandatoryreportcontent,priorinformation,publicationyear/dayandofficialregistryidentity/date. Selectedsourcepagesvisuallyreviewed;notallpageslegallycertified.",
+    "OCR_status": "readable_selected_evidence"
+  },
+  {
+    "key": "Drax_Group_plc_2013",
+    "company": "Drax Group plc",
+    "catalogue_year": 2013,
+    "report_title": "Annual report and accounts 2012. Our transformation continues…",
+    "CRC": 4025680811,
+    "sha256": "bbe0c4872257052838c70ce9f69ff0c0d77dd3e560bc86437a1bb847620e2478",
+    "reviewed": true,
+    "review_scope": "Targeted enacted-lawscope,originalparent/listing,mandatoryreportcontent,priorinformation,publicationyear/dayandofficialregistryidentity/date. Selectedsourcepagesvisuallyreviewed;notallpageslegallycertified.",
+    "OCR_status": "readable_selected_evidence"
+  },
+  {
+    "key": "Drax_Group_plc_2014",
+    "company": "Drax Group plc",
+    "catalogue_year": 2014,
+    "report_title": "Annual report and accounts 2013. Powering tomorrow",
+    "CRC": 1143406860,
+    "sha256": "adc774152e74a932d1188df91e033f7cb2a79f3e47b2217f1239da7f1cf99b13",
+    "reviewed": true,
+    "review_scope": "Targeted enacted-lawscope,originalparent/listing,mandatoryreportcontent,priorinformation,publicationyear/dayandofficialregistryidentity/date. Selectedsourcepagesvisuallyreviewed;notallpageslegallycertified.",
+    "OCR_status": "readable_selected_evidence"
+  },
+  {
+    "key": "ITV plc_missing",
+    "company": "ITV plc",
+    "failure": "No requested original FY2013 annual report in selected all-data catalogue; no replacement after outcomes.",
+    "disposition": "No original FY2013report in selected local catalogue; not admitted, not replaced after outcomes.",
+    "reviewed": true,
+    "review_scope": "Targeted enacted-lawscope,originalparent/listing,mandatoryreportcontent,priorinformation,publicationyear/dayandofficialregistryidentity/date. Selectedsourcepagesvisuallyreviewed;notallpageslegallycertified.",
+    "OCR_status": "download_or_catalogue_gap_preserved"
+  },
+  {
+    "key": "UK_GHG_enacted",
+    "url": "https://www.legislation.gov.uk/uksi/2013/1970/made/data.xht",
+    "sha256": "2b571d8c1475544bfc7e63744cefb94b0722beeb8646f845ce31a1f9c02bed6e",
+    "bytes": 66894,
+    "reviewed": true,
+    "review_scope": "Targeted enacted-lawscope,originalparent/listing,mandatoryreportcontent,priorinformation,publicationyear/dayandofficialregistryidentity/date. Selectedsourcepagesvisuallyreviewed;notallpageslegallycertified.",
+    "OCR_status": "readable_selected_evidence"
+  },
+  {
+    "key": "UK_2012_GHG_consultation_not_final_law",
+    "url": "https://www.legislation.gov.uk/uksi/2013/1970/pdfs/uksiod_20131970_en.pdf",
+    "sha256": "b40837b0ca5cb40b3f3641509432ff4ac3027cdcbce2633e3164101de79f861d",
+    "bytes": 113059,
+    "disposition": "Historical consultation only; its proposed dates are not relied upon. Enacted SI2013/1970reg1(4)controls application.",
+    "reviewed": true,
+    "review_scope": "Targeted enacted-lawscope,originalparent/listing,mandatoryreportcontent,priorinformation,publicationyear/dayandofficialregistryidentity/date. Selectedsourcepagesvisuallyreviewed;notallpageslegallycertified.",
+    "OCR_status": "readable_selected_evidence"
+  },
+  {
+    "key": "UK_GHG_guidance_history",
+    "url": "https://www.gov.uk/government/publications/environmental-reporting-guidelines-including-mandatory-greenhouse-gas-emissions-reporting-guidance",
+    "sha256": "4c09c6d3cd4e233e67874f1d5da0fdabd73d8114791cc18374c3b9a08d71e7bd",
+    "bytes": 73977,
+    "reviewed": true,
+    "review_scope": "Targeted enacted-lawscope,originalparent/listing,mandatoryreportcontent,priorinformation,publicationyear/dayandofficialregistryidentity/date. Selectedsourcepagesvisuallyreviewed;notallpageslegallycertified.",
+    "OCR_status": "readable_selected_evidence"
+  },
+  {
+    "key": "Fresnillo_extractives_registry",
+    "url": "https://extractives.company-information.service.gov.uk/company/06477966",
+    "sha256": "8a18aa8bbb8cdb676446dc393bf483dfbc7beb4eeddf3cb7aa8bb0b9fa90fba7",
+    "bytes": 17456,
+    "disposition": "REJECTED_WRONG_LEGAL_ENTITY",
+    "review_note": "Number06477966belongsFrontlineFieldMarketingLtd,notFresnillo. No coverage/date inference retained. Correctcompany06344120andstatutorypayloadsresolvefiling16June2016.",
+    "reviewed": true,
+    "review_scope": "Targeted enacted-lawscope,originalparent/listing,mandatoryreportcontent,priorinformation,publicationyear/dayandofficialregistryidentity/date. Selectedsourcepagesvisuallyreviewed;notallpageslegallycertified.",
+    "OCR_status": "readable_selected_evidence"
+  },
+  {
+    "key": "Fresnillo_2015_v1",
+    "url": "https://extractives.company-information.service.gov.uk/company/06477966/year/2015/version/1/zip",
+    "failure": "HTTP Error 500: ",
+    "disposition": "REJECTED_WRONG_LEGAL_ENTITY",
+    "review_note": "Number06477966belongsFrontlineFieldMarketingLtd,notFresnillo. No coverage/date inference retained. Correctcompany06344120andstatutorypayloadsresolvefiling16June2016.",
+    "reviewed": true,
+    "review_scope": "Targeted enacted-lawscope,originalparent/listing,mandatoryreportcontent,priorinformation,publicationyear/dayandofficialregistryidentity/date. Selectedsourcepagesvisuallyreviewed;notallpageslegallycertified.",
+    "OCR_status": "download_or_catalogue_gap_preserved"
+  },
+  {
+    "key": "Fresnillo_2015_v2",
+    "url": "https://extractives.company-information.service.gov.uk/company/06477966/year/2015/version/2/zip",
+    "failure": "HTTP Error 500: ",
+    "disposition": "REJECTED_WRONG_LEGAL_ENTITY",
+    "review_note": "Number06477966belongsFrontlineFieldMarketingLtd,notFresnillo. No coverage/date inference retained. Correctcompany06344120andstatutorypayloadsresolvefiling16June2016.",
+    "reviewed": true,
+    "review_scope": "Targeted enacted-lawscope,originalparent/listing,mandatoryreportcontent,priorinformation,publicationyear/dayandofficialregistryidentity/date. Selectedsourcepagesvisuallyreviewed;notallpageslegallycertified.",
+    "OCR_status": "download_or_catalogue_gap_preserved"
+  },
+  {
+    "key": "Fresnillo_CH_history_page1",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/06477966/filing-history?items_per_page=100&page=1",
+    "sha256": "97ab966461e9eac6662dd02e76ab653c8d6b1ddeba5b5590bd66fc0b2de1d2ca",
+    "bytes": 42261,
+    "disposition": "REJECTED_WRONG_LEGAL_ENTITY",
+    "review_note": "Number06477966belongsFrontlineFieldMarketingLtd,notFresnillo. No coverage/date inference retained. Correctcompany06344120andstatutorypayloadsresolvefiling16June2016.",
+    "reviewed": true,
+    "review_scope": "Targeted enacted-lawscope,originalparent/listing,mandatoryreportcontent,priorinformation,publicationyear/dayandofficialregistryidentity/date. Selectedsourcepagesvisuallyreviewed;notallpageslegallycertified.",
+    "OCR_status": "readable_selected_evidence"
+  },
+  {
+    "key": "Fresnillo_CH_history_page2",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/06477966/filing-history?items_per_page=100&page=2",
+    "sha256": "b107c9c1449e053f2d32cd6fca9d5d739c442488ea46e6566e5a86450e7c0c53",
+    "bytes": 37812,
+    "disposition": "REJECTED_WRONG_LEGAL_ENTITY",
+    "review_note": "Number06477966belongsFrontlineFieldMarketingLtd,notFresnillo. No coverage/date inference retained. Correctcompany06344120andstatutorypayloadsresolvefiling16June2016.",
+    "reviewed": true,
+    "review_scope": "Targeted enacted-lawscope,originalparent/listing,mandatoryreportcontent,priorinformation,publicationyear/dayandofficialregistryidentity/date. Selectedsourcepagesvisuallyreviewed;notallpageslegallycertified.",
+    "OCR_status": "readable_selected_evidence"
+  },
+  {
+    "key": "Fresnillo_CH_history_page3",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/06477966/filing-history?items_per_page=100&page=3",
+    "sha256": "b107c9c1449e053f2d32cd6fca9d5d739c442488ea46e6566e5a86450e7c0c53",
+    "bytes": 37812,
+    "disposition": "REJECTED_WRONG_LEGAL_ENTITY",
+    "review_note": "Number06477966belongsFrontlineFieldMarketingLtd,notFresnillo. No coverage/date inference retained. Correctcompany06344120andstatutorypayloadsresolvefiling16June2016.",
+    "reviewed": true,
+    "review_scope": "Targeted enacted-lawscope,originalparent/listing,mandatoryreportcontent,priorinformation,publicationyear/dayandofficialregistryidentity/date. Selectedsourcepagesvisuallyreviewed;notallpageslegallycertified.",
+    "OCR_status": "readable_selected_evidence"
+  },
+  {
+    "key": "Fresnillo_correct_legal_identity",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/06344120",
+    "sha256": "1bdbb413b44eb63896adaa7d5dfd8f874cf6fdb72fe05a750dd92bff691461ff",
+    "bytes": 36533,
+    "identity_excerpt": "FRESNILLO PLC overview - Find and update company information - GOV.UK (function(){if(navigator.userAgent.match(/IEMobile\\/10\\.0/)){var d=document,c=\"appendChild\",a=d.createElement(\"style\");a[c](d.createTextNode(\"@-ms-viewport{width:auto!important}\"));d.getElementsByTagName(\"head\")[0][c](a);}})(); var global = global || {}; global.CDN_ROOT = '//d2d06s9q6uqhm8.cloudfront.net' require(['//d2d06s9q6uq",
+    "reviewed": true,
+    "review_scope": "Targeted enacted-lawscope,originalparent/listing,mandatoryreportcontent,priorinformation,publicationyear/dayandofficialregistryidentity/date. Selectedsourcepagesvisuallyreviewed;notallpageslegallycertified.",
+    "OCR_status": "readable_selected_evidence"
+  },
+  {
+    "key": "Fresnillo_correct_extractives_registry",
+    "url": "https://extractives.company-information.service.gov.uk/company/06344120",
+    "sha256": "b5a32e0d42142bcd52519dfdcc4dc4cede1c4d52d5e69fa00878c019a848e975",
+    "bytes": 28473,
+    "identity_excerpt": "FRESNILLO PLC Filing history 2026 No reports have been filed for this year. File report 2025 Date filed Description Download 15 Jun 2026 Annual extractive report Download ZIP (6 KB) File amending report 2024 Date filed Description Download 24 Jun 2025 Annual extractive report Download ZIP (7 KB) File amending report 2023 Date filed Description Download 24 Jun 2025 Annual extractive report Download",
+    "reviewed": true,
+    "review_scope": "Targeted enacted-lawscope,originalparent/listing,mandatoryreportcontent,priorinformation,publicationyear/dayandofficialregistryidentity/date. Selectedsourcepagesvisuallyreviewed;notallpageslegallycertified.",
+    "OCR_status": "readable_selected_evidence"
+  },
+  {
+    "key": "Fresnillo_correct_2015_statutory_zip",
+    "url": "https://extractives.company-information.service.gov.uk/company/06344120/year/2015/version/1/zip",
+    "sha256": "47479f474fb4c9295a7bd172eae9f91886710af6f421a7d581c70e9e01d9f27c",
+    "bytes": 8183,
+    "statutory_payload_members": [
+      {
+        "file": "sources/official-extractive-filings/06344120/government-payments-fresnillo-plc-2015.csv",
+        "sha256": "c087b6d1e25600a8787b643d9823bbbb326a67e0027cd16ff60ad562edd4e718",
+        "rows": 7,
+        "CompanyNumber": "06344120",
+        "ReportEndDate": "2015-12-31",
+        "FilingDate": "16 Jun 2016"
+      },
+      {
+        "file": "sources/official-extractive-filings/06344120/government-totals-fresnillo-plc-2015.csv",
+        "sha256": "ccb1694bcd2f183d732a00fd938f1b064d05b8261b77c377c871893c6247a640",
+        "rows": 6,
+        "CompanyNumber": "06344120",
+        "ReportEndDate": "2015-12-31",
+        "FilingDate": "16 Jun 2016"
+      },
+      {
+        "file": "sources/official-extractive-filings/06344120/project-payments-fresnillo-plc-2015.csv",
+        "sha256": "dcc154879f99fd8539f58111e272b7057198818eb84d900f682eff88b019355e",
+        "rows": 18,
+        "CompanyNumber": "06344120",
+        "ReportEndDate": "2015-12-31",
+        "FilingDate": "16 Jun 2016"
+      },
+      {
+        "file": "sources/official-extractive-filings/06344120/project-totals-fresnillo-plc-2015.csv",
+        "sha256": "fd7d1ef52d2084946867a8d4d63247505e40175030db01ff70f427e8fadc0ba5",
+        "rows": 13,
+        "CompanyNumber": "06344120",
+        "ReportEndDate": "2015-12-31",
+        "FilingDate": "16 Jun 2016"
+      }
+    ],
+    "reviewed": true,
+    "review_scope": "Targeted enacted-lawscope,originalparent/listing,mandatoryreportcontent,priorinformation,publicationyear/dayandofficialregistryidentity/date. Selectedsourcepagesvisuallyreviewed;notallpageslegallycertified.",
+    "OCR_status": "readable_selected_evidence"
+  },
+  {
+    "key": "BAE_Systems_plc_2014_publication",
+    "url": "https://www.baesystems.com/investors/results-reports-events-archive",
+    "provenance": "Issuer archive or issuer-authored regulated announcement, separate from original all-data PDF.",
+    "sha256": "7366d21bc2a2fb7350b0c35d9f6fe156a16bec852bb883f5d85448b3dddafce5",
+    "bytes": 1035,
+    "reviewed": true,
+    "review_scope": "Targeted enacted-lawscope,originalparent/listing,mandatoryreportcontent,priorinformation,publicationyear/dayandofficialregistryidentity/date. Selectedsourcepagesvisuallyreviewed;notallpageslegallycertified.",
+    "OCR_status": "readable_selected_evidence"
+  },
+  {
+    "key": "Pearson_plc_2014_publication",
+    "url": "https://www.investegate.co.uk/announcement/rns/pearson--pson/annual-financial-report-and-notice-of-agm/3623869",
+    "provenance": "Issuer archive or issuer-authored regulated announcement, separate from original all-data PDF.",
+    "sha256": "f42fb8444c7a9a6f13e85d06b20498770bfbde827c357466dec47f862a2e52b9",
+    "bytes": 71442,
+    "reviewed": true,
+    "review_scope": "Targeted enacted-lawscope,originalparent/listing,mandatoryreportcontent,priorinformation,publicationyear/dayandofficialregistryidentity/date. Selectedsourcepagesvisuallyreviewed;notallpageslegallycertified.",
+    "OCR_status": "readable_selected_evidence"
+  },
+  {
+    "key": "GKN_plc_2014_publication",
+    "url": "https://www.prnewswire.co.uk/news-releases/regulatory-news/annual-financial-report-252683941.html",
+    "provenance": "Issuer archive or issuer-authored regulated announcement, separate from original all-data PDF.",
+    "sha256": "af45c7d711c2f6d68b13728b729a886060eacc87db11d4e417227a2554c7de5d",
+    "bytes": 189618,
+    "reviewed": true,
+    "review_scope": "Targeted enacted-lawscope,originalparent/listing,mandatoryreportcontent,priorinformation,publicationyear/dayandofficialregistryidentity/date. Selectedsourcepagesvisuallyreviewed;notallpageslegallycertified.",
+    "OCR_status": "readable_selected_evidence"
+  },
+  {
+    "key": "Drax_Group_plc_2014_publication",
+    "url": "https://www.drax.com/investors/results-reports-presentations/",
+    "provenance": "Issuer archive or issuer-authored regulated announcement, separate from original all-data PDF.",
+    "failure": "HTTP Error 403: Forbidden",
+    "reviewed": true,
+    "review_scope": "Targeted enacted-lawscope,originalparent/listing,mandatoryreportcontent,priorinformation,publicationyear/dayandofficialregistryidentity/date. Selectedsourcepagesvisuallyreviewed;notallpageslegallycertified.",
+    "OCR_status": "download_or_catalogue_gap_preserved"
   }
 ]

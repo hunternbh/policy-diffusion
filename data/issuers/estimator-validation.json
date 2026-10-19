@@ -1,5 +1,5 @@
 {
-  "passed": 214,
+  "passed": 256,
   "checks": [
     {
       "check": "issuer-exposure_all_aggregate_contributions_reconstruct",
@@ -354,6 +354,18 @@
       "passed": true
     },
     {
+      "check": "raw_GDP_reconstruction_UK_2013_mandatory_GHG_reports_balanced_mean_0_2_log_spread",
+      "passed": true
+    },
+    {
+      "check": "raw_GDP_reconstruction_UK_2013_mandatory_GHG_reports_balanced_mean_0_2_log_impact",
+      "passed": true
+    },
+    {
+      "check": "raw_GDP_reconstruction_UK_2013_mandatory_GHG_reports_balanced_mean_0_2_zero_fraction",
+      "passed": true
+    },
+    {
       "check": "raw_GDP_reconstruction_first_cycle_conflict_mineral_reporters_balanced_mean_0_2_log_spread",
       "passed": true
     },
@@ -459,6 +471,18 @@
     },
     {
       "check": "raw_GDP_reconstruction_UK_2010_governance_code_reports_inclusive_first_year_zero_fraction",
+      "passed": true
+    },
+    {
+      "check": "raw_GDP_reconstruction_UK_2013_mandatory_GHG_reports_inclusive_first_year_log_spread",
+      "passed": true
+    },
+    {
+      "check": "raw_GDP_reconstruction_UK_2013_mandatory_GHG_reports_inclusive_first_year_log_impact",
+      "passed": true
+    },
+    {
+      "check": "raw_GDP_reconstruction_UK_2013_mandatory_GHG_reports_inclusive_first_year_zero_fraction",
       "passed": true
     },
     {
@@ -570,11 +594,11 @@
       "passed": true
     },
     {
-      "check": "rerun_geographic_estimates_unchanged_with_unchanged_country_calendar",
+      "check": "rerun_geographic_full_matrix_present",
       "passed": true
     },
     {
-      "check": "eight_first_year_six_balanced_source_supported_families",
+      "check": "nine_first_year_seven_balanced_source_supported_families",
       "passed": true
     },
     {
@@ -666,7 +690,7 @@
       "passed": true
     },
     {
-      "check": "diffusion_full_matrix_refitted_same_legal_input",
+      "check": "diffusion_full_matrix_refitted",
       "passed": true
     },
     {
@@ -842,7 +866,11 @@
       "passed": true
     },
     {
-      "check": "national_legal_calendar_unchanged",
+      "check": "corrected_UK_climate_only_national_G_change",
+      "passed": true
+    },
+    {
+      "check": "other_national_cases_unchanged",
       "passed": true
     },
     {
@@ -855,6 +883,146 @@
     },
     {
       "check": "extractive_original_three_retained_plus_four_positive_source_reports",
+      "passed": true
+    },
+    {
+      "check": "four_positive_GHG_scope_reports",
+      "passed": true
+    },
+    {
+      "check": "carbon_candidate_selection_fixed120_before_coefficients",
+      "passed": true
+    },
+    {
+      "check": "carbon_comparisons_pass_each_postyear_source_filter",
+      "passed": true
+    },
+    {
+      "check": "carbon_new_source_SHA_BAE_Systems_plc_2013",
+      "passed": true
+    },
+    {
+      "check": "carbon_new_source_SHA_BAE_Systems_plc_2014",
+      "passed": true
+    },
+    {
+      "check": "carbon_new_source_SHA_Pearson_plc_2013",
+      "passed": true
+    },
+    {
+      "check": "carbon_new_source_SHA_Pearson_plc_2014",
+      "passed": true
+    },
+    {
+      "check": "carbon_new_source_SHA_GKN_plc_2013",
+      "passed": true
+    },
+    {
+      "check": "carbon_new_source_SHA_GKN_plc_2014",
+      "passed": true
+    },
+    {
+      "check": "carbon_new_source_SHA_Drax_Group_plc_2013",
+      "passed": true
+    },
+    {
+      "check": "carbon_new_source_SHA_Drax_Group_plc_2014",
+      "passed": true
+    },
+    {
+      "check": "carbon_new_source_SHA_UK_GHG_enacted",
+      "passed": true
+    },
+    {
+      "check": "carbon_new_source_SHA_UK_2012_GHG_consultation_not_final_law",
+      "passed": true
+    },
+    {
+      "check": "carbon_new_source_SHA_UK_GHG_guidance_history",
+      "passed": true
+    },
+    {
+      "check": "carbon_new_source_SHA_Fresnillo_extractives_registry",
+      "passed": true
+    },
+    {
+      "check": "carbon_new_source_SHA_Fresnillo_CH_history_page1",
+      "passed": true
+    },
+    {
+      "check": "carbon_new_source_SHA_Fresnillo_CH_history_page2",
+      "passed": true
+    },
+    {
+      "check": "carbon_new_source_SHA_Fresnillo_CH_history_page3",
+      "passed": true
+    },
+    {
+      "check": "carbon_new_source_SHA_Fresnillo_correct_legal_identity",
+      "passed": true
+    },
+    {
+      "check": "carbon_new_source_SHA_Fresnillo_correct_extractives_registry",
+      "passed": true
+    },
+    {
+      "check": "carbon_new_source_SHA_Fresnillo_correct_2015_statutory_zip",
+      "passed": true
+    },
+    {
+      "check": "carbon_new_source_SHA_BAE_Systems_plc_2014_publication",
+      "passed": true
+    },
+    {
+      "check": "carbon_new_source_SHA_Pearson_plc_2014_publication",
+      "passed": true
+    },
+    {
+      "check": "carbon_new_source_SHA_GKN_plc_2014_publication",
+      "passed": true
+    },
+    {
+      "check": "Pearson_statutory_paragraph_recovered_by_OCR",
+      "passed": true
+    },
+    {
+      "check": "Fresnillo_official_four_payloads_same_identity_period_date",
+      "passed": true
+    },
+    {
+      "check": "Fresnillo_payload_SHA_sources/official-extractive-filings/06344120/government-payments-fresnillo-plc-2015.csv",
+      "passed": true
+    },
+    {
+      "check": "Fresnillo_payload_SHA_sources/official-extractive-filings/06344120/government-totals-fresnillo-plc-2015.csv",
+      "passed": true
+    },
+    {
+      "check": "Fresnillo_payload_SHA_sources/official-extractive-filings/06344120/project-payments-fresnillo-plc-2015.csv",
+      "passed": true
+    },
+    {
+      "check": "Fresnillo_payload_SHA_sources/official-extractive-filings/06344120/project-totals-fresnillo-plc-2015.csv",
+      "passed": true
+    },
+    {
+      "check": "other_families_lagged_features_unchanged",
+      "passed": true
+    },
+    {
+      "check": "all_signals_precede_focal_year",
+      "passed": true
+    },
+    {
+      "check": "corrected_climate_risk_and_status_2013",
+      "passed": true
+    },
+    {
+      "check": "climate_features_rebuilt_after_history_correction",
+      "passed": true
+    },
+    {
+      "check": "all_eight_prior_family_estimates_retained_unchanged",
       "passed": true
     }
   ],

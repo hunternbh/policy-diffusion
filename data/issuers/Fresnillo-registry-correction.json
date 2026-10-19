@@ -1,0 +1,13 @@
+{
+  "issuer": "Fresnillo plc",
+  "correct_company_number": "06344120",
+  "wrong_previous_number": "06477966",
+  "wrong_number_company": "Frontline Field Marketing Ltd",
+  "actual_publication_date": "2016-06-15",
+  "actual_statutory_filing_date": "2016-06-16",
+  "all_four_payloads_verified": true,
+  "treatment_year_unchanged": 2016,
+  "correction_changes_previous_gap_not_year_assignment": true,
+  "registry_url": "https://extractives.company-information.service.gov.uk/company/06344120",
+  "package_sha256": "47479f474fb4c9295a7bd172eae9f91886710af6f421a7d581c70e9e01d9f27c"
+}

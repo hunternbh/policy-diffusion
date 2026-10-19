@@ -1,0 +1,6 @@
+{
+  "frozen_at": "2026-10-19T06:53:47.724633+00:00",
+  "candidates": 120,
+  "rule": "Top 120 eligible available 2013-cap US ordinary nonfinancial SIC outside6000-6999 exact bounded ISIN/CUSIP/CIK candidates, before post-event coefficients; no outcome replacement.",
+  "scope_boundary": "US nonfinancial parent comparison, not globally certified untreated group. Full text foreign-listing/foreign-carbon-reporting-regime flags retained; absence is not proof of no subsidiary exposure."
+}

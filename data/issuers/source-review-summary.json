@@ -36,8 +36,8 @@
   "extractive_US_full_filings_reviewed": 164,
   "extractive_control_candidates": 60,
   "extractive_controls_three_post_years": 44,
-  "source_supported_first_year_families": 8,
-  "source_supported_balanced_families": 6,
+  "source_supported_first_year_families": 9,
+  "source_supported_balanced_families": 7,
   "inherited_source_audit_context": "Prior IFRS/ESG/extractive counts refer to preserved earlier reviews; the following UK governance/Rio extension is additive.",
   "governance_additional_local_original_PDFs": 7,
   "governance_treated_issuers": 5,
@@ -47,5 +47,16 @@
   "additional_extractives_issuers": 4,
   "extractive_treated_issuers": 7,
   "Rio_statutory_filing_resolved": true,
-  "Rio_statutory_filing_date": "2016-06-29"
+  "Rio_statutory_filing_date": "2016-06-29",
+  "carbon_original_annual_reports": 8,
+  "carbon_treated_issuers": 4,
+  "carbon_US_full_filings_reviewed": 343,
+  "carbon_control_candidates": 120,
+  "carbon_controls_all_three_source_years": 97,
+  "Fresnillo_registry_resolved": true,
+  "Fresnillo_company_number": "06344120",
+  "Fresnillo_registry_filing_date": "2016-06-16",
+  "Fresnillo_wrong_previous_identity_retracted": true,
+  "new_selected_source_pages_OCR": 1,
+  "UK_first_recorded_climate_calendar_corrected": 2013
 }

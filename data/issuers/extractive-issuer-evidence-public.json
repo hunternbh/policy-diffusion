@@ -199,30 +199,70 @@
       "required_reporting_period": "2015-01-01/2015-12-31",
       "observed_publication_year": 2016,
       "actual_publication_date": "2016-06-15",
-      "actual_statutory_filing_date": null,
-      "date_precision": "day_full_statutory_report_in_issuer_RNS;CompaniesHouse_filing_date_unknown",
+      "actual_statutory_filing_date": "2016-06-16",
+      "date_precision": "Actual public statutory report15June2016; separately exact official registry filing 2016-06-16",
       "source_key": "Fresnillo_2015_RNS_full_statutory_report",
       "primary_source_url": "https://shareprices.com/rns/report-on-payments-to-governments-3wga25waz6o1bo5/",
       "document_sha256": "af6708033ee1f5dc91212731e0cd82fe7f36d17bfa021416800dd2bb3933c9cc",
       "RNS_number": "2368B",
-      "legal_scope": "Full issuer-authored FY2015group payment report expressly applies UK2014regulations and2015amendment and FCA DTR obligations. Positive mandatory-report coverage and actual public release are established independently of missing register package.",
+      "legal_scope": "UK parent full FY2015group statutory report, public15June2016; officialFresnillo06344120filing16June2016. Parentidentityandfourpayloadtablesindependentlycorroboratecoverage.",
       "issuer_identity_basis": "Named UK parent in full RNS; original all-data2015annual report and catalogue ISIN; same bounded pre2016GBR ordinary quote.",
       "prior_reporting_review": "First statutory2015cycle, not asserted first-ever tax or sustainability information.",
       "registry_boundary": "No2015filed CompaniesHouse package located; actual statutory registry filing day remains unknown. This is not a noncoverage classification.",
-      "global_group_eligibility_certified": false
+      "global_group_eligibility_certified": false,
+      "company_number": "06344120",
+      "statutory_registry_url": "https://extractives.company-information.service.gov.uk/company/06344120",
+      "statutory_package_sha256": "47479f474fb4c9295a7bd172eae9f91886710af6f421a7d581c70e9e01d9f27c",
+      "statutory_payload_members": [
+        {
+          "file": "sources/official-extractive-filings/06344120/government-payments-fresnillo-plc-2015.csv",
+          "sha256": "c087b6d1e25600a8787b643d9823bbbb326a67e0027cd16ff60ad562edd4e718",
+          "rows": 7,
+          "CompanyNumber": "06344120",
+          "ReportEndDate": "2015-12-31",
+          "FilingDate": "16 Jun 2016"
+        },
+        {
+          "file": "sources/official-extractive-filings/06344120/government-totals-fresnillo-plc-2015.csv",
+          "sha256": "ccb1694bcd2f183d732a00fd938f1b064d05b8261b77c377c871893c6247a640",
+          "rows": 6,
+          "CompanyNumber": "06344120",
+          "ReportEndDate": "2015-12-31",
+          "FilingDate": "16 Jun 2016"
+        },
+        {
+          "file": "sources/official-extractive-filings/06344120/project-payments-fresnillo-plc-2015.csv",
+          "sha256": "dcc154879f99fd8539f58111e272b7057198818eb84d900f682eff88b019355e",
+          "rows": 18,
+          "CompanyNumber": "06344120",
+          "ReportEndDate": "2015-12-31",
+          "FilingDate": "16 Jun 2016"
+        },
+        {
+          "file": "sources/official-extractive-filings/06344120/project-totals-fresnillo-plc-2015.csv",
+          "sha256": "fd7d1ef52d2084946867a8d4d63247505e40175030db01ff70f427e8fadc0ba5",
+          "rows": 13,
+          "CompanyNumber": "06344120",
+          "ReportEndDate": "2015-12-31",
+          "FilingDate": "16 Jun 2016"
+        }
+      ],
+      "registry_correction": "Prior lookup06477966waswronglegalentity(FrontlineFieldMarketingLtd). CorrectFresnillo06344120verifiedagainstofficialcompanyprofileandallfourFY2015statutoryCSVpayloads. PriornegativequerydoesnotdescribeFresnillo."
     }
   ],
-  "resolved_Rio": {
-    "company_number": "00719885",
-    "FY2015_statutory_filing_date": "2016-06-29",
-    "voluntary_Taxes_paid_release_date": "2016-06-28",
-    "first_ever_information_not_certified": true
+  "registry_gaps": [],
+  "Fresnillo_correction": {
+    "issuer": "Fresnillo plc",
+    "correct_company_number": "06344120",
+    "wrong_previous_number": "06477966",
+    "wrong_number_company": "Frontline Field Marketing Ltd",
+    "actual_publication_date": "2016-06-15",
+    "actual_statutory_filing_date": "2016-06-16",
+    "all_four_payloads_verified": true,
+    "treatment_year_unchanged": 2016,
+    "correction_changes_previous_gap_not_year_assignment": true,
+    "registry_url": "https://extractives.company-information.service.gov.uk/company/06344120",
+    "package_sha256": "47479f474fb4c9295a7bd172eae9f91886710af6f421a7d581c70e9e01d9f27c"
   },
-  "registry_gaps": [
-    {
-      "issuer": "Fresnillo plc",
-      "reason": "Actual public statutory report recovered in full RNS15June2016. No2015filed package located in official register; registry filing day remains unknown, not legal noncoverage."
-    }
-  ],
-  "boundary": "Official statutory filing dates, earlier public reports and group/quote identity are distinct. No complete global subsidiary noncoverage claim."
+  "boundary": "Public report15Juneandregistryfiling16Juneareseparate. Otherhistoricalgroup/venuegapsremain."
 }

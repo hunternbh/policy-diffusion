@@ -44,5 +44,23 @@
       "Prior voluntary practices and explained departures retained"
     ],
     "writing": "Original concise academic prose following reference logic, without release-history commentary or sign-selected conclusions."
+  },
+  "current_paper_logic": {
+    "source": "OriginalprosefollowingKrueger2023economicquestion,sample,baselineevidence,heterogeneityandinterpretation;Koning2018mechanismsandlaggedtests.",
+    "sequence": [
+      "Investorinformationandtradingcosts",
+      "Whyincrementalmandatoryreportingmayormaynotmatter",
+      "Expandedreportingpopulationandcohortcomparisons",
+      "Averagefamilyversuslargeissuerregulationmix",
+      "Allcomplementaryliquidityproxiesandpretrends",
+      "Laggeddiffusionandlimits"
+    ],
+    "editorial_changes": "Six-pagepaper,tworesultstables,twofigures;shorterconnectedaccountingprose,noreleasechronology.Near-copyingandoutcomeselectiveomissionexcluded.",
+    "source_facts": [
+      "Fresnilloregistry16June2016versuspublic15June",
+      "UKGHGFY2013public2014,earliervoluntary/sectoralinformation",
+      "Nationalclimatephase2013versuslater2022financialrisk"
+    ],
+    "complete_evidence": "Allsupportedestimates,weights,failedsupportandopposingresultspreserved."
   }
 }

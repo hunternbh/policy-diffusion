@@ -1,48 +1,48 @@
 {
-  "passed": 150,
+  "passed": 193,
   "checks": [
     {
       "check": "unique_HTML_ids",
       "passed": true
     },
     {
-      "check": "anchor_classification",
+      "check": "local_anchor_classification",
       "passed": true
     },
     {
-      "check": "anchor_diffusion",
+      "check": "local_anchor_diffusion",
       "passed": true
     },
     {
-      "check": "anchor_eligibility",
+      "check": "local_anchor_eligibility",
       "passed": true
     },
     {
-      "check": "anchor_issuers",
+      "check": "local_anchor_issuers",
       "passed": true
     },
     {
-      "check": "anchor_liquidity",
+      "check": "local_anchor_liquidity",
       "passed": true
     },
     {
-      "check": "anchor_main",
+      "check": "local_anchor_main",
       "passed": true
     },
     {
-      "check": "anchor_overview",
+      "check": "local_anchor_overview",
       "passed": true
     },
     {
-      "check": "anchor_paper",
+      "check": "local_anchor_paper",
       "passed": true
     },
     {
-      "check": "anchor_supplement",
+      "check": "local_anchor_supplement",
       "passed": true
     },
     {
-      "check": "anchor_top",
+      "check": "local_anchor_top",
       "passed": true
     },
     {
@@ -278,6 +278,14 @@
       "passed": true
     },
     {
+      "check": "local_link_data/issuers/Fresnillo-registry-correction.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/issuers/additional-reviewed-policy-phases.json",
+      "passed": true
+    },
+    {
       "check": "local_link_data/issuers/all-family-eligibility-and-filing-dispositions.csv",
       "passed": true
     },
@@ -287,6 +295,14 @@
     },
     {
       "check": "local_link_data/issuers/analysis-plan.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/issuers/carbon-issuer-evidence-public.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_data/issuers/carbon-issuer-filing-facts.csv",
       "passed": true
     },
     {
@@ -402,11 +418,15 @@
       "passed": true
     },
     {
-      "check": "PDF_eight_pages",
+      "check": "canonical_PDF_copies_identical",
       "passed": true
     },
     {
-      "check": "three_tables_two_figures",
+      "check": "PDF_six_pages",
+      "passed": true
+    },
+    {
+      "check": "two_tables_two_figures",
       "passed": true
     },
     {
@@ -434,155 +454,27 @@
       "passed": true
     },
     {
-      "check": "PDF_page_text_7",
+      "check": "actual_filing_date_and_company_visible",
       "passed": true
     },
     {
-      "check": "PDF_page_text_8",
+      "check": "earlier_wrong_entity_retracted_in_HTML",
       "passed": true
     },
     {
-      "check": "PDF_ASCII_negative_coefficients_retained",
+      "check": "registry_gap_not_repeated",
       "passed": true
     },
     {
-      "check": "canonical_PDFs_match",
+      "check": "nine_first_seven_balanced_visible",
       "passed": true
     },
     {
-      "check": "archive_integrity",
+      "check": "revised_UK_climate_phase_visible",
       "passed": true
     },
     {
-      "check": "archive_441_scope_overlays",
-      "passed": true
-    },
-    {
-      "check": "no_licensed_identifiers_all-family-eligibility-and-filing-dispositions.csv",
-      "passed": true
-    },
-    {
-      "check": "no_licensed_identifiers_covered-all-leave-one-family-out.csv",
-      "passed": true
-    },
-    {
-      "check": "no_licensed_identifiers_covered-family-concentration.csv",
-      "passed": true
-    },
-    {
-      "check": "no_licensed_identifiers_covered-issuer-events.csv",
-      "passed": true
-    },
-    {
-      "check": "no_licensed_identifiers_covered-issuer-family-did.csv",
-      "passed": true
-    },
-    {
-      "check": "no_licensed_identifiers_covered-issuer-family-weights.csv",
-      "passed": true
-    },
-    {
-      "check": "no_licensed_identifiers_covered-issuer-named-sample.csv",
-      "passed": true
-    },
-    {
-      "check": "no_licensed_identifiers_covered-issuer-pooled-did.csv",
-      "passed": true
-    },
-    {
-      "check": "no_licensed_identifiers_covered-issuer-pooled-events.csv",
-      "passed": true
-    },
-    {
-      "check": "no_licensed_identifiers_covered-issuer-support.csv",
-      "passed": true
-    },
-    {
-      "check": "no_licensed_identifiers_covered-weight-composition-decomposition.csv",
-      "passed": true
-    },
-    {
-      "check": "no_licensed_identifiers_extractive-issuer-filing-facts.csv",
-      "passed": true
-    },
-    {
-      "check": "no_licensed_identifiers_governance-initial60-support.csv",
-      "passed": true
-    },
-    {
-      "check": "no_licensed_identifiers_governance-issuer-filing-facts.csv",
-      "passed": true
-    },
-    {
-      "check": "no_licensed_identifiers_issuer-exposure-family-did.csv",
-      "passed": true
-    },
-    {
-      "check": "no_licensed_identifiers_issuer-exposure-family-events.csv",
-      "passed": true
-    },
-    {
-      "check": "no_licensed_identifiers_issuer-exposure-family-weights.csv",
-      "passed": true
-    },
-    {
-      "check": "no_licensed_identifiers_issuer-exposure-group-time-cells.csv",
-      "passed": true
-    },
-    {
-      "check": "no_licensed_identifiers_issuer-exposure-pooled-did.csv",
-      "passed": true
-    },
-    {
-      "check": "no_licensed_identifiers_issuer-exposure-pooled-events.csv",
-      "passed": true
-    },
-    {
-      "check": "no_licensed_identifiers_issuer-exposure-principal-estimates.csv",
-      "passed": true
-    },
-    {
-      "check": "no_licensed_identifiers_issuer-exposure-support.csv",
-      "passed": true
-    },
-    {
-      "check": "no_licensed_identifiers_jibs-mechanism-models-all.csv",
-      "passed": true
-    },
-    {
-      "check": "no_licensed_identifiers_new-issuer-filing-facts.csv",
-      "passed": true
-    },
-    {
-      "check": "registry_and_topic_bank_controls_preserved",
-      "passed": true
-    },
-    {
-      "check": "hero_eight_first_six_balanced",
-      "passed": true
-    },
-    {
-      "check": "eight_family_source_report_visible",
-      "passed": true
-    },
-    {
-      "check": "Rio_actual_statutory_date_visible",
-      "passed": true
-    },
-    {
-      "check": "Fresnillo_public_report_and_registry_gap_distinct",
-      "passed": true
-    },
-    {
-      "check": "governance_revision_boundary_visible",
-      "passed": true
-    },
-    {
-      "check": "source_support_amendment_disclosed",
-      "passed": true
-    },
-    {
-      "check": "both_weights_and_complete_sensitivities_linked",
+      "check": "OCR_evidence_visible",
       "passed": true
     },
     {
@@ -590,7 +482,275 @@
       "passed": true
     },
     {
-      "check": "UTF8_symbols_not_corrupted",
+      "check": "no_corrupted_UTF8",
+      "passed": true
+    },
+    {
+      "check": "all_original_controls_preserved",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_columns_all-family-eligibility-and-filing-dispositions.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_columns_balanced-event-profiles.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_columns_carbon-issuer-filing-facts.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_columns_covered-all-leave-one-family-out.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_columns_covered-family-concentration.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_columns_covered-issuer-events.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_columns_covered-issuer-family-did.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_columns_covered-issuer-family-weights.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_columns_covered-issuer-named-sample.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_columns_covered-issuer-pooled-did.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_columns_covered-issuer-pooled-events.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_columns_covered-issuer-support.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_columns_covered-weight-composition-decomposition.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_columns_extractive-issuer-filing-facts.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_columns_governance-initial60-support.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_columns_governance-issuer-filing-facts.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_columns_issuer-exposure-family-did.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_columns_issuer-exposure-family-events.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_columns_issuer-exposure-family-weights.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_columns_issuer-exposure-group-time-cells.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_columns_issuer-exposure-pooled-did.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_columns_issuer-exposure-pooled-events.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_columns_issuer-exposure-principal-estimates.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_columns_issuer-exposure-support.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_columns_jibs-mechanism-models-all.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_columns_liquidity-weighting-and-robustness.csv",
+      "passed": true
+    },
+    {
+      "check": "no_licensed_columns_new-issuer-filing-facts.csv",
+      "passed": true
+    },
+    {
+      "check": "strict_JSON_actual-CAM-section-review-summary.json",
+      "passed": true
+    },
+    {
+      "check": "strict_JSON_additional-reviewed-policy-phases.json",
+      "passed": true
+    },
+    {
+      "check": "strict_JSON_all-family-eligibility-and-filing-dispositions.json",
+      "passed": true
+    },
+    {
+      "check": "strict_JSON_analysis-plan.json",
+      "passed": true
+    },
+    {
+      "check": "strict_JSON_carbon-control-selection.json",
+      "passed": true
+    },
+    {
+      "check": "strict_JSON_carbon-fresnillo-source-summary-public.json",
+      "passed": true
+    },
+    {
+      "check": "strict_JSON_carbon-issuer-evidence-public.json",
+      "passed": true
+    },
+    {
+      "check": "strict_JSON_checkbox-font-resolution.json",
+      "passed": true
+    },
+    {
+      "check": "strict_JSON_control-source-selection.json",
+      "passed": true
+    },
+    {
+      "check": "strict_JSON_coverage-resolution-ledger.json",
+      "passed": true
+    },
+    {
+      "check": "strict_JSON_covered-issuer-summary.json",
+      "passed": true
+    },
+    {
+      "check": "strict_JSON_diffusion-input-provenance.json",
+      "passed": true
+    },
+    {
+      "check": "strict_JSON_diffusion-test-summary.json",
+      "passed": true
+    },
+    {
+      "check": "strict_JSON_estimation-input-provenance.json",
+      "passed": true
+    },
+    {
+      "check": "strict_JSON_estimator-validation.json",
+      "passed": true
+    },
+    {
+      "check": "strict_JSON_extractive-control-selection.json",
+      "passed": true
+    },
+    {
+      "check": "strict_JSON_extractive-issuer-evidence-public.json",
+      "passed": true
+    },
+    {
+      "check": "strict_JSON_extractive-source-review-summary-public.json",
+      "passed": true
+    },
+    {
+      "check": "strict_JSON_first-cycle-SD-source-facts.json",
+      "passed": true
+    },
+    {
+      "check": "strict_JSON_Fresnillo-registry-correction.json",
+      "passed": true
+    },
+    {
+      "check": "strict_JSON_GDP-allocation-implementation-correction.json",
+      "passed": true
+    },
+    {
+      "check": "strict_JSON_geographic-analysis-plan.json",
+      "passed": true
+    },
+    {
+      "check": "strict_JSON_governance-control-selection.json",
+      "passed": true
+    },
+    {
+      "check": "strict_JSON_governance-issuer-evidence-public.json",
+      "passed": true
+    },
+    {
+      "check": "strict_JSON_interactive-principal-results.json",
+      "passed": true
+    },
+    {
+      "check": "strict_JSON_irish-crosslisted-eligibility-review.json",
+      "passed": true
+    },
+    {
+      "check": "strict_JSON_issuer-exposure-summary.json",
+      "passed": true
+    },
+    {
+      "check": "strict_JSON_issuer-identity-and-CAM-resolution.json",
+      "passed": true
+    },
+    {
+      "check": "strict_JSON_new-issuer-evidence-public.json",
+      "passed": true
+    },
+    {
+      "check": "strict_JSON_new-treatment-evidence-summary.json",
+      "passed": true
+    },
+    {
+      "check": "strict_JSON_paper-data-snapshot.json",
+      "passed": true
+    },
+    {
+      "check": "strict_JSON_public-release-validation.json",
+      "passed": true
+    },
+    {
+      "check": "strict_JSON_reference-papers-and-expanded-study.json",
+      "passed": true
+    },
+    {
+      "check": "strict_JSON_regulation-overlay-boundary.json",
+      "passed": true
+    },
+    {
+      "check": "strict_JSON_rio-governance-source-summary-public.json",
+      "passed": true
+    },
+    {
+      "check": "strict_JSON_source-review-register.json",
+      "passed": true
+    },
+    {
+      "check": "strict_JSON_source-review-summary.json",
+      "passed": true
+    },
+    {
+      "check": "strict_JSON_writing-logic-map.json",
+      "passed": true
+    },
+    {
+      "check": "strict_JSON_XBRL_eligibility_resolution.json",
       "passed": true
     },
     {
@@ -598,10 +758,22 @@
       "passed": true
     },
     {
-      "check": "paper_snapshot_same_final_PDF",
+      "check": "interactive24principal_cells",
+      "passed": true
+    },
+    {
+      "check": "no_outcome_sign_filtering",
+      "passed": true
+    },
+    {
+      "check": "paper_snapshot_matches_PDF",
+      "passed": true
+    },
+    {
+      "check": "999main_prose_words",
       "passed": true
     }
   ],
-  "PDF_all_pages_visually_reviewed": true,
-  "visual_notes": "All final eight pages reviewed: text, nine-row source table, eight-family forest and six-family balanced plots fit; source counts, dates and minus signs verified."
+  "visual_review": "AllsixfinalPDFpagesandselectedoriginalsourcepagesreviewed.Nooverflow,missingminus,overlaporunreadabletablecells. PearsonomittedstatutoryparagraphOCRrecovered.",
+  "boundary": "Doesnotestablishglobalissuereligibility,paralleltrendsorcausalpolicyinference."
 }

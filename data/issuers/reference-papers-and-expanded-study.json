@@ -22226,4 +22226,31 @@
     },
     "paper_pages": 13
   }
+,
+  "current_manuscript_application": {
+  "manuscript_title": "Reporting Mandates, Stock Liquidity, and the Mix of Regulation",
+  "reference_use": "Original prose follows Krueger et al. economic problem, competing predictions, sample/design, baseline evidence, heterogeneity and interpretation; does not copy sentences or claim their results transfer. Koning et al. supplies competition, learning, emulation and external-dependence logic.",
+  "language": "Connected paragraphs, plain accounting vocabulary, explain economic meaning before implementation detail, no release chronology in main narrative.",
+  "main_findings": "Different regulation mixes represented by equal-family and treated-market-cap family weights; exact composition decomposition. Do not infer uniform liquidity benefits from selected favourable proxies or families.",
+  "exhibits": [
+    "Table1 implemented issuer studies and source-supported counts,9families;future schedules excluded",
+    "Table2both family weights,all3liquidity outcomes,first andbalanced horizons,geographic andreport-based populations",
+    "Figure1all9familycomparisonsandmarketcapweights",
+    "Figure2fixed7familypre/postprofiles"
+  ],
+  "length": {
+    "PDF_pages": 6,
+    "main_prose_words": 999,
+    "tables": 2,
+    "figures": 2
+  },
+  "institutional_boundaries": [
+    "UK2013mandatoryGHGisE-onlyanddistinctfrom2022financialrisk;priorvoluntaryandsectoralreportsretained",
+    "Fresnillocorrectparent06344120,registry16June2016,publicreport15June",
+    "UK2010Codeisrevision,notinitial1993adoption",
+    "ComprehensiveESGrequiresmandatedresponseacrossallthreetopics;confidentialCbCRdoesnotcreatepublicdisclosure"
+  ],
+  "identification": "Family/cohort comparisons and both fixed weights, sparse policy waves, source selection, comparison group/perimeter uncertainty and pretrends. Neither weighting nor sign-selected omission repairs identification. Allmaterialcontraryevidenceandfullmatrixretained.",
+  "diffusion": "RebuildrisksetsandlaggedsignalsusingearlierUK2013climatecase. All1330designsand433stablefocalcoefficientsretained;0broadHolmfinding."
+}
 }
