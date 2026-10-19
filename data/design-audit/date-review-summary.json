@@ -1,0 +1,11 @@
+{
+  "records_audited": 482,
+  "unique_country_family": true,
+  "documented_actual_company_filing_dates": 0,
+  "UK_information_policy_year": 2013,
+  "UK_covered_period_start_year_retained": 2012,
+  "ESG_dated_overlap": 31,
+  "ESG_different_years": 25,
+  "ESG_interpretation": "Published complete-topic mandatory adoption dates and primary-source reviewed later reporting phases have different scope/clock conventions. Differences are not all established legal errors. Published dates are used only within their 2002-2020 benchmark window.",
+  "unknown_histories_imputed_as_nonadoption": false
+}

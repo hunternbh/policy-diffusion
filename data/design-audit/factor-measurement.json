@@ -1,0 +1,39 @@
+{
+  "status": "withheld_measurement_boundary_or_nonconvergence",
+  "rows_used_for_measurement": 636960,
+  "input_fields": [
+    "log_spread",
+    "log_impact",
+    "zero_fraction"
+  ],
+  "correlation_matrix": [
+    [
+      0.9999999999999999,
+      0.8191042769164745,
+      0.5536108046034028
+    ],
+    [
+      0.8191042769164746,
+      0.9999999999999999,
+      0.35865638707422753
+    ],
+    [
+      0.5536108046034028,
+      0.35865638707422753,
+      1.0
+    ]
+  ],
+  "ML_loadings": [
+    0.9999999469375208,
+    0.8191042674013396,
+    0.5536107907349955
+  ],
+  "uniquenesses": [
+    4.0915960680760884e-08,
+    0.3290681684828233,
+    0.6935150830563055
+  ],
+  "optimizer_success": false,
+  "optimizer_message": "Desired error not necessarily achieved due to precision loss.",
+  "reason": "The one-factor ML measurement model reaches a near-zero uniqueness or fails regular convergence. It is not promoted as independent corroboration or replaced by a sign-selected index."
+}

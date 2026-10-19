@@ -1,0 +1,7 @@
+outcome,post_window,estimate,conditional_country_se,ci_low,ci_high,p_value,comparison,holm_six_weight_differences_p
+log_spread,first_year,0.011611084740440317,0.024621630346024173,-0.03664731073776706,0.0598694802186477,0.66422,market_cap_minus_equal_on_identical_family_estimates,1.0
+log_spread,mean_0_2,0.09410628221341949,0.06901671331184488,-0.041166475877796455,0.22937904030463543,0.21006,market_cap_minus_equal_on_identical_family_estimates,1.0
+log_impact,first_year,-0.051978016648931924,0.05918746385776749,-0.1679854458101562,0.06402941251229236,0.41012,market_cap_minus_equal_on_identical_family_estimates,1.0
+log_impact,mean_0_2,0.04552216477231989,0.07954589630198144,-0.11038779197956373,0.20143212152420353,0.58943,market_cap_minus_equal_on_identical_family_estimates,1.0
+zero_fraction,first_year,0.005803568551810796,0.0036231793648077272,-0.0012978630032123495,0.01290500010683394,0.10977,market_cap_minus_equal_on_identical_family_estimates,0.65862
+zero_fraction,mean_0_2,0.003229622900211373,0.0057224802917596055,-0.007986438471637453,0.014445684272060201,0.60033,market_cap_minus_equal_on_identical_family_estimates,1.0

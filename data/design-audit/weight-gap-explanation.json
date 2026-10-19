@@ -1,0 +1,6 @@
+{
+  "same_year_cap_minus_equal_spread_gap": 0.049620319673993565,
+  "confidential_tax_contribution": 0.0293134779522351,
+  "share_of_point_gap_from_confidential_tax": 0.5907555240438837,
+  "interpretation": "Mechanical point-estimate decomposition, not proof that weight-specific causal effects differ. Values are pre-implementation; complete-outcome support filters condition the exposure sample. Repeated exposures across families are not a portfolio share of distinct world companies."
+}

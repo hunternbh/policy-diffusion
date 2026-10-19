@@ -1,0 +1,17 @@
+{
+  "stock_years": 1055142,
+  "jurisdictions_in_market_inventory": 90,
+  "year_range": [
+    2000,
+    2025
+  ],
+  "valid_by_outcome": {
+    "log_spread": 662316,
+    "log_impact": 755877,
+    "zero_fraction": 795229
+  },
+  "common_measure_stock_years": 636960,
+  "common_measure_jurisdictions": 86,
+  "annual_common_country_years_with_30_companies": 1195,
+  "interpretation": "The market-data inventory is broader than each estimation sample. Common complete measures, fixed company samples, policy histories and comparison support determine usable countries."
+}

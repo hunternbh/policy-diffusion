@@ -1,0 +1,18 @@
+{
+  "created_at": "2026-10-19T21:00:35.214021+00:00",
+  "rows": 12066,
+  "countries": 90,
+  "prior_nonmissing_learning_rows": 1311,
+  "corrected_strict_learning_rows": 650,
+  "corrected_80pct_history_rows": 1117,
+  "edge_cases": {
+    "history_incomplete": 11416,
+    "no_adopters_zero": 405,
+    "all_adopters_vs_focal": 164,
+    "adopter_nonadopter_comparison": 81
+  },
+  "definition": "At t use known peer adoption status and growth at t-1. No adopters =>0 only with all 10 histories known. All 10 adopters => compare median growth with focal growth. Otherwise compare adopter and nonadopter medians. At least 80% macro coverage per group.",
+  "reference": "Supplied Koning et al. 2018, learning definition and edge-case notes. Complete histories required for primary; no unknown policy recoded as zero.",
+  "emulation_limit": "Language-share proxy, not Berry administrative distance.",
+  "source_dates": "Reviewed phase calendar. Published complete-topic ESG benchmark remains separate."
+}

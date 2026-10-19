@@ -1,0 +1,17 @@
+{
+  "recorded_at": "2026-10-19T21:04:52.850531+00:00",
+  "known_universe_learning_rows": 10753,
+  "strict_world_learning_rows": 650,
+  "edge_case_counts": {
+    "no_adopters_zero": 6077,
+    "adopter_nonadopter_comparison": 2760,
+    "all_adopters_vs_focal": 1916,
+    "fewer_than_10_documented_peers": 1244,
+    "nonadopter_macro_missing": 33,
+    "adopter_macro_missing": 32,
+    "focal_growth_missing": 4
+  },
+  "definition": "Ten nearest countries among the family-specific documented-history universe; country of origin excluded. Chosen by distance, never by growth or model coefficients. Histories outside this universe are not imputed.",
+  "reason": "Reference-style learning assumes observable peer adoption states. A full-world network mixed observed countries with unknown histories. Both network definitions and the failed strict joint models are retained.",
+  "caution": "The register is retrospectively observed and selected. This is a documented-history peer-network adaptation, not a reproduction of the original 168-country IFRS panel."
+}

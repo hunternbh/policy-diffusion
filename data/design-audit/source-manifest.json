@@ -1,0 +1,52 @@
+[
+  {
+    "file": "BAFA-reporting-history-2024.pdf",
+    "bytes": 894844,
+    "sha256": "1aa59f48cdaad43621b7176ba7ed9208b71f7cce383c81d9b10635714d7b21bf"
+  },
+  {
+    "file": "FinCEN-2025-exemption.html",
+    "bytes": 41763,
+    "sha256": "87614b827715dc891ad2240cfcbf7d50eb527295efe39c7451b45368be6f4e36"
+  },
+  {
+    "file": "FRC-extended-audit-2013.html",
+    "bytes": 40438,
+    "sha256": "dcd1c596405aff07b920aebf666b18ae7cbcfa8f63faa2e8f01e0d6ad07b5a7a"
+  },
+  {
+    "file": "IRS-country-report-rules.html",
+    "bytes": 107481,
+    "sha256": "7e2a29aa8808abda5a0dac0c24db740be26ea127bee4d2843c6deb89db8bc034"
+  },
+  {
+    "file": "OECD-CbCR-implementation-handbook.pdf",
+    "bytes": 992732,
+    "sha256": "65d967d123e074971a6ccd456ecfd15edea294214ec5441f24ee539fb0af5268"
+  },
+  {
+    "file": "WDI-BX.KLT.DINV.WD.GD.ZS.json",
+    "bytes": 1726860,
+    "sha256": "7e486d860576e2db8f33d376ef679124cb76636aeb4e4e7fc9665dd6337e0237"
+  },
+  {
+    "file": "WDI-CM.MKT.LCAP.GD.ZS.json",
+    "bytes": 1744079,
+    "sha256": "00900a87efdfb1aae09068237554df0eaa8da05fefb5f081baf152217f58dbdc"
+  },
+  {
+    "file": "WDI-GOV_WGI_RQ_EST.json",
+    "bytes": 1733153,
+    "sha256": "1f5103038b9c97f109586343b70db0882f8cb2d02ef69dd215166c6943eca8e5"
+  },
+  {
+    "file": "WDI-NE.IMP.GNFS.ZS.json",
+    "bytes": 1615356,
+    "sha256": "e017665eeeb7c392bb4c82452a0dea6c314b2a4eab0d5a3a37fe6c0cc4393cad"
+  },
+  {
+    "file": "WDI-RQ.EST.json",
+    "bytes": 128,
+    "sha256": "531cfc2a89937bfd09e7b2a4aeac3a5c55b79767ee4dd60ae770fd3629115f38"
+  }
+]

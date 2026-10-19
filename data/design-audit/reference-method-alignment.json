@@ -1,0 +1,68 @@
+[
+  {
+    "element": "Observation",
+    "reference": "Krueger: firm fiscal-year and following twelve-month trading window.",
+    "current": "Country calendar-year averages with fixed company samples in the cohort comparisons.",
+    "status": "adaptation_not_exact_replication"
+  },
+  {
+    "element": "Liquidity timing",
+    "reference": "L at t+1 relative to policy at t.",
+    "current": "Following-year main outcomes; same-year and second-year alternatives retained.",
+    "status": "aligned_direction_and_lag"
+  },
+  {
+    "element": "Liquidity metrics",
+    "reference": "Median quoted spread, median price impact and zero-return frequency; common factor also studied.",
+    "current": "Medians and logs retained. Zero returns use observed valid days rather than imputing missing days. One-factor ML attempt withheld at boundary.",
+    "status": "partial_alignment_with_explicit_measurement_limits"
+  },
+  {
+    "element": "Fixed effects and controls",
+    "reference": "Firm and industry-year effects, lagged firm financials and market controls.",
+    "current": "Country cohort differences; country/year benchmark and domestic macro sensitivity. Global firm financial/industry-year controls unavailable.",
+    "status": "not_replicated"
+  },
+  {
+    "element": "Mandatory ESG calendar",
+    "reference": "Complete E/S/G mandatory-response definition, including comply-or-explain.",
+    "current": "Published calendar is separate from broader reviewed nonfinancial phases; no pooling it as an additional overlapping family.",
+    "status": "definition_separated"
+  },
+  {
+    "element": "Diffusion outcome and effects",
+    "reference": "JIBS adoption status, year effects, independent national choices; separate and joint models.",
+    "current": "Status main adaptation with year and family effects, independent cases, separate/maximal and joint/common samples; timing and family-year effects retained separately.",
+    "status": "closer_model_alignment"
+  },
+  {
+    "element": "Learning",
+    "reference": "No adopters =>0; all neighbours adopted => compare with focal growth.",
+    "current": "Both edges implemented; strict full-world and documented-history neighbour universes are disclosed.",
+    "status": "edge_rules_corrected"
+  },
+  {
+    "element": "Other diffusion constructs",
+    "reference": "Export-pattern competition and Berry administrative/cultural distance.",
+    "current": "Fixed-2000 export-pattern network, annual-network historical sensitivity, language/legal proxies.",
+    "status": "proxies_not_exact_reproduction"
+  },
+  {
+    "element": "Domestic controls",
+    "reference": "Six lagged domestic domains.",
+    "current": "GDP growth, historical EU exports share, FDI, imports, regulatory quality and market-cap/GDP; missingness and revised vintages retained.",
+    "status": "domains_aligned_coverage_limited"
+  },
+  {
+    "element": "Ordinal adoption",
+    "reference": "Comparable IFRS adoption stages 0-4.",
+    "current": "No artificial common stage scale across unrelated regulation families.",
+    "status": "not_estimable_from_current_ledger"
+  },
+  {
+    "element": "Research selection",
+    "reference": "Theory and measurement motivate specifications.",
+    "current": "Retrospective frozen grid, every sign and unsupported fit retained; no winner chosen by significance.",
+    "status": "transparent_multiverse"
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "sources": [
+    {
+      "variable": "fdi_gdp",
+      "url": "https://api.worldbank.org/v2/country/all/indicator/BX.KLT.DINV.WD.GD.ZS?date=2000:2025&format=json&per_page=20000",
+      "error": null,
+      "observed_rows": 6171
+    },
+    {
+      "variable": "imports_gdp",
+      "url": "https://api.worldbank.org/v2/country/all/indicator/NE.IMP.GNFS.ZS?date=2000:2025&format=json&per_page=20000",
+      "error": null,
+      "observed_rows": 5676
+    },
+    {
+      "variable": "reg_quality",
+      "url": "https://api.worldbank.org/v2/country/all/indicator/GOV_WGI_RQ_EST?date=2000:2025&format=json&per_page=20000",
+      "error": null,
+      "observed_rows": 5010
+    },
+    {
+      "variable": "market_cap_gdp_current",
+      "url": "https://api.worldbank.org/v2/country/all/indicator/CM.MKT.LCAP.GD.ZS?date=2000:2025&format=json&per_page=20000",
+      "error": null,
+      "observed_rows": 2551
+    }
+  ],
+  "EU_exports": "Historical EU membership; usable COW exports to EU divided by usable total exports, years 2000-2014 only. No future filling.",
+  "stock_market_cap": "Cached World Bank stock-market-cap/GDP source; missing values are not replaced by zero.",
+  "controls": "Lag all six domains: GDP growth, EU export share, FDI/GDP, imports/GDP, regulatory quality, stock market cap/GDP.",
+  "complete_rows": 898
+}

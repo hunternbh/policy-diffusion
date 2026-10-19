@@ -1,0 +1,197 @@
+[
+  {
+    "family": "AUDIT_OVERSIGHT",
+    "outcome": "log_spread",
+    "independent_point_estimate": -0.05778860900964699
+  },
+  {
+    "family": "AUDIT_OVERSIGHT",
+    "outcome": "log_impact",
+    "independent_point_estimate": -0.3803328734659492
+  },
+  {
+    "family": "AUDIT_OVERSIGHT",
+    "outcome": "zero_fraction",
+    "independent_point_estimate": -0.0007003840288555632
+  },
+  {
+    "family": "AUDIT_REPORTING",
+    "outcome": "log_spread",
+    "independent_point_estimate": -0.062428077758738834
+  },
+  {
+    "family": "AUDIT_REPORTING",
+    "outcome": "log_impact",
+    "independent_point_estimate": 0.05845086823099766
+  },
+  {
+    "family": "AUDIT_REPORTING",
+    "outcome": "zero_fraction",
+    "independent_point_estimate": -0.013081240892931872
+  },
+  {
+    "family": "BENEFICIAL_OWNERSHIP",
+    "outcome": "log_spread",
+    "independent_point_estimate": 0.040298144720483806
+  },
+  {
+    "family": "BENEFICIAL_OWNERSHIP",
+    "outcome": "log_impact",
+    "independent_point_estimate": 0.18085328395476005
+  },
+  {
+    "family": "BENEFICIAL_OWNERSHIP",
+    "outcome": "zero_fraction",
+    "independent_point_estimate": 0.012772317932087622
+  },
+  {
+    "family": "CBCR_BANK_PUBLIC",
+    "outcome": "log_spread",
+    "independent_point_estimate": -0.1162978075763422
+  },
+  {
+    "family": "CBCR_BANK_PUBLIC",
+    "outcome": "log_impact",
+    "independent_point_estimate": 0.15700955825177748
+  },
+  {
+    "family": "CBCR_BANK_PUBLIC",
+    "outcome": "zero_fraction",
+    "independent_point_estimate": -0.00978012452370792
+  },
+  {
+    "family": "CBCR_CONFIDENTIAL",
+    "outcome": "log_spread",
+    "independent_point_estimate": 0.09873258839836531
+  },
+  {
+    "family": "CBCR_CONFIDENTIAL",
+    "outcome": "log_impact",
+    "independent_point_estimate": -0.057089050319066074
+  },
+  {
+    "family": "CBCR_CONFIDENTIAL",
+    "outcome": "zero_fraction",
+    "independent_point_estimate": 0.00929332663266638
+  },
+  {
+    "family": "CLIMATE_DISCLOSURE",
+    "outcome": "log_spread",
+    "independent_point_estimate": 0.08563456188699349
+  },
+  {
+    "family": "CLIMATE_DISCLOSURE",
+    "outcome": "log_impact",
+    "independent_point_estimate": -0.016688460410052352
+  },
+  {
+    "family": "CLIMATE_DISCLOSURE",
+    "outcome": "zero_fraction",
+    "independent_point_estimate": -0.007424125982178415
+  },
+  {
+    "family": "DIGITAL_ASSET",
+    "outcome": "log_spread",
+    "independent_point_estimate": -0.03560401419023706
+  },
+  {
+    "family": "DIGITAL_ASSET",
+    "outcome": "log_impact",
+    "independent_point_estimate": 0.15556518387720097
+  },
+  {
+    "family": "DIGITAL_ASSET",
+    "outcome": "zero_fraction",
+    "independent_point_estimate": -0.028370935586173856
+  },
+  {
+    "family": "ESG_MANDATORY_REVIEWED",
+    "outcome": "log_spread",
+    "independent_point_estimate": -0.0646977669779456
+  },
+  {
+    "family": "ESG_MANDATORY_REVIEWED",
+    "outcome": "log_impact",
+    "independent_point_estimate": 0.03306546309028967
+  },
+  {
+    "family": "ESG_MANDATORY_REVIEWED",
+    "outcome": "zero_fraction",
+    "independent_point_estimate": 0.030540837723462503
+  },
+  {
+    "family": "EXTRACTIVE_PAYMENTS",
+    "outcome": "log_spread",
+    "independent_point_estimate": 0.18221055476525821
+  },
+  {
+    "family": "EXTRACTIVE_PAYMENTS",
+    "outcome": "log_impact",
+    "independent_point_estimate": 0.5296513997333742
+  },
+  {
+    "family": "EXTRACTIVE_PAYMENTS",
+    "outcome": "zero_fraction",
+    "independent_point_estimate": -0.016422805627772607
+  },
+  {
+    "family": "GOVERNANCE",
+    "outcome": "log_spread",
+    "independent_point_estimate": 0.2186724034625255
+  },
+  {
+    "family": "GOVERNANCE",
+    "outcome": "log_impact",
+    "independent_point_estimate": 0.20018704340728047
+  },
+  {
+    "family": "GOVERNANCE",
+    "outcome": "zero_fraction",
+    "independent_point_estimate": 0.02819829495280787
+  },
+  {
+    "family": "IFRS",
+    "outcome": "log_spread",
+    "independent_point_estimate": -0.05696330017122833
+  },
+  {
+    "family": "IFRS",
+    "outcome": "log_impact",
+    "independent_point_estimate": 0.12008455764346744
+  },
+  {
+    "family": "IFRS",
+    "outcome": "zero_fraction",
+    "independent_point_estimate": -0.023493292406403757
+  },
+  {
+    "family": "SUPPLY_CHAIN",
+    "outcome": "log_spread",
+    "independent_point_estimate": 0.016955685526599807
+  },
+  {
+    "family": "SUPPLY_CHAIN",
+    "outcome": "log_impact",
+    "independent_point_estimate": -0.45758647768341
+  },
+  {
+    "family": "SUPPLY_CHAIN",
+    "outcome": "zero_fraction",
+    "independent_point_estimate": -0.010169557313616198
+  },
+  {
+    "family": "SUSTAINABILITY_FINANCIAL",
+    "outcome": "log_spread",
+    "independent_point_estimate": -0.1602755138011165
+  },
+  {
+    "family": "SUSTAINABILITY_FINANCIAL",
+    "outcome": "log_impact",
+    "independent_point_estimate": -0.1743166594047667
+  },
+  {
+    "family": "SUSTAINABILITY_FINANCIAL",
+    "outcome": "zero_fraction",
+    "independent_point_estimate": 0.0010862258347258532
+  }
+]

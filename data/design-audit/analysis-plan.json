@@ -1,0 +1,106 @@
+{
+  "recorded_at": "2026-10-19T20:54:20.080185+00:00",
+  "status": "Retrospective method audit: previous results were known. Choices frozen before the new grid, not represented as prospective preregistration.",
+  "request": "Audit adoption dates and weighting; align with supplied Krueger and JIBS studies; publish all specifications rather than select a desired sign.",
+  "date_policy": "Preserve statutory/fiscal/publication distinctions. UK extended auditor reporting has information-policy year 2013 and covered-period start 2012. No invented actual filing dates.",
+  "primary_liquidity": "Reviewed implementation calendar, outcome in following year versus prior year, GDP country weights, both family weights; complete fixed company sample. This adopts the t+1 outcome alignment in Krueger, not its unavailable firm controls/industry-year effects.",
+  "grid": {
+    "calendars": [
+      "inherited_phase",
+      "reviewed_phase",
+      "reviewed_following_year_outcome"
+    ],
+    "outcomes": [
+      "log_spread",
+      "log_impact",
+      "zero_fraction"
+    ],
+    "country_weights": [
+      "equal_country",
+      "gdp_country",
+      "sampled_pre_cap_country"
+    ],
+    "family_weights": [
+      "equal_family",
+      "baseline_market_cap_family"
+    ],
+    "post_windows": [
+      "first_year",
+      "second_year",
+      "mean_0_2"
+    ],
+    "policy_scopes": [
+      "all_recorded_families",
+      "public_disclosure_families"
+    ],
+    "focal_cases": [
+      "all_documented",
+      "independent_national_choices"
+    ],
+    "controls": [
+      "none",
+      "lagged_domestic_macro"
+    ]
+  },
+  "planned_grid_cells": 1296,
+  "public_disclosure_scope": [
+    "AUDIT_REPORTING",
+    "CBCR_BANK_PUBLIC",
+    "CBCR_PUBLIC",
+    "CLIMATE_DISCLOSURE",
+    "ESG_MANDATORY_REVIEWED",
+    "EXTRACTIVE_PAYMENTS",
+    "IFRS",
+    "SUPPLY_CHAIN",
+    "SUSTAINABILITY_FINANCIAL",
+    "XBRL"
+  ],
+  "scope_reason": "Information provided to outside users; exclude confidential tax reports, institutional/rotation rules, governance codes, entity registers and token authorisations from this mechanism-specific sensitivity. All families remain in the all-policy main comparison.",
+  "weight_audit": "Show equal-minus-cap contribution differences, cap concentration, repeated cohort exposure and leave-one-family-out diagnostics. No weight chosen by sign.",
+  "support": "At least 30 complete companies per country, one pre-event share line per vendor company, at least 3 comparison countries. Controlled WLS requires full rank and at least 3 residual degrees of freedom.",
+  "inference": "Country-cluster influences and fixed-seed multiplier diagnostics; Holm across the full supported grid. Intervals condition on the calendar and do not establish exogenous adoption.",
+  "JIBS_primary": "Lagged adoption-status logit; year and family effects; independently decided cases; paired equal/cap family masses; corrected learning edge cases with known-history requirements; separate and joint models. Show odds ratios.",
+  "JIBS_sensitivities": [
+    "include collective waves",
+    "first-adoption risk set",
+    "family-year effects",
+    "domestic controls",
+    "alternate competition and emulation proxies"
+  ],
+  "JIBS_construct_limits": "Language is a proxy, not Berry cultural/administrative distance. Exact IFAC histories, historical six-control set and a comparable ordinal adoption scale are unavailable; do not claim exact replication.",
+  "ESG_benchmark": "Use supplied Krueger published complete E/S/G mandatory calendar separately; do not equate broader nonfinancial phases with the published complete-topic definition.",
+  "selection": "Preserve unsupported cells and every sign. No ranking of models to choose the main estimate.",
+  "peer_universe_addendum": {
+    "recorded_at": "2026-10-19T21:06:07.928454+00:00",
+    "strict_result_seen": "Joint model has no usable rows with complete histories for all ten closest world neighbours; retained as strict sensitivity.",
+    "adaptation_before_new_estimates": "Select the ten nearest countries in each family-specific documented-history universe, using only distance and history availability. Keep original world-neighbour results. Main is reference-style joint status model using this declared observed-history network; it is not an exact replication or prospective preregistration.",
+    "units": "Trade/language odds ratios per 10 percentage points; learning binary; external finance per percentage point of GDP.",
+    "controls": "All six domestic-control domains downloaded or computed; usable years and missingness retained; no zero fill."
+  },
+  "factor_sensitivity_addendum": {
+    "recorded_at": "2026-10-19T21:14:52.953157+00:00",
+    "reason": "The supplied Krueger paper also uses one common illiquidity factor. Add as a measurement sensitivity, not a replacement chosen by model results.",
+    "measurement": "One-factor Gaussian ML on the pooled correlation matrix of the same three liquidity inputs; regression factor scores; sign oriented so higher spread implies higher factor. Single-factor rotation does not alter the factor space.",
+    "inference": "Linear combination of component main estimates and shared country influences on identical samples; four horizon/weight tests, all retained. Calendar-year adaptation, not exact fiscal-year replication."
+  },
+  "history_endpoint_censor": {
+    "recorded_at": "2026-10-19T21:17:56.412387+00:00",
+    "known_boundaries": [
+      {
+        "iso3": "USA",
+        "family": "BENEFICIAL_OWNERSHIP",
+        "year": 2025,
+        "reason": "Domestic entity reporting exemption; do not carry initial US phase forward as a stable domestic obligation.",
+        "source": "https://www.fincen.gov/boi/ifr-qa"
+      },
+      {
+        "iso3": "DEU",
+        "family": "SUPPLY_CHAIN",
+        "year": 2025,
+        "reason": "Previously flagged reporting/enforcement history uncertainty. Conservative endpoint exclusion is not a claim that all due-diligence obligations ended.",
+        "source": "https://www.bafa.de/SharedDocs/Downloads/DE/Lieferketten/rechenschaftsbericht_2024.pdf?__blob=publicationFile&v=2"
+      }
+    ],
+    "rule": "Exclude affected country from either comparison arm when a window ends in or after the flagged year; no recoding to untreated. Applies to every specification regardless of sign."
+  }
+}

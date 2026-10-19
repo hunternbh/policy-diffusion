@@ -1,0 +1,14 @@
+{
+  "grid_planned": 1296,
+  "grid_recorded": 1296,
+  "estimated_grid_cells": 1296,
+  "negative_estimates": 837,
+  "positive_estimates": 459,
+  "grid_Holm_below_05": 40,
+  "country_weight_choices": 3,
+  "family_weight_choices": 2,
+  "no_sign_selection": true,
+  "family_fit_cache": 5508,
+  "elapsed_seconds": 113.43752574920654,
+  "inference": "Conditional country sampling diagnostics; grid is retrospective and dependent, not 1296 independent confirmations."
+}
