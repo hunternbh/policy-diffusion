@@ -1,0 +1,342 @@
+[
+  {
+    "citation": "Diamond and Verrecchia (1991)",
+    "title": "Disclosure, Liquidity, and the Cost of Capital",
+    "publication": "Journal of Finance 46: 1325-1359",
+    "primary_url": "https://doi.org/10.1111/j.1540-6261.1991.tb04620.x",
+    "research_relevance": "Public information can change adverse selection, participation and market-making incentives; liquidity benefits are conditional.",
+    "role": "Theory of investor information",
+    "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+    "primary_source_checked": true
+  },
+  {
+    "citation": "Leuz and Verrecchia (2000)",
+    "title": "The Economic Consequences of Increased Disclosure",
+    "publication": "Journal of Accounting Research 38: 91-124",
+    "primary_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=248411",
+    "research_relevance": "German switches to international reporting relate to spreads and trading volume; voluntary selection differs from national mandates.",
+    "role": "Financial disclosure benchmark",
+    "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+    "primary_source_checked": true
+  },
+  {
+    "citation": "Leuz and Wysocki (2016)",
+    "title": "The Economics of Disclosure and Financial Reporting Regulation: Evidence and Suggestions for Future Research",
+    "publication": "Journal of Accounting Research 54: 525-622",
+    "primary_url": "https://doi.org/10.1111/1475-679X.12115",
+    "research_relevance": "Regulatory assessment requires attention to market-wide effects, externalities, costs, enforcement and causal identification.",
+    "role": "Regulatory costs and identification",
+    "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+    "primary_source_checked": true
+  },
+  {
+    "citation": "Christensen, Hail and Leuz (2021)",
+    "title": "Mandatory CSR and sustainability reporting: economic analysis and literature review",
+    "publication": "Review of Accounting Studies 26: 1176-1248",
+    "primary_url": "https://doi.org/10.1007/s11142-021-09609-5",
+    "research_relevance": "Information users, incentives, externalities and institutional complementarities determine reporting consequences.",
+    "role": "Nonfinancial reporting framework",
+    "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+    "primary_source_checked": true
+  },
+  {
+    "citation": "Daske et al. (2008)",
+    "title": "Mandatory IFRS Reporting around the World: Early Evidence on the Economic Consequences",
+    "publication": "Journal of Accounting Research 46: 1085-1142",
+    "primary_url": "https://doi.org/10.1111/j.1475-679X.2008.00306.x",
+    "research_relevance": "International IFRS liquidity benefits vary with transparency incentives and enforcement; concurrent changes complicate attribution.",
+    "role": "International regulatory liquidity",
+    "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+    "primary_source_checked": true
+  },
+  {
+    "citation": "Christensen, Hail and Leuz (2013)",
+    "title": "Mandatory IFRS reporting and changes in enforcement",
+    "publication": "Journal of Accounting and Economics 56: 147-177",
+    "primary_url": "https://www.sciencedirect.com/science/article/abs/pii/S0165410113000645",
+    "research_relevance": "Separate a change in accounting standards from contemporaneous enforcement changes.",
+    "role": "Enforcement as competing explanation",
+    "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+    "primary_source_checked": true
+  },
+  {
+    "citation": "Christensen, Hail and Leuz (2016)",
+    "title": "Capital-Market Effects of Securities Regulation: Prior Conditions, Implementation, and Enforcement",
+    "publication": "Review of Financial Studies 29: 2885-2924",
+    "primary_url": "https://www.nber.org/papers/w16737",
+    "research_relevance": "Multiple European securities-law reforms have liquidity effects that depend on implementation and prior institutions.",
+    "role": "Direct precedent for multiple-rule analysis",
+    "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+    "primary_source_checked": true
+  },
+  {
+    "citation": "Krueger et al. (2024)",
+    "title": "The Effects of Mandatory ESG Disclosure Around the World",
+    "publication": "Journal of Accounting Research 62: 1795-1847",
+    "primary_url": "https://doi.org/10.1111/1475-679X.12548",
+    "research_relevance": "Global mandatory ESG disclosure and liquidity, with implementation, enforcement and information-environment cross sections. Supplied calendar is from the 2023 working paper.",
+    "role": "Closest liquidity setting",
+    "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+    "primary_source_checked": true
+  },
+  {
+    "citation": "Dube and Zhu (2021)",
+    "title": "The Disciplinary Effect of Social Media: Evidence from Firms’ Responses to Glassdoor Reviews",
+    "publication": "Journal of Accounting Research 59: 1783-1825",
+    "primary_url": "https://doi.org/10.1111/1475-679X.12393",
+    "research_relevance": "Information content and audience imply distinct real and disclosure responses; targeted cross sections distinguish channels. All 43 supplied pages read.",
+    "role": "Writing architecture and mechanism discipline",
+    "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+    "primary_source_checked": true
+  },
+  {
+    "citation": "Blankespoor, deHaan and Marinovic (2020)",
+    "title": "Disclosure processing costs, investors’ information choice, and equity market outcomes: A review",
+    "publication": "Journal of Accounting and Economics 70: 101344",
+    "primary_url": "https://www.gsb.stanford.edu/faculty-research/publications/disclosure-processing-costs-investors-information-choice-equity",
+    "research_relevance": "Public availability does not make information costless to acquire, interpret or trade on.",
+    "role": "Information access and processing",
+    "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+    "primary_source_checked": true
+  },
+  {
+    "citation": "Bhattacharya and Daouk (2002)",
+    "title": "The World Price of Insider Trading",
+    "publication": "Journal of Finance 57: 75-108",
+    "primary_url": "https://doi.org/10.1111/1540-6261.00416",
+    "research_relevance": "Insider-trading laws and their first enforcement have different associations with the cost of equity.",
+    "role": "Legal adoption versus enforcement clock",
+    "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+    "primary_source_checked": true
+  },
+  {
+    "citation": "De Simone and Olbert (2022)",
+    "title": "Real Effects of Private Country-by-Country Disclosure",
+    "publication": "The Accounting Review 97: 201-232",
+    "primary_url": "https://doi.org/10.2308/TAR-2020-0714",
+    "research_relevance": "Private tax-authority disclosures can change investment and organizational choices, even without direct public release.",
+    "role": "Confidential reporting is not a placebo",
+    "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+    "primary_source_checked": true
+  },
+  {
+    "citation": "Lennox, Schmidt and Thompson (2023)",
+    "title": "Why are expanded audit reports not informative to investors? Evidence from the United Kingdom",
+    "publication": "Review of Accounting Studies",
+    "primary_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2619785",
+    "research_relevance": "Auditor risk disclosures can overlap information already available to investors.",
+    "role": "Incremental information rather than document count",
+    "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+    "primary_source_checked": true
+  },
+  {
+    "citation": "Blankespoor, Miller and White (2014)",
+    "title": "Initial Evidence on the Market Impact of the XBRL Mandate",
+    "publication": "Review of Accounting Studies 19: 1468-1503",
+    "primary_url": "https://www.gsb.stanford.edu/faculty-research/publications/initial-evidence-market-impact-xbrl-mandate",
+    "research_relevance": "Initial XBRL adoption can benefit sophisticated information users unevenly; lower processing costs need not uniformly lower spreads.",
+    "role": "Reason for a credible null or opposite sign",
+    "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+    "primary_source_checked": true
+  },
+  {
+    "citation": "Müller, Spengel and Weck (2024)",
+    "title": "How do investors value the publication of tax information? Evidence from the European public country-by-country reporting",
+    "publication": "Contemporary Accounting Research 41: 1893-1924",
+    "primary_url": "https://doi.org/10.1111/1911-3846.12965",
+    "research_relevance": "Publication of previously confidential CbCR can carry proprietary and reputational valuation costs; public/private audience distinctions are already studied.",
+    "role": "Closest tax-audience precedent",
+    "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+    "primary_source_checked": true
+  },
+  {
+    "citation": "Nessa et al. (2025)",
+    "title": "The Effect of U.S. Country-by-Country Reporting on U.S. Multinationals’ Tax-Motivated Income Shifting and Real Activities",
+    "publication": "Journal of Accounting Research 63: 951-988",
+    "primary_url": "https://doi.org/10.1111/1475-679X.12594",
+    "research_relevance": "Confidential US tax data show limited incremental information and no detected reallocation under several designs.",
+    "role": "Recent evidence against universal response",
+    "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+    "primary_source_checked": true
+  },
+  {
+    "citation": "Rauter (2020)",
+    "title": "The Effect of Mandatory Extraction Payment Disclosures on Corporate Payment and Investment Policies Abroad",
+    "publication": "Journal of Accounting Research 58: 1075-1116",
+    "primary_url": "https://doi.org/10.1111/1475-679X.12332",
+    "research_relevance": "Extractive-payment rules target payments and investment abroad rather than only secondary-market information.",
+    "role": "Different intended outcome and audience",
+    "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+    "primary_source_checked": true
+  },
+  {
+    "citation": "Koning, Mertens and Roosenboom (2018)",
+    "title": "Drivers of institutional change around the world: The case of IFRS",
+    "publication": "Journal of International Business Studies 49: 249-271",
+    "primary_url": "https://doi.org/10.1057/s41267-017-0123-7",
+    "research_relevance": "Use competition, learning, emulation and external finance to examine cross-country adoption; original universe is 168 countries, 2002-2012.",
+    "role": "Closest diffusion setting",
+    "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+    "primary_source_checked": true
+  },
+  {
+    "citation": "Simmons and Elkins (2004)",
+    "title": "The Globalization of Liberalization: Policy Diffusion in the International Political Economy",
+    "publication": "American Political Science Review 98: 171-189",
+    "primary_url": "https://doi.org/10.1017/S0003055404001078",
+    "research_relevance": "Foreign policies can alter domestic adoption payoffs or reveal relevant information; spatial clustering alone is not a mechanism.",
+    "role": "Payoff and information channels",
+    "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+    "primary_source_checked": true
+  },
+  {
+    "citation": "Simmons, Dobbin and Garrett (2006)",
+    "title": "Introduction: The International Diffusion of Liberalism",
+    "publication": "International Organization 60: 781-810",
+    "primary_url": "https://doi.org/10.1017/S0020818306060267",
+    "research_relevance": "Competition, coercion, learning and emulation are distinct explanations for cross-national policy patterns.",
+    "role": "Competing diffusion explanations",
+    "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+    "primary_source_checked": true
+  },
+  {
+    "citation": "Callaway and Sant’Anna (2021)",
+    "title": "Difference-in-Differences with multiple time periods",
+    "publication": "Journal of Econometrics 225: 200-230",
+    "primary_url": "https://doi.org/10.1016/j.jeconom.2020.12.001",
+    "research_relevance": "Separate group-time comparisons, aggregation and inference when treatment timing and effects vary.",
+    "role": "Clean comparisons and estimands",
+    "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+    "primary_source_checked": true
+  },
+  {
+    "citation": "Sun and Abraham (2021)",
+    "title": "Estimating dynamic treatment effects in event studies with heterogeneous treatment effects",
+    "publication": "Journal of Econometrics 225: 175-199",
+    "primary_url": "https://doi.org/10.1016/j.jeconom.2020.09.006",
+    "research_relevance": "TWFE event leads and lags can be contaminated by heterogeneous effects from other event periods.",
+    "role": "Event-study interpretation",
+    "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+    "primary_source_checked": true
+  },
+  {
+    "citation": "Goodman-Bacon (2021)",
+    "title": "Difference-in-differences with variation in treatment timing",
+    "publication": "Journal of Econometrics 225: 254-277",
+    "primary_url": "https://doi.org/10.1016/j.jeconom.2021.03.014",
+    "research_relevance": "Staggered TWFE combines different timing comparisons, including already-treated controls.",
+    "role": "Reason to exclude already-treated controls",
+    "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+    "primary_source_checked": true
+  },
+  {
+    "citation": "Baker, Larcker and Wang (2022)",
+    "title": "How much should we trust staggered difference-in-differences estimates?",
+    "publication": "Journal of Financial Economics 144: 370-395",
+    "primary_url": "https://doi.org/10.1016/j.jfineco.2022.01.004",
+    "research_relevance": "Timing heterogeneity can alter estimates and inference in finance and accounting applications.",
+    "role": "Applied accounting design discipline",
+    "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+    "primary_source_checked": true
+  },
+  {
+    "citation": "Rambachan and Roth (2023)",
+    "title": "A More Credible Approach to Parallel Trends",
+    "publication": "Review of Economic Studies 90: 2555-2591",
+    "primary_url": "https://doi.org/10.1093/restud/rdad018",
+    "research_relevance": "Sensitivity to departures from parallel trends requires explicit restrictions and inference; passing a lead test is insufficient.",
+    "role": "Limits of pretrend diagnostics",
+    "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+    "primary_source_checked": true
+  },
+  {
+    "citation": "Roth et al. (2023)",
+    "title": "What’s trending in difference-in-differences? A synthesis of the recent econometrics literature",
+    "publication": "Journal of Econometrics 235: 2218-2244",
+    "primary_url": "https://doi.org/10.1016/j.jeconom.2023.03.008",
+    "research_relevance": "Separate timing heterogeneity, trend violations and inference assumptions.",
+    "role": "Modern DiD synthesis",
+    "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+    "primary_source_checked": true
+  },
+  {
+    "citation": "Amihud (2002)",
+    "title": "Illiquidity and stock returns: cross-section and time-series effects",
+    "publication": "Journal of Financial Markets 5: 31-56",
+    "primary_url": "https://doi.org/10.1016/S1386-4181(01)00024-6",
+    "research_relevance": "Absolute return divided by dollar volume is a rough daily price-impact proxy; our annual median is an adaptation.",
+    "role": "Liquidity measurement",
+    "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+    "primary_source_checked": true
+  },
+  {
+    "citation": "Lesmond, Ogden and Trzcinka (1999)",
+    "title": "A New Estimate of Transaction Costs",
+    "publication": "Review of Financial Studies 12: 1113-1141",
+    "primary_url": "https://doi.org/10.1093/rfs/12.5.1113",
+    "research_relevance": "Zero-return incidence can reveal trading frictions; our simple zero-return share is not their structural estimator.",
+    "role": "Zero-return interpretation",
+    "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+    "primary_source_checked": true
+  },
+  {
+    "citation": "Holm (1979)",
+    "title": "A Simple Sequentially Rejective Multiple Test Procedure",
+    "publication": "Scandinavian Journal of Statistics 6: 65-70",
+    "primary_url": "https://www.jstor.org/stable/4615733",
+    "research_relevance": "Control familywise error over the declared hypothesis family; does not fix model misspecification.",
+    "role": "Multiple comparisons",
+    "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+    "primary_source_checked": true
+  },
+  {
+    "citation": "Welker (1995)",
+    "title": "Disclosure Policy, Information Asymmetry, and Liquidity in Equity Markets",
+    "publication": "Contemporary Accounting Research 11: 801-827",
+    "primary_url": "https://doi.org/10.1111/j.1911-3846.1995.tb00467.x",
+    "research_relevance": "Higher disclosure rankings are associated with lower relative bid-ask spreads; endogenous disclosure and informed trading remain relevant.",
+    "role": "disclosure and liquidity",
+    "review_depth": "Publisher-deposited abstract/metadata, not full-paper review.",
+    "primary_source_checked": true
+  },
+  {
+    "citation": "Healy, Hutton and Palepu (1999)",
+    "title": "Stock Performance and Intermediation Changes Surrounding Sustained Increases in Disclosure",
+    "publication": "Contemporary Accounting Research 16: 485-520",
+    "primary_url": "https://doi.org/10.1111/j.1911-3846.1999.tb00592.x",
+    "research_relevance": "Sustained disclosure-rating increases accompany changes in liquidity, analyst following and institutional ownership, with selection limiting causal interpretation.",
+    "role": "disclosure and liquidity",
+    "review_depth": "Publisher-deposited abstract/metadata, not full-paper review.",
+    "primary_source_checked": true
+  },
+  {
+    "citation": "Healy and Palepu (2001)",
+    "title": "Information Asymmetry, Corporate Disclosure and the Capital Markets: A Review of the Empirical Disclosure Literature",
+    "publication": "Journal of Accounting and Economics 31: 405-440",
+    "primary_url": "https://doi.org/10.1016/S0165-4101(01)00018-0",
+    "research_relevance": "Review of disclosure incentives, regulated reporting, voluntary communication and information intermediaries.",
+    "role": "review",
+    "review_depth": "Publisher-deposited abstract/metadata, not full-paper review.",
+    "primary_source_checked": true
+  },
+  {
+    "citation": "Beyer et al. (2010)",
+    "title": "The financial reporting environment: Review of the recent literature",
+    "publication": "Journal of Accounting and Economics 50: 296-343",
+    "primary_url": "https://www.gsb.stanford.edu/faculty-research/publications/financial-reporting-environment-review-recent-literature",
+    "research_relevance": "Voluntary reports, regulation and intermediary reporting jointly shape the information environment.",
+    "role": "Literature framework",
+    "review_depth": "Primary abstract and selected text, not full-paper review.",
+    "primary_source_checked": true
+  },
+  {
+    "citation": "La Porta, Lopez-de-Silanes and Shleifer (2006)",
+    "title": "What Works in Securities Laws?",
+    "publication": "Journal of Finance 61: 1-32",
+    "primary_url": "https://doi.org/10.1111/j.1540-6261.2006.00828.x",
+    "research_relevance": "Distinguish mandatory disclosure and private liability from public regulatory enforcement.",
+    "role": "Legal institutions",
+    "review_depth": "Primary abstract and selected text, not full-paper review.",
+    "primary_source_checked": true
+  }
+]

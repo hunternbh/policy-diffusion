@@ -1,0 +1,1322 @@
+{
+  "checks": 263,
+  "passed": 263,
+  "paper_sha256": "59740e612e3b4935d1fb8e62d50d7335f1a6a813a210e01c90e21d96858c080b",
+  "details": [
+    {
+      "check": "31 pages with substantive content",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Table 1 title occurs once",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Table 2 title occurs once",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Table 3 title occurs once",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Table 4 title occurs once",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Table 5 title occurs once",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Table 6 title occurs once",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Table 7 title occurs once",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Table 8 title occurs once",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Table 9 title occurs once",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Table 10 title occurs once",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Table 11 title occurs once",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Table 12 title occurs once",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Table 13 title occurs once",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Table 14 title occurs once",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Table 15 title occurs once",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Dynamics and lead panel share one page",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "No extraction replacement characters",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF character bounds page 1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF character bounds page 2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF character bounds page 3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF character bounds page 4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF character bounds page 5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF character bounds page 6",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF character bounds page 7",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF character bounds page 8",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF character bounds page 9",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF character bounds page 10",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF character bounds page 11",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF character bounds page 12",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF character bounds page 13",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF character bounds page 14",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF character bounds page 15",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF character bounds page 16",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF character bounds page 17",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF character bounds page 18",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF character bounds page 19",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF character bounds page 20",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF character bounds page 21",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF character bounds page 22",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF character bounds page 23",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF character bounds page 24",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF character bounds page 25",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF character bounds page 26",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF character bounds page 27",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF character bounds page 28",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF character bounds page 29",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF character bounds page 30",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF character bounds page 31",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Published PDF is exact copy",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Unique HTML anchors",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local link assets/favicon.svg",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local link assets/international.css",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local link #main",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Anchor main",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local link #top",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Anchor top",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local link #sample",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Anchor sample",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local link #overview",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Anchor overview",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local link #diffusion",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Anchor diffusion",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local link #appendix",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Anchor appendix",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local link downloads/paper.pdf",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local link assets/disclosure-family-effects.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local link assets/disclosure-event-profiles.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local link data/disclosure-paper/main-liquidity.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local link data/disclosure-paper/audience-contrasts.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local link assets/disclosure-diffusion-comparison.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local link downloads/paper.pdf",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local link downloads/disclosure-paper-results.zip",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local link downloads/manuscript.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local link data/disclosure-paper/Dube-Zhu-writing-logic.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local link data/disclosure-paper/literature-evidence-matrix.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local link data/disclosure-paper/analysis-plan.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local link data/disclosure-paper/validation-results.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local link data/disclosure-paper/submission-readiness.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local link data/disclosure-paper/submission-readiness.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local link assets/audit-specification-curve.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local link data/design-audit/liquidity-specification-grid.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local link data/design-audit/liquidity-grid-family-contributions.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local link data/design-audit/liquidity-family-fit-ledger.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local link data/design-audit/analysis-plan.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local link data/design-audit/weight-diagnostics.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local link data/design-audit/formal-weight-differences.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local link data/design-audit/policy-calendar.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local link data/design-audit/adoption-date-audit.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local link data/design-audit/ESG-calendar-comparison.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local link data/design-audit/source-manifest.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local link data/issuers/source-review-register.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local link downloads/regulation-json-register.zip",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local link data/design-audit/reference-method-alignment.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local link data/design-audit/published-ESG-country-benchmark.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local link data/design-audit/Krueger-country-regression-benchmark.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local link data/design-audit/JIBS-aligned-diffusion-models.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local link data/design-audit/JIBS-family-weights.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local link data/design-audit/known-history-peer-audit.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local link data/design-audit/domestic-control-coverage.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local link data/design-audit/market-measure-coverage.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local link data/design-audit/primary-family-estimates.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local link data/design-audit/balanced-event-pooled-events.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local link data/design-audit/balanced-event-principal-estimates.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local link data/design-audit/factor-measurement.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local link downloads/selected-issuer-case-studies.pdf",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local link data/international/global-country-family-eligibility-audit.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local link data/international/IFRS-global-jurisdiction-scopes.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local link data/international/worldscope-source-coverage-public.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local link #top",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Anchor top",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Image dimensions disclosure-family-effects.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Image dimensions disclosure-event-profiles.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Image dimensions disclosure-diffusion-comparison.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Image dimensions audit-specification-curve.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML table rows 1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML table rows 2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML table rows 3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML table rows 4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML table rows 5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML table rows 6",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 6",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 6",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 6",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 6",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 6",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 6",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 6",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 6",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 6",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 6",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 6",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 6",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML table rows 7",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 7",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 7",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 7",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 7",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 7",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 7",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML table rows 8",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 8",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 8",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 8",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 8",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 8",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 8",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML table rows 9",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 9",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 9",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 9",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 9",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 9",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 9",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML table rows 10",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 10",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 10",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 10",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 10",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 10",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 10",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 10",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 10",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 10",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 10",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 10",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 10",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML table rows 11",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 11",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 11",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 11",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 11",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 11",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 11",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML table rows 12",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 12",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 12",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 12",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 12",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 12",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 12",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 12",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 12",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 12",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 12",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 12",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 12",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 12",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 12",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 12",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 12",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 12",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 12",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML table rows 13",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 13",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 13",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 13",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 13",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 13",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 13",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 13",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 13",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML table rows 14",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 14",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 14",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 14",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 14",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 14",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 14",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 14",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 14",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML table rows 15",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 15",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 15",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 15",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 15",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 15",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 15",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 15",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "HTML exact table 15",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Bundle excludes original papers and licensed issuer files",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "All 15 tables in bundle",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "All latest PDF pages visually inspected",
+      "passed": true,
+      "detail": "Rendered pages 1\u201331 reviewed in contact sheets; table 12 panel confirmed on page 26."
+    }
+  ]
+}

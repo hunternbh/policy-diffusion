@@ -1,0 +1,73 @@
+{
+  "pages": 31,
+  "prose_words": 5777,
+  "references": 34,
+  "tables": 15,
+  "estimated_regression_tables": 12,
+  "figures": 3,
+  "PDF_sha256": "59740e612e3b4935d1fb8e62d50d7335f1a6a813a210e01c90e21d96858c080b",
+  "table_pages": {
+    "1": [
+      15
+    ],
+    "2": [
+      16
+    ],
+    "3": [
+      17
+    ],
+    "4": [
+      18
+    ],
+    "5": [
+      19
+    ],
+    "6": [
+      20
+    ],
+    "7": [
+      21
+    ],
+    "8": [
+      22
+    ],
+    "9": [
+      23
+    ],
+    "10": [
+      24
+    ],
+    "11": [
+      25
+    ],
+    "12": [
+      26
+    ],
+    "13": [
+      27
+    ],
+    "14": [
+      28
+    ],
+    "15": [
+      29
+    ]
+  },
+  "figure_notes": [
+    {
+      "name": "disclosure-family-effects",
+      "title": "Figure 1. Public-disclosure family estimates and weights",
+      "note": "Following-year GDP-weighted country comparisons. All eight supported families are shown. Bars are 95% normal-reference conditional country intervals. Right panel: sampled pre-policy market-cap masses, normalised across these families; dashed line is equal family weight. Each family has its own supported countries and cohorts."
+    },
+    {
+      "name": "disclosure-event-profiles",
+      "title": "Figure 2. Public-disclosure liquidity before and after implementation",
+      "note": "Five public-disclosure families on fixed company support in years -3 through +3. Year -1 is the reference. Pointwise 95% conditional country intervals are shaded. The sample differs from the eight-family short window and six-family longer-window main samples. Pre-policy differences and common legal waves limit a causal interpretation."
+    },
+    {
+      "name": "disclosure-diffusion-comparison",
+      "title": "Figure 3. Diffusion associations and common policy waves",
+      "note": "Separate adoption-status linear probability models under both family weights. Compare country-family plus common year effects with country-family plus family-year effects on identical rows. Horizontal intervals are 95% country-clustered t intervals. Predictor units differ by panel and are stated in each heading. A change across fixed-effect structures is not evidence that either coefficient is causal."
+    }
+  ]
+}

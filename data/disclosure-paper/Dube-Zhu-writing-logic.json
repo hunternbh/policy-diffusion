@@ -1,0 +1,222 @@
+{
+  "reference": {
+    "authors": [
+      "Svenja Dube",
+      "Chenqi Zhu"
+    ],
+    "year": 2021,
+    "title": "The Disciplinary Effect of Social Media: Evidence from Firms’ Responses to Glassdoor Reviews",
+    "journal": "Journal of Accounting Research",
+    "volume": 59,
+    "issue": 5,
+    "pages": "1783-1825",
+    "doi": "10.1111/1475-679X.12393",
+    "local_file": "C:\\Users\\hia_n\\Desktop\\policy-diffusion\\04-literature\\02-disclosure-and-capital-markets\\Dube_Zhu_2021_JAR.pdf",
+    "physical_pages_read": 43,
+    "all_pages_have_extractable_text": true
+  },
+  "use": "Follow the argument architecture and evidence discipline in original prose; do not copy sentences or represent their design as ours.",
+  "introduction_paragraph_logic": [
+    {
+      "pages": [
+        2,
+        2
+      ],
+      "move": "Start with the changing information environment, locate the closest literature, then state a precise unanswered behavioral question.",
+      "adaptation": "Start with disclosure economics and cross-regulation evidence; ask whether national market liquidity and adoption patterns differ with who receives information."
+    },
+    {
+      "pages": [
+        2,
+        3
+      ],
+      "move": "Give concrete institutional facts that explain why the information change matters and why its timing creates comparison groups.",
+      "adaptation": "Distinguish public reports, confidential tax returns and institutions; distinguish covered fiscal periods, implementation and publication."
+    },
+    {
+      "pages": [
+        3,
+        4
+      ],
+      "move": "Summarise design and primary outcome before mechanism tests; connect each additional test to a specific competing explanation.",
+      "adaptation": "Describe country-cohort comparisons, both weights, dynamics, audience contrasts and pre-policy moderator interactions."
+    },
+    {
+      "pages": [
+        4,
+        5
+      ],
+      "move": "Separate real decisions from disclosure responses and distinguish intended audiences; do not treat all channels as supported.",
+      "adaptation": "Liquidity and policy diffusion answer different questions. Audience and institutional heterogeneity are associations, not proof of a mechanism."
+    },
+    {
+      "pages": [
+        5,
+        6
+      ],
+      "move": "Address nonrandom treatment, explain matching and falsification, then state distinct contributions to named literatures.",
+      "adaptation": "Discuss endogenous laws, common legal waves, unknown histories and policy overlap; report matched-country and pretrend diagnostics without claiming they solve omitted variables."
+    }
+  ],
+  "section_order": [
+    {
+      "section": "Introduction",
+      "pages": [
+        2,
+        6
+      ]
+    },
+    {
+      "section": "Background and hypotheses",
+      "pages": [
+        6,
+        11
+      ]
+    },
+    {
+      "section": "Sample and data",
+      "pages": [
+        11,
+        15
+      ]
+    },
+    {
+      "section": "Empirical analysis: exposure timing, main outcomes, dynamics and mechanisms",
+      "pages": [
+        15,
+        33
+      ]
+    },
+    {
+      "section": "Matching and alternative explanations",
+      "pages": [
+        33,
+        36
+      ]
+    },
+    {
+      "section": "Conclusion and limits",
+      "pages": [
+        36,
+        37
+      ]
+    },
+    {
+      "section": "Variable definitions and references",
+      "pages": [
+        38,
+        43
+      ]
+    }
+  ],
+  "table_logic": [
+    {
+      "table": 1,
+      "pages": [
+        13,
+        14
+      ],
+      "purpose": "Descriptive moments and correlations establish sample and variable meaning; not causal evidence."
+    },
+    {
+      "table": 2,
+      "pages": [
+        17,
+        19
+      ],
+      "purpose": "Timing regressions investigate treatment selection before the outcome analysis; baseline covariates measured before exposure."
+    },
+    {
+      "table": 3,
+      "pages": [
+        22,
+        23
+      ],
+      "purpose": "Main treatment coefficient beside an economically unrelated outcome and alternate fixed effects. Interpret coefficient units and economic size."
+    },
+    {
+      "table": 4,
+      "pages": [
+        24,
+        26
+      ],
+      "purpose": "Align outcome components with information content, separate strengths/concerns, test suspicious cases and alternative windows."
+    },
+    {
+      "table": 5,
+      "pages": [
+        28,
+        29
+      ],
+      "purpose": "Initial information content creates a theory-driven cross section, with explicit coefficient comparisons."
+    },
+    {
+      "table": 6,
+      "pages": [
+        28,
+        30
+      ],
+      "purpose": "Interaction estimates discriminate between three channels; unsupported channels remain visible."
+    },
+    {
+      "table": 7,
+      "pages": [
+        31,
+        32
+      ],
+      "purpose": "Second outcome uses the same underlying design but adds relevant controls and repeats channel tests; real and disclosure responses can have different audiences."
+    },
+    {
+      "table": 8,
+      "pages": [
+        33,
+        36
+      ],
+      "purpose": "Matching reports balance and attrition before matched regression results; residual imbalance is acknowledged."
+    }
+  ],
+  "equations": [
+    {
+      "physical_page": 21,
+      "form": "Outcome_ft = firm FE + industry-year FE + beta Post_ft + controls + error",
+      "transfer": "Use clean not-yet-treated country-cohort comparisons; do not inherit already-treated controls merely to mimic the paper."
+    },
+    {
+      "physical_page": 27,
+      "form": "Event-time coefficients with explicit reference period",
+      "transfer": "Report leads and lags on fixed samples and a joint lead diagnostic."
+    },
+    {
+      "physical_page": 30,
+      "form": "Treatment + moderator + treatment x moderator",
+      "transfer": "Use pre-policy country moderators and report the interaction directly, not significance comparisons across subgroups."
+    }
+  ],
+  "writing_rules": [
+    "Lead each results paragraph with the question and predicted distinction, then the estimate, units, uncertainty and interpretation.",
+    "Develop literature as competing explanations rather than a list of citations.",
+    "State a credible null and alternative mechanisms before reporting tests.",
+    "Describe institutions only where they determine scope, timing, audiences or enforcement.",
+    "Use ordinary accounting language, short transitions and stable variable definitions.",
+    "Keep correlations, predictive associations and causal effects distinct.",
+    "Do not describe an unadjusted selected result as established evidence.",
+    "Report outcome-specific N, countries, supported families, fixed effects, weights and uncertainty.",
+    "Make the paper read as research, not as software release notes or an AI work log."
+  ],
+  "differences_not_to_copy": [
+    "Original setting is US firm-level Glassdoor exposure, not national regulation.",
+    "Original main TWFE can use already-treated firms; our primary comparison excludes them.",
+    "No global analyst following, institutional ownership, employee counts, CEO age or financial-statement controls have been established. Do not fabricate their cross sections.",
+    "The original unrelated CSR outcome is a negative control tailored to its setting. Confidential tax reporting is not a valid placebo because it can have real market effects."
+  ],
+  "requested_paper_structure": [
+    "Extensive related literature and precise gap",
+    "Institutional setting and predictions",
+    "Data and measurement",
+    "Empirical design",
+    "Liquidity results, dynamics and cross sections",
+    "Policy diffusion",
+    "Conclusion"
+  ],
+  "novelty_rule": "Do not claim no prior study of regulatory liquidity. Prior IFRS, ESG and securities-law studies directly address it. Frame the proposed gap as a common country-level comparison across the documented diverse policy set and audiences, paired with diffusion; priority remains provisional."
+}

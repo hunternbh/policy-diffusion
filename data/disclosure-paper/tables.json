@@ -1,0 +1,1114 @@
+[
+  {
+    "number": 1,
+    "title": "Sample and liquidity measures",
+    "columns": [
+      "Measure",
+      "Stock-years",
+      "Mean",
+      "SD",
+      "P25",
+      "Median",
+      "P75"
+    ],
+    "rows": [
+      [
+        "Log spread",
+        "662,316",
+        "-5.0736",
+        "1.4361",
+        "-6.1280",
+        "-5.0468",
+        "-3.9797"
+      ],
+      [
+        "Log price impact",
+        "755,877",
+        "1.5158",
+        "3.0788",
+        "-0.8076",
+        "1.6031",
+        "3.8053"
+      ],
+      [
+        "Zero-return share",
+        "795,229",
+        "0.1194",
+        "0.1529",
+        "0.0207",
+        "0.0643",
+        "0.1623"
+      ]
+    ],
+    "note": "Datastream security-year inventory: 1,055,142 observations, 99,100 vendor company records and 90 jurisdictions, 2000-2025. All three measures are jointly available for 636,960 stock-years in 86 jurisdictions. Estimation uses fixed company cohorts and smaller documented country comparisons. Higher values indicate less liquidity. Logs and fractions are not percentage changes.",
+    "is_regression_table": false
+  },
+  {
+    "number": 2,
+    "title": "Disclosure families and information audiences",
+    "columns": [
+      "Family",
+      "Audience",
+      "Recorded\ncountries",
+      "Supported\nadopters",
+      "Public-pool\ncap weight"
+    ],
+    "rows": [
+      [
+        "Auditor reporting",
+        "Public",
+        "36",
+        "20",
+        "22.4%"
+      ],
+      [
+        "Public bank country reports",
+        "Public",
+        "28",
+        "14",
+        "14.8%"
+      ],
+      [
+        "Public multinational country reports",
+        "Public",
+        "28",
+        "-",
+        "-"
+      ],
+      [
+        "Climate / emissions disclosure",
+        "Public",
+        "6",
+        "2",
+        "4.5%"
+      ],
+      [
+        "Nonfinancial reporting",
+        "Public",
+        "37",
+        "22",
+        "23.9%"
+      ],
+      [
+        "Payments to governments",
+        "Public",
+        "9",
+        "1",
+        "0.4%"
+      ],
+      [
+        "IFRS financial reporting",
+        "Public",
+        "36",
+        "20",
+        "12.7%"
+      ],
+      [
+        "Supply-chain reporting",
+        "Public",
+        "8",
+        "4",
+        "20.8%"
+      ],
+      [
+        "Financial-focus sustainability",
+        "Public",
+        "6",
+        "1",
+        "0.4%"
+      ],
+      [
+        "Electronic financial reporting",
+        "Public",
+        "4",
+        "-",
+        "-"
+      ],
+      [
+        "Confidential tax country reports",
+        "Tax authority",
+        "120",
+        "42",
+        "-"
+      ]
+    ],
+    "note": "The main pool comprises ten identified public-disclosure families; eight support following-year comparisons and six support years 1-3. Confidential tax reporting is shown separately and enters a combined disclosure sensitivity. Recorded country counts include implemented phases through 2025 across the wider source register, not only countries with market data. Dashes denote unsupported estimates or exclusion from the public-only weight. The calendar is not a census of all historical disclosure laws; broader governance and register categories remain in the 17-family appendix.",
+    "is_regression_table": false
+  },
+  {
+    "number": 3,
+    "title": "Does disclosure regulation generally change liquidity?",
+    "columns": [
+      "Outcome and coefficient",
+      "Families",
+      "Equal family\nCoefficient (SE), q",
+      "Market-cap family\nCoefficient (SE), q"
+    ],
+    "rows": [
+      [
+        "Public disclosures\nYear 1: Log spread",
+        "8",
+        "-0.022\n(0.034)\nq=1.000",
+        "-0.047\n(0.035)\nq=1.000"
+      ],
+      [
+        "Public disclosures\nYear 1: Log price impact",
+        "8",
+        "+0.031\n(0.044)\nq=1.000",
+        "-0.035\n(0.060)\nq=1.000"
+      ],
+      [
+        "Public disclosures\nYear 1: Zero-return share",
+        "8",
+        "-0.0061\n(0.0025)\nq=0.161",
+        "-0.0026\n(0.0039)\nq=1.000"
+      ],
+      [
+        "Public disclosures\nYears 1-3: Log spread",
+        "6",
+        "-0.075\n(0.039)\nq=0.378",
+        "-0.084\n(0.052)\nq=0.590"
+      ],
+      [
+        "Public disclosures\nYears 1-3: Log price impact",
+        "6",
+        "+0.061\n(0.042)\nq=1.000",
+        "-0.040\n(0.048)\nq=1.000"
+      ],
+      [
+        "Public disclosures\nYears 1-3: Zero-return share",
+        "6",
+        "-0.0050\n(0.0025)\nq=0.378",
+        "-0.0071\n(0.0034)\nq=0.345"
+      ],
+      [
+        "Public + confidential\nYear 1: Log spread",
+        "9",
+        "-0.009\n(0.032)",
+        "+0.016\n(0.041)"
+      ],
+      [
+        "Public + confidential\nYear 1: Log price impact",
+        "9",
+        "+0.021\n(0.048)",
+        "-0.045\n(0.098)"
+      ],
+      [
+        "Public + confidential\nYear 1: Zero-return share",
+        "9",
+        "-0.0044\n(0.0027)",
+        "+0.0025\n(0.0057)"
+      ],
+      [
+        "Public + confidential\nYears 1-3: Log spread",
+        "7",
+        "-0.031\n(0.046)",
+        "+0.086\n(0.113)"
+      ],
+      [
+        "Public + confidential\nYears 1-3: Log price impact",
+        "7",
+        "+0.092\n(0.059)",
+        "+0.126\n(0.140)"
+      ],
+      [
+        "Public + confidential\nYears 1-3: Zero-return share",
+        "7",
+        "-0.0043\n(0.0032)",
+        "-0.0034\n(0.0086)"
+      ]
+    ],
+    "note": "Primary pool: public disclosures. Secondary pool: public plus confidential disclosures. Country-cohort comparisons exclude already-treated countries and unknown policy histories. Baseline is year -1; outcomes are year 1 or the mean of years 1-3. Parentheses are conditional country standard errors. Public-pool q values adjust over its 12 principal tests; the separate 36-cell scope correction is in the accompanying data. Cohort and family weights are positive and normalised. A common average is a specified weighted target, not a claim that each law has the same effect.",
+    "is_regression_table": true
+  },
+  {
+    "number": 4,
+    "title": "Country controls on identical samples",
+    "columns": [
+      "Outcome and coefficient",
+      "Families /\ncountry-cohort rows",
+      "Equal family\nCoefficient (SE), q",
+      "Market-cap family\nCoefficient (SE), q"
+    ],
+    "rows": [
+      [
+        "No controls\nLog spread\nTreatment",
+        "5 / 283",
+        "-0.063\n(0.045)\nq=1.000",
+        "-0.066\n(0.039)\nq=1.000"
+      ],
+      [
+        "No controls\nLog price impact\nTreatment",
+        "5 / 283",
+        "-0.050\n(0.083)\nq=1.000",
+        "-0.011\n(0.069)\nq=1.000"
+      ],
+      [
+        "No controls\nZero-return share\nTreatment",
+        "5 / 283",
+        "-0.0053\n(0.0045)\nq=1.000",
+        "-0.0011\n(0.0046)\nq=1.000"
+      ],
+      [
+        "Prior domestic controls\nLog spread\nTreatment",
+        "5 / 283",
+        "-0.040\n(0.068)\nq=1.000",
+        "-0.052\n(0.057)\nq=1.000"
+      ],
+      [
+        "Prior domestic controls\nLog price impact\nTreatment",
+        "5 / 283",
+        "-0.295\n(0.107)\nq=0.695",
+        "-0.194\n(0.103)\nq=1.000"
+      ],
+      [
+        "Prior domestic controls\nZero-return share\nTreatment",
+        "5 / 283",
+        "-0.0121\n(0.0091)\nq=1.000",
+        "-0.0060\n(0.0093)\nq=1.000"
+      ]
+    ],
+    "note": "Country-cohort WLS, prior-year GDP within families. Parentheses are conditional country-influence standard errors; q is Holm-adjusted p across all 108 newly declared focal coefficients, including audience diagnostics. Each weighting pair uses identical family estimates. Family and country support may differ across rows. These are exploratory comparisons, not policy-assignment or causal-mechanism inference. The paired regressions use the same eligible country rows and supported cohorts. Controls are prior log GDP per capita, GDP growth and trade/GDP, standardised within cohort. Each cohort regression includes an intercept; sample restriction and regression adjustment are distinct from the primary estimate.",
+    "is_regression_table": true
+  },
+  {
+    "number": 5,
+    "title": "Liquidity estimates by public-disclosure family",
+    "columns": [
+      "Family",
+      "Adopting\ncountries",
+      "Log spread\nCoefficient (SE)",
+      "Log price impact\nCoefficient (SE)",
+      "Zero-return share\nCoefficient (SE)"
+    ],
+    "rows": [
+      [
+        "Auditor reporting",
+        "20",
+        "-0.0624\n(0.0568)",
+        "+0.0585\n(0.0830)",
+        "-0.0131\n(0.0066)"
+      ],
+      [
+        "Public bank country reports",
+        "14",
+        "-0.1163\n(0.1930)",
+        "+0.1570\n(0.2201)",
+        "-0.0098\n(0.0054)"
+      ],
+      [
+        "Climate / emissions disclosure",
+        "2",
+        "+0.0856\n(0.1228)",
+        "-0.0167\n(0.0806)",
+        "-0.0074\n(0.0071)"
+      ],
+      [
+        "Nonfinancial reporting",
+        "22",
+        "-0.0647\n(0.0293)",
+        "+0.0331\n(0.0944)",
+        "+0.0305\n(0.0118)"
+      ],
+      [
+        "Payments to governments",
+        "1",
+        "+0.1822\n(0.0094)",
+        "+0.5297\n(0.0053)",
+        "-0.0164\n(0.0012)"
+      ],
+      [
+        "IFRS financial reporting",
+        "20",
+        "-0.0570\n(0.1164)",
+        "+0.1201\n(0.3486)",
+        "-0.0235\n(0.0115)"
+      ],
+      [
+        "Supply-chain reporting",
+        "4",
+        "+0.0170\n(0.0418)",
+        "-0.4576\n(0.0620)",
+        "-0.0102\n(0.0061)"
+      ],
+      [
+        "Financial-focus sustainability",
+        "1",
+        "-0.1603\n(0.1389)",
+        "-0.1743\n(0.1496)",
+        "+0.0011\n(0.0060)"
+      ]
+    ],
+    "note": "All eight supported public-disclosure families are reported, including positive and negative estimates. GDP weights within each family. Estimates compare year 1 with year -1, using fixed company cohorts. Country-influence uncertainty is conditional on legal histories and does not capture common supranational assignment. These are family estimates underlying the primary pool, not eight independent confirmations.",
+    "is_regression_table": true
+  },
+  {
+    "number": 6,
+    "title": "Does the audience for disclosure matter?",
+    "columns": [
+      "Outcome and coefficient",
+      "Families /\ncountry-cohort rows",
+      "Equal family\nCoefficient (SE), q",
+      "Market-cap family\nCoefficient (SE), q"
+    ],
+    "rows": [
+      [
+        "Public disclosure\nLog spread",
+        "8",
+        "-0.022\n(0.034)\nq=1.000",
+        "-0.047\n(0.035)\nq=1.000"
+      ],
+      [
+        "Public disclosure\nLog price impact",
+        "8",
+        "+0.031\n(0.044)\nq=1.000",
+        "-0.035\n(0.060)\nq=1.000"
+      ],
+      [
+        "Public disclosure\nZero-return share",
+        "8",
+        "-0.0061\n(0.0025)\nq=1.000",
+        "-0.0026\n(0.0039)\nq=1.000"
+      ],
+      [
+        "Confidential tax\nLog spread",
+        "1",
+        "+0.099\n(0.077)\nq=1.000",
+        "+0.099\n(0.077)\nq=1.000"
+      ],
+      [
+        "Confidential tax\nLog price impact",
+        "1",
+        "-0.057\n(0.202)\nq=1.000",
+        "-0.057\n(0.202)\nq=1.000"
+      ],
+      [
+        "Confidential tax\nZero-return share",
+        "1",
+        "+0.0093\n(0.0113)\nq=1.000",
+        "+0.0093\n(0.0113)\nq=1.000"
+      ],
+      [
+        "Other rules\nLog spread",
+        "4",
+        "+0.041\n(0.020)\nq=1.000",
+        "+0.033\n(0.038)\nq=1.000"
+      ],
+      [
+        "Other rules\nLog price impact",
+        "4",
+        "+0.039\n(0.053)\nq=1.000",
+        "+0.079\n(0.074)\nq=1.000"
+      ],
+      [
+        "Other rules\nZero-return share",
+        "4",
+        "+0.0030\n(0.0030)\nq=1.000",
+        "+0.0099\n(0.0066)\nq=1.000"
+      ],
+      [
+        "Public minus confidential\nLog spread",
+        "9",
+        "-0.121\n(0.080)\nq=1.000",
+        "-0.145\n(0.081)\nq=1.000"
+      ],
+      [
+        "Public minus confidential\nLog price impact",
+        "9",
+        "+0.088\n(0.199)\nq=1.000",
+        "+0.022\n(0.202)\nq=1.000"
+      ],
+      [
+        "Public minus confidential\nZero-return share",
+        "9",
+        "-0.0154\n(0.0113)\nq=1.000",
+        "-0.0118\n(0.0112)\nq=1.000"
+      ]
+    ],
+    "note": "Country-cohort WLS, prior-year GDP within families. Parentheses are conditional country-influence standard errors; q is Holm-adjusted p across all 108 newly declared focal coefficients, including audience diagnostics. Each weighting pair uses identical family estimates. Family and country support may differ across rows. These are exploratory comparisons, not policy-assignment or causal-mechanism inference. The public-minus-confidential row is a formal difference using shared country covariance, not a comparison of significance labels. Other rules refers to the four supported nonheadline families in the wider registry. Families differ in legal content, scope and implementation periods, so these contrasts are not randomised audience effects. Confidential reporting can have indirect real and market effects and is not a negative-control outcome.",
+    "is_regression_table": true
+  },
+  {
+    "number": 7,
+    "title": "Cross section: prior market illiquidity",
+    "columns": [
+      "Outcome and coefficient",
+      "Families /\ncountry-cohort rows",
+      "Equal family\nCoefficient (SE), q",
+      "Market-cap family\nCoefficient (SE), q"
+    ],
+    "rows": [
+      [
+        "\nLog spread\nTreatment at mean",
+        "2 / 69",
+        "-0.091\n(0.152)\nq=1.000",
+        "-0.252\n(0.185)\nq=1.000"
+      ],
+      [
+        "\nLog spread\nTreatment x moderator",
+        "2 / 69",
+        "-0.065\n(0.116)\nq=1.000",
+        "-0.451\n(0.269)\nq=1.000"
+      ],
+      [
+        "\nLog price impact\nTreatment at mean",
+        "2 / 69",
+        "+0.196\n(0.099)\nq=1.000",
+        "+0.054\n(0.168)\nq=1.000"
+      ],
+      [
+        "\nLog price impact\nTreatment x moderator",
+        "2 / 69",
+        "+0.174\n(0.128)\nq=1.000",
+        "-0.020\n(0.216)\nq=1.000"
+      ],
+      [
+        "\nZero-return share\nTreatment at mean",
+        "2 / 69",
+        "-0.0061\n(0.0044)\nq=1.000",
+        "-0.0102\n(0.0062)\nq=1.000"
+      ],
+      [
+        "\nZero-return share\nTreatment x moderator",
+        "2 / 69",
+        "-0.0044\n(0.0043)\nq=1.000",
+        "-0.0082\n(0.0059)\nq=1.000"
+      ]
+    ],
+    "note": "Country-cohort WLS, prior-year GDP within families. Parentheses are conditional country-influence standard errors; q is Holm-adjusted p across all 108 newly declared focal coefficients, including audience diagnostics. Each weighting pair uses identical family estimates. Family and country support may differ across rows. These are exploratory comparisons, not policy-assignment or causal-mechanism inference. Each cohort regression includes treatment, the centred moderator and their interaction. Moderator is measured in year -1 and scaled by the unweighted eligible-country standard deviation. At least two adopting and six comparison countries, full rank and three residual degrees of freedom are required. The main treatment coefficient is evaluated at the cohort mean moderator. Prior illiquidity can reflect mean reversion; regulatory quality is not policy-specific enforcement; market capitalisation/GDP is financial development, not issuer eligibility.",
+    "is_regression_table": true
+  },
+  {
+    "number": 8,
+    "title": "Cross section: regulatory quality",
+    "columns": [
+      "Outcome and coefficient",
+      "Families /\ncountry-cohort rows",
+      "Equal family\nCoefficient (SE), q",
+      "Market-cap family\nCoefficient (SE), q"
+    ],
+    "rows": [
+      [
+        "\nLog spread\nTreatment at mean",
+        "2 / 69",
+        "-0.169\n(0.330)\nq=1.000",
+        "-0.253\n(0.363)\nq=1.000"
+      ],
+      [
+        "\nLog spread\nTreatment x moderator",
+        "2 / 69",
+        "-0.054\n(0.275)\nq=1.000",
+        "+0.086\n(0.318)\nq=1.000"
+      ],
+      [
+        "\nLog price impact\nTreatment at mean",
+        "2 / 69",
+        "-1.750\n(0.106)\nq<0.001",
+        "-0.396\n(0.180)\nq=1.000"
+      ],
+      [
+        "\nLog price impact\nTreatment x moderator",
+        "2 / 69",
+        "-1.312\n(0.125)\nq<0.001",
+        "-0.507\n(0.213)\nq=1.000"
+      ],
+      [
+        "\nZero-return share\nTreatment at mean",
+        "2 / 69",
+        "-0.0608\n(0.0052)\nq<0.001",
+        "-0.0243\n(0.0071)\nq=0.121"
+      ],
+      [
+        "\nZero-return share\nTreatment x moderator",
+        "2 / 69",
+        "-0.0360\n(0.0063)\nq<0.001",
+        "-0.0122\n(0.0075)\nq=1.000"
+      ]
+    ],
+    "note": "Country-cohort WLS, prior-year GDP within families. Parentheses are conditional country-influence standard errors; q is Holm-adjusted p across all 108 newly declared focal coefficients, including audience diagnostics. Each weighting pair uses identical family estimates. Family and country support may differ across rows. These are exploratory comparisons, not policy-assignment or causal-mechanism inference. Each cohort regression includes treatment, the centred moderator and their interaction. Moderator is measured in year -1 and scaled by the unweighted eligible-country standard deviation. At least two adopting and six comparison countries, full rank and three residual degrees of freedom are required. The main treatment coefficient is evaluated at the cohort mean moderator. Prior illiquidity can reflect mean reversion; regulatory quality is not policy-specific enforcement; market capitalisation/GDP is financial development, not issuer eligibility.",
+    "is_regression_table": true
+  },
+  {
+    "number": 9,
+    "title": "Cross section: financial development",
+    "columns": [
+      "Outcome and coefficient",
+      "Families /\ncountry-cohort rows",
+      "Equal family\nCoefficient (SE), q",
+      "Market-cap family\nCoefficient (SE), q"
+    ],
+    "rows": [
+      [
+        "\nLog spread\nTreatment at mean",
+        "2 / 61",
+        "+0.098\n(0.224)\nq=1.000",
+        "-0.081\n(0.225)\nq=1.000"
+      ],
+      [
+        "\nLog spread\nTreatment x moderator",
+        "2 / 61",
+        "-0.014\n(0.240)\nq=1.000",
+        "-0.255\n(0.384)\nq=1.000"
+      ],
+      [
+        "\nLog price impact\nTreatment at mean",
+        "2 / 61",
+        "+0.932\n(0.111)\nq<0.001",
+        "+0.405\n(0.183)\nq=1.000"
+      ],
+      [
+        "\nLog price impact\nTreatment x moderator",
+        "2 / 61",
+        "+2.485\n(0.163)\nq<0.001",
+        "+0.699\n(0.283)\nq=1.000"
+      ],
+      [
+        "\nZero-return share\nTreatment at mean",
+        "2 / 61",
+        "+0.0121\n(0.0041)\nq=0.435",
+        "-0.0032\n(0.0061)\nq=1.000"
+      ],
+      [
+        "\nZero-return share\nTreatment x moderator",
+        "2 / 61",
+        "+0.0652\n(0.0099)\nq<0.001",
+        "+0.0166\n(0.0166)\nq=1.000"
+      ]
+    ],
+    "note": "Country-cohort WLS, prior-year GDP within families. Parentheses are conditional country-influence standard errors; q is Holm-adjusted p across all 108 newly declared focal coefficients, including audience diagnostics. Each weighting pair uses identical family estimates. Family and country support may differ across rows. These are exploratory comparisons, not policy-assignment or causal-mechanism inference. Each cohort regression includes treatment, the centred moderator and their interaction. Moderator is measured in year -1 and scaled by the unweighted eligible-country standard deviation. At least two adopting and six comparison countries, full rank and three residual degrees of freedom are required. The main treatment coefficient is evaluated at the cohort mean moderator. Prior illiquidity can reflect mean reversion; regulatory quality is not policy-specific enforcement; market capitalisation/GDP is financial development, not issuer eligibility.",
+    "is_regression_table": true
+  },
+  {
+    "number": 10,
+    "title": "Cross sections: income and international openness",
+    "columns": [
+      "Outcome and coefficient",
+      "Families /\ncountry-cohort rows",
+      "Equal family\nCoefficient (SE), q",
+      "Market-cap family\nCoefficient (SE), q"
+    ],
+    "rows": [
+      [
+        "Log GDP per capita\nLog spread\nTreatment at mean",
+        "2 / 69",
+        "-0.293\n(0.480)\nq=1.000",
+        "-0.525\n(0.678)\nq=1.000"
+      ],
+      [
+        "Log GDP per capita\nLog spread\nTreatment x moderator",
+        "2 / 69",
+        "+0.391\n(0.462)\nq=1.000",
+        "+0.573\n(0.770)\nq=1.000"
+      ],
+      [
+        "Log GDP per capita\nLog price impact\nTreatment at mean",
+        "2 / 69",
+        "-0.544\n(0.149)\nq=0.062",
+        "+0.067\n(0.243)\nq=1.000"
+      ],
+      [
+        "Log GDP per capita\nLog price impact\nTreatment x moderator",
+        "2 / 69",
+        "-0.603\n(0.146)\nq=0.014",
+        "-0.429\n(0.241)\nq=1.000"
+      ],
+      [
+        "Log GDP per capita\nZero-return share\nTreatment at mean",
+        "2 / 69",
+        "-0.0288\n(0.0081)\nq=0.078",
+        "-0.0130\n(0.0119)\nq=1.000"
+      ],
+      [
+        "Log GDP per capita\nZero-return share\nTreatment x moderator",
+        "2 / 69",
+        "-0.0141\n(0.0099)\nq=1.000",
+        "-0.0081\n(0.0143)\nq=1.000"
+      ],
+      [
+        "Trade/GDP\nLog spread\nTreatment at mean",
+        "2 / 68",
+        "+0.368\n(0.164)\nq=1.000",
+        "+0.029\n(0.149)\nq=1.000"
+      ],
+      [
+        "Trade/GDP\nLog spread\nTreatment x moderator",
+        "2 / 68",
+        "+0.532\n(0.210)\nq=1.000",
+        "+0.261\n(0.254)\nq=1.000"
+      ],
+      [
+        "Trade/GDP\nLog price impact\nTreatment at mean",
+        "2 / 68",
+        "+3.707\n(0.105)\nq<0.001",
+        "+1.093\n(0.179)\nq<0.001"
+      ],
+      [
+        "Trade/GDP\nLog price impact\nTreatment x moderator",
+        "2 / 68",
+        "+5.608\n(0.065)\nq<0.001",
+        "+1.456\n(0.117)\nq<0.001"
+      ],
+      [
+        "Trade/GDP\nZero-return share\nTreatment at mean",
+        "2 / 68",
+        "+0.0905\n(0.0032)\nq<0.001",
+        "+0.0194\n(0.0046)\nq=0.010"
+      ],
+      [
+        "Trade/GDP\nZero-return share\nTreatment x moderator",
+        "2 / 68",
+        "+0.1575\n(0.0050)\nq<0.001",
+        "+0.0463\n(0.0077)\nq<0.001"
+      ]
+    ],
+    "note": "Country-cohort WLS, prior-year GDP within families. Parentheses are conditional country-influence standard errors; q is Holm-adjusted p across all 108 newly declared focal coefficients, including audience diagnostics. Each weighting pair uses identical family estimates. Family and country support may differ across rows. These are exploratory comparisons, not policy-assignment or causal-mechanism inference. Income and openness enter separate interaction regressions. Each includes the moderator main effect. Timing, scaling and support requirements are the same as Tables 7-9. These country moderators cannot substitute for missing firm information-environment variables such as analyst following or institutional ownership.",
+    "is_regression_table": true
+  },
+  {
+    "number": 11,
+    "title": "Matched-country liquidity comparisons",
+    "columns": [
+      "Outcome and coefficient",
+      "Families /\ncountry-cohort rows",
+      "Equal family\nCoefficient (SE), q",
+      "Market-cap family\nCoefficient (SE), q"
+    ],
+    "rows": [
+      [
+        "Eligible, unmatched\nLog spread\nTreatment",
+        "4 / 132",
+        "-0.073\n(0.061)\nq=1.000",
+        "-0.074\n(0.059)\nq=1.000"
+      ],
+      [
+        "Eligible, unmatched\nLog price impact\nTreatment",
+        "4 / 132",
+        "+0.056\n(0.109)\nq=1.000",
+        "+0.048\n(0.097)\nq=1.000"
+      ],
+      [
+        "Eligible, unmatched\nZero-return share\nTreatment",
+        "4 / 132",
+        "-0.0019\n(0.0063)\nq=1.000",
+        "-0.0015\n(0.0060)\nq=1.000"
+      ],
+      [
+        "Three nearest controls\nLog spread\nTreatment",
+        "4 / 100",
+        "-0.126\n(0.067)\nq=1.000",
+        "-0.115\n(0.065)\nq=1.000"
+      ],
+      [
+        "Three nearest controls\nLog price impact\nTreatment",
+        "4 / 100",
+        "-0.052\n(0.114)\nq=1.000",
+        "-0.035\n(0.101)\nq=1.000"
+      ],
+      [
+        "Three nearest controls\nZero-return share\nTreatment",
+        "4 / 100",
+        "-0.0040\n(0.0062)\nq=1.000",
+        "-0.0028\n(0.0059)\nq=1.000"
+      ]
+    ],
+    "note": "Country-cohort WLS, prior-year GDP within families. Parentheses are conditional country-influence standard errors; q is Holm-adjusted p across all 108 newly declared focal coefficients, including audience diagnostics. Each weighting pair uses identical family estimates. Family and country support may differ across rows. These are exploratory comparisons, not policy-assignment or causal-mechanism inference. Each adopting country is matched to three documented not-yet-treated countries within the same cohort using Mahalanobis distances in prior income, trade/GDP and all three pre-policy liquidity levels. Controls can be reused. Distances use no future outcome values, but the complete-outcome sample is conditional on future availability. Matching uncertainty is not included. Balance statistics are shown below; residual imbalance is not declared solved.",
+    "is_regression_table": true,
+    "panels": [
+      {
+        "title": "Matching balance: mean absolute standardised differences across supported cohorts",
+        "columns": [
+          "Covariate",
+          "Before",
+          "After",
+          "After > 0.25"
+        ],
+        "rows": [
+          [
+            "ln_gdp_pc",
+            "1.346",
+            "1.195",
+            "83.3%"
+          ],
+          [
+            "log_impact_pre",
+            "0.497",
+            "0.211",
+            "33.3%"
+          ],
+          [
+            "log_spread_pre",
+            "0.867",
+            "0.428",
+            "66.7%"
+          ],
+          [
+            "trade_gdp_pct",
+            "0.514",
+            "0.433",
+            "66.7%"
+          ],
+          [
+            "zero_fraction_pre",
+            "0.779",
+            "0.681",
+            "66.7%"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "number": 12,
+    "title": "Dynamics and pre-policy comparisons",
+    "columns": [
+      "Outcome / event year",
+      "Families",
+      "Equal family\nCoefficient (SE)",
+      "Market-cap family\nCoefficient (SE)"
+    ],
+    "rows": [
+      [
+        "Log spread\nYear -3",
+        "5",
+        "+0.1491\n(0.0570)",
+        "+0.1883\n(0.0666)"
+      ],
+      [
+        "Log spread\nYear -2",
+        "5",
+        "+0.0937\n(0.0210)",
+        "+0.1363\n(0.0272)"
+      ],
+      [
+        "Log spread\nYear +0",
+        "5",
+        "-0.0044\n(0.0519)",
+        "-0.0275\n(0.0345)"
+      ],
+      [
+        "Log spread\nYear +1",
+        "5",
+        "-0.0435\n(0.0637)",
+        "-0.0487\n(0.0694)"
+      ],
+      [
+        "Log spread\nYear +2",
+        "5",
+        "-0.1596\n(0.0475)",
+        "-0.1101\n(0.0600)"
+      ],
+      [
+        "Log spread\nYear +3",
+        "5",
+        "-0.1973\n(0.0432)",
+        "-0.1585\n(0.0586)"
+      ],
+      [
+        "Log price impact\nYear -3",
+        "5",
+        "+0.0085\n(0.0634)",
+        "-0.0027\n(0.0631)"
+      ],
+      [
+        "Log price impact\nYear -2",
+        "5",
+        "+0.0118\n(0.0302)",
+        "+0.0108\n(0.0366)"
+      ],
+      [
+        "Log price impact\nYear +0",
+        "5",
+        "-0.0138\n(0.0290)",
+        "-0.0476\n(0.0317)"
+      ],
+      [
+        "Log price impact\nYear +1",
+        "5",
+        "+0.0476\n(0.0501)",
+        "-0.0076\n(0.0654)"
+      ],
+      [
+        "Log price impact\nYear +2",
+        "5",
+        "-0.0052\n(0.0534)",
+        "-0.0375\n(0.0605)"
+      ],
+      [
+        "Log price impact\nYear +3",
+        "5",
+        "-0.0425\n(0.0509)",
+        "-0.1250\n(0.0613)"
+      ],
+      [
+        "Zero-return share\nYear -3",
+        "5",
+        "+0.0094\n(0.0022)",
+        "+0.0027\n(0.0019)"
+      ],
+      [
+        "Zero-return share\nYear -2",
+        "5",
+        "+0.0038\n(0.0017)",
+        "+0.0017\n(0.0018)"
+      ],
+      [
+        "Zero-return share\nYear +0",
+        "5",
+        "-0.0013\n(0.0022)",
+        "-0.0044\n(0.0023)"
+      ],
+      [
+        "Zero-return share\nYear +1",
+        "5",
+        "-0.0032\n(0.0023)",
+        "-0.0050\n(0.0026)"
+      ],
+      [
+        "Zero-return share\nYear +2",
+        "5",
+        "-0.0027\n(0.0028)",
+        "-0.0056\n(0.0028)"
+      ],
+      [
+        "Zero-return share\nYear +3",
+        "5",
+        "-0.0065\n(0.0031)",
+        "-0.0090\n(0.0033)"
+      ]
+    ],
+    "note": "Fixed company sample in years -3 through +3; year -1 is the omitted reference. Public-disclosure families only. GDP within families. Pointwise conditional country standard errors are in parentheses. The joint lead test evaluates years -3 and -2 together; neither rejection nor nonrejection establishes the size of post-policy trend violations. The seven-year sample differs from the primary shorter-window sample.",
+    "is_regression_table": true,
+    "panels": [
+      {
+        "title": "Joint lead p-values",
+        "columns": [
+          "Outcome",
+          "Equal family",
+          "Market-cap family"
+        ],
+        "rows": [
+          [
+            "Log spread",
+            "0.0005",
+            "0.0005"
+          ],
+          [
+            "Log price impact",
+            "0.9025",
+            "0.9460"
+          ],
+          [
+            "Zero-return share",
+            "0.0005",
+            "0.3170"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "number": 13,
+    "title": "Policy diffusion: reference-style logit",
+    "columns": [
+      "Model and mechanism",
+      "Rows / countries /\nfamilies",
+      "Equal family\nOdds ratio [95% CI]",
+      "Market-cap family\nOdds ratio [95% CI]"
+    ],
+    "rows": [
+      [
+        "Separate: Competition",
+        "252 / 9 / 4",
+        "Not estimated\nnot estimated insufficient support",
+        "Not estimated\nnot estimated insufficient support"
+      ],
+      [
+        "Separate: Learning",
+        "724 / 25 / 3",
+        "Not estimated\nunstable withheld",
+        "Not estimated\nunstable withheld"
+      ],
+      [
+        "Separate: Emulation",
+        "882 / 20 / 7",
+        "Not estimated\nunstable withheld",
+        "Not estimated\nunstable withheld"
+      ],
+      [
+        "Separate: External finance",
+        "420 / 14 / 4",
+        "Not estimated\nnot estimated insufficient support",
+        "Not estimated\nnot estimated insufficient support"
+      ],
+      [
+        "Joint: Competition",
+        "0 / 0 / 0",
+        "Not estimated\nnot estimated insufficient support",
+        "Not estimated\nnot estimated insufficient support"
+      ],
+      [
+        "Joint: Learning",
+        "0 / 0 / 0",
+        "Not estimated\nnot estimated insufficient support",
+        "Not estimated\nnot estimated insufficient support"
+      ],
+      [
+        "Joint: Emulation",
+        "0 / 0 / 0",
+        "Not estimated\nnot estimated insufficient support",
+        "Not estimated\nnot estimated insufficient support"
+      ],
+      [
+        "Joint: External finance",
+        "0 / 0 / 0",
+        "Not estimated\nnot estimated insufficient support",
+        "Not estimated\nnot estimated insufficient support"
+      ]
+    ],
+    "note": "Adoption-status logit, family and year effects, independent focal decisions and lagged signals. Public-disclosure liquidity-supported family set; equal/cap likelihood mass divided by usable family rows. Competition and language shares are per ten percentage points, learning binary and external finance per one percentage point of GDP. Failed or unsupported fits remain explicit. The entire 104-attempt sensitivity matrix and adjusted p-values accompany the paper. Status associations are not first-adoption hazards or causal contagion.",
+    "is_regression_table": false,
+    "is_regression_support_diagnostic": true
+  },
+  {
+    "number": 14,
+    "title": "Policy diffusion: within-country adoption status",
+    "columns": [
+      "Model / sample",
+      "Country-family + year\nEqual",
+      "Country-family + year\nMarket-cap",
+      "Country-family + family-year\nEqual",
+      "Country-family + family-year\nMarket-cap"
+    ],
+    "rows": [
+      [
+        "Separate: Competition\nN=1,324; C=45; F=5",
+        "+0.025\n(0.013)\nq=1.000",
+        "+0.041\n(0.010)\nq=0.016",
+        "-0.035\n(0.017)\nq=1.000",
+        "-0.044\n(0.019)\nq=1.000"
+      ],
+      [
+        "Separate: Learning\nN=2,330; C=60; F=4",
+        "+0.068\n(0.042)\nq=1.000",
+        "+0.074\n(0.043)\nq=1.000",
+        "-0.016\n(0.035)\nq=1.000",
+        "-0.007\n(0.037)\nq=1.000"
+      ],
+      [
+        "Separate: Emulation\nN=2,150; C=45; F=8",
+        "+0.066\n(0.012)\nq<0.001",
+        "+0.077\n(0.011)\nq<0.001",
+        "-0.084\n(0.033)\nq=0.764",
+        "-0.044\n(0.044)\nq=1.000"
+      ],
+      [
+        "Separate: External finance\nN=1,410; C=38; F=6",
+        "+0.006\n(0.005)\nq=1.000",
+        "-0.002\n(0.008)\nq=1.000",
+        "+3.42e-04\n(0.002)\nq=1.000",
+        "+2.35e-04\n(0.005)\nq=1.000"
+      ],
+      [
+        "Joint: Competition\nN=432; C=18; F=1",
+        "Not estimated",
+        "Not estimated",
+        "Not estimated",
+        "Not estimated"
+      ],
+      [
+        "Joint: Learning\nN=432; C=18; F=1",
+        "Not estimated",
+        "Not estimated",
+        "Not estimated",
+        "Not estimated"
+      ],
+      [
+        "Joint: Emulation\nN=432; C=18; F=1",
+        "Not estimated",
+        "Not estimated",
+        "Not estimated",
+        "Not estimated"
+      ],
+      [
+        "Joint: External finance\nN=432; C=18; F=1",
+        "Not estimated",
+        "Not estimated",
+        "Not estimated",
+        "Not estimated"
+      ]
+    ],
+    "note": "Weighted linear probability models. N denotes country-family-year rows; C countries; F families. Cells show coefficient, country-clustered SE and q across all 64 planned coefficient attempts. Predictor units match Table 13. The outcome is whether the policy is in place (Table 14) or first adoption while still at risk (Table 15). Country-family effects remove persistent national policy-family differences; family-year effects additionally absorb common family adoption waves. Adding family-year effects was declared after initial within-year results were seen; both designs and every coefficient are retained. LPM coefficients are probability-point associations and can imply out-of-range fitted probabilities. They are not odds ratios or causal peer effects.",
+    "is_regression_table": true
+  },
+  {
+    "number": 15,
+    "title": "Policy diffusion: first-adoption timing",
+    "columns": [
+      "Model / sample",
+      "Country-family + year\nEqual",
+      "Country-family + year\nMarket-cap",
+      "Country-family + family-year\nEqual",
+      "Country-family + family-year\nMarket-cap"
+    ],
+    "rows": [
+      [
+        "Separate: Competition\nN=1,219; C=45; F=5",
+        "+0.010\n(0.006)\nq=1.000",
+        "+0.020\n(0.007)\nq=0.599",
+        "+0.007\n(0.005)\nq=1.000",
+        "+0.010\n(0.007)\nq=1.000"
+      ],
+      [
+        "Separate: Learning\nN=1,908; C=60; F=4",
+        "+0.006\n(0.056)\nq=1.000",
+        "+2.78e-05\n(0.058)\nq=1.000",
+        "-0.034\n(0.047)\nq=1.000",
+        "-0.059\n(0.050)\nq=1.000"
+      ],
+      [
+        "Separate: Emulation\nN=1,771; C=45; F=8",
+        "+0.029\n(0.007)\nq=0.016",
+        "+0.040\n(0.006)\nq<0.001",
+        "+0.021\n(0.024)\nq=1.000",
+        "+0.017\n(0.021)\nq=1.000"
+      ],
+      [
+        "Separate: External finance\nN=1,279; C=38; F=6",
+        "+0.002\n(0.001)\nq=1.000",
+        "+3.39e-05\n(0.003)\nq=1.000",
+        "-0.001\n(0.001)\nq=1.000",
+        "-0.002\n(0.003)\nq=1.000"
+      ],
+      [
+        "Joint: Competition\nN=432; C=18; F=1",
+        "Not estimated",
+        "Not estimated",
+        "Not estimated",
+        "Not estimated"
+      ],
+      [
+        "Joint: Learning\nN=432; C=18; F=1",
+        "Not estimated",
+        "Not estimated",
+        "Not estimated",
+        "Not estimated"
+      ],
+      [
+        "Joint: Emulation\nN=432; C=18; F=1",
+        "Not estimated",
+        "Not estimated",
+        "Not estimated",
+        "Not estimated"
+      ],
+      [
+        "Joint: External finance\nN=432; C=18; F=1",
+        "Not estimated",
+        "Not estimated",
+        "Not estimated",
+        "Not estimated"
+      ]
+    ],
+    "note": "Weighted linear probability models. N denotes country-family-year rows; C countries; F families. Cells show coefficient, country-clustered SE and q across all 64 planned coefficient attempts. Predictor units match Table 13. The outcome is whether the policy is in place (Table 14) or first adoption while still at risk (Table 15). Country-family effects remove persistent national policy-family differences; family-year effects additionally absorb common family adoption waves. Adding family-year effects was declared after initial within-year results were seen; both designs and every coefficient are retained. LPM coefficients are probability-point associations and can imply out-of-range fitted probabilities. They are not odds ratios or causal peer effects.",
+    "is_regression_table": true
+  }
+]

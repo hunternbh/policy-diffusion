@@ -1,0 +1,150 @@
+{
+  "frozen_at": "2026-10-22T02:07:14.078823+00:00",
+  "client_date": "2026-10-21",
+  "status": "Retrospective extension. All prior results known. New cross-sectional decisions recorded before new fits; not prospective preregistration.",
+  "reference_writing_notes": "literature/Dube-Zhu-writing-logic.json",
+  "data_root": "C:\\Users\\hia_n\\Desktop\\policy-diffusion",
+  "primary_calendar": "26-adoption-weighting-and-design-audit/2026-10-19/data/reviewed-policy-calendar.csv; reviewed_G",
+  "primary_population": "Country market exposure; not all legally covered issuers. Documented phase histories, not a verified global nonadoption census.",
+  "primary_inference": "Country score/influence sampling diagnostics, fixed-calendar and fixed-match conditional; legal-wave uncertainty and endogenous adoption remain.",
+  "country_sample": "At least 30 complete companies per country; fixed pre-policy largest-market-cap share line per vendor company; all three outcomes observed; documented not-yet-treated controls through endpoint.",
+  "new_regression_support": "At least 2 adopting and 6 comparison countries, full rank, at least 3 residual df for interactions. Controls need 1 adopting and 3 comparison countries, full rank and at least 3 residual df.",
+  "moderators": [
+    "pre-own-outcome",
+    "reg_quality",
+    "stock_market_cap_gdp_pct",
+    "ln_gdp_pc",
+    "trade_gdp_pct"
+  ],
+  "moderator_timing": "g-1 only. WGI contemporary revised vintage, not real-time information. No post-policy moderator or zero filling.",
+  "heterogeneity_unit": "One unweighted eligible-country standard deviation, centred within cohort. Main treatment term is at cohort mean moderator; composition can differ across moderators.",
+  "matching": "Distance uses pre-policy variables only on complete fixed-company samples. Covariance regularised by 1e-6 times trace/p; choose three nearest controls per adopting country with replacement. No outcome-driven caliper. Matching does not cure nonrandom regulation or guarantee balance.",
+  "tables": [
+    {
+      "id": "R1",
+      "title": "Main liquidity",
+      "design": "Existing reviewed following-year and years 1-3, three outcomes, GDP within families, both family weights."
+    },
+    {
+      "id": "R2",
+      "title": "Country controls on identical samples",
+      "design": "Re-estimate cohort WLS with and without prior log GDP per capita, GDP growth and trade/GDP; freeze eligible rows before paired fits."
+    },
+    {
+      "id": "R3",
+      "title": "Family-level liquidity",
+      "design": "All 13 supported following-year families, all three outcomes, no sign screening."
+    },
+    {
+      "id": "R4",
+      "title": "Disclosure audience",
+      "design": "Public-disclosure, confidential-tax and other-family averages plus formal public-minus-confidential contrast using shared country covariance; interpret as cross-family heterogeneity."
+    },
+    {
+      "id": "R5",
+      "title": "Prior liquidity",
+      "design": "Cohort WLS on treatment, centred pre-policy own-outcome, and interaction. Moderator scaled by unweighted country SD in each cohort."
+    },
+    {
+      "id": "R6",
+      "title": "Regulatory quality",
+      "design": "Treatment interaction with pre-policy WGI regulatory quality; a broad institutional proxy, not policy-specific enforcement."
+    },
+    {
+      "id": "R7",
+      "title": "Financial development",
+      "design": "Treatment interaction with pre-policy stock-market capitalisation/GDP; missing is not zero."
+    },
+    {
+      "id": "R8",
+      "title": "Income and openness",
+      "design": "Separate interactions with prior log GDP per capita and trade/GDP."
+    },
+    {
+      "id": "R9",
+      "title": "Matched-country comparisons",
+      "design": "Mahalanobis distances from pre-policy log GDP per capita, trade/GDP and all three liquidity levels. Three nearest documented comparison countries, with replacement. Report balance, attrition and conditional uncertainty."
+    },
+    {
+      "id": "R10",
+      "title": "Event dynamics",
+      "design": "All balanced-sample event coefficients and joint pre-policy diagnostics, same seven-year company cohorts."
+    },
+    {
+      "id": "R11",
+      "title": "Diffusion logit",
+      "design": "Preserve separate and joint JIBS-aligned status models, both weights and unstable fits."
+    },
+    {
+      "id": "R12",
+      "title": "Diffusion with country-family effects",
+      "design": "Linear probability association models with country-family and year effects; separate and joint predictors, both weights; no claim of causality or substitute for failed logit chosen by sign."
+    }
+  ],
+  "selection": "Retain all planned coefficients, unsupported cells and failed fits. No model or moderator chosen for sign or significance.",
+  "multiplicity": "Holm over all newly attempted focal controlled, heterogeneity, matching and audience contrasts (unsupported cells padded with p=1); primary 12 and existing matrices remain separately labelled. LPM family has its own all-attempted correction.",
+  "censor": "Exclude USA beneficial-ownership and DEU supply-chain observations if outcome window ends in or after 2025, consistently with prior history audit.",
+  "public_disclosure_scope": [
+    "AUDIT_REPORTING",
+    "CBCR_BANK_PUBLIC",
+    "CBCR_PUBLIC",
+    "CLIMATE_DISCLOSURE",
+    "ESG_MANDATORY_REVIEWED",
+    "EXTRACTIVE_PAYMENTS",
+    "IFRS",
+    "SUPPLY_CHAIN",
+    "SUSTAINABILITY_FINANCIAL",
+    "XBRL"
+  ],
+  "no_replication_claim": "Country aggregates cannot reproduce reference firm financial controls or industry-year effects. Language is not the JIBS Berry cultural-distance measure.",
+  "journal_readiness": "Table count and prose quality do not establish publishability. Assess identification, scope, legal timing, mechanism discrimination and independent reproducibility before calling submission-ready.",
+  "family_wave_sensitivity_addendum": {
+    "recorded_at": "2026-10-22T02:27:54.523161+00:00",
+    "prior_extension_results_seen": true,
+    "reason": "Country-family plus year effects may leave common family-specific adoption waves in language and learning associations. Add country-family plus family-year effects for every outcome, predictor set and weight, without selecting by result. Retain both designs and adjust across all 64 attempts."
+  },
+  "headline_families": [
+    "AUDIT_REPORTING",
+    "CBCR_BANK_PUBLIC",
+    "CBCR_PUBLIC",
+    "CLIMATE_DISCLOSURE",
+    "ESG_MANDATORY_REVIEWED",
+    "EXTRACTIVE_PAYMENTS",
+    "IFRS",
+    "SUPPLY_CHAIN",
+    "SUSTAINABILITY_FINANCIAL",
+    "XBRL"
+  ],
+  "all_disclosure_families": [
+    "AUDIT_REPORTING",
+    "CBCR_BANK_PUBLIC",
+    "CBCR_PUBLIC",
+    "CLIMATE_DISCLOSURE",
+    "ESG_MANDATORY_REVIEWED",
+    "EXTRACTIVE_PAYMENTS",
+    "IFRS",
+    "SUPPLY_CHAIN",
+    "SUSTAINABILITY_FINANCIAL",
+    "XBRL",
+    "CBCR_CONFIDENTIAL"
+  ],
+  "user_scope_clarification": {
+    "recorded_at": "2026-10-22T02:22:51.300052+00:00",
+    "user_request": "Interested in all disclosure regulations and whether in general there is a liquidity effect. User asked our recommendation on public versus confidential.",
+    "recommended_primary": "All ten identified public-disclosure families, subject to common data requirements.",
+    "secondary": "Combined public and confidential disclosure pool, confidential separately, and original 17-family sensitivity.",
+    "reason": "Public information is the direct investor-information mechanism. Confidential reports are a different audience and are not a placebo. Auditor institutions/rotation, broad governance codes, beneficial-owner registers and digital authorisation categories are not consistently new listed-company reporting requirements. Scope is not chosen by estimated sign.",
+    "broader_results_preserved": true
+  },
+  "numerical_support_clarification": {
+    "rule": "Withhold FE models with effectively zero residualised outcome variance, rank deficiency at numerical tolerance, nonfinite or zero clustered standard errors. Calculate absorbed df from actual FE graph connected components.",
+    "reason": "An absorbed outcome or zero numerical variance is not an estimated null effect; all failed cells remain listed."
+  },
+  "table_presentation": {
+    "total": 15,
+    "estimated_regression_tables": 12,
+    "regression_support_diagnostic": 1,
+    "sample_and_institutional_tables": 2,
+    "note": "The reference-style public-sample logit table is a support diagnostic because none of the attempted models is stable; it is not counted as one of the twelve tables containing estimated regression coefficients."
+  }
+}

@@ -1,0 +1,36 @@
+[
+  {
+    "file": "Christensen-Hail-Leuz-2016.pdf",
+    "url": "https://www.nber.org/papers/w16737.pdf",
+    "bytes": 430601,
+    "sha256": "2fc6c47c0193827f8a0370f39a3c972f871f459475e19856a085ab5c31727443",
+    "status": "preserved"
+  },
+  {
+    "file": "Simmons-Elkins-2004.pdf",
+    "url": "https://dash.harvard.edu/bitstreams/7312037c-7061-6bd4-e053-0100007fdf3b/download",
+    "status": "unavailable",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "file": "Sun-Abraham-working-paper.pdf",
+    "url": "https://lsun20.github.io/event_studies_paper.pdf",
+    "bytes": 869227,
+    "sha256": "9cb6eb28ffaae608faddb57f84ea3131076cb0530a34d9a3e964dbbcc283ea23",
+    "status": "preserved"
+  },
+  {
+    "file": "Roth-et-al-2023.pdf",
+    "url": "https://www.jonathandroth.com/assets/files/DiD_Review_Paper.pdf",
+    "bytes": 513256,
+    "sha256": "b46aa8405e8e2534e636b4df250b40f7aae52e12d4d85b3ef34588c62aeb3dee",
+    "status": "preserved"
+  },
+  {
+    "file": "Baker-Larcker-Wang-2022.pdf",
+    "url": "https://dash.harvard.edu/server/api/core/bitstreams/fe5cc546-b8e9-4814-8d3a-06af82c77845/content",
+    "bytes": 25313344,
+    "sha256": "37eff077895cc28bc1c976c288901dee7bff4f06a3e80862f05c50736e1bbc85",
+    "status": "preserved"
+  }
+]

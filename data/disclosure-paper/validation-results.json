@@ -1,0 +1,5043 @@
+{
+  "validated_at": "2026-10-22T02:44:47.535210+00:00",
+  "checks": 973,
+  "passed": 973,
+  "independent_WLS_models": 315,
+  "independent_cohort_coefficients": 1005,
+  "independent_dense_FE_models": 32,
+  "maximum_WLS_coefficient_error": 7.815970093361102e-13,
+  "maximum_dense_FE_coefficient_or_SE_error": 2.308847557586091e-13,
+  "limitations": "These checks establish numerical reconstruction and declared support. They do not validate causal identification, completeness of historical nonadoption or global issuer eligibility.",
+  "details": [
+    {
+      "check": "Public scope includes ten named families; confidential excluded",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct main M001",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Public membership M001",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Equal weight M001",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct main M002",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Public membership M002",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Pre-policy cap weight M002",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct main M003",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Equal weight M003",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct main M004",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Pre-policy cap weight M004",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct main M005",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Equal weight M005",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct main M006",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Pre-policy cap weight M006",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct main M007",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Public membership M007",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Equal weight M007",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct main M008",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Public membership M008",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Pre-policy cap weight M008",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct main M009",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Equal weight M009",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct main M010",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Pre-policy cap weight M010",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct main M011",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Equal weight M011",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct main M012",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Pre-policy cap weight M012",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct main M013",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Public membership M013",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Equal weight M013",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct main M014",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Public membership M014",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Pre-policy cap weight M014",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct main M015",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Equal weight M015",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct main M016",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Pre-policy cap weight M016",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct main M017",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Equal weight M017",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct main M018",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Pre-policy cap weight M018",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct main M019",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Public membership M019",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Equal weight M019",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct main M020",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Public membership M020",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Pre-policy cap weight M020",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct main M021",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Equal weight M021",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct main M022",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Pre-policy cap weight M022",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct main M023",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Equal weight M023",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct main M024",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Pre-policy cap weight M024",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct main M025",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Public membership M025",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Equal weight M025",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct main M026",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Public membership M026",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Pre-policy cap weight M026",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct main M027",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Equal weight M027",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct main M028",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Pre-policy cap weight M028",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct main M029",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Equal weight M029",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct main M030",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Pre-policy cap weight M030",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct main M031",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Public membership M031",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Equal weight M031",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct main M032",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Public membership M032",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Pre-policy cap weight M032",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct main M033",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Equal weight M033",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct main M034",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Pre-policy cap weight M034",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct main M035",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Equal weight M035",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct main M036",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Pre-policy cap weight M036",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_ln_gdp_pcAUDIT_OVERSIGHT2004log_impact",
+      "passed": true,
+      "detail": 9.769962616701378e-15
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_OVERSIGHT2004log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_ln_gdp_pcAUDIT_OVERSIGHT2004log_spread",
+      "passed": true,
+      "detail": 8.43769498715119e-15
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_OVERSIGHT2004log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_ln_gdp_pcAUDIT_OVERSIGHT2004zero_fraction",
+      "passed": true,
+      "detail": 1.3322676295501878e-15
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_OVERSIGHT2004zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_ln_gdp_pcCBCR_BANK_PUBLIC2014log_impact",
+      "passed": true,
+      "detail": 8.326672684688674e-16
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_BANK_PUBLIC2014log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_ln_gdp_pcCBCR_BANK_PUBLIC2014log_spread",
+      "passed": true,
+      "detail": 3.552713678800501e-15
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_BANK_PUBLIC2014log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_ln_gdp_pcCBCR_BANK_PUBLIC2014zero_fraction",
+      "passed": true,
+      "detail": 1.1709383462843448e-16
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_BANK_PUBLIC2014zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_ln_gdp_pcCBCR_CONFIDENTIAL2016log_impact",
+      "passed": true,
+      "detail": 1.3877787807814457e-15
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2016log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_ln_gdp_pcCBCR_CONFIDENTIAL2016log_spread",
+      "passed": true,
+      "detail": 4.996003610813204e-16
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2016log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_ln_gdp_pcCBCR_CONFIDENTIAL2016zero_fraction",
+      "passed": true,
+      "detail": 1.1102230246251565e-16
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2016zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_ln_gdp_pcCBCR_CONFIDENTIAL2017log_impact",
+      "passed": true,
+      "detail": 2.498001805406602e-16
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2017log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_ln_gdp_pcCBCR_CONFIDENTIAL2017log_spread",
+      "passed": true,
+      "detail": 1.8041124150158794e-16
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2017log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_ln_gdp_pcCBCR_CONFIDENTIAL2017zero_fraction",
+      "passed": true,
+      "detail": 5.4860629927766524e-17
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2017zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_ln_gdp_pcESG_MANDATORY_REVIEWED2012log_impact",
+      "passed": true,
+      "detail": 1.1324274851176597e-14
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2012log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_ln_gdp_pcESG_MANDATORY_REVIEWED2012log_spread",
+      "passed": true,
+      "detail": 3.802513859341161e-15
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2012log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_ln_gdp_pcESG_MANDATORY_REVIEWED2012zero_fraction",
+      "passed": true,
+      "detail": 4.371503159461554e-16
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2012zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_pre_own_outcomeAUDIT_OVERSIGHT2004log_impact",
+      "passed": true,
+      "detail": 7.993605777301127e-15
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_OVERSIGHT2004log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_pre_own_outcomeAUDIT_OVERSIGHT2004log_spread",
+      "passed": true,
+      "detail": 1.7229273563401648e-14
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_OVERSIGHT2004log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_pre_own_outcomeAUDIT_OVERSIGHT2004zero_fraction",
+      "passed": true,
+      "detail": 1.3183898417423734e-16
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_OVERSIGHT2004zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_pre_own_outcomeCBCR_BANK_PUBLIC2014log_impact",
+      "passed": true,
+      "detail": 2.498001805406602e-16
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_BANK_PUBLIC2014log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_pre_own_outcomeCBCR_BANK_PUBLIC2014log_spread",
+      "passed": true,
+      "detail": 4.2847669856627135e-16
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_BANK_PUBLIC2014log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_pre_own_outcomeCBCR_BANK_PUBLIC2014zero_fraction",
+      "passed": true,
+      "detail": 9.172350379227368e-17
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_BANK_PUBLIC2014zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_pre_own_outcomeCBCR_CONFIDENTIAL2016log_impact",
+      "passed": true,
+      "detail": 1.942890293094024e-15
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2016log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_pre_own_outcomeCBCR_CONFIDENTIAL2016log_spread",
+      "passed": true,
+      "detail": 6.661338147750939e-16
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2016log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_pre_own_outcomeCBCR_CONFIDENTIAL2016zero_fraction",
+      "passed": true,
+      "detail": 7.28583859910259e-17
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2016zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_pre_own_outcomeCBCR_CONFIDENTIAL2017log_impact",
+      "passed": true,
+      "detail": 2.7755575615628914e-16
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2017log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_pre_own_outcomeCBCR_CONFIDENTIAL2017log_spread",
+      "passed": true,
+      "detail": 1.5959455978986625e-16
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2017log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_pre_own_outcomeCBCR_CONFIDENTIAL2017zero_fraction",
+      "passed": true,
+      "detail": 1.1796119636642288e-16
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2017zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_pre_own_outcomeESG_MANDATORY_REVIEWED2012log_impact",
+      "passed": true,
+      "detail": 2.7755575615628914e-17
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2012log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_pre_own_outcomeESG_MANDATORY_REVIEWED2012log_spread",
+      "passed": true,
+      "detail": 1.942890293094024e-15
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2012log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_pre_own_outcomeESG_MANDATORY_REVIEWED2012zero_fraction",
+      "passed": true,
+      "detail": 7.849623728795052e-17
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2012zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_reg_qualityAUDIT_OVERSIGHT2004log_impact",
+      "passed": true,
+      "detail": 6.661338147750939e-16
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_OVERSIGHT2004log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_reg_qualityAUDIT_OVERSIGHT2004log_spread",
+      "passed": true,
+      "detail": 3.3306690738754696e-16
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_OVERSIGHT2004log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_reg_qualityAUDIT_OVERSIGHT2004zero_fraction",
+      "passed": true,
+      "detail": 1.8735013540549517e-16
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_OVERSIGHT2004zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_reg_qualityCBCR_BANK_PUBLIC2014log_impact",
+      "passed": true,
+      "detail": 3.0531133177191805e-16
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_BANK_PUBLIC2014log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_reg_qualityCBCR_BANK_PUBLIC2014log_spread",
+      "passed": true,
+      "detail": 4.996003610813204e-16
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_BANK_PUBLIC2014log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_reg_qualityCBCR_BANK_PUBLIC2014zero_fraction",
+      "passed": true,
+      "detail": 7.155734338404329e-17
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_BANK_PUBLIC2014zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_reg_qualityCBCR_CONFIDENTIAL2016log_impact",
+      "passed": true,
+      "detail": 1.457167719820518e-15
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2016log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_reg_qualityCBCR_CONFIDENTIAL2016log_spread",
+      "passed": true,
+      "detail": 8.187894806610529e-16
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2016log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_reg_qualityCBCR_CONFIDENTIAL2016zero_fraction",
+      "passed": true,
+      "detail": 6.245004513516506e-17
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2016zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_reg_qualityCBCR_CONFIDENTIAL2017log_impact",
+      "passed": true,
+      "detail": 4.718447854656915e-16
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2017log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_reg_qualityCBCR_CONFIDENTIAL2017log_spread",
+      "passed": true,
+      "detail": 1.3877787807814457e-16
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2017log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_reg_qualityCBCR_CONFIDENTIAL2017zero_fraction",
+      "passed": true,
+      "detail": 7.979727989493313e-17
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2017zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_reg_qualityESG_MANDATORY_REVIEWED2012log_impact",
+      "passed": true,
+      "detail": 1.5987211554602254e-13
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2012log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_reg_qualityESG_MANDATORY_REVIEWED2012log_spread",
+      "passed": true,
+      "detail": 4.052314039881821e-15
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2012log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_reg_qualityESG_MANDATORY_REVIEWED2012zero_fraction",
+      "passed": true,
+      "detail": 5.3013149425851225e-15
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2012zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_stock_market_cap_gdp_pctAUDIT_OVERSIGHT2004log_impact",
+      "passed": true,
+      "detail": 1.5543122344752192e-15
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_OVERSIGHT2004log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_stock_market_cap_gdp_pctAUDIT_OVERSIGHT2004log_spread",
+      "passed": true,
+      "detail": 6.661338147750939e-16
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_OVERSIGHT2004log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_stock_market_cap_gdp_pctAUDIT_OVERSIGHT2004zero_fraction",
+      "passed": true,
+      "detail": 7.632783294297951e-17
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_OVERSIGHT2004zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_stock_market_cap_gdp_pctCBCR_BANK_PUBLIC2014log_impact",
+      "passed": true,
+      "detail": 1.6653345369377348e-16
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_BANK_PUBLIC2014log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_stock_market_cap_gdp_pctCBCR_BANK_PUBLIC2014log_spread",
+      "passed": true,
+      "detail": 3.0531133177191805e-16
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_BANK_PUBLIC2014log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_stock_market_cap_gdp_pctCBCR_BANK_PUBLIC2014zero_fraction",
+      "passed": true,
+      "detail": 7.49454751730605e-17
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_BANK_PUBLIC2014zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_stock_market_cap_gdp_pctCBCR_CONFIDENTIAL2016log_impact",
+      "passed": true,
+      "detail": 9.402201239794294e-16
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2016log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_stock_market_cap_gdp_pctCBCR_CONFIDENTIAL2016log_spread",
+      "passed": true,
+      "detail": 7.494005416219807e-16
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2016log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_stock_market_cap_gdp_pctCBCR_CONFIDENTIAL2016zero_fraction",
+      "passed": true,
+      "detail": 7.112366251504909e-17
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2016zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_stock_market_cap_gdp_pctCBCR_CONFIDENTIAL2017log_impact",
+      "passed": true,
+      "detail": 9.71445146547012e-17
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2017log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_stock_market_cap_gdp_pctCBCR_CONFIDENTIAL2017log_spread",
+      "passed": true,
+      "detail": 6.938893903907228e-17
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2017log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_stock_market_cap_gdp_pctCBCR_CONFIDENTIAL2017zero_fraction",
+      "passed": true,
+      "detail": 4.85722573273506e-17
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2017zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_stock_market_cap_gdp_pctESG_MANDATORY_REVIEWED2012log_impact",
+      "passed": true,
+      "detail": 7.105427357601002e-15
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2012log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_stock_market_cap_gdp_pctESG_MANDATORY_REVIEWED2012log_spread",
+      "passed": true,
+      "detail": 5.10702591327572e-15
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2012log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_stock_market_cap_gdp_pctESG_MANDATORY_REVIEWED2012zero_fraction",
+      "passed": true,
+      "detail": 3.885780586188048e-16
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2012zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_trade_gdp_pctAUDIT_OVERSIGHT2004log_impact",
+      "passed": true,
+      "detail": 1.8318679906315083e-15
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_OVERSIGHT2004log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_trade_gdp_pctAUDIT_OVERSIGHT2004log_spread",
+      "passed": true,
+      "detail": 6.938893903907228e-16
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_OVERSIGHT2004log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_trade_gdp_pctAUDIT_OVERSIGHT2004zero_fraction",
+      "passed": true,
+      "detail": 7.806255641895632e-17
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_OVERSIGHT2004zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_trade_gdp_pctCBCR_BANK_PUBLIC2014log_impact",
+      "passed": true,
+      "detail": 3.885780586188048e-16
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_BANK_PUBLIC2014log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_trade_gdp_pctCBCR_BANK_PUBLIC2014log_spread",
+      "passed": true,
+      "detail": 2.498001805406602e-16
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_BANK_PUBLIC2014log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_trade_gdp_pctCBCR_BANK_PUBLIC2014zero_fraction",
+      "passed": true,
+      "detail": 1.3053794156725473e-16
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_BANK_PUBLIC2014zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_trade_gdp_pctCBCR_CONFIDENTIAL2016log_impact",
+      "passed": true,
+      "detail": 5.551115123125783e-16
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2016log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_trade_gdp_pctCBCR_CONFIDENTIAL2016log_spread",
+      "passed": true,
+      "detail": 4.579669976578771e-16
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2016log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_trade_gdp_pctCBCR_CONFIDENTIAL2016zero_fraction",
+      "passed": true,
+      "detail": 1.3183898417423734e-16
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2016zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_trade_gdp_pctCBCR_CONFIDENTIAL2017log_impact",
+      "passed": true,
+      "detail": 3.3306690738754696e-16
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2017log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_trade_gdp_pctCBCR_CONFIDENTIAL2017log_spread",
+      "passed": true,
+      "detail": 1.3877787807814457e-16
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2017log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_trade_gdp_pctCBCR_CONFIDENTIAL2017zero_fraction",
+      "passed": true,
+      "detail": 7.936359902593892e-17
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2017zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_trade_gdp_pctESG_MANDATORY_REVIEWED2012log_impact",
+      "passed": true,
+      "detail": 7.815970093361102e-13
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2012log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_trade_gdp_pctESG_MANDATORY_REVIEWED2012log_spread",
+      "passed": true,
+      "detail": 1.2811973704174306e-13
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2012log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS interaction_trade_gdp_pctESG_MANDATORY_REVIEWED2012zero_fraction",
+      "passed": true,
+      "detail": 2.4369395390522186e-14
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2012zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_eligible_unmatchedAUDIT_OVERSIGHT2004log_impact",
+      "passed": true,
+      "detail": 6.661338147750939e-16
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_OVERSIGHT2004log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_eligible_unmatchedAUDIT_OVERSIGHT2004log_spread",
+      "passed": true,
+      "detail": 3.3306690738754696e-16
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_OVERSIGHT2004log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_eligible_unmatchedAUDIT_OVERSIGHT2004zero_fraction",
+      "passed": true,
+      "detail": 5.551115123125783e-17
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_OVERSIGHT2004zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_eligible_unmatchedAUDIT_REPORTING2016log_impact",
+      "passed": true,
+      "detail": 2.220446049250313e-16
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_REPORTING2016log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_eligible_unmatchedAUDIT_REPORTING2016log_spread",
+      "passed": true,
+      "detail": 6.938893903907228e-17
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_REPORTING2016log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_eligible_unmatchedAUDIT_REPORTING2016zero_fraction",
+      "passed": true,
+      "detail": 5.551115123125783e-17
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_REPORTING2016zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_eligible_unmatchedBENEFICIAL_OWNERSHIP2017log_impact",
+      "passed": true,
+      "detail": 1.1102230246251565e-16
+    },
+    {
+      "check": "Documented timing and untreated controls BENEFICIAL_OWNERSHIP2017log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_eligible_unmatchedBENEFICIAL_OWNERSHIP2017log_spread",
+      "passed": true,
+      "detail": 6.114900252818245e-17
+    },
+    {
+      "check": "Documented timing and untreated controls BENEFICIAL_OWNERSHIP2017log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_eligible_unmatchedBENEFICIAL_OWNERSHIP2017zero_fraction",
+      "passed": true,
+      "detail": 1.3183898417423734e-16
+    },
+    {
+      "check": "Documented timing and untreated controls BENEFICIAL_OWNERSHIP2017zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_eligible_unmatchedBENEFICIAL_OWNERSHIP2018log_impact",
+      "passed": true,
+      "detail": 2.220446049250313e-16
+    },
+    {
+      "check": "Documented timing and untreated controls BENEFICIAL_OWNERSHIP2018log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_eligible_unmatchedBENEFICIAL_OWNERSHIP2018log_spread",
+      "passed": true,
+      "detail": 5.551115123125783e-17
+    },
+    {
+      "check": "Documented timing and untreated controls BENEFICIAL_OWNERSHIP2018log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_eligible_unmatchedBENEFICIAL_OWNERSHIP2018zero_fraction",
+      "passed": true,
+      "detail": 5.204170427930421e-17
+    },
+    {
+      "check": "Documented timing and untreated controls BENEFICIAL_OWNERSHIP2018zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_eligible_unmatchedCBCR_BANK_PUBLIC2014log_impact",
+      "passed": true,
+      "detail": 5.551115123125783e-17
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_BANK_PUBLIC2014log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_eligible_unmatchedCBCR_BANK_PUBLIC2014log_spread",
+      "passed": true,
+      "detail": 9.71445146547012e-17
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_BANK_PUBLIC2014log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_eligible_unmatchedCBCR_BANK_PUBLIC2014zero_fraction",
+      "passed": true,
+      "detail": 5.0306980803327406e-17
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_BANK_PUBLIC2014zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_eligible_unmatchedCBCR_CONFIDENTIAL2016log_impact",
+      "passed": true,
+      "detail": 2.6055546609171643e-15
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2016log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_eligible_unmatchedCBCR_CONFIDENTIAL2016log_spread",
+      "passed": true,
+      "detail": 5.967448757360216e-16
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2016log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_eligible_unmatchedCBCR_CONFIDENTIAL2016zero_fraction",
+      "passed": true,
+      "detail": 8.315830662963819e-17
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2016zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_eligible_unmatchedCBCR_CONFIDENTIAL2017log_impact",
+      "passed": true,
+      "detail": 1.3877787807814457e-16
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2017log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_eligible_unmatchedCBCR_CONFIDENTIAL2017log_spread",
+      "passed": true,
+      "detail": 4.163336342344337e-17
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2017log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_eligible_unmatchedCBCR_CONFIDENTIAL2017zero_fraction",
+      "passed": true,
+      "detail": 8.500145032286355e-17
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2017zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_eligible_unmatchedCBCR_CONFIDENTIAL2018log_impact",
+      "passed": true,
+      "detail": 2.220446049250313e-16
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2018log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_eligible_unmatchedCBCR_CONFIDENTIAL2018log_spread",
+      "passed": true,
+      "detail": 4.85722573273506e-17
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2018log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_eligible_unmatchedCBCR_CONFIDENTIAL2018zero_fraction",
+      "passed": true,
+      "detail": 3.642919299551295e-17
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2018zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_eligible_unmatchedCBCR_CONFIDENTIAL2019log_impact",
+      "passed": true,
+      "detail": 1.6653345369377348e-16
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2019log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_eligible_unmatchedCBCR_CONFIDENTIAL2019log_spread",
+      "passed": true,
+      "detail": 1.1102230246251565e-16
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2019log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_eligible_unmatchedCBCR_CONFIDENTIAL2019zero_fraction",
+      "passed": true,
+      "detail": 4.85722573273506e-17
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2019zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_eligible_unmatchedESG_MANDATORY_REVIEWED2012log_impact",
+      "passed": true,
+      "detail": 1.1102230246251565e-16
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2012log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_eligible_unmatchedESG_MANDATORY_REVIEWED2012log_spread",
+      "passed": true,
+      "detail": 1.6653345369377348e-16
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2012log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_eligible_unmatchedESG_MANDATORY_REVIEWED2012zero_fraction",
+      "passed": true,
+      "detail": 3.8163916471489756e-17
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2012zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_eligible_unmatchedESG_MANDATORY_REVIEWED2016log_impact",
+      "passed": true,
+      "detail": 5.551115123125783e-17
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2016log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_eligible_unmatchedESG_MANDATORY_REVIEWED2016log_spread",
+      "passed": true,
+      "detail": 4.85722573273506e-17
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2016log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_eligible_unmatchedESG_MANDATORY_REVIEWED2016zero_fraction",
+      "passed": true,
+      "detail": 3.122502256758253e-17
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2016zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_eligible_unmatchedESG_MANDATORY_REVIEWED2017log_impact",
+      "passed": true,
+      "detail": 1.0269562977782698e-15
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2017log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_eligible_unmatchedESG_MANDATORY_REVIEWED2017log_spread",
+      "passed": true,
+      "detail": 1.249000902703301e-16
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2017log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_eligible_unmatchedESG_MANDATORY_REVIEWED2017zero_fraction",
+      "passed": true,
+      "detail": 3.469446951953614e-17
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2017zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_eligible_unmatchedGOVERNANCE2001log_impact",
+      "passed": true,
+      "detail": 2.220446049250313e-16
+    },
+    {
+      "check": "Documented timing and untreated controls GOVERNANCE2001log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_eligible_unmatchedGOVERNANCE2001log_spread",
+      "passed": true,
+      "detail": 5.551115123125783e-17
+    },
+    {
+      "check": "Documented timing and untreated controls GOVERNANCE2001log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_eligible_unmatchedGOVERNANCE2001zero_fraction",
+      "passed": true,
+      "detail": 6.071532165918825e-17
+    },
+    {
+      "check": "Documented timing and untreated controls GOVERNANCE2001zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_eligible_unmatchedGOVERNANCE2003log_impact",
+      "passed": true,
+      "detail": 8.881784197001252e-16
+    },
+    {
+      "check": "Documented timing and untreated controls GOVERNANCE2003log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_eligible_unmatchedGOVERNANCE2003log_spread",
+      "passed": true,
+      "detail": 4.440892098500626e-16
+    },
+    {
+      "check": "Documented timing and untreated controls GOVERNANCE2003log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_eligible_unmatchedGOVERNANCE2003zero_fraction",
+      "passed": true,
+      "detail": 3.122502256758253e-17
+    },
+    {
+      "check": "Documented timing and untreated controls GOVERNANCE2003zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_eligible_unmatchedIFRS2005log_impact",
+      "passed": true,
+      "detail": 2.275957200481571e-15
+    },
+    {
+      "check": "Documented timing and untreated controls IFRS2005log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_eligible_unmatchedIFRS2005log_spread",
+      "passed": true,
+      "detail": 8.049116928532385e-16
+    },
+    {
+      "check": "Documented timing and untreated controls IFRS2005log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_eligible_unmatchedIFRS2005zero_fraction",
+      "passed": true,
+      "detail": 3.469446951953614e-17
+    },
+    {
+      "check": "Documented timing and untreated controls IFRS2005zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Matched membership AUDIT_OVERSIGHT2004log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_nearest_threeAUDIT_OVERSIGHT2004log_impact",
+      "passed": true,
+      "detail": 6.661338147750939e-16
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_OVERSIGHT2004log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Matched membership AUDIT_OVERSIGHT2004log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_nearest_threeAUDIT_OVERSIGHT2004log_spread",
+      "passed": true,
+      "detail": 2.498001805406602e-16
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_OVERSIGHT2004log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Matched membership AUDIT_OVERSIGHT2004zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_nearest_threeAUDIT_OVERSIGHT2004zero_fraction",
+      "passed": true,
+      "detail": 5.2909066017292616e-17
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_OVERSIGHT2004zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Matched membership AUDIT_REPORTING2016log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_nearest_threeAUDIT_REPORTING2016log_impact",
+      "passed": true,
+      "detail": 2.7755575615628914e-17
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_REPORTING2016log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Matched membership AUDIT_REPORTING2016log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_nearest_threeAUDIT_REPORTING2016log_spread",
+      "passed": true,
+      "detail": 1.0408340855860843e-17
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_REPORTING2016log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Matched membership AUDIT_REPORTING2016zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_nearest_threeAUDIT_REPORTING2016zero_fraction",
+      "passed": true,
+      "detail": 5.4643789493269423e-17
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_REPORTING2016zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Matched membership BENEFICIAL_OWNERSHIP2017log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_nearest_threeBENEFICIAL_OWNERSHIP2017log_impact",
+      "passed": true,
+      "detail": 3.0531133177191805e-16
+    },
+    {
+      "check": "Documented timing and untreated controls BENEFICIAL_OWNERSHIP2017log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Matched membership BENEFICIAL_OWNERSHIP2017log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_nearest_threeBENEFICIAL_OWNERSHIP2017log_spread",
+      "passed": true,
+      "detail": 7.979727989493313e-17
+    },
+    {
+      "check": "Documented timing and untreated controls BENEFICIAL_OWNERSHIP2017log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Matched membership BENEFICIAL_OWNERSHIP2017zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_nearest_threeBENEFICIAL_OWNERSHIP2017zero_fraction",
+      "passed": true,
+      "detail": 9.71445146547012e-17
+    },
+    {
+      "check": "Documented timing and untreated controls BENEFICIAL_OWNERSHIP2017zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Matched membership BENEFICIAL_OWNERSHIP2018log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_nearest_threeBENEFICIAL_OWNERSHIP2018log_impact",
+      "passed": true,
+      "detail": 2.220446049250313e-16
+    },
+    {
+      "check": "Documented timing and untreated controls BENEFICIAL_OWNERSHIP2018log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Matched membership BENEFICIAL_OWNERSHIP2018log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_nearest_threeBENEFICIAL_OWNERSHIP2018log_spread",
+      "passed": true,
+      "detail": 1.942890293094024e-16
+    },
+    {
+      "check": "Documented timing and untreated controls BENEFICIAL_OWNERSHIP2018log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Matched membership BENEFICIAL_OWNERSHIP2018zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_nearest_threeBENEFICIAL_OWNERSHIP2018zero_fraction",
+      "passed": true,
+      "detail": 4.163336342344337e-17
+    },
+    {
+      "check": "Documented timing and untreated controls BENEFICIAL_OWNERSHIP2018zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Matched membership CBCR_BANK_PUBLIC2014log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_nearest_threeCBCR_BANK_PUBLIC2014log_impact",
+      "passed": true,
+      "detail": 6.938893903907228e-17
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_BANK_PUBLIC2014log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Matched membership CBCR_BANK_PUBLIC2014log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_nearest_threeCBCR_BANK_PUBLIC2014log_spread",
+      "passed": true,
+      "detail": 1.2836953722228372e-16
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_BANK_PUBLIC2014log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Matched membership CBCR_BANK_PUBLIC2014zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_nearest_threeCBCR_BANK_PUBLIC2014zero_fraction",
+      "passed": true,
+      "detail": 3.053384368262302e-17
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_BANK_PUBLIC2014zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Matched membership CBCR_CONFIDENTIAL2016log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_nearest_threeCBCR_CONFIDENTIAL2016log_impact",
+      "passed": true,
+      "detail": 2.0469737016526324e-16
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2016log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Matched membership CBCR_CONFIDENTIAL2016log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_nearest_threeCBCR_CONFIDENTIAL2016log_spread",
+      "passed": true,
+      "detail": 2.7755575615628914e-17
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2016log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Matched membership CBCR_CONFIDENTIAL2016zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_nearest_threeCBCR_CONFIDENTIAL2016zero_fraction",
+      "passed": true,
+      "detail": 4.163336342344337e-17
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2016zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Matched membership CBCR_CONFIDENTIAL2017log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_nearest_threeCBCR_CONFIDENTIAL2017log_impact",
+      "passed": true,
+      "detail": 1.3183898417423734e-16
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2017log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Matched membership CBCR_CONFIDENTIAL2017log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_nearest_threeCBCR_CONFIDENTIAL2017log_spread",
+      "passed": true,
+      "detail": 8.326672684688674e-17
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2017log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Matched membership CBCR_CONFIDENTIAL2017zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_nearest_threeCBCR_CONFIDENTIAL2017zero_fraction",
+      "passed": true,
+      "detail": 1.1622647289044608e-16
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2017zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Matched membership CBCR_CONFIDENTIAL2018log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_nearest_threeCBCR_CONFIDENTIAL2018log_impact",
+      "passed": true,
+      "detail": 0.0
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2018log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Matched membership CBCR_CONFIDENTIAL2018log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_nearest_threeCBCR_CONFIDENTIAL2018log_spread",
+      "passed": true,
+      "detail": 2.0816681711721685e-17
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2018log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Matched membership CBCR_CONFIDENTIAL2018zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_nearest_threeCBCR_CONFIDENTIAL2018zero_fraction",
+      "passed": true,
+      "detail": 7.45931094670027e-17
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2018zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Matched membership CBCR_CONFIDENTIAL2019log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_nearest_threeCBCR_CONFIDENTIAL2019log_impact",
+      "passed": true,
+      "detail": 4.440892098500626e-16
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2019log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Matched membership CBCR_CONFIDENTIAL2019log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_nearest_threeCBCR_CONFIDENTIAL2019log_spread",
+      "passed": true,
+      "detail": 5.551115123125783e-17
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2019log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Matched membership CBCR_CONFIDENTIAL2019zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_nearest_threeCBCR_CONFIDENTIAL2019zero_fraction",
+      "passed": true,
+      "detail": 3.8163916471489756e-17
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2019zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Matched membership ESG_MANDATORY_REVIEWED2012log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_nearest_threeESG_MANDATORY_REVIEWED2012log_impact",
+      "passed": true,
+      "detail": 2.220446049250313e-16
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2012log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Matched membership ESG_MANDATORY_REVIEWED2012log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_nearest_threeESG_MANDATORY_REVIEWED2012log_spread",
+      "passed": true,
+      "detail": 7.632783294297951e-17
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2012log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Matched membership ESG_MANDATORY_REVIEWED2012zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_nearest_threeESG_MANDATORY_REVIEWED2012zero_fraction",
+      "passed": true,
+      "detail": 4.163336342344337e-17
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2012zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Matched membership ESG_MANDATORY_REVIEWED2016log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_nearest_threeESG_MANDATORY_REVIEWED2016log_impact",
+      "passed": true,
+      "detail": 1.6653345369377348e-16
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2016log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Matched membership ESG_MANDATORY_REVIEWED2016log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_nearest_threeESG_MANDATORY_REVIEWED2016log_spread",
+      "passed": true,
+      "detail": 5.551115123125783e-17
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2016log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Matched membership ESG_MANDATORY_REVIEWED2016zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_nearest_threeESG_MANDATORY_REVIEWED2016zero_fraction",
+      "passed": true,
+      "detail": 5.898059818321144e-17
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2016zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Matched membership ESG_MANDATORY_REVIEWED2017log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_nearest_threeESG_MANDATORY_REVIEWED2017log_impact",
+      "passed": true,
+      "detail": 5.551115123125783e-17
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2017log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Matched membership ESG_MANDATORY_REVIEWED2017log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_nearest_threeESG_MANDATORY_REVIEWED2017log_spread",
+      "passed": true,
+      "detail": 7.112366251504909e-17
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2017log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Matched membership ESG_MANDATORY_REVIEWED2017zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_nearest_threeESG_MANDATORY_REVIEWED2017zero_fraction",
+      "passed": true,
+      "detail": 1.3877787807814457e-17
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2017zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Matched membership GOVERNANCE2001log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_nearest_threeGOVERNANCE2001log_impact",
+      "passed": true,
+      "detail": 4.440892098500626e-16
+    },
+    {
+      "check": "Documented timing and untreated controls GOVERNANCE2001log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Matched membership GOVERNANCE2001log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_nearest_threeGOVERNANCE2001log_spread",
+      "passed": true,
+      "detail": 1.1102230246251565e-16
+    },
+    {
+      "check": "Documented timing and untreated controls GOVERNANCE2001log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Matched membership GOVERNANCE2001zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_nearest_threeGOVERNANCE2001zero_fraction",
+      "passed": true,
+      "detail": 4.85722573273506e-17
+    },
+    {
+      "check": "Documented timing and untreated controls GOVERNANCE2001zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Matched membership GOVERNANCE2003log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_nearest_threeGOVERNANCE2003log_impact",
+      "passed": true,
+      "detail": 6.522560269672795e-16
+    },
+    {
+      "check": "Documented timing and untreated controls GOVERNANCE2003log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Matched membership GOVERNANCE2003log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_nearest_threeGOVERNANCE2003log_spread",
+      "passed": true,
+      "detail": 1.1102230246251565e-16
+    },
+    {
+      "check": "Documented timing and untreated controls GOVERNANCE2003log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Matched membership GOVERNANCE2003zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_nearest_threeGOVERNANCE2003zero_fraction",
+      "passed": true,
+      "detail": 1.1319070680748666e-16
+    },
+    {
+      "check": "Documented timing and untreated controls GOVERNANCE2003zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Matched membership IFRS2005log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_nearest_threeIFRS2005log_impact",
+      "passed": true,
+      "detail": 5.828670879282072e-16
+    },
+    {
+      "check": "Documented timing and untreated controls IFRS2005log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Matched membership IFRS2005log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_nearest_threeIFRS2005log_spread",
+      "passed": true,
+      "detail": 3.608224830031759e-16
+    },
+    {
+      "check": "Documented timing and untreated controls IFRS2005log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Matched membership IFRS2005zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS matching_nearest_threeIFRS2005zero_fraction",
+      "passed": true,
+      "detail": 4.85722573273506e-17
+    },
+    {
+      "check": "Documented timing and untreated controls IFRS2005zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsAUDIT_OVERSIGHT2004log_impact",
+      "passed": true,
+      "detail": 1.7763568394002505e-15
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_OVERSIGHT2004log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsAUDIT_OVERSIGHT2004log_spread",
+      "passed": true,
+      "detail": 7.28583859910259e-16
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_OVERSIGHT2004log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsAUDIT_OVERSIGHT2004zero_fraction",
+      "passed": true,
+      "detail": 1.3877787807814457e-16
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_OVERSIGHT2004zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsAUDIT_OVERSIGHT2006log_impact",
+      "passed": true,
+      "detail": 2.886579864025407e-15
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_OVERSIGHT2006log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsAUDIT_OVERSIGHT2006log_spread",
+      "passed": true,
+      "detail": 2.886579864025407e-15
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_OVERSIGHT2006log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsAUDIT_OVERSIGHT2006zero_fraction",
+      "passed": true,
+      "detail": 3.8163916471489756e-16
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_OVERSIGHT2006zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsAUDIT_OVERSIGHT2007log_impact",
+      "passed": true,
+      "detail": 1.27675647831893e-15
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_OVERSIGHT2007log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsAUDIT_OVERSIGHT2007log_spread",
+      "passed": true,
+      "detail": 6.661338147750939e-16
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_OVERSIGHT2007log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsAUDIT_OVERSIGHT2007zero_fraction",
+      "passed": true,
+      "detail": 9.367506770274758e-17
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_OVERSIGHT2007zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsAUDIT_REPORTING2013log_impact",
+      "passed": true,
+      "detail": 3.3306690738754696e-16
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_REPORTING2013log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsAUDIT_REPORTING2013log_spread",
+      "passed": true,
+      "detail": 2.498001805406602e-16
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_REPORTING2013log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsAUDIT_REPORTING2013zero_fraction",
+      "passed": true,
+      "detail": 7.979727989493313e-17
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_REPORTING2013zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsAUDIT_REPORTING2016log_impact",
+      "passed": true,
+      "detail": 7.147060721024445e-16
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_REPORTING2016log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsAUDIT_REPORTING2016log_spread",
+      "passed": true,
+      "detail": 2.0816681711721685e-16
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_REPORTING2016log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsAUDIT_REPORTING2016zero_fraction",
+      "passed": true,
+      "detail": 6.938893903907228e-17
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_REPORTING2016zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsBENEFICIAL_OWNERSHIP2016log_impact",
+      "passed": true,
+      "detail": 2.914335439641036e-16
+    },
+    {
+      "check": "Documented timing and untreated controls BENEFICIAL_OWNERSHIP2016log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsBENEFICIAL_OWNERSHIP2016log_spread",
+      "passed": true,
+      "detail": 2.3592239273284576e-16
+    },
+    {
+      "check": "Documented timing and untreated controls BENEFICIAL_OWNERSHIP2016log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsBENEFICIAL_OWNERSHIP2016zero_fraction",
+      "passed": true,
+      "detail": 4.163336342344337e-17
+    },
+    {
+      "check": "Documented timing and untreated controls BENEFICIAL_OWNERSHIP2016zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsBENEFICIAL_OWNERSHIP2017log_impact",
+      "passed": true,
+      "detail": 6.106226635438361e-16
+    },
+    {
+      "check": "Documented timing and untreated controls BENEFICIAL_OWNERSHIP2017log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsBENEFICIAL_OWNERSHIP2017log_spread",
+      "passed": true,
+      "detail": 9.410874857174178e-17
+    },
+    {
+      "check": "Documented timing and untreated controls BENEFICIAL_OWNERSHIP2017log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsBENEFICIAL_OWNERSHIP2017zero_fraction",
+      "passed": true,
+      "detail": 9.71445146547012e-17
+    },
+    {
+      "check": "Documented timing and untreated controls BENEFICIAL_OWNERSHIP2017zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsBENEFICIAL_OWNERSHIP2018log_impact",
+      "passed": true,
+      "detail": 3.2751579226442118e-15
+    },
+    {
+      "check": "Documented timing and untreated controls BENEFICIAL_OWNERSHIP2018log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsBENEFICIAL_OWNERSHIP2018log_spread",
+      "passed": true,
+      "detail": 1.4432899320127035e-15
+    },
+    {
+      "check": "Documented timing and untreated controls BENEFICIAL_OWNERSHIP2018log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsBENEFICIAL_OWNERSHIP2018zero_fraction",
+      "passed": true,
+      "detail": 1.7911019889460533e-16
+    },
+    {
+      "check": "Documented timing and untreated controls BENEFICIAL_OWNERSHIP2018zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsCBCR_BANK_PUBLIC2014log_impact",
+      "passed": true,
+      "detail": 5.551115123125783e-16
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_BANK_PUBLIC2014log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsCBCR_BANK_PUBLIC2014log_spread",
+      "passed": true,
+      "detail": 2.7755575615628914e-16
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_BANK_PUBLIC2014log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsCBCR_BANK_PUBLIC2014zero_fraction",
+      "passed": true,
+      "detail": 8.370040771588094e-17
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_BANK_PUBLIC2014zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsCBCR_CONFIDENTIAL2016log_impact",
+      "passed": true,
+      "detail": 1.4988010832439613e-15
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2016log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsCBCR_CONFIDENTIAL2016log_spread",
+      "passed": true,
+      "detail": 9.992007221626409e-16
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2016log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsCBCR_CONFIDENTIAL2016zero_fraction",
+      "passed": true,
+      "detail": 8.543513119185775e-17
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2016zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsCBCR_CONFIDENTIAL2017log_impact",
+      "passed": true,
+      "detail": 8.326672684688674e-16
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2017log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsCBCR_CONFIDENTIAL2017log_spread",
+      "passed": true,
+      "detail": 2.3592239273284576e-16
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2017log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsCBCR_CONFIDENTIAL2017zero_fraction",
+      "passed": true,
+      "detail": 1.3639263329867646e-16
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2017zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsCBCR_CONFIDENTIAL2018log_impact",
+      "passed": true,
+      "detail": 4.440892098500626e-16
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2018log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsCBCR_CONFIDENTIAL2018log_spread",
+      "passed": true,
+      "detail": 1.5265566588595902e-16
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2018log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsCBCR_CONFIDENTIAL2018zero_fraction",
+      "passed": true,
+      "detail": 1.8214596497756474e-16
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2018zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsDIGITAL_ASSET2018log_impact",
+      "passed": true,
+      "detail": 8.881784197001252e-16
+    },
+    {
+      "check": "Documented timing and untreated controls DIGITAL_ASSET2018log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsDIGITAL_ASSET2018log_spread",
+      "passed": true,
+      "detail": 8.326672684688674e-16
+    },
+    {
+      "check": "Documented timing and untreated controls DIGITAL_ASSET2018log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsDIGITAL_ASSET2018zero_fraction",
+      "passed": true,
+      "detail": 1.3530843112619095e-16
+    },
+    {
+      "check": "Documented timing and untreated controls DIGITAL_ASSET2018zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsDIGITAL_ASSET2020log_impact",
+      "passed": true,
+      "detail": 8.716985466783456e-16
+    },
+    {
+      "check": "Documented timing and untreated controls DIGITAL_ASSET2020log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsDIGITAL_ASSET2020log_spread",
+      "passed": true,
+      "detail": 2.220446049250313e-16
+    },
+    {
+      "check": "Documented timing and untreated controls DIGITAL_ASSET2020log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsDIGITAL_ASSET2020zero_fraction",
+      "passed": true,
+      "detail": 8.326672684688674e-17
+    },
+    {
+      "check": "Documented timing and untreated controls DIGITAL_ASSET2020zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsESG_MANDATORY_REVIEWED2002log_impact",
+      "passed": true,
+      "detail": 1.1657341758564144e-15
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2002log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsESG_MANDATORY_REVIEWED2002log_spread",
+      "passed": true,
+      "detail": 4.2327252813834093e-16
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2002log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsESG_MANDATORY_REVIEWED2002zero_fraction",
+      "passed": true,
+      "detail": 7.45931094670027e-17
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2002zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsESG_MANDATORY_REVIEWED2007log_impact",
+      "passed": true,
+      "detail": 9.992007221626409e-16
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2007log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsESG_MANDATORY_REVIEWED2007log_spread",
+      "passed": true,
+      "detail": 3.95516952522712e-16
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2007log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsESG_MANDATORY_REVIEWED2007zero_fraction",
+      "passed": true,
+      "detail": 9.71445146547012e-17
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2007zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsESG_MANDATORY_REVIEWED2010log_impact",
+      "passed": true,
+      "detail": 3.3306690738754696e-16
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2010log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsESG_MANDATORY_REVIEWED2010log_spread",
+      "passed": true,
+      "detail": 2.5673907444456745e-16
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2010log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsESG_MANDATORY_REVIEWED2010zero_fraction",
+      "passed": true,
+      "detail": 1.721713049906981e-16
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2010zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsESG_MANDATORY_REVIEWED2012log_impact",
+      "passed": true,
+      "detail": 4.440892098500626e-16
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2012log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsESG_MANDATORY_REVIEWED2012log_spread",
+      "passed": true,
+      "detail": 1.7763568394002505e-15
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2012log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsESG_MANDATORY_REVIEWED2012zero_fraction",
+      "passed": true,
+      "detail": 8.326672684688674e-17
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2012zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsESG_MANDATORY_REVIEWED2013log_impact",
+      "passed": true,
+      "detail": 5.551115123125783e-16
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2013log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsESG_MANDATORY_REVIEWED2013log_spread",
+      "passed": true,
+      "detail": 3.3306690738754696e-16
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2013log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsESG_MANDATORY_REVIEWED2013zero_fraction",
+      "passed": true,
+      "detail": 7.155734338404329e-17
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2013zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsESG_MANDATORY_REVIEWED2014log_impact",
+      "passed": true,
+      "detail": 1.6653345369377348e-16
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2014log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsESG_MANDATORY_REVIEWED2014log_spread",
+      "passed": true,
+      "detail": 4.3021142204224816e-16
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2014log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsESG_MANDATORY_REVIEWED2014zero_fraction",
+      "passed": true,
+      "detail": 9.367506770274758e-17
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2014zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsESG_MANDATORY_REVIEWED2015log_impact",
+      "passed": true,
+      "detail": 2.3592239273284576e-16
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2015log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsESG_MANDATORY_REVIEWED2015log_spread",
+      "passed": true,
+      "detail": 1.6653345369377348e-16
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2015log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsESG_MANDATORY_REVIEWED2015zero_fraction",
+      "passed": true,
+      "detail": 9.172350379227368e-17
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2015zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsESG_MANDATORY_REVIEWED2016log_impact",
+      "passed": true,
+      "detail": 7.216449660063518e-16
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2016log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsESG_MANDATORY_REVIEWED2016log_spread",
+      "passed": true,
+      "detail": 5.134781488891349e-16
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2016log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsESG_MANDATORY_REVIEWED2016zero_fraction",
+      "passed": true,
+      "detail": 6.938893903907228e-17
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2016zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsESG_MANDATORY_REVIEWED2017log_impact",
+      "passed": true,
+      "detail": 1.887379141862766e-15
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2017log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsESG_MANDATORY_REVIEWED2017log_spread",
+      "passed": true,
+      "detail": 7.216449660063518e-16
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2017log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsESG_MANDATORY_REVIEWED2017zero_fraction",
+      "passed": true,
+      "detail": 1.1796119636642288e-16
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2017zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsIFRS2005log_impact",
+      "passed": true,
+      "detail": 2.831068712794149e-15
+    },
+    {
+      "check": "Documented timing and untreated controls IFRS2005log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsIFRS2005log_spread",
+      "passed": true,
+      "detail": 1.6237011735142914e-15
+    },
+    {
+      "check": "Documented timing and untreated controls IFRS2005log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsIFRS2005zero_fraction",
+      "passed": true,
+      "detail": 2.914335439641036e-16
+    },
+    {
+      "check": "Documented timing and untreated controls IFRS2005zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsSUPPLY_CHAIN2012log_impact",
+      "passed": true,
+      "detail": 7.355227538141662e-16
+    },
+    {
+      "check": "Documented timing and untreated controls SUPPLY_CHAIN2012log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsSUPPLY_CHAIN2012log_spread",
+      "passed": true,
+      "detail": 2.7755575615628914e-16
+    },
+    {
+      "check": "Documented timing and untreated controls SUPPLY_CHAIN2012log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_controlsSUPPLY_CHAIN2012zero_fraction",
+      "passed": true,
+      "detail": 1.3183898417423734e-16
+    },
+    {
+      "check": "Documented timing and untreated controls SUPPLY_CHAIN2012zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsAUDIT_OVERSIGHT2004log_impact",
+      "passed": true,
+      "detail": 6.661338147750939e-16
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_OVERSIGHT2004log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsAUDIT_OVERSIGHT2004log_spread",
+      "passed": true,
+      "detail": 3.3306690738754696e-16
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_OVERSIGHT2004log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsAUDIT_OVERSIGHT2004zero_fraction",
+      "passed": true,
+      "detail": 5.551115123125783e-17
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_OVERSIGHT2004zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsAUDIT_OVERSIGHT2006log_impact",
+      "passed": true,
+      "detail": 8.326672684688674e-17
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_OVERSIGHT2006log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsAUDIT_OVERSIGHT2006log_spread",
+      "passed": true,
+      "detail": 1.1102230246251565e-16
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_OVERSIGHT2006log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsAUDIT_OVERSIGHT2006zero_fraction",
+      "passed": true,
+      "detail": 7.45931094670027e-17
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_OVERSIGHT2006zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsAUDIT_OVERSIGHT2007log_impact",
+      "passed": true,
+      "detail": 1.1102230246251565e-16
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_OVERSIGHT2007log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsAUDIT_OVERSIGHT2007log_spread",
+      "passed": true,
+      "detail": 1.0755285551056204e-16
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_OVERSIGHT2007log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsAUDIT_OVERSIGHT2007zero_fraction",
+      "passed": true,
+      "detail": 4.9873299934333204e-18
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_OVERSIGHT2007zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsAUDIT_REPORTING2013log_impact",
+      "passed": true,
+      "detail": 2.220446049250313e-16
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_REPORTING2013log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsAUDIT_REPORTING2013log_spread",
+      "passed": true,
+      "detail": 3.469446951953614e-17
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_REPORTING2013log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsAUDIT_REPORTING2013zero_fraction",
+      "passed": true,
+      "detail": 1.231653667943533e-16
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_REPORTING2013zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsAUDIT_REPORTING2016log_impact",
+      "passed": true,
+      "detail": 2.220446049250313e-16
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_REPORTING2016log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsAUDIT_REPORTING2016log_spread",
+      "passed": true,
+      "detail": 6.938893903907228e-17
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_REPORTING2016log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsAUDIT_REPORTING2016zero_fraction",
+      "passed": true,
+      "detail": 5.551115123125783e-17
+    },
+    {
+      "check": "Documented timing and untreated controls AUDIT_REPORTING2016zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsBENEFICIAL_OWNERSHIP2016log_impact",
+      "passed": true,
+      "detail": 1.214306433183765e-16
+    },
+    {
+      "check": "Documented timing and untreated controls BENEFICIAL_OWNERSHIP2016log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsBENEFICIAL_OWNERSHIP2016log_spread",
+      "passed": true,
+      "detail": 1.5265566588595902e-16
+    },
+    {
+      "check": "Documented timing and untreated controls BENEFICIAL_OWNERSHIP2016log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsBENEFICIAL_OWNERSHIP2016zero_fraction",
+      "passed": true,
+      "detail": 6.591949208711867e-17
+    },
+    {
+      "check": "Documented timing and untreated controls BENEFICIAL_OWNERSHIP2016zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsBENEFICIAL_OWNERSHIP2017log_impact",
+      "passed": true,
+      "detail": 1.1102230246251565e-16
+    },
+    {
+      "check": "Documented timing and untreated controls BENEFICIAL_OWNERSHIP2017log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsBENEFICIAL_OWNERSHIP2017log_spread",
+      "passed": true,
+      "detail": 6.114900252818245e-17
+    },
+    {
+      "check": "Documented timing and untreated controls BENEFICIAL_OWNERSHIP2017log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsBENEFICIAL_OWNERSHIP2017zero_fraction",
+      "passed": true,
+      "detail": 1.3183898417423734e-16
+    },
+    {
+      "check": "Documented timing and untreated controls BENEFICIAL_OWNERSHIP2017zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsBENEFICIAL_OWNERSHIP2018log_impact",
+      "passed": true,
+      "detail": 2.220446049250313e-16
+    },
+    {
+      "check": "Documented timing and untreated controls BENEFICIAL_OWNERSHIP2018log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsBENEFICIAL_OWNERSHIP2018log_spread",
+      "passed": true,
+      "detail": 5.551115123125783e-17
+    },
+    {
+      "check": "Documented timing and untreated controls BENEFICIAL_OWNERSHIP2018log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsBENEFICIAL_OWNERSHIP2018zero_fraction",
+      "passed": true,
+      "detail": 5.204170427930421e-17
+    },
+    {
+      "check": "Documented timing and untreated controls BENEFICIAL_OWNERSHIP2018zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsCBCR_BANK_PUBLIC2014log_impact",
+      "passed": true,
+      "detail": 5.551115123125783e-17
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_BANK_PUBLIC2014log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsCBCR_BANK_PUBLIC2014log_spread",
+      "passed": true,
+      "detail": 9.71445146547012e-17
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_BANK_PUBLIC2014log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsCBCR_BANK_PUBLIC2014zero_fraction",
+      "passed": true,
+      "detail": 5.0306980803327406e-17
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_BANK_PUBLIC2014zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsCBCR_CONFIDENTIAL2016log_impact",
+      "passed": true,
+      "detail": 2.6055546609171643e-15
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2016log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsCBCR_CONFIDENTIAL2016log_spread",
+      "passed": true,
+      "detail": 5.967448757360216e-16
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2016log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsCBCR_CONFIDENTIAL2016zero_fraction",
+      "passed": true,
+      "detail": 8.315830662963819e-17
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2016zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsCBCR_CONFIDENTIAL2017log_impact",
+      "passed": true,
+      "detail": 1.3877787807814457e-16
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2017log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsCBCR_CONFIDENTIAL2017log_spread",
+      "passed": true,
+      "detail": 4.163336342344337e-17
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2017log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsCBCR_CONFIDENTIAL2017zero_fraction",
+      "passed": true,
+      "detail": 8.500145032286355e-17
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2017zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsCBCR_CONFIDENTIAL2018log_impact",
+      "passed": true,
+      "detail": 2.220446049250313e-16
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2018log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsCBCR_CONFIDENTIAL2018log_spread",
+      "passed": true,
+      "detail": 4.85722573273506e-17
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2018log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsCBCR_CONFIDENTIAL2018zero_fraction",
+      "passed": true,
+      "detail": 3.642919299551295e-17
+    },
+    {
+      "check": "Documented timing and untreated controls CBCR_CONFIDENTIAL2018zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsDIGITAL_ASSET2018log_impact",
+      "passed": true,
+      "detail": 3.3306690738754696e-16
+    },
+    {
+      "check": "Documented timing and untreated controls DIGITAL_ASSET2018log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsDIGITAL_ASSET2018log_spread",
+      "passed": true,
+      "detail": 1.1102230246251565e-16
+    },
+    {
+      "check": "Documented timing and untreated controls DIGITAL_ASSET2018log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsDIGITAL_ASSET2018zero_fraction",
+      "passed": true,
+      "detail": 6.245004513516506e-17
+    },
+    {
+      "check": "Documented timing and untreated controls DIGITAL_ASSET2018zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsDIGITAL_ASSET2020log_impact",
+      "passed": true,
+      "detail": 1.6653345369377348e-16
+    },
+    {
+      "check": "Documented timing and untreated controls DIGITAL_ASSET2020log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsDIGITAL_ASSET2020log_spread",
+      "passed": true,
+      "detail": 8.326672684688674e-17
+    },
+    {
+      "check": "Documented timing and untreated controls DIGITAL_ASSET2020log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsDIGITAL_ASSET2020zero_fraction",
+      "passed": true,
+      "detail": 1.1102230246251565e-16
+    },
+    {
+      "check": "Documented timing and untreated controls DIGITAL_ASSET2020zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsESG_MANDATORY_REVIEWED2002log_impact",
+      "passed": true,
+      "detail": 1.1102230246251565e-16
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2002log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsESG_MANDATORY_REVIEWED2002log_spread",
+      "passed": true,
+      "detail": 2.7755575615628914e-17
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2002log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsESG_MANDATORY_REVIEWED2002zero_fraction",
+      "passed": true,
+      "detail": 5.204170427930421e-17
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2002zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsESG_MANDATORY_REVIEWED2007log_impact",
+      "passed": true,
+      "detail": 6.661338147750939e-16
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2007log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsESG_MANDATORY_REVIEWED2007log_spread",
+      "passed": true,
+      "detail": 4.440892098500626e-16
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2007log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsESG_MANDATORY_REVIEWED2007zero_fraction",
+      "passed": true,
+      "detail": 7.979727989493313e-17
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2007zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsESG_MANDATORY_REVIEWED2010log_impact",
+      "passed": true,
+      "detail": 1.942890293094024e-16
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2010log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsESG_MANDATORY_REVIEWED2010log_spread",
+      "passed": true,
+      "detail": 1.3877787807814457e-16
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2010log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsESG_MANDATORY_REVIEWED2010zero_fraction",
+      "passed": true,
+      "detail": 3.642919299551295e-17
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2010zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsESG_MANDATORY_REVIEWED2012log_impact",
+      "passed": true,
+      "detail": 1.1102230246251565e-16
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2012log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsESG_MANDATORY_REVIEWED2012log_spread",
+      "passed": true,
+      "detail": 1.6653345369377348e-16
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2012log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsESG_MANDATORY_REVIEWED2012zero_fraction",
+      "passed": true,
+      "detail": 3.8163916471489756e-17
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2012zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsESG_MANDATORY_REVIEWED2013log_impact",
+      "passed": true,
+      "detail": 1.1102230246251565e-16
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2013log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsESG_MANDATORY_REVIEWED2013log_spread",
+      "passed": true,
+      "detail": 2.0816681711721685e-16
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2013log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsESG_MANDATORY_REVIEWED2013zero_fraction",
+      "passed": true,
+      "detail": 9.71445146547012e-17
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2013zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsESG_MANDATORY_REVIEWED2014log_impact",
+      "passed": true,
+      "detail": 1.3877787807814457e-16
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2014log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsESG_MANDATORY_REVIEWED2014log_spread",
+      "passed": true,
+      "detail": 4.440892098500626e-16
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2014log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsESG_MANDATORY_REVIEWED2014zero_fraction",
+      "passed": true,
+      "detail": 5.551115123125783e-17
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2014zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsESG_MANDATORY_REVIEWED2015log_impact",
+      "passed": true,
+      "detail": 1.734723475976807e-16
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2015log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsESG_MANDATORY_REVIEWED2015log_spread",
+      "passed": true,
+      "detail": 8.326672684688674e-17
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2015log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsESG_MANDATORY_REVIEWED2015zero_fraction",
+      "passed": true,
+      "detail": 5.984795992119984e-17
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2015zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsESG_MANDATORY_REVIEWED2016log_impact",
+      "passed": true,
+      "detail": 5.551115123125783e-17
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2016log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsESG_MANDATORY_REVIEWED2016log_spread",
+      "passed": true,
+      "detail": 4.85722573273506e-17
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2016log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsESG_MANDATORY_REVIEWED2016zero_fraction",
+      "passed": true,
+      "detail": 3.122502256758253e-17
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2016zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsESG_MANDATORY_REVIEWED2017log_impact",
+      "passed": true,
+      "detail": 1.0269562977782698e-15
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2017log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsESG_MANDATORY_REVIEWED2017log_spread",
+      "passed": true,
+      "detail": 1.249000902703301e-16
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2017log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsESG_MANDATORY_REVIEWED2017zero_fraction",
+      "passed": true,
+      "detail": 3.469446951953614e-17
+    },
+    {
+      "check": "Documented timing and untreated controls ESG_MANDATORY_REVIEWED2017zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsIFRS2005log_impact",
+      "passed": true,
+      "detail": 2.275957200481571e-15
+    },
+    {
+      "check": "Documented timing and untreated controls IFRS2005log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsIFRS2005log_spread",
+      "passed": true,
+      "detail": 8.049116928532385e-16
+    },
+    {
+      "check": "Documented timing and untreated controls IFRS2005log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsIFRS2005zero_fraction",
+      "passed": true,
+      "detail": 3.469446951953614e-17
+    },
+    {
+      "check": "Documented timing and untreated controls IFRS2005zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsSUPPLY_CHAIN2012log_impact",
+      "passed": true,
+      "detail": 1.1102230246251565e-16
+    },
+    {
+      "check": "Documented timing and untreated controls SUPPLY_CHAIN2012log_impact",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsSUPPLY_CHAIN2012log_spread",
+      "passed": true,
+      "detail": 1.3877787807814457e-16
+    },
+    {
+      "check": "Documented timing and untreated controls SUPPLY_CHAIN2012log_spread",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Independent WLS paired_no_controlsSUPPLY_CHAIN2012zero_fraction",
+      "passed": true,
+      "detail": 1.214306433183765e-17
+    },
+    {
+      "check": "Documented timing and untreated controls SUPPLY_CHAIN2012zero_fraction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('AUDIT_OVERSIGHT', 2004, 'log_impact')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('AUDIT_OVERSIGHT', 2004, 'log_spread')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('AUDIT_OVERSIGHT', 2004, 'zero_fraction')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('AUDIT_OVERSIGHT', 2006, 'log_impact')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('AUDIT_OVERSIGHT', 2006, 'log_spread')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('AUDIT_OVERSIGHT', 2006, 'zero_fraction')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('AUDIT_OVERSIGHT', 2007, 'log_impact')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('AUDIT_OVERSIGHT', 2007, 'log_spread')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('AUDIT_OVERSIGHT', 2007, 'zero_fraction')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('AUDIT_REPORTING', 2013, 'log_impact')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('AUDIT_REPORTING', 2013, 'log_spread')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('AUDIT_REPORTING', 2013, 'zero_fraction')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('AUDIT_REPORTING', 2016, 'log_impact')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('AUDIT_REPORTING', 2016, 'log_spread')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('AUDIT_REPORTING', 2016, 'zero_fraction')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('BENEFICIAL_OWNERSHIP', 2016, 'log_impact')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('BENEFICIAL_OWNERSHIP', 2016, 'log_spread')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('BENEFICIAL_OWNERSHIP', 2016, 'zero_fraction')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('BENEFICIAL_OWNERSHIP', 2017, 'log_impact')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('BENEFICIAL_OWNERSHIP', 2017, 'log_spread')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('BENEFICIAL_OWNERSHIP', 2017, 'zero_fraction')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('BENEFICIAL_OWNERSHIP', 2018, 'log_impact')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('BENEFICIAL_OWNERSHIP', 2018, 'log_spread')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('BENEFICIAL_OWNERSHIP', 2018, 'zero_fraction')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('CBCR_BANK_PUBLIC', 2014, 'log_impact')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('CBCR_BANK_PUBLIC', 2014, 'log_spread')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('CBCR_BANK_PUBLIC', 2014, 'zero_fraction')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('CBCR_CONFIDENTIAL', 2016, 'log_impact')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('CBCR_CONFIDENTIAL', 2016, 'log_spread')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('CBCR_CONFIDENTIAL', 2016, 'zero_fraction')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('CBCR_CONFIDENTIAL', 2017, 'log_impact')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('CBCR_CONFIDENTIAL', 2017, 'log_spread')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('CBCR_CONFIDENTIAL', 2017, 'zero_fraction')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('CBCR_CONFIDENTIAL', 2018, 'log_impact')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('CBCR_CONFIDENTIAL', 2018, 'log_spread')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('CBCR_CONFIDENTIAL', 2018, 'zero_fraction')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('DIGITAL_ASSET', 2018, 'log_impact')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('DIGITAL_ASSET', 2018, 'log_spread')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('DIGITAL_ASSET', 2018, 'zero_fraction')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('DIGITAL_ASSET', 2020, 'log_impact')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('DIGITAL_ASSET', 2020, 'log_spread')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('DIGITAL_ASSET', 2020, 'zero_fraction')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('ESG_MANDATORY_REVIEWED', 2002, 'log_impact')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('ESG_MANDATORY_REVIEWED', 2002, 'log_spread')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('ESG_MANDATORY_REVIEWED', 2002, 'zero_fraction')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('ESG_MANDATORY_REVIEWED', 2007, 'log_impact')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('ESG_MANDATORY_REVIEWED', 2007, 'log_spread')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('ESG_MANDATORY_REVIEWED', 2007, 'zero_fraction')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('ESG_MANDATORY_REVIEWED', 2010, 'log_impact')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('ESG_MANDATORY_REVIEWED', 2010, 'log_spread')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('ESG_MANDATORY_REVIEWED', 2010, 'zero_fraction')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('ESG_MANDATORY_REVIEWED', 2012, 'log_impact')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('ESG_MANDATORY_REVIEWED', 2012, 'log_spread')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('ESG_MANDATORY_REVIEWED', 2012, 'zero_fraction')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('ESG_MANDATORY_REVIEWED', 2013, 'log_impact')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('ESG_MANDATORY_REVIEWED', 2013, 'log_spread')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('ESG_MANDATORY_REVIEWED', 2013, 'zero_fraction')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('ESG_MANDATORY_REVIEWED', 2014, 'log_impact')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('ESG_MANDATORY_REVIEWED', 2014, 'log_spread')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('ESG_MANDATORY_REVIEWED', 2014, 'zero_fraction')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('ESG_MANDATORY_REVIEWED', 2015, 'log_impact')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('ESG_MANDATORY_REVIEWED', 2015, 'log_spread')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('ESG_MANDATORY_REVIEWED', 2015, 'zero_fraction')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('ESG_MANDATORY_REVIEWED', 2016, 'log_impact')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('ESG_MANDATORY_REVIEWED', 2016, 'log_spread')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('ESG_MANDATORY_REVIEWED', 2016, 'zero_fraction')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('ESG_MANDATORY_REVIEWED', 2017, 'log_impact')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('ESG_MANDATORY_REVIEWED', 2017, 'log_spread')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('ESG_MANDATORY_REVIEWED', 2017, 'zero_fraction')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('IFRS', 2005, 'log_impact')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('IFRS', 2005, 'log_spread')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('IFRS', 2005, 'zero_fraction')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('SUPPLY_CHAIN', 2012, 'log_impact')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('SUPPLY_CHAIN', 2012, 'log_spread')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Paired control sample ('SUPPLY_CHAIN', 2012, 'zero_fraction')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "All saved new cohort coefficients reconstructed",
+      "passed": true,
+      "detail": {
+        "coefficients": 1005,
+        "maximum_absolute_error": 7.815970093361102e-13
+      }
+    },
+    {
+      "check": "Matched treated/comparison GDP masses equal",
+      "passed": true,
+      "detail": {
+        "maximum_dollar_difference": 0.0078125
+      }
+    },
+    {
+      "check": "Reconstruct extension paired_no_controlslog_spreadtreatedequal_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension paired_no_controlslog_spreadtreatedbaseline_market_cap_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension paired_controlslog_spreadtreatedequal_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension paired_controlslog_spreadtreatedbaseline_market_cap_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_pre_own_outcomelog_spreadtreatedequal_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_pre_own_outcomelog_spreadtreatedbaseline_market_cap_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_pre_own_outcomelog_spreadtreated_x_moderatorequal_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_pre_own_outcomelog_spreadtreated_x_moderatorbaseline_market_cap_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_reg_qualitylog_spreadtreatedequal_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_reg_qualitylog_spreadtreatedbaseline_market_cap_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_reg_qualitylog_spreadtreated_x_moderatorequal_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_reg_qualitylog_spreadtreated_x_moderatorbaseline_market_cap_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_stock_market_cap_gdp_pctlog_spreadtreatedequal_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_stock_market_cap_gdp_pctlog_spreadtreatedbaseline_market_cap_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_stock_market_cap_gdp_pctlog_spreadtreated_x_moderatorequal_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_stock_market_cap_gdp_pctlog_spreadtreated_x_moderatorbaseline_market_cap_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_ln_gdp_pclog_spreadtreatedequal_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_ln_gdp_pclog_spreadtreatedbaseline_market_cap_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_ln_gdp_pclog_spreadtreated_x_moderatorequal_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_ln_gdp_pclog_spreadtreated_x_moderatorbaseline_market_cap_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_trade_gdp_pctlog_spreadtreatedequal_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_trade_gdp_pctlog_spreadtreatedbaseline_market_cap_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_trade_gdp_pctlog_spreadtreated_x_moderatorequal_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_trade_gdp_pctlog_spreadtreated_x_moderatorbaseline_market_cap_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension paired_no_controlslog_impacttreatedequal_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension paired_no_controlslog_impacttreatedbaseline_market_cap_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension paired_controlslog_impacttreatedequal_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension paired_controlslog_impacttreatedbaseline_market_cap_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_pre_own_outcomelog_impacttreatedequal_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_pre_own_outcomelog_impacttreatedbaseline_market_cap_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_pre_own_outcomelog_impacttreated_x_moderatorequal_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_pre_own_outcomelog_impacttreated_x_moderatorbaseline_market_cap_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_reg_qualitylog_impacttreatedequal_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_reg_qualitylog_impacttreatedbaseline_market_cap_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_reg_qualitylog_impacttreated_x_moderatorequal_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_reg_qualitylog_impacttreated_x_moderatorbaseline_market_cap_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_stock_market_cap_gdp_pctlog_impacttreatedequal_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_stock_market_cap_gdp_pctlog_impacttreatedbaseline_market_cap_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_stock_market_cap_gdp_pctlog_impacttreated_x_moderatorequal_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_stock_market_cap_gdp_pctlog_impacttreated_x_moderatorbaseline_market_cap_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_ln_gdp_pclog_impacttreatedequal_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_ln_gdp_pclog_impacttreatedbaseline_market_cap_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_ln_gdp_pclog_impacttreated_x_moderatorequal_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_ln_gdp_pclog_impacttreated_x_moderatorbaseline_market_cap_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_trade_gdp_pctlog_impacttreatedequal_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_trade_gdp_pctlog_impacttreatedbaseline_market_cap_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_trade_gdp_pctlog_impacttreated_x_moderatorequal_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_trade_gdp_pctlog_impacttreated_x_moderatorbaseline_market_cap_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension paired_no_controlszero_fractiontreatedequal_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension paired_no_controlszero_fractiontreatedbaseline_market_cap_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension paired_controlszero_fractiontreatedequal_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension paired_controlszero_fractiontreatedbaseline_market_cap_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_pre_own_outcomezero_fractiontreatedequal_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_pre_own_outcomezero_fractiontreatedbaseline_market_cap_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_pre_own_outcomezero_fractiontreated_x_moderatorequal_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_pre_own_outcomezero_fractiontreated_x_moderatorbaseline_market_cap_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_reg_qualityzero_fractiontreatedequal_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_reg_qualityzero_fractiontreatedbaseline_market_cap_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_reg_qualityzero_fractiontreated_x_moderatorequal_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_reg_qualityzero_fractiontreated_x_moderatorbaseline_market_cap_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_stock_market_cap_gdp_pctzero_fractiontreatedequal_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_stock_market_cap_gdp_pctzero_fractiontreatedbaseline_market_cap_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_stock_market_cap_gdp_pctzero_fractiontreated_x_moderatorequal_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_stock_market_cap_gdp_pctzero_fractiontreated_x_moderatorbaseline_market_cap_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_ln_gdp_pczero_fractiontreatedequal_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_ln_gdp_pczero_fractiontreatedbaseline_market_cap_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_ln_gdp_pczero_fractiontreated_x_moderatorequal_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_ln_gdp_pczero_fractiontreated_x_moderatorbaseline_market_cap_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_trade_gdp_pctzero_fractiontreatedequal_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_trade_gdp_pctzero_fractiontreatedbaseline_market_cap_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_trade_gdp_pctzero_fractiontreated_x_moderatorequal_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension interaction_trade_gdp_pctzero_fractiontreated_x_moderatorbaseline_market_cap_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension matching_eligible_unmatchedlog_spreadtreatedequal_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension matching_eligible_unmatchedlog_spreadtreatedbaseline_market_cap_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension matching_nearest_threelog_spreadtreatedequal_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension matching_nearest_threelog_spreadtreatedbaseline_market_cap_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension matching_eligible_unmatchedlog_impacttreatedequal_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension matching_eligible_unmatchedlog_impacttreatedbaseline_market_cap_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension matching_nearest_threelog_impacttreatedequal_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension matching_nearest_threelog_impacttreatedbaseline_market_cap_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension matching_eligible_unmatchedzero_fractiontreatedequal_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension matching_eligible_unmatchedzero_fractiontreatedbaseline_market_cap_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension matching_nearest_threezero_fractiontreatedequal_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Reconstruct extension matching_nearest_threezero_fractiontreatedbaseline_market_cap_family",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "108 extension coefficients and Holm correction",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Dense-dummy WLS separate_status_eventtrade_fixed2000equal_familycountry_family_and_year",
+      "passed": true,
+      "detail": {
+        "coefficient_error": 3.0878077872387166e-16,
+        "SE_error": 1.8388068845354155e-16,
+        "matrix_rank": 78,
+        "reported_FE_plus_terms": 78
+      }
+    },
+    {
+      "check": "Dense-dummy WLS separate_status_eventgdp_learning_known_universeequal_familycountry_family_and_year",
+      "passed": true,
+      "detail": {
+        "coefficient_error": 1.9290125052862095e-15,
+        "SE_error": 7.147060721024445e-16,
+        "matrix_rank": 119,
+        "reported_FE_plus_terms": 119
+      }
+    },
+    {
+      "check": "Dense-dummy WLS separate_status_eventlanguageequal_familycountry_family_and_year",
+      "passed": true,
+      "detail": {
+        "coefficient_error": 0.0,
+        "SE_error": -4.85722573273506e-17,
+        "matrix_rank": 111,
+        "reported_FE_plus_terms": 111
+      }
+    },
+    {
+      "check": "Dense-dummy WLS separate_status_eventfinancial_dependenceequal_familycountry_family_and_year",
+      "passed": true,
+      "detail": {
+        "coefficient_error": 5.551115123125783e-17,
+        "SE_error": 5.2909066017292616e-17,
+        "matrix_rank": 84,
+        "reported_FE_plus_terms": 84
+      }
+    },
+    {
+      "check": "Dense-dummy WLS separate_status_eventtrade_fixed2000equal_familycountry_family_and_family_year",
+      "passed": true,
+      "detail": {
+        "coefficient_error": 4.579669976578771e-16,
+        "SE_error": -1.4224732503009818e-16,
+        "matrix_rank": 174,
+        "reported_FE_plus_terms": 174
+      }
+    },
+    {
+      "check": "Dense-dummy WLS separate_status_eventgdp_learning_known_universeequal_familycountry_family_and_family_year",
+      "passed": true,
+      "detail": {
+        "coefficient_error": 2.031361190368841e-15,
+        "SE_error": 5.551115123125783e-16,
+        "matrix_rank": 191,
+        "reported_FE_plus_terms": 191
+      }
+    },
+    {
+      "check": "Dense-dummy WLS separate_status_eventlanguageequal_familycountry_family_and_family_year",
+      "passed": true,
+      "detail": {
+        "coefficient_error": 4.163336342344337e-16,
+        "SE_error": -9.020562075079397e-17,
+        "matrix_rank": 279,
+        "reported_FE_plus_terms": 279
+      }
+    },
+    {
+      "check": "Dense-dummy WLS separate_status_eventfinancial_dependenceequal_familycountry_family_and_family_year",
+      "passed": true,
+      "detail": {
+        "coefficient_error": 6.331740687315346e-17,
+        "SE_error": 5.572799166575493e-17,
+        "matrix_rank": 199,
+        "reported_FE_plus_terms": 199
+      }
+    },
+    {
+      "check": "Dense-dummy WLS separate_status_eventtrade_fixed2000baseline_market_cap_familycountry_family_and_year",
+      "passed": true,
+      "detail": {
+        "coefficient_error": 1.6653345369377348e-16,
+        "SE_error": -1.0408340855860843e-17,
+        "matrix_rank": 78,
+        "reported_FE_plus_terms": 78
+      }
+    },
+    {
+      "check": "Dense-dummy WLS separate_status_eventgdp_learning_known_universebaseline_market_cap_familycountry_family_and_year",
+      "passed": true,
+      "detail": {
+        "coefficient_error": 3.2751579226442118e-15,
+        "SE_error": -4.163336342344337e-17,
+        "matrix_rank": 119,
+        "reported_FE_plus_terms": 119
+      }
+    },
+    {
+      "check": "Dense-dummy WLS separate_status_eventlanguagebaseline_market_cap_familycountry_family_and_year",
+      "passed": true,
+      "detail": {
+        "coefficient_error": 1.8041124150158794e-16,
+        "SE_error": 5.204170427930421e-18,
+        "matrix_rank": 111,
+        "reported_FE_plus_terms": 111
+      }
+    },
+    {
+      "check": "Dense-dummy WLS separate_status_eventfinancial_dependencebaseline_market_cap_familycountry_family_and_year",
+      "passed": true,
+      "detail": {
+        "coefficient_error": 3.253690719628999e-15,
+        "SE_error": -1.0928757898653885e-16,
+        "matrix_rank": 84,
+        "reported_FE_plus_terms": 84
+      }
+    },
+    {
+      "check": "Dense-dummy WLS separate_status_eventtrade_fixed2000baseline_market_cap_familycountry_family_and_family_year",
+      "passed": true,
+      "detail": {
+        "coefficient_error": -1.734723475976807e-16,
+        "SE_error": -1.3530843112619095e-16,
+        "matrix_rank": 174,
+        "reported_FE_plus_terms": 174
+      }
+    },
+    {
+      "check": "Dense-dummy WLS separate_status_eventgdp_learning_known_universebaseline_market_cap_familycountry_family_and_family_year",
+      "passed": true,
+      "detail": {
+        "coefficient_error": 2.609024107869118e-15,
+        "SE_error": 5.342948306008566e-16,
+        "matrix_rank": 191,
+        "reported_FE_plus_terms": 191
+      }
+    },
+    {
+      "check": "Dense-dummy WLS separate_status_eventlanguagebaseline_market_cap_familycountry_family_and_family_year",
+      "passed": true,
+      "detail": {
+        "coefficient_error": -7.632783294297951e-17,
+        "SE_error": 6.938893903907228e-17,
+        "matrix_rank": 279,
+        "reported_FE_plus_terms": 279
+      }
+    },
+    {
+      "check": "Dense-dummy WLS separate_status_eventfinancial_dependencebaseline_market_cap_familycountry_family_and_family_year",
+      "passed": true,
+      "detail": {
+        "coefficient_error": 1.5774057407491604e-15,
+        "SE_error": -2.168404344971009e-17,
+        "matrix_rank": 199,
+        "reported_FE_plus_terms": 199
+      }
+    },
+    {
+      "check": "Dense-dummy WLS separate_first_eventtrade_fixed2000equal_familycountry_family_and_year",
+      "passed": true,
+      "detail": {
+        "coefficient_error": 2.3071822230491534e-16,
+        "SE_error": 5.173812767100827e-15,
+        "matrix_rank": 78,
+        "reported_FE_plus_terms": 78
+      }
+    },
+    {
+      "check": "Dense-dummy WLS separate_first_eventgdp_learning_known_universeequal_familycountry_family_and_year",
+      "passed": true,
+      "detail": {
+        "coefficient_error": -2.0036056147532122e-16,
+        "SE_error": 2.308847557586091e-13,
+        "matrix_rank": 119,
+        "reported_FE_plus_terms": 119
+      }
+    },
+    {
+      "check": "Dense-dummy WLS separate_first_eventlanguageequal_familycountry_family_and_year",
+      "passed": true,
+      "detail": {
+        "coefficient_error": -2.0816681711721685e-17,
+        "SE_error": 3.964710504344993e-15,
+        "matrix_rank": 111,
+        "reported_FE_plus_terms": 111
+      }
+    },
+    {
+      "check": "Dense-dummy WLS separate_first_eventfinancial_dependenceequal_familycountry_family_and_year",
+      "passed": true,
+      "detail": {
+        "coefficient_error": 1.1297386637298956e-16,
+        "SE_error": 1.644084174357019e-15,
+        "matrix_rank": 84,
+        "reported_FE_plus_terms": 84
+      }
+    },
+    {
+      "check": "Dense-dummy WLS separate_first_eventtrade_fixed2000equal_familycountry_family_and_family_year",
+      "passed": true,
+      "detail": {
+        "coefficient_error": -1.0408340855860843e-17,
+        "SE_error": -1.6688039838896884e-15,
+        "matrix_rank": 154,
+        "reported_FE_plus_terms": 154
+      }
+    },
+    {
+      "check": "Dense-dummy WLS separate_first_eventgdp_learning_known_universeequal_familycountry_family_and_family_year",
+      "passed": true,
+      "detail": {
+        "coefficient_error": 4.0245584642661925e-16,
+        "SE_error": -8.14071032806396e-14,
+        "matrix_rank": 171,
+        "reported_FE_plus_terms": 171
+      }
+    },
+    {
+      "check": "Dense-dummy WLS separate_first_eventlanguageequal_familycountry_family_and_family_year",
+      "passed": true,
+      "detail": {
+        "coefficient_error": 1.0408340855860843e-17,
+        "SE_error": 1.6854573292590658e-14,
+        "matrix_rank": 250,
+        "reported_FE_plus_terms": 250
+      }
+    },
+    {
+      "check": "Dense-dummy WLS separate_first_eventfinancial_dependenceequal_familycountry_family_and_family_year",
+      "passed": true,
+      "detail": {
+        "coefficient_error": -2.4188550468151604e-16,
+        "SE_error": 1.1002483646382899e-15,
+        "matrix_rank": 179,
+        "reported_FE_plus_terms": 179
+      }
+    },
+    {
+      "check": "Dense-dummy WLS separate_first_eventtrade_fixed2000baseline_market_cap_familycountry_family_and_year",
+      "passed": true,
+      "detail": {
+        "coefficient_error": 6.938893903907228e-17,
+        "SE_error": 3.4876615484513707e-15,
+        "matrix_rank": 78,
+        "reported_FE_plus_terms": 78
+      }
+    },
+    {
+      "check": "Dense-dummy WLS separate_first_eventgdp_learning_known_universebaseline_market_cap_familycountry_family_and_year",
+      "passed": true,
+      "detail": {
+        "coefficient_error": 1.524320491878839e-17,
+        "SE_error": 2.0482227025553357e-13,
+        "matrix_rank": 119,
+        "reported_FE_plus_terms": 119
+      }
+    },
+    {
+      "check": "Dense-dummy WLS separate_first_eventlanguagebaseline_market_cap_familycountry_family_and_year",
+      "passed": true,
+      "detail": {
+        "coefficient_error": 1.3877787807814457e-17,
+        "SE_error": -4.6802839381854255e-15,
+        "matrix_rank": 111,
+        "reported_FE_plus_terms": 111
+      }
+    },
+    {
+      "check": "Dense-dummy WLS separate_first_eventfinancial_dependencebaseline_market_cap_familycountry_family_and_year",
+      "passed": true,
+      "detail": {
+        "coefficient_error": 6.099992472946569e-16,
+        "SE_error": 1.662992660245166e-14,
+        "matrix_rank": 84,
+        "reported_FE_plus_terms": 84
+      }
+    },
+    {
+      "check": "Dense-dummy WLS separate_first_eventtrade_fixed2000baseline_market_cap_familycountry_family_and_family_year",
+      "passed": true,
+      "detail": {
+        "coefficient_error": 1.0928757898653885e-16,
+        "SE_error": -2.6471880243406076e-15,
+        "matrix_rank": 154,
+        "reported_FE_plus_terms": 154
+      }
+    },
+    {
+      "check": "Dense-dummy WLS separate_first_eventgdp_learning_known_universebaseline_market_cap_familycountry_family_and_family_year",
+      "passed": true,
+      "detail": {
+        "coefficient_error": 5.967448757360216e-16,
+        "SE_error": -6.64329702360078e-14,
+        "matrix_rank": 171,
+        "reported_FE_plus_terms": 171
+      }
+    },
+    {
+      "check": "Dense-dummy WLS separate_first_eventlanguagebaseline_market_cap_familycountry_family_and_family_year",
+      "passed": true,
+      "detail": {
+        "coefficient_error": -3.0878077872387166e-16,
+        "SE_error": 1.5112910922709943e-14,
+        "matrix_rank": 250,
+        "reported_FE_plus_terms": 250
+      }
+    },
+    {
+      "check": "Dense-dummy WLS separate_first_eventfinancial_dependencebaseline_market_cap_familycountry_family_and_family_year",
+      "passed": true,
+      "detail": {
+        "coefficient_error": 1.1102230246251565e-16,
+        "SE_error": 3.157630407146783e-15,
+        "matrix_rank": 179,
+        "reported_FE_plus_terms": 179
+      }
+    },
+    {
+      "check": "Diffusion Holm and failed cells retained",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Absorbed or unsupported outcomes withheld",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Diffusion fixed-effect and weighting paired samples",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Diffusion fixed-effect and weighting paired samples",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Diffusion fixed-effect and weighting paired samples",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Diffusion fixed-effect and weighting paired samples",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Diffusion fixed-effect and weighting paired samples",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Diffusion fixed-effect and weighting paired samples",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Diffusion fixed-effect and weighting paired samples",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Diffusion fixed-effect and weighting paired samples",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Diffusion fixed-effect and weighting paired samples",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Diffusion fixed-effect and weighting paired samples",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Diffusion fixed-effect and weighting paired samples",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Diffusion fixed-effect and weighting paired samples",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Diffusion fixed-effect and weighting paired samples",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Diffusion fixed-effect and weighting paired samples",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Diffusion fixed-effect and weighting paired samples",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Diffusion fixed-effect and weighting paired samples",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Twelve estimable regression tables, fifteen total",
+      "passed": true,
+      "detail": null
+    }
+  ]
+}

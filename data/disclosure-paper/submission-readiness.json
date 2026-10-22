@@ -1,0 +1,62 @@
+{
+  "status": "Research working draft; not submission-ready",
+  "research_question": "Do identified disclosure regulations generally affect stock-market liquidity, and how do the requirements spread internationally?",
+  "recommended_scope": "Primary public disclosure; combined public and confidential disclosure and confidential-only results reported separately. Both family weights retained.",
+  "completed": {
+    "paper_pages": 31,
+    "literature_records": 34,
+    "tables": 15,
+    "estimated_regression_tables": 12,
+    "cross_section_tables": 4,
+    "regression_support_diagnostic_tables": 1,
+    "figures": 3,
+    "independent_numerical_checks_passed": 973,
+    "independent_numerical_checks_total": 973
+  },
+  "current_inference": "Public-disclosure spread point estimates are negative under both family weights and horizons. The primary estimates and diagnostics do not establish a general causal liquidity improvement. Diffusion associations are conditional and sensitive to common family waves.",
+  "next_steps": [
+    {
+      "priority": 1,
+      "task": "Complete the historical disclosure universe",
+      "evidence_gap": "The 482 recorded country-family histories identify documented phases, not a verified census of first mandatory disclosure and nonadoption. Unknown histories narrow the comparison sample.",
+      "deliverable": "Country-family-year calendar with original legal sources, earliest mandatory/public dates, subsequent phases, repeal and verified nonadoption through the observation window. Separate E, S and G obligations and publication audiences.",
+      "completion_criterion": "Every treated and comparison country-year in the proposed main sample has a reviewed historical status and a source-supported date. Unresolved histories remain missing, never assumed untreated."
+    },
+    {
+      "priority": 2,
+      "task": "Identify when investors could first receive the information",
+      "evidence_gap": "Announcement, first covered financial period, statutory filing deadline and actual publication are different events. The global calendar currently has no company-level actual filing dates.",
+      "deliverable": "Separate legal announcement, application, reporting-period, deadline and public-release clocks; verify transitions against issuer reports and registry records where available.",
+      "completion_criterion": "The main information clock is chosen for its institutional meaning before refitting; alternative clocks and coverage attrition are reported on comparable samples."
+    },
+    {
+      "priority": 3,
+      "task": "Strengthen liquidity identification",
+      "evidence_gap": "Fixed cohorts and not-yet-treated comparisons do not resolve policy endogeneity, coordinated adoption waves, overlapping reforms or pre-policy differences. Matching retains material imbalance.",
+      "deliverable": "An institutional identification memo, overlap and coordinated-wave map, credible comparison sample, and an estimator appropriate to the verified staggered timing. If a narrow eligibility threshold or externally imposed implementation shock exists, document it rather than assume one.",
+      "completion_criterion": "A defensible counterfactual and clustered inference match the legal assignment mechanism. Event dynamics, balance, trend-sensitivity restrictions and alternative outcomes are evaluated without selecting by sign."
+    },
+    {
+      "priority": 4,
+      "task": "Extend mechanism tests on adequate global support",
+      "evidence_gap": "The current spread interactions have only two supported public families. A country-level regulator-quality proxy is not firm-level enforcement or information demand.",
+      "deliverable": "Pre-specified mechanism predictions with distinct alternatives, global coverage audit and source-linked moderators; issuer eligibility and historical fundamentals if issuer-level tests are used.",
+      "completion_criterion": "Cross-sectional comparisons cover enough independently adopting jurisdictions and families for the claimed population, with formal interaction tests and multiplicity disclosure. No numerical support target is invented as a guarantee of identification."
+    },
+    {
+      "priority": 5,
+      "task": "Complete diffusion histories and separate common waves",
+      "evidence_gap": "The public-sample reference joint logit has no usable rows. The positive common-year language association changes sign with family-year effects. Observed phase histories are retrospectively selected.",
+      "deliverable": "Complete adoption-risk sets, documented peer universes, coordinated-legal-group exclusions and separately justified learning, competition and emulation measures.",
+      "completion_criterion": "Separate and joint tests retain interpretable outcome variation; conclusions survive relevant common-wave explanations or are explicitly limited to conditional associations."
+    },
+    {
+      "priority": 6,
+      "task": "Finish independent scholarly review and replication",
+      "evidence_gap": "The literature matrix is a targeted 34-record review, not a systematic full-text review of all cited papers. The public bundle cannot redistribute licensed Datastream inputs.",
+      "deliverable": "Coauthor review of novelty and institutions; complete bibliography and source audit; independent reproduction using documented licensed-input locations and aggregate replication files.",
+      "completion_criterion": "Every central claim maps to a source or table, all exclusions and exploratory choices are disclosed, and an independent reader can reproduce the reported sample and estimates with authorised data access."
+    }
+  ],
+  "submission_claim": "No journal acceptance, publishability or submission readiness is asserted."
+}

@@ -1,0 +1,10 @@
+{
+  "attempted_new_focal_coefficients": 84,
+  "estimated": 84,
+  "unsupported": 0,
+  "Holm_below_05": 17,
+  "cohort_regression_coefficients": 1005,
+  "raw_country_cohort_rows": 540,
+  "matching_covariate_cells": 205,
+  "inference": "95% t country-influence intervals; fixed-calendar and fixed-match conditional, not full law-assignment uncertainty."
+}

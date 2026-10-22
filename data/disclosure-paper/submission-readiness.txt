@@ -1,0 +1,35 @@
+Disclosure regulation paper: next steps
+
+Research working draft; not submission-ready
+
+Public-disclosure spread point estimates are negative under both family weights and horizons. The primary estimates and diagnostics do not establish a general causal liquidity improvement. Diffusion associations are conditional and sensitive to common family waves.
+
+1. Complete the historical disclosure universe
+The 482 recorded country-family histories identify documented phases, not a verified census of first mandatory disclosure and nonadoption. Unknown histories narrow the comparison sample.
+Output: Country-family-year calendar with original legal sources, earliest mandatory/public dates, subsequent phases, repeal and verified nonadoption through the observation window. Separate E, S and G obligations and publication audiences.
+Completion: Every treated and comparison country-year in the proposed main sample has a reviewed historical status and a source-supported date. Unresolved histories remain missing, never assumed untreated.
+
+2. Identify when investors could first receive the information
+Announcement, first covered financial period, statutory filing deadline and actual publication are different events. The global calendar currently has no company-level actual filing dates.
+Output: Separate legal announcement, application, reporting-period, deadline and public-release clocks; verify transitions against issuer reports and registry records where available.
+Completion: The main information clock is chosen for its institutional meaning before refitting; alternative clocks and coverage attrition are reported on comparable samples.
+
+3. Strengthen liquidity identification
+Fixed cohorts and not-yet-treated comparisons do not resolve policy endogeneity, coordinated adoption waves, overlapping reforms or pre-policy differences. Matching retains material imbalance.
+Output: An institutional identification memo, overlap and coordinated-wave map, credible comparison sample, and an estimator appropriate to the verified staggered timing. If a narrow eligibility threshold or externally imposed implementation shock exists, document it rather than assume one.
+Completion: A defensible counterfactual and clustered inference match the legal assignment mechanism. Event dynamics, balance, trend-sensitivity restrictions and alternative outcomes are evaluated without selecting by sign.
+
+4. Extend mechanism tests on adequate global support
+The current spread interactions have only two supported public families. A country-level regulator-quality proxy is not firm-level enforcement or information demand.
+Output: Pre-specified mechanism predictions with distinct alternatives, global coverage audit and source-linked moderators; issuer eligibility and historical fundamentals if issuer-level tests are used.
+Completion: Cross-sectional comparisons cover enough independently adopting jurisdictions and families for the claimed population, with formal interaction tests and multiplicity disclosure. No numerical support target is invented as a guarantee of identification.
+
+5. Complete diffusion histories and separate common waves
+The public-sample reference joint logit has no usable rows. The positive common-year language association changes sign with family-year effects. Observed phase histories are retrospectively selected.
+Output: Complete adoption-risk sets, documented peer universes, coordinated-legal-group exclusions and separately justified learning, competition and emulation measures.
+Completion: Separate and joint tests retain interpretable outcome variation; conclusions survive relevant common-wave explanations or are explicitly limited to conditional associations.
+
+6. Finish independent scholarly review and replication
+The literature matrix is a targeted 34-record review, not a systematic full-text review of all cited papers. The public bundle cannot redistribute licensed Datastream inputs.
+Output: Coauthor review of novelty and institutions; complete bibliography and source audit; independent reproduction using documented licensed-input locations and aggregate replication files.
+Completion: Every central claim maps to a source or table, all exclusions and exploratory choices are disclosed, and an independent reader can reproduce the reported sample and estimates with authorised data access.

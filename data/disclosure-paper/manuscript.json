@@ -1,0 +1,466 @@
+{
+  "title": "Disclosure Regulation, Stock Liquidity, and International Policy Diffusion",
+  "author": "Hunter Ng",
+  "document_status": "Research working draft; not represented as submission-ready",
+  "date": "21 October 2026",
+  "abstract": "We examine whether disclosure regulation is associated with a general improvement in stock-market liquidity and how the regulations spread internationally. We combine a source-linked policy register with Datastream observations for 90 jurisdictions over 2000-2025. Ten identified public-disclosure families define the primary regulatory universe; eight support following-year comparisons and six support a longer window. Country-cohort comparisons hold the company sample fixed and exclude already-treated countries and unknown policy histories from the control group. The following-year log-spread estimate is -0.022 under equal family weights and -0.047 under market-cap family weights. Both longer-window spread estimates are also negative, but uncertainty and multiple-outcome evidence limit a general causal conclusion. Confidential tax disclosures and other regulatory categories yield different economic averages. Pre-policy interactions, matching and event dynamics examine alternative explanations. Adoption associations depend on the outcome, sample and controls for common policy waves. The evidence illustrates why information audience, implementation timing and the definition of the pooled effect matter when evaluating disclosure regulation.",
+  "sections": [
+    {
+      "heading": "1. Introduction and related research",
+      "paragraphs": [
+        "Disclosure regulation is intended to improve the information on which investors trade. A reporting requirement can make companies easier to compare, reduce the advantage of privately informed traders and encourage participation by investors who would otherwise avoid the market. The relevant question for policy is not simply whether a particular document contains information. It is whether requiring disclosure generally changes the conditions under which investors can buy and sell shares. We study this question across a range of reporting requirements and then examine the international adoption of those requirements.",
+        "The theoretical connection between disclosure and liquidity is well established. Diamond and Verrecchia (1991) show how public information can affect information asymmetry, investor participation and market-making incentives. The implication is conditional rather than mechanical: more disclosure changes the incentives of both informed traders and liquidity providers. A rule that lowers one information cost can therefore have different effects across markets or types of investor. This reasoning motivates a common empirical comparison while allowing the consequences of individual requirements to differ.",
+        "Early empirical disclosure studies examine these links within particular corporate information environments. Welker (1995) relates disclosure policy to information asymmetry and equity-market liquidity. Healy, Hutton and Palepu (1999) study intermediation and stock-market changes around sustained disclosure increases. Leuz and Verrecchia (2000) examine German firms switching to international reporting regimes and document changes in spreads and trading activity. These studies establish important links between reporting and market outcomes. They also raise a selection issue: a firm that chooses to change its reporting may simultaneously change other features relevant to trading.",
+        "The disclosure literature consequently distinguishes the information produced by managers, information required by regulators and information supplied by intermediaries. Healy and Palepu (2001) organize the evidence around information asymmetry and corporate disclosure. Beyer et al. (2010) emphasize the interdependence of voluntary reports, mandated reports and analyst information. This interdependence matters for a broad regulatory study. A new requirement may reveal information that was previously unavailable, standardize information that investors already obtained at a cost, or repeat information already supplied through another channel. Counting new rules cannot distinguish these possibilities.",
+        "A second stream examines mandatory financial-reporting changes internationally. Daske et al. (2008) report liquidity improvements around mandatory IFRS adoption, with important differences in firms' reporting incentives and countries' enforcement regimes. Christensen, Hail and Leuz (2013) separate accounting-standard changes from changes in enforcement. Their distinction cautions against interpreting the year of a formal standard as the only relevant event. It also suggests that country institutions may complement a mandate rather than simply substitute for missing disclosure.",
+        "There is also direct evidence on multiple securities-law reforms. Christensen, Hail and Leuz (2016) examine European rules addressing market abuse and transparency and relate their market effects to prior conditions and implementation. La Porta, Lopez-de-Silanes and Shleifer (2006) distinguish disclosure and liability rules from public enforcement in explaining securities-market development. Bhattacharya and Daouk (2002) distinguish insider-trading laws from their first enforcement when examining the cost of equity. These studies make an unrestricted claim that regulatory liquidity effects have never been studied untenable. They instead motivate careful definitions of the regulatory change and the institutional conditions under which it operates.",
+        "Nonfinancial disclosure extends the set of potential information users and economic responses. Christensen, Hail and Leuz (2021) explain why CSR reporting can influence capital markets, corporate conduct and externalities, with tradeoffs that depend on the reporting setting. Krueger et al. (2024) provide the closest liquidity comparison, studying mandatory E, S and G disclosure around the world. Their evidence emphasizes the information environment and the implementation of the mandate. Our analysis uses their global setting as a benchmark, while asking how the empirical average changes when the policy set extends beyond a single disclosure family.",
+        "Information access provides an additional reason to distinguish requirements. Blankespoor, deHaan and Marinovic (2020) explain that publicly available information can remain costly to acquire and interpret. Blankespoor, Miller and White (2014) find that the initial XBRL mandate did not uniformly level the information available to different investors. In expanded audit reporting, Lennox, Schmidt and Thompson (2023) emphasize that information disclosed by auditors can overlap information already available to investors. A plausible null for a new public requirement is therefore that it adds little usable information at the margin.",
+        "The intended audience also changes the interpretation of a disclosure mandate. De Simone and Olbert (2022) examine private country-by-country reporting to tax authorities and its real consequences. Müller, Spengel and Weck (2024) study the valuation implications of making previously confidential tax information public. Nessa et al. (2025) show that the information increment and responses to US country-by-country reporting can differ from those in other settings. Rauter (2020) examines extraction-payment reporting and corporate conduct abroad. Confidential tax returns, public tax reports and payments-to-government reports thus have different information channels and intended outcomes. A pooled capital-market analysis should make these differences visible.",
+        "Dube and Zhu (2021) offer a useful way to connect these ideas. In their setting, information shared by employees affects workplace practices and firm-initiated disclosures through different audiences. Their empirical argument links the content of the information to the response being measured, then uses targeted cross sections to distinguish channels. We apply that discipline to regulation: the primary liquidity pool contains public disclosure requirements, while confidential reporting is an audience comparison. We do not treat private reporting as a placebo because its enforcement and real effects can also reach capital markets.",
+        "The gap we address is a common empirical comparison across the wider set of documented disclosure families, together with an analysis of their international adoption. Existing studies already establish that specific reporting reforms can affect liquidity. Our question is whether their broader public-disclosure counterpart has a general country-market association when the same outcomes, comparison rules and weighting conventions are applied. This is a comparison across identified reporting changes during the sample period, not a census of every disclosure obligation ever enacted. The contribution depends on making the pooled target explicit rather than assuming that a larger regulatory inventory implies a single economic treatment.",
+        "The second part connects to policy-diffusion research. Simmons and Elkins (2004) distinguish foreign policies that alter the benefits of domestic adoption from policies that provide information about those benefits. Simmons, Dobbin and Garrett (2006) distinguish competition, coercion, learning and emulation. Koning, Mertens and Roosenboom (2018) apply this framework to IFRS adoption. We ask whether analogous patterns appear across the identified disclosure families. Similar adoption dates alone cannot distinguish contagion from common legal obligations, shared economic conditions or international coordination.",
+        "We combine 1,055,142 Datastream stock-year observations with a register containing 482 country-family phase histories. The main public-disclosure pool attempts ten families; eight support following-year comparisons and six support years 1-3. The following-year log-spread estimates are -0.022 and -0.047 under equal and market-cap family weights, respectively. The corresponding longer-window estimates are -0.075 and -0.084. The negative spread directions are informative about the sample average, but the intervals, other liquidity measures and pre-policy patterns do not establish a common causal improvement.",
+        "We develop the evidence in a fixed sequence. We first describe the institutions and data, then estimate the pooled liquidity comparison. We next examine domestic controls, individual families, information audience, pre-policy cross sections, matched-country comparisons and event dynamics. Finally, we examine adoption associations using both the reference-style logit and within-country alternatives. This sequence separates the overall economic question from explanations for variation across the policies and the countries that adopt them."
+      ]
+    },
+    {
+      "heading": "2. Institutional setting and predictions",
+      "paragraphs": [
+        "2.1. What constitutes a disclosure regulation?",
+        "The policy register distinguishes reporting requirements from other rules with capital-market implications. The main public-disclosure families are IFRS financial reporting, auditor reporting, public bank country reports, public multinational country reports, nonfinancial reporting, climate or emissions disclosure, payments to governments, supply-chain reporting, financial-focus sustainability reporting and electronic financial reporting. A family can contain different national implementations and later reporting phases. Consequently, family membership is a device for organizing legal events, not a claim that the underlying obligations are identical.",
+        "The primary pool excludes the register's broad auditor-institution and rotation category, corporate-governance frameworks, beneficial-owner registers and digital-asset authorisations. These categories do not consistently identify a new public reporting obligation for the sampled listed companies. Some individual provisions within them can require disclosure, so exclusion is not a claim that their entire legal content is unrelated to information. Their country-market estimates remain in a wider 17-family sensitivity. A future extension based on individual legal provisions could classify mixed categories more finely.",
+        "Confidential country-by-country tax reporting is the principal audience comparison. Such reports are filed with tax authorities and can be exchanged between them; they are not ordinarily an investor publication. Public bank country reporting and public multinational country reporting instead make specified jurisdictional information available publicly. The distinction is about access to the report, not whether the information is economically relevant. Enforcement responses, investment adjustments, reputational concerns and the expected distribution of tax costs can give confidential reporting indirect market consequences.",
+        "Table 2 shows both the legal inventory and the supported market comparisons. A requirement can be present in the source register without yielding an estimable event in the market sample. Adoption may precede the sample, the rule may begin too late for a following-year outcome, too few companies may have complete trading data, or no documented comparison countries may remain untreated through the outcome window. Unsupported families stay in the inventory without receiving a zero estimated effect.",
+        "2.2. Implementation, reporting periods and public information",
+        "A regulation has several possible dates: announcement, enactment, legal application, the beginning or end of the first covered financial period, a filing deadline and the actual release of a company's report. These dates can differ by more than a year. An information-based liquidity hypothesis concerns what investors can learn and when they can learn it. A statutory period-start date cannot automatically identify the first public disclosure. Conversely, investors can respond before the first report if an announcement changes expected information or compliance costs.",
+        "The UK extended audit-report requirement illustrates the distinction. The revised standard was issued in June 2013 while referring to periods beginning on or after October 2012. We retain the covered-period date and use 2013 for the information-policy clock. We do not infer that every covered company published its first expanded report in 2013. The broader nonfinancial calendar raises another issue: its documented phases differ from the supplied complete-topic E, S and G calendar in 25 of 31 overlapping dated jurisdictions. Later reporting phases and earliest comprehensive mandates are different empirical treatments. A separate benchmark uses the supplied Krueger working-paper calendar through 2020.",
+        "The design also distinguishes policy persistence from an initial adoption year. US domestic beneficial-ownership reporting and German supply-chain reporting have flagged 2025 changes or reporting-enforcement uncertainty. Affected country-family observations are censored when an outcome window reaches the flagged boundary; they are not recoded as untreated. This convention mainly affects the wider regulatory sensitivity. It does not imply that every associated legal duty ended. The global calendar does not supply actual filing dates for all companies, which is one reason the estimates are national policy exposures rather than verified covered-issuer effects.",
+        "2.3. Predictions and competing explanations",
+        "Our first prediction is that public reporting requirements can lower trading frictions by making useful company information available more broadly. For all three measures used here, lower outcomes indicate greater liquidity. A negative average treatment coefficient is therefore consistent with the information channel. The alternative is economically credible: a rule may duplicate existing information, impose processing or proprietary costs, be weakly enforced, or apply directly to only a small part of the listed market. These possibilities imply a small, heterogeneous or opposite-signed country-market response.",
+        "The audience comparison asks whether public reporting produces different market changes from confidential tax reporting. We expect a more direct information channel for public reports, but do not impose a zero effect for confidential reports. The comparison is not a clean experiment in audience: the families differ in subject matter, coverage, timing and countries. It is therefore a diagnostic of the pooled economic target, not an identified estimate of the causal value of publication.",
+        "We next examine predetermined country characteristics. A weak pre-policy liquidity environment could leave more room for improvement, but a baseline-outcome interaction can also reflect mean reversion. Stronger regulatory institutions could make reporting more credible, but a broad governance indicator is not a measure of enforcement of the particular disclosure rule. Larger capital markets and greater international openness could raise the demand for comparable information, while also changing trading structure and exposure to global shocks. We state these competing interpretations before using interactions to examine the data.",
+        "For diffusion, competition predicts adoption responses to trade peers when foreign choices alter the benefits of a domestic regime. Learning predicts responses to economic outcomes among foreign adopters. Emulation predicts association with institutionally or culturally proximate peers, potentially apart from demonstrated outcomes. External finance may create incentives or pressure to adopt. Our observed language network and aggregate aid and IMF measures are proxies for these mechanisms. None by itself establishes the underlying decision process."
+      ]
+    },
+    {
+      "heading": "3. Data, measurement and empirical design",
+      "paragraphs": [
+        "3.1. Market data and policy histories",
+        "The market inventory covers 90 jurisdictions over 2000-2025, with 1,055,142 stock-year observations and 99,100 vendor company records. Table 1 reports the observed liquidity distributions. All three measures are jointly available for 636,960 stock-years in 86 jurisdictions. The inventory is broad but is not a census of every listed company. Security records can include more than one share line for a company, and annual coverage can change. We therefore select one share line before each policy cohort and hold it fixed over the relevant comparison window.",
+        "For a cohort implemented in year g, we select the largest observed positive-market-value share line in year g-1 for each vendor company identifier. The same company identifier, share line and country assignment must be observed in every required year, with finite values for all three outcomes. We form unweighted company means within countries and require at least 30 complete companies per country. Holding the companies fixed removes a particular composition problem, but conditioning on complete future observations can itself select the sample. The resulting population is the observed fixed cohort, not all companies legally subject to the requirement.",
+        "The 482 country-family records identify documented policy phases across the wider source universe. An unknown country history does not mean that no disclosure requirement exists. We therefore do not create untreated observations from absent records. A comparison country must have a documented phase date later than the end of the outcome window. This conservative treatment of missing history avoids a false nonadoption label, while narrowing support and making the comparison set retrospectively selected. Completing the historical adoption and nonadoption universe remains important for stronger policy inference.",
+        "Country economic data supply prior-year GDP, income per capita, growth and trade exposure. Additional domestic measures include regulatory quality and stock-market capitalisation relative to GDP. Diffusion data provide trade-pattern peers, geographic distance, language and legal-origin networks, aid and IMF credit. Missing capitalisation or institutional data are not replaced by zeros. Contemporary revised macroeconomic series are used; these are not the historical data vintages available to policy makers at the time of adoption.",
+        "3.2. Liquidity outcomes",
+        "The first outcome is the log of the annual median relative quoted bid-ask spread. The second is the log of an annual median daily absolute-return-to-dollar-volume ratio, an adaptation of the price-impact measure associated with Amihud (2002). Using a median limits the influence of extreme daily observations but differs from the original annual mean definition. The third is the fraction of observed valid daily returns equal to zero. This fraction captures one aspect of infrequent price changes; it is not the structural transaction-cost estimator in Lesmond, Ogden and Trzcinka (1999).",
+        "The annual construction applies the documented valid-day thresholds, including at least 120 valid observations for the relevant daily measure. Log spread and impact values are winsorised within year at the first and ninety-ninth percentiles. Zero-return fractions use observed valid return days rather than imputing a complete potential trading calendar. Quoted spreads, rough price impact and zero-return incidence capture different aspects of liquidity, and each can be affected by market structure. We retain all three instead of selecting the measure that most closely matches the expected result.",
+        "3.3. Country-cohort comparisons and the general effect",
+        "For each family f and implementation cohort g, let Delta L_cfg denote the change in a country's fixed-company mean from year g-1 to year g+1. We estimate a separate country regression for each family and cohort: Delta L_cfg = alpha_fg + beta_fg Treat_cg + error_cfg. Treat equals one for countries whose recorded phase begins in g. Comparison countries have documented phase dates after g+1. A second outcome averages years g+1 through g+3, again relative to g-1. Already-treated countries do not enter as controls.",
+        "The primary country regressions use positive prior-year GDP weights. Family-level coefficients average the cohort coefficients with weights proportional to the GDP of supported adopting countries. We then report two overall averages: equal family weights and weights proportional to sampled adopting-company market value in g-1, summed across supported cohorts. These answer different questions. Equal weights describe the typical supported policy family; market-cap weights emphasize families affecting larger observed market exposures. Companies can appear under several policies, so the market-cap pool is not a portfolio of distinct world companies.",
+        "The separation of cohort comparisons from aggregation follows the logic emphasized by Callaway and Sant'Anna (2021). It avoids using already-treated countries as comparisons, a concern in the timing decompositions of Goodman-Bacon (2021) and the event-study analysis of Sun and Abraham (2021). Our implementation is a country-cohort WLS adaptation, not a claim to reproduce every estimator or identification result in those papers. In particular, excluding already-treated controls does not establish parallel trends, remove policy overlap or make implementation exogenous. Baker, Larcker and Wang (2022) and Roth et al. (2023) explain why these distinctions matter for applied work.",
+        "Country influence contributions are accumulated across cohorts and families before calculating uncertainty, allowing the same country to enter several comparisons. The main tables report conditional country standard errors, while the accompanying data retain intervals and fixed-seed multiplier diagnostics. New WLS extensions use t-based country-influence inference. These calculations condition on the recorded calendar, the company sample and, where relevant, the matches. They do not capture every source of uncertainty from coordinated supranational adoption, a small number of treated countries or legal-date error.",
+        "3.4. Additional regressions",
+        "The domestic-control comparison adds prior log GDP per capita, GDP growth and trade/GDP. Its adjusted and unadjusted regressions use identical eligible country rows, so a change in coefficient is not attributed to controls when it actually reflects a change in sample. Cross-sectional regressions include treatment, the prior moderator and their interaction. Moderators are centred and scaled by the unweighted eligible-country standard deviation within cohort. We require at least two adopting and six comparison countries, full column rank and at least three residual degrees of freedom. The interaction is the formal differential association; significance in only one subgroup is not a test of a difference.",
+        "The matched-country design chooses three nearest documented comparison countries per adopting country using Mahalanobis distance in prior income, trade exposure and all three pre-policy liquidity levels. Matches are chosen within family and cohort, controls can be reused, and no future outcome value enters the distance. We report the change in covariate balance rather than assuming that matching succeeds. In the spirit of Dube and Zhu (2021), matching is one diagnostic for observable selection; it cannot eliminate differences in unobserved political or economic conditions. Its reported uncertainty is conditional on the selected matches.",
+        "All additional choices are recorded as a retrospective extension. Previous project results were known, and the public-disclosure scope was clarified with the research question during this work. The previous 17-family comparisons and their 1,296-cell liquidity grid remain available. We use Holm (1979) adjustments for specified sets of tests: the 12 primary public-pool coefficients, 108 new WLS and audience coefficients, and 64 within-country diffusion coefficient attempts. These adjustments do not make exploratory model choices prospective or correct a misspecified design."
+      ]
+    },
+    {
+      "heading": "4. Liquidity results",
+      "paragraphs": [
+        "4.1. The pooled disclosure comparison",
+        "Table 3 directly addresses whether disclosure regulation generally changes liquidity in the observed national markets. For public requirements, the following-year log-spread estimate is -0.022 with equal family weights and -0.047 with market-cap weights. In proportional terms, the point estimates correspond to approximately 2.2% and 4.5% lower spreads, respectively. Both have intervals that include zero. The direction is consistent with reduced trading frictions, but the precision does not establish that every public mandate, or the defined public pool as a whole, causes an improvement.",
+        "The longer-window log-spread estimates are -0.075 and -0.084. Their more negative magnitudes could reflect gradual information effects, but the longer window uses six families and requires more complete company data. It cannot be read as the time path of the eight-family first-year estimate. The fixed-seven-year event sample below provides a more comparable dynamic diagnostic. None of the 12 primary public-pool coefficients survives its Holm adjustment.",
+        "The other outcomes provide a check on the interpretation of spreads. Table 3 reports the complete price-impact and zero-return results under both weights, rather than treating a negative spread coefficient as sufficient evidence of a general market-quality improvement. Some zero-return estimates are negative, while price-impact estimates depend on the weight and horizon. These differences can arise because disclosure affects participation, information-based trading and price adjustment differently, but the available outcomes do not identify those channels separately.",
+        "The combined public-and-confidential pool is a separate economic target. Tax-authority reporting receives substantial market-cap mass because of the sampled multinational exposures. Its inclusion can therefore change the overall coefficient without any arithmetic error. An estimate for all reporting audiences does not automatically estimate the investor-information effect of public disclosure. We report the combined pool alongside the public pool so that the meaning of a general disclosure effect is visible to the reader.",
+        "4.2. Domestic conditions and individual families",
+        "Table 4 compares regressions with and without prior domestic controls on exactly the same supported sample. These regressions ask whether observable national economic conditions explain the unadjusted comparison; they do not recover a new experiment. Their support is narrower than that in Table 3, and the table states the number of supported families and country-cohort observations. We do not interpret the difference between Table 3 and an adjusted regression as the causal contribution of the controls.",
+        "Table 5 reports every supported public-disclosure family. The nonfinancial-reporting log-spread coefficient is approximately -0.065 across 22 supported adopting jurisdictions, corresponding to a roughly 6% relative spread decline. This is a family-level exploratory estimate, not the answer to the pooled question. Some other family estimates are negative and others positive. Because each family has its own countries and implementation cohorts, cross-family differences can reflect both legal design and the economic settings in which the changes occur.",
+        "Table 6 makes the information-audience comparison explicit. The public-minus-confidential row subtracts the confidential-tax estimate from the public-disclosure estimate and accounts for shared country influence. This formal contrast is preferable to saying that a significant result in one group and an insignificant result in another establish a difference. The audience comparison remains confounded by policy content and implementation. It helps explain the construction of the overall average but does not isolate the causal effect of making the same report public.",
+        "On the five-family control-eligible sample, the equal-family log-spread coefficient changes from -0.063 without controls to -0.040 with controls. The public-minus-confidential spread contrast is -0.121 under equal weights. Neither comparison survives the stated extension-wide adjustment. These estimates distinguish the direction of the sample association from evidence that a particular national condition or disclosure audience causes it.",
+        "4.3. Country cross sections",
+        "Tables 7-10 examine whether the comparisons vary with prior liquidity, regulatory quality, financial development, income and openness. Each regression includes the moderator main effect and the treatment interaction. This follows the mechanism-testing logic in Dube and Zhu (2021), but the available moderators are country characteristics rather than the firm-level labor intensity or investor ownership measures in their setting. They should not be interpreted as equivalent constructs.",
+        "The interaction samples are especially important. Only a small subset of public-disclosure families has enough adopting and comparison countries within the same cohort to identify these terms. Consequently, an interaction coefficient describes variation in that subset; it does not describe heterogeneity across the entire eight-family main sample. The reported coefficients and adjusted p-values retain both supportive and contrary directions. A precisely estimated interaction on this selected support is not sufficient to establish that the proposed information channel operates globally.",
+        "Prior-outcome interactions also require care because the change in liquidity contains the baseline outcome by construction. Controlling for the moderator main effect separates a common baseline slope from the treatment differential, but does not rule out differential mean reversion, measurement error or nonlinear national trends. Similarly, a regulatory-quality interaction cannot show that a particular reporting rule was enforced more intensively. The cross sections are best viewed as evidence about the limits and composition of the average, rather than decisive tests of a single mechanism.",
+        "For log spreads, the equal-family treatment interactions are -0.065 for prior illiquidity, -0.054 for regulatory quality and -0.014 for financial development. The income and openness interactions are +0.391 and +0.532. All are per one eligible-country standard deviation of the prior moderator. Each of these public-sample spread interactions rests on two supported families, and none survives the 108-test extension correction. They do not establish that the average liquidity response is stronger in countries with greater information needs or better institutions.",
+        "4.4. Matching and dynamics",
+        "Table 11 compares the matched-country estimate with an unmatched estimate using the matching-eligible observations. The balance panel reports mean absolute standardised differences before and after matching, together with the proportion of cohort-covariate comparisons that remain above 0.25 in absolute value. Smaller differences would support improved observable comparability, but any remaining imbalance remains part of the interpretation. The matched sample is not described as randomized, and a more negative matched spread estimate cannot by itself establish identification.",
+        "Table 12 and Figure 2 examine fixed-company liquidity from three years before to three years after the recorded phase date. Year -1 is the reference. By using a fixed seven-year sample, these comparisons avoid reading changes in horizon-specific sample composition as a dynamic response. Pre-policy differences remain informative about the design, including anticipatory reporting, endogenous regulation or other market changes. A lead test is a diagnostic rather than a proof of parallel trends. Rambachan and Roth (2023) show why causal sensitivity requires explicit restrictions on possible trend violations, which are not established here.",
+        "On the four-family matching-eligible sample, the equal-family log-spread estimate is -0.073 before matching and -0.126 using the three-nearest-control weights. The matched point estimate is more negative, but its conditional interval includes zero and the matching balance must be considered alongside it. The narrower sample and the use of pre-policy liquidity in the distance rule preclude treating this comparison as an independent confirmation of the main effect.",
+        "Taken together, the liquidity evidence has a narrower interpretation than a universal benefit of disclosure laws. The public-pool spread point estimates are negative under both weights and horizons, but other measures, limited support and the dynamic comparisons do not establish a common causal improvement. The economic distinction between public information and confidential reporting is useful for defining the question. It does not remove the need to identify the implementation shock and the companies whose information changes."
+      ]
+    },
+    {
+      "heading": "5. International policy diffusion",
+      "paragraphs": [
+        "5.1. Adoption outcomes and foreign signals",
+        "The second part examines whether international connections are associated with the adoption of the public disclosure requirements. The reference-style outcome records whether a documented policy phase is in place. A separate timing outcome records the first implementation year while the country remains at risk. Status describes an established regime; first-adoption timing describes the transition into that regime. The two questions should not be conflated merely because both use the same underlying phase dates.",
+        "Competition uses lagged adoption among the five countries with the closest available export-market patterns; the main fixed network is formed from 2000 trade data, with the documented minimum number of known peer histories. Learning uses lagged GDP growth among ten geographic peers whose phase histories are documented. When no peer has adopted, the learning indicator is zero. When all have adopted, their median growth is compared with focal-country growth; otherwise adopter and nonadopter medians are compared. Unknown world-neighbour histories are not coded as nonadoption. The appendix retains stricter world-neighbour and available annual-trade alternatives.",
+        "Emulation uses lagged adoption among official-language peers. This is a tractable proxy for proximity, not the cultural and administrative distance measure used in the JIBS paper. External finance combines IMF credit and aid relative to GDP. The predictors precede the focal outcome, but lagging them does not make them exogenous. Similar countries can experience the same shocks, coordinate through common institutions or respond to the same international reporting initiative.",
+        "5.2. Reference-style and within-country estimates",
+        "Table 13 reports separate and joint adoption-status logit models with family and year effects, following the reference paper's basic outcome and time-effect structure. Both family weights use identical observations and predictor units. The public-disclosure sample is constrained by the intersection of trade, language, learning and finance coverage. Unstable or unsupported fits remain visible. We do not manufacture a coefficient when separation or limited outcome variation prevents reliable estimation, and we do not call a maximum-coverage separate model a joint test of four mechanisms.",
+        "The reference-style public-sample joint logit has no remaining usable observations after the required common sample and outcome-variation restrictions. The separate competition model has nine countries, below the declared minimum of 15; learning and language fits are unstable. These failures are data-support results, not estimates of no diffusion. They also explain why the wider regulatory sample's previously reported trade-peer odds ratio cannot be presented as the headline public-disclosure finding.",
+        "Tables 14 and 15 add country-family fixed effects in weighted linear probability models. These effects remove persistent differences between a particular country and policy family. We then replace common year effects with family-year effects to absorb international waves specific to each disclosure family. This sensitivity is particularly relevant when language peers share exposure to a coordinated reform. The family-wave extension was specified after initial within-country results were seen; both sets of estimates are reported and all 64 coefficient attempts enter the stated multiplicity correction.",
+        "With country-family and common year effects, the separate equal-family status model estimates a 6.6-percentage-point higher probability of a policy being in place per ten-percentage-point increase in prior language-peer adoption. This association spans 45 countries and 8 families and survives the 64-attempt correction. Learning has a 6.8-point estimate for the binary growth comparison; competition has a 2.5-point estimate per ten points of peer adoption; external finance has a 0.60-point estimate per one point of GDP. These latter separate equal-family status coefficients do not survive that correction.",
+        "Controlling for family-specific international waves changes the equal-family language coefficient to -0.084, with an adjusted p-value of 0.764. The sign change and loss of adjusted precision show that the positive common-year association is not stable to this competing explanation. It therefore cannot be treated as established evidence that cultural emulation causes adoption. The full weighting and timing counterparts are retained in Tables 14 and 15.",
+        "The comparison across these fixed-effect structures is central to interpretation. An association that appears with common year effects can reflect the international timing of a policy family rather than transmission through a particular peer network. A within-country model is not automatically causal, and a stable lagged peer coefficient does not distinguish learning from correlated shocks or common mandates. Status and timing estimates, public-sample support and family-wave controls therefore matter more than the largest coefficient in the model matrix.",
+        "Linear probability models also have statistical limits. Coefficients are changes in probability points per stated predictor unit, not odds ratios. Fitted values need not remain between zero and one. A fixed-effect specification can absorb all remaining outcome variation, in which case a zero residualised outcome does not identify a zero mechanism effect. Those cases are withheld. The country-family and family-year design is a useful test of common-wave explanations, but no outcome or fixed-effect choice is selected because it produces evidence of diffusion.",
+        "The adoption evidence consequently remains an analysis of documented national phase histories. It cannot yet establish that successful liquidity outcomes in one country caused another country to adopt. Completing histories of nonadoption, mapping coordinated legal groups and distinguishing announcements from covered periods would strengthen that claim more directly than adding further versions of the same regression. The liquidity and diffusion parts are connected by the policy register, while retaining their different outcomes and identification requirements."
+      ]
+    },
+    {
+      "heading": "6. Conclusion",
+      "paragraphs": [
+        "We study whether disclosure regulation is associated with a general improvement in market liquidity and how the identified requirements spread internationally. The primary liquidity average concerns public disclosure, where the information can reach investors. Across the supported families, spread point estimates are negative under both equal and market-cap family weights. Confidential reporting and other regulatory categories change the composition and meaning of the pooled effect. The family results and country cross sections show why the target population and legal information channel must be stated explicitly.",
+        "The evidence does not establish a common causal liquidity benefit across all disclosure regulations. The main comparisons have substantial uncertainty, the liquidity measures are not interchangeable, and the event sample exhibits differences that require stronger identification. Diffusion associations are also sensitive to the observed histories and the treatment of common policy waves. These are limitations of the economic comparison, not problems that can be resolved by selecting a preferred weight or a favourable subset of estimates.",
+        "The study provides a common empirical framework and a source-linked basis for examining a broader disclosure landscape. Its next empirical step is to establish a more complete historical treatment universe and narrower, verifiable changes in public information. Such work would allow the country-level patterns documented here to be connected more closely to the actual reporting obligations, information releases and trading responses of covered companies."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "citation": "Diamond and Verrecchia (1991)",
+      "title": "Disclosure, Liquidity, and the Cost of Capital",
+      "publication": "Journal of Finance 46: 1325-1359",
+      "primary_url": "https://doi.org/10.1111/j.1540-6261.1991.tb04620.x",
+      "research_relevance": "Public information can change adverse selection, participation and market-making incentives; liquidity benefits are conditional.",
+      "role": "Theory of investor information",
+      "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+      "primary_source_checked": true
+    },
+    {
+      "citation": "Leuz and Verrecchia (2000)",
+      "title": "The Economic Consequences of Increased Disclosure",
+      "publication": "Journal of Accounting Research 38: 91-124",
+      "primary_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=248411",
+      "research_relevance": "German switches to international reporting relate to spreads and trading volume; voluntary selection differs from national mandates.",
+      "role": "Financial disclosure benchmark",
+      "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+      "primary_source_checked": true
+    },
+    {
+      "citation": "Leuz and Wysocki (2016)",
+      "title": "The Economics of Disclosure and Financial Reporting Regulation: Evidence and Suggestions for Future Research",
+      "publication": "Journal of Accounting Research 54: 525-622",
+      "primary_url": "https://doi.org/10.1111/1475-679X.12115",
+      "research_relevance": "Regulatory assessment requires attention to market-wide effects, externalities, costs, enforcement and causal identification.",
+      "role": "Regulatory costs and identification",
+      "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+      "primary_source_checked": true
+    },
+    {
+      "citation": "Christensen, Hail and Leuz (2021)",
+      "title": "Mandatory CSR and sustainability reporting: economic analysis and literature review",
+      "publication": "Review of Accounting Studies 26: 1176-1248",
+      "primary_url": "https://doi.org/10.1007/s11142-021-09609-5",
+      "research_relevance": "Information users, incentives, externalities and institutional complementarities determine reporting consequences.",
+      "role": "Nonfinancial reporting framework",
+      "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+      "primary_source_checked": true
+    },
+    {
+      "citation": "Daske et al. (2008)",
+      "title": "Mandatory IFRS Reporting around the World: Early Evidence on the Economic Consequences",
+      "publication": "Journal of Accounting Research 46: 1085-1142",
+      "primary_url": "https://doi.org/10.1111/j.1475-679X.2008.00306.x",
+      "research_relevance": "International IFRS liquidity benefits vary with transparency incentives and enforcement; concurrent changes complicate attribution.",
+      "role": "International regulatory liquidity",
+      "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+      "primary_source_checked": true
+    },
+    {
+      "citation": "Christensen, Hail and Leuz (2013)",
+      "title": "Mandatory IFRS reporting and changes in enforcement",
+      "publication": "Journal of Accounting and Economics 56: 147-177",
+      "primary_url": "https://www.sciencedirect.com/science/article/abs/pii/S0165410113000645",
+      "research_relevance": "Separate a change in accounting standards from contemporaneous enforcement changes.",
+      "role": "Enforcement as competing explanation",
+      "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+      "primary_source_checked": true
+    },
+    {
+      "citation": "Christensen, Hail and Leuz (2016)",
+      "title": "Capital-Market Effects of Securities Regulation: Prior Conditions, Implementation, and Enforcement",
+      "publication": "Review of Financial Studies 29: 2885-2924",
+      "primary_url": "https://www.nber.org/papers/w16737",
+      "research_relevance": "Multiple European securities-law reforms have liquidity effects that depend on implementation and prior institutions.",
+      "role": "Direct precedent for multiple-rule analysis",
+      "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+      "primary_source_checked": true
+    },
+    {
+      "citation": "Krueger et al. (2024)",
+      "title": "The Effects of Mandatory ESG Disclosure Around the World",
+      "publication": "Journal of Accounting Research 62: 1795-1847",
+      "primary_url": "https://doi.org/10.1111/1475-679X.12548",
+      "research_relevance": "Global mandatory ESG disclosure and liquidity, with implementation, enforcement and information-environment cross sections. Supplied calendar is from the 2023 working paper.",
+      "role": "Closest liquidity setting",
+      "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+      "primary_source_checked": true
+    },
+    {
+      "citation": "Dube and Zhu (2021)",
+      "title": "The Disciplinary Effect of Social Media: Evidence from Firms’ Responses to Glassdoor Reviews",
+      "publication": "Journal of Accounting Research 59: 1783-1825",
+      "primary_url": "https://doi.org/10.1111/1475-679X.12393",
+      "research_relevance": "Information content and audience imply distinct real and disclosure responses; targeted cross sections distinguish channels. All 43 supplied pages read.",
+      "role": "Writing architecture and mechanism discipline",
+      "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+      "primary_source_checked": true
+    },
+    {
+      "citation": "Blankespoor, deHaan and Marinovic (2020)",
+      "title": "Disclosure processing costs, investors’ information choice, and equity market outcomes: A review",
+      "publication": "Journal of Accounting and Economics 70: 101344",
+      "primary_url": "https://www.gsb.stanford.edu/faculty-research/publications/disclosure-processing-costs-investors-information-choice-equity",
+      "research_relevance": "Public availability does not make information costless to acquire, interpret or trade on.",
+      "role": "Information access and processing",
+      "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+      "primary_source_checked": true
+    },
+    {
+      "citation": "Bhattacharya and Daouk (2002)",
+      "title": "The World Price of Insider Trading",
+      "publication": "Journal of Finance 57: 75-108",
+      "primary_url": "https://doi.org/10.1111/1540-6261.00416",
+      "research_relevance": "Insider-trading laws and their first enforcement have different associations with the cost of equity.",
+      "role": "Legal adoption versus enforcement clock",
+      "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+      "primary_source_checked": true
+    },
+    {
+      "citation": "De Simone and Olbert (2022)",
+      "title": "Real Effects of Private Country-by-Country Disclosure",
+      "publication": "The Accounting Review 97: 201-232",
+      "primary_url": "https://doi.org/10.2308/TAR-2020-0714",
+      "research_relevance": "Private tax-authority disclosures can change investment and organizational choices, even without direct public release.",
+      "role": "Confidential reporting is not a placebo",
+      "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+      "primary_source_checked": true
+    },
+    {
+      "citation": "Lennox, Schmidt and Thompson (2023)",
+      "title": "Why are expanded audit reports not informative to investors? Evidence from the United Kingdom",
+      "publication": "Review of Accounting Studies",
+      "primary_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2619785",
+      "research_relevance": "Auditor risk disclosures can overlap information already available to investors.",
+      "role": "Incremental information rather than document count",
+      "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+      "primary_source_checked": true
+    },
+    {
+      "citation": "Blankespoor, Miller and White (2014)",
+      "title": "Initial Evidence on the Market Impact of the XBRL Mandate",
+      "publication": "Review of Accounting Studies 19: 1468-1503",
+      "primary_url": "https://www.gsb.stanford.edu/faculty-research/publications/initial-evidence-market-impact-xbrl-mandate",
+      "research_relevance": "Initial XBRL adoption can benefit sophisticated information users unevenly; lower processing costs need not uniformly lower spreads.",
+      "role": "Reason for a credible null or opposite sign",
+      "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+      "primary_source_checked": true
+    },
+    {
+      "citation": "Müller, Spengel and Weck (2024)",
+      "title": "How do investors value the publication of tax information? Evidence from the European public country-by-country reporting",
+      "publication": "Contemporary Accounting Research 41: 1893-1924",
+      "primary_url": "https://doi.org/10.1111/1911-3846.12965",
+      "research_relevance": "Publication of previously confidential CbCR can carry proprietary and reputational valuation costs; public/private audience distinctions are already studied.",
+      "role": "Closest tax-audience precedent",
+      "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+      "primary_source_checked": true
+    },
+    {
+      "citation": "Nessa et al. (2025)",
+      "title": "The Effect of U.S. Country-by-Country Reporting on U.S. Multinationals’ Tax-Motivated Income Shifting and Real Activities",
+      "publication": "Journal of Accounting Research 63: 951-988",
+      "primary_url": "https://doi.org/10.1111/1475-679X.12594",
+      "research_relevance": "Confidential US tax data show limited incremental information and no detected reallocation under several designs.",
+      "role": "Recent evidence against universal response",
+      "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+      "primary_source_checked": true
+    },
+    {
+      "citation": "Rauter (2020)",
+      "title": "The Effect of Mandatory Extraction Payment Disclosures on Corporate Payment and Investment Policies Abroad",
+      "publication": "Journal of Accounting Research 58: 1075-1116",
+      "primary_url": "https://doi.org/10.1111/1475-679X.12332",
+      "research_relevance": "Extractive-payment rules target payments and investment abroad rather than only secondary-market information.",
+      "role": "Different intended outcome and audience",
+      "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+      "primary_source_checked": true
+    },
+    {
+      "citation": "Koning, Mertens and Roosenboom (2018)",
+      "title": "Drivers of institutional change around the world: The case of IFRS",
+      "publication": "Journal of International Business Studies 49: 249-271",
+      "primary_url": "https://doi.org/10.1057/s41267-017-0123-7",
+      "research_relevance": "Use competition, learning, emulation and external finance to examine cross-country adoption; original universe is 168 countries, 2002-2012.",
+      "role": "Closest diffusion setting",
+      "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+      "primary_source_checked": true
+    },
+    {
+      "citation": "Simmons and Elkins (2004)",
+      "title": "The Globalization of Liberalization: Policy Diffusion in the International Political Economy",
+      "publication": "American Political Science Review 98: 171-189",
+      "primary_url": "https://doi.org/10.1017/S0003055404001078",
+      "research_relevance": "Foreign policies can alter domestic adoption payoffs or reveal relevant information; spatial clustering alone is not a mechanism.",
+      "role": "Payoff and information channels",
+      "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+      "primary_source_checked": true
+    },
+    {
+      "citation": "Simmons, Dobbin and Garrett (2006)",
+      "title": "Introduction: The International Diffusion of Liberalism",
+      "publication": "International Organization 60: 781-810",
+      "primary_url": "https://doi.org/10.1017/S0020818306060267",
+      "research_relevance": "Competition, coercion, learning and emulation are distinct explanations for cross-national policy patterns.",
+      "role": "Competing diffusion explanations",
+      "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+      "primary_source_checked": true
+    },
+    {
+      "citation": "Callaway and Sant’Anna (2021)",
+      "title": "Difference-in-Differences with multiple time periods",
+      "publication": "Journal of Econometrics 225: 200-230",
+      "primary_url": "https://doi.org/10.1016/j.jeconom.2020.12.001",
+      "research_relevance": "Separate group-time comparisons, aggregation and inference when treatment timing and effects vary.",
+      "role": "Clean comparisons and estimands",
+      "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+      "primary_source_checked": true
+    },
+    {
+      "citation": "Sun and Abraham (2021)",
+      "title": "Estimating dynamic treatment effects in event studies with heterogeneous treatment effects",
+      "publication": "Journal of Econometrics 225: 175-199",
+      "primary_url": "https://doi.org/10.1016/j.jeconom.2020.09.006",
+      "research_relevance": "TWFE event leads and lags can be contaminated by heterogeneous effects from other event periods.",
+      "role": "Event-study interpretation",
+      "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+      "primary_source_checked": true
+    },
+    {
+      "citation": "Goodman-Bacon (2021)",
+      "title": "Difference-in-differences with variation in treatment timing",
+      "publication": "Journal of Econometrics 225: 254-277",
+      "primary_url": "https://doi.org/10.1016/j.jeconom.2021.03.014",
+      "research_relevance": "Staggered TWFE combines different timing comparisons, including already-treated controls.",
+      "role": "Reason to exclude already-treated controls",
+      "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+      "primary_source_checked": true
+    },
+    {
+      "citation": "Baker, Larcker and Wang (2022)",
+      "title": "How much should we trust staggered difference-in-differences estimates?",
+      "publication": "Journal of Financial Economics 144: 370-395",
+      "primary_url": "https://doi.org/10.1016/j.jfineco.2022.01.004",
+      "research_relevance": "Timing heterogeneity can alter estimates and inference in finance and accounting applications.",
+      "role": "Applied accounting design discipline",
+      "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+      "primary_source_checked": true
+    },
+    {
+      "citation": "Rambachan and Roth (2023)",
+      "title": "A More Credible Approach to Parallel Trends",
+      "publication": "Review of Economic Studies 90: 2555-2591",
+      "primary_url": "https://doi.org/10.1093/restud/rdad018",
+      "research_relevance": "Sensitivity to departures from parallel trends requires explicit restrictions and inference; passing a lead test is insufficient.",
+      "role": "Limits of pretrend diagnostics",
+      "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+      "primary_source_checked": true
+    },
+    {
+      "citation": "Roth et al. (2023)",
+      "title": "What’s trending in difference-in-differences? A synthesis of the recent econometrics literature",
+      "publication": "Journal of Econometrics 235: 2218-2244",
+      "primary_url": "https://doi.org/10.1016/j.jeconom.2023.03.008",
+      "research_relevance": "Separate timing heterogeneity, trend violations and inference assumptions.",
+      "role": "Modern DiD synthesis",
+      "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+      "primary_source_checked": true
+    },
+    {
+      "citation": "Amihud (2002)",
+      "title": "Illiquidity and stock returns: cross-section and time-series effects",
+      "publication": "Journal of Financial Markets 5: 31-56",
+      "primary_url": "https://doi.org/10.1016/S1386-4181(01)00024-6",
+      "research_relevance": "Absolute return divided by dollar volume is a rough daily price-impact proxy; our annual median is an adaptation.",
+      "role": "Liquidity measurement",
+      "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+      "primary_source_checked": true
+    },
+    {
+      "citation": "Lesmond, Ogden and Trzcinka (1999)",
+      "title": "A New Estimate of Transaction Costs",
+      "publication": "Review of Financial Studies 12: 1113-1141",
+      "primary_url": "https://doi.org/10.1093/rfs/12.5.1113",
+      "research_relevance": "Zero-return incidence can reveal trading frictions; our simple zero-return share is not their structural estimator.",
+      "role": "Zero-return interpretation",
+      "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+      "primary_source_checked": true
+    },
+    {
+      "citation": "Holm (1979)",
+      "title": "A Simple Sequentially Rejective Multiple Test Procedure",
+      "publication": "Scandinavian Journal of Statistics 6: 65-70",
+      "primary_url": "https://www.jstor.org/stable/4615733",
+      "research_relevance": "Control familywise error over the declared hypothesis family; does not fix model misspecification.",
+      "role": "Multiple comparisons",
+      "review_depth": "Primary abstract/selected text and bibliographic record, unless full local reading noted.",
+      "primary_source_checked": true
+    },
+    {
+      "citation": "Welker (1995)",
+      "title": "Disclosure Policy, Information Asymmetry, and Liquidity in Equity Markets",
+      "publication": "Contemporary Accounting Research 11: 801-827",
+      "primary_url": "https://doi.org/10.1111/j.1911-3846.1995.tb00467.x",
+      "research_relevance": "Higher disclosure rankings are associated with lower relative bid-ask spreads; endogenous disclosure and informed trading remain relevant.",
+      "role": "disclosure and liquidity",
+      "review_depth": "Publisher-deposited abstract/metadata, not full-paper review.",
+      "primary_source_checked": true
+    },
+    {
+      "citation": "Healy, Hutton and Palepu (1999)",
+      "title": "Stock Performance and Intermediation Changes Surrounding Sustained Increases in Disclosure",
+      "publication": "Contemporary Accounting Research 16: 485-520",
+      "primary_url": "https://doi.org/10.1111/j.1911-3846.1999.tb00592.x",
+      "research_relevance": "Sustained disclosure-rating increases accompany changes in liquidity, analyst following and institutional ownership, with selection limiting causal interpretation.",
+      "role": "disclosure and liquidity",
+      "review_depth": "Publisher-deposited abstract/metadata, not full-paper review.",
+      "primary_source_checked": true
+    },
+    {
+      "citation": "Healy and Palepu (2001)",
+      "title": "Information Asymmetry, Corporate Disclosure and the Capital Markets: A Review of the Empirical Disclosure Literature",
+      "publication": "Journal of Accounting and Economics 31: 405-440",
+      "primary_url": "https://doi.org/10.1016/S0165-4101(01)00018-0",
+      "research_relevance": "Review of disclosure incentives, regulated reporting, voluntary communication and information intermediaries.",
+      "role": "review",
+      "review_depth": "Publisher-deposited abstract/metadata, not full-paper review.",
+      "primary_source_checked": true
+    },
+    {
+      "citation": "Beyer et al. (2010)",
+      "title": "The financial reporting environment: Review of the recent literature",
+      "publication": "Journal of Accounting and Economics 50: 296-343",
+      "primary_url": "https://www.gsb.stanford.edu/faculty-research/publications/financial-reporting-environment-review-recent-literature",
+      "research_relevance": "Voluntary reports, regulation and intermediary reporting jointly shape the information environment.",
+      "role": "Literature framework",
+      "review_depth": "Primary abstract and selected text, not full-paper review.",
+      "primary_source_checked": true
+    },
+    {
+      "citation": "La Porta, Lopez-de-Silanes and Shleifer (2006)",
+      "title": "What Works in Securities Laws?",
+      "publication": "Journal of Finance 61: 1-32",
+      "primary_url": "https://doi.org/10.1111/j.1540-6261.2006.00828.x",
+      "research_relevance": "Distinguish mandatory disclosure and private liability from public regulatory enforcement.",
+      "role": "Legal institutions",
+      "review_depth": "Primary abstract and selected text, not full-paper review.",
+      "primary_source_checked": true
+    }
+  ],
+  "writing_logic": "literature/Dube-Zhu-writing-logic.json",
+  "primary_question": "Is there a general liquidity association across the identified public-disclosure requirements?",
+  "primary_scope": "Public disclosure; confidential and combined disclosure comparisons retained",
+  "claims_selected_by_sign": false
+}

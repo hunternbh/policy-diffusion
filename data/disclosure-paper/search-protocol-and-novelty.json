@@ -1,0 +1,182 @@
+{
+  "searched_at": "2026-10-22T02:14:49.391771+00:00",
+  "queries": [
+    [
+      "Diamond and Verrecchia (1991)",
+      "Disclosure, Liquidity, and the Cost of Capital",
+      "information theory"
+    ],
+    [
+      "Leuz and Verrecchia (2000)",
+      "The Economic Consequences of Increased Disclosure",
+      "disclosure and liquidity"
+    ],
+    [
+      "Welker (1995)",
+      "Disclosure Policy, Information Asymmetry, and Liquidity in Equity Markets",
+      "disclosure and liquidity"
+    ],
+    [
+      "Healy, Hutton and Palepu (1999)",
+      "Stock Performance and Intermediation Changes Surrounding Sustained Increases in Disclosure",
+      "disclosure and liquidity"
+    ],
+    [
+      "Healy and Palepu (2001)",
+      "Information asymmetry, corporate disclosure, and the capital markets: A review of the empirical disclosure literature",
+      "review"
+    ],
+    [
+      "Beyer et al. (2010)",
+      "The financial reporting environment: Review of the recent literature",
+      "review"
+    ],
+    [
+      "Leuz and Wysocki (2016)",
+      "The Economics of Disclosure and Financial Reporting Regulation: Evidence and Suggestions for Future Research",
+      "review"
+    ],
+    [
+      "Christensen, Hail and Leuz (2021)",
+      "Mandatory CSR and sustainability reporting: economic analysis and literature review",
+      "review"
+    ],
+    [
+      "Daske et al. (2008)",
+      "Mandatory IFRS Reporting around the World: Early Evidence on the Economic Consequences",
+      "regulatory liquidity"
+    ],
+    [
+      "Christensen, Hail and Leuz (2013)",
+      "Mandatory IFRS reporting and changes in enforcement",
+      "regulatory liquidity"
+    ],
+    [
+      "Christensen, Hail and Leuz (2016)",
+      "Capital-Market Effects of Securities Regulation: Prior Conditions, Implementation, and Enforcement",
+      "regulatory liquidity"
+    ],
+    [
+      "Krueger et al. (2024)",
+      "The Effects of Mandatory ESG Disclosure Around the World",
+      "regulatory liquidity"
+    ],
+    [
+      "Dube and Zhu (2021)",
+      "The Disciplinary Effect of Social Media: Evidence from Firms\u2019 Responses to Glassdoor Reviews",
+      "information audiences"
+    ],
+    [
+      "Blankespoor, deHaan and Marinovic (2020)",
+      "Disclosure processing costs, investors\u2019 information choice, and equity market outcomes: A review",
+      "information processing"
+    ],
+    [
+      "Hail and Leuz (2006)",
+      "International Differences in the Cost of Equity Capital: Do Legal Institutions and Securities Regulation Matter?",
+      "institutions"
+    ],
+    [
+      "La Porta et al. (2006)",
+      "What Works in Securities Laws?",
+      "institutions"
+    ],
+    [
+      "La Porta et al. (1998)",
+      "Law and Finance",
+      "institutions"
+    ],
+    [
+      "Bhattacharya and Daouk (2002)",
+      "The World Price of Insider Trading",
+      "institutions"
+    ],
+    [
+      "De Simone and Olbert (2022)",
+      "Real Effects of Private Country-by-Country Disclosure",
+      "tax disclosure"
+    ],
+    [
+      "Johannesen and Larsen (2016)",
+      "The power of financial transparency: An event study of country-by-country reporting standards",
+      "tax disclosure"
+    ],
+    [
+      "Lennox, Schmidt and Thompson (2023)",
+      "Why are expanded audit reports not informative to investors? Evidence from the United Kingdom",
+      "audit disclosure"
+    ],
+    [
+      "Blankespoor, Miller and White (2014)",
+      "Initial Evidence on the Market Impact of the XBRL Mandate",
+      "electronic disclosure"
+    ],
+    [
+      "Koning, Mertens and Roosenboom (2018)",
+      "Drivers of institutional change around the world: The case of IFRS",
+      "diffusion"
+    ],
+    [
+      "Simmons and Elkins (2004)",
+      "The Globalization of Liberalization: Policy Diffusion in the International Political Economy",
+      "diffusion"
+    ],
+    [
+      "Simmons, Dobbin and Garrett (2006)",
+      "Introduction: The International Diffusion of Liberalism",
+      "diffusion"
+    ],
+    [
+      "Callaway and Sant\u2019Anna (2021)",
+      "Difference-in-Differences with multiple time periods",
+      "identification"
+    ],
+    [
+      "Sun and Abraham (2021)",
+      "Estimating dynamic treatment effects in event studies with heterogeneous treatment effects",
+      "identification"
+    ],
+    [
+      "Goodman-Bacon (2021)",
+      "Difference-in-differences with variation in treatment timing",
+      "identification"
+    ],
+    [
+      "Baker, Larcker and Wang (2022)",
+      "How much should we trust staggered difference-in-differences estimates?",
+      "identification"
+    ],
+    [
+      "Rambachan and Roth (2023)",
+      "A More Credible Approach to Parallel Trends",
+      "identification"
+    ],
+    [
+      "Roth et al. (2023)",
+      "What\u2019s trending in difference-in-differences? A synthesis of the recent econometrics literature",
+      "identification"
+    ],
+    [
+      "Amihud (2002)",
+      "Illiquidity and stock returns: cross-section and time-series effects",
+      "measurement"
+    ],
+    [
+      "Lesmond, Ogden and Trzcinka (1999)",
+      "A New Estimate of Transaction Costs",
+      "measurement"
+    ],
+    [
+      "Holm (1979)",
+      "A Simple Sequentially Rejective Multiple Test Procedure",
+      "inference"
+    ]
+  ],
+  "works": 34,
+  "scope": "Targeted accounting/finance/institutional diffusion and DiD literature, supplemented by live primary-source web searches and local literature corpus; not an exhaustive systematic review.",
+  "novelty": "No universal absence or first-study claim is established. Prior studies already examine IFRS, ESG and securities-law liquidity. Proposed contribution is common country-level comparisons across the documented wider policy set and a linked diffusion analysis.",
+  "manual_review_required": "See Crossref-search-attempts.json for failed bulk queries; curated matrix contains only individually checked primary records.",
+  "curated_primary_checked_works": 32,
+  "Crossref_query_rate_limit": "31 of 34 bulk metadata queries returned HTTP 429. These failed attempts are preserved, not cited as verification. Primary publisher/author/local sources supplied the curated matrix.",
+  "curated_literature_records": 34
+}

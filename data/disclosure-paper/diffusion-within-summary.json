@@ -1,0 +1,7 @@
+{
+  "attempted_coefficients": 64,
+  "estimated_coefficients": 32,
+  "Holm_below_05": 5,
+  "fixed_effects": "country-family and year",
+  "inference": "Weighted linear probability associations with country clustered errors; not causal peer effects."
+}
