@@ -1,0 +1,46 @@
+Outcome and coefficient,"Families /
+country-cohort rows","Equal family
+Coefficient (SE), q","Market-cap family
+Coefficient (SE), q"
+"
+Log spread
+Treatment at mean",2 / 61,"+0.098
+(0.224)
+q=1.000","-0.081
+(0.225)
+q=1.000"
+"
+Log spread
+Treatment x moderator",2 / 61,"-0.014
+(0.240)
+q=1.000","-0.255
+(0.384)
+q=1.000"
+"
+Log price impact
+Treatment at mean",2 / 61,"+0.932
+(0.111)
+q<0.001","+0.405
+(0.183)
+q=1.000"
+"
+Log price impact
+Treatment x moderator",2 / 61,"+2.485
+(0.163)
+q<0.001","+0.699
+(0.283)
+q=1.000"
+"
+Zero-return share
+Treatment at mean",2 / 61,"+0.0121
+(0.0041)
+q=0.435","-0.0032
+(0.0061)
+q=1.000"
+"
+Zero-return share
+Treatment x moderator",2 / 61,"+0.0652
+(0.0099)
+q<0.001","+0.0166
+(0.0166)
+q=1.000"

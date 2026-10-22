@@ -1,8 +1,8 @@
 {
   "numerical_checks": 973,
   "numerical_passed": 973,
-  "artifact_checks": 263,
-  "artifact_passed": 263,
-  "PDF_pages_visually_reviewed": 31,
+  "artifact_checks": 276,
+  "artifact_passed": 276,
+  "PDF_pages_visually_reviewed": 41,
   "causal_identification_certified": false
 }

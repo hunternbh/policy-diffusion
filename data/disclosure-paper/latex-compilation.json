@@ -1,0 +1,27 @@
+{
+  "runs": [
+    {
+      "pass": 1,
+      "binary": "pdflatex.exe",
+      "exit_code": 0
+    },
+    {
+      "pass": 2,
+      "binary": "bibtex.exe",
+      "exit_code": 0
+    },
+    {
+      "pass": 3,
+      "binary": "pdflatex.exe",
+      "exit_code": 0
+    },
+    {
+      "pass": 4,
+      "binary": "pdflatex.exe",
+      "exit_code": 0
+    }
+  ],
+  "undefined_citations": false,
+  "overfull_lines": [],
+  "PDF": "C:\\Users\\hia_n\\Documents\\Codex\\2026-10-15\\go-2\\tmp\\latex-paper\\paper.pdf"
+}

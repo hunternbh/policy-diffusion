@@ -1,0 +1,66 @@
+{
+  "pages": 41,
+  "short_pages": [],
+  "out_of_bounds_text": [],
+  "tables": {
+    "1": [
+      24
+    ],
+    "2": [
+      25
+    ],
+    "3": [
+      26
+    ],
+    "4": [
+      27
+    ],
+    "5": [
+      28
+    ],
+    "6": [
+      29
+    ],
+    "7": [
+      30
+    ],
+    "8": [
+      31
+    ],
+    "9": [
+      32
+    ],
+    "10": [
+      33
+    ],
+    "11": [
+      34
+    ],
+    "12": [
+      35
+    ],
+    "13": [
+      36
+    ],
+    "14": [
+      37
+    ],
+    "15": [
+      38
+    ]
+  },
+  "figure_pages": [
+    39,
+    40,
+    41
+  ],
+  "unknown_citation_marker": false,
+  "PDF_sha256": "0057a8e78d5dd5de6aeccdd2459516b0624b68dcecbb7d1f58320247f497abdf",
+  "all_pages_visually_reviewed": true,
+  "extra_TeX_files": false,
+  "source_structure": [
+    "paper.tex",
+    "ref.bib",
+    "figure_tables/"
+  ]
+}

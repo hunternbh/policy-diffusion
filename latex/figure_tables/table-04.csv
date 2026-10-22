@@ -1,0 +1,46 @@
+Outcome and coefficient,"Families /
+country-cohort rows","Equal family
+Coefficient (SE), q","Market-cap family
+Coefficient (SE), q"
+"No controls
+Log spread
+Treatment",5 / 283,"-0.063
+(0.045)
+q=1.000","-0.066
+(0.039)
+q=1.000"
+"No controls
+Log price impact
+Treatment",5 / 283,"-0.050
+(0.083)
+q=1.000","-0.011
+(0.069)
+q=1.000"
+"No controls
+Zero-return share
+Treatment",5 / 283,"-0.0053
+(0.0045)
+q=1.000","-0.0011
+(0.0046)
+q=1.000"
+"Prior domestic controls
+Log spread
+Treatment",5 / 283,"-0.040
+(0.068)
+q=1.000","-0.052
+(0.057)
+q=1.000"
+"Prior domestic controls
+Log price impact
+Treatment",5 / 283,"-0.295
+(0.107)
+q=0.695","-0.194
+(0.103)
+q=1.000"
+"Prior domestic controls
+Zero-return share
+Treatment",5 / 283,"-0.0121
+(0.0091)
+q=1.000","-0.0060
+(0.0093)
+q=1.000"

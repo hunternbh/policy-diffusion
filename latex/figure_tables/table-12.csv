@@ -1,0 +1,75 @@
+Outcome / event year,Families,"Equal family
+Coefficient (SE)","Market-cap family
+Coefficient (SE)"
+"Log spread
+Year -3",5,"+0.1491
+(0.0570)","+0.1883
+(0.0666)"
+"Log spread
+Year -2",5,"+0.0937
+(0.0210)","+0.1363
+(0.0272)"
+"Log spread
+Year +0",5,"-0.0044
+(0.0519)","-0.0275
+(0.0345)"
+"Log spread
+Year +1",5,"-0.0435
+(0.0637)","-0.0487
+(0.0694)"
+"Log spread
+Year +2",5,"-0.1596
+(0.0475)","-0.1101
+(0.0600)"
+"Log spread
+Year +3",5,"-0.1973
+(0.0432)","-0.1585
+(0.0586)"
+"Log price impact
+Year -3",5,"+0.0085
+(0.0634)","-0.0027
+(0.0631)"
+"Log price impact
+Year -2",5,"+0.0118
+(0.0302)","+0.0108
+(0.0366)"
+"Log price impact
+Year +0",5,"-0.0138
+(0.0290)","-0.0476
+(0.0317)"
+"Log price impact
+Year +1",5,"+0.0476
+(0.0501)","-0.0076
+(0.0654)"
+"Log price impact
+Year +2",5,"-0.0052
+(0.0534)","-0.0375
+(0.0605)"
+"Log price impact
+Year +3",5,"-0.0425
+(0.0509)","-0.1250
+(0.0613)"
+"Zero-return share
+Year -3",5,"+0.0094
+(0.0022)","+0.0027
+(0.0019)"
+"Zero-return share
+Year -2",5,"+0.0038
+(0.0017)","+0.0017
+(0.0018)"
+"Zero-return share
+Year +0",5,"-0.0013
+(0.0022)","-0.0044
+(0.0023)"
+"Zero-return share
+Year +1",5,"-0.0032
+(0.0023)","-0.0050
+(0.0026)"
+"Zero-return share
+Year +2",5,"-0.0027
+(0.0028)","-0.0056
+(0.0028)"
+"Zero-return share
+Year +3",5,"-0.0065
+(0.0031)","-0.0090
+(0.0033)"

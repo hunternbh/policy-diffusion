@@ -1,0 +1,76 @@
+Outcome and coefficient,"Families /
+country-cohort rows","Equal family
+Coefficient (SE), q","Market-cap family
+Coefficient (SE), q"
+"Public disclosure
+Log spread",8,"-0.022
+(0.034)
+q=1.000","-0.047
+(0.035)
+q=1.000"
+"Public disclosure
+Log price impact",8,"+0.031
+(0.044)
+q=1.000","-0.035
+(0.060)
+q=1.000"
+"Public disclosure
+Zero-return share",8,"-0.0061
+(0.0025)
+q=1.000","-0.0026
+(0.0039)
+q=1.000"
+"Confidential tax
+Log spread",1,"+0.099
+(0.077)
+q=1.000","+0.099
+(0.077)
+q=1.000"
+"Confidential tax
+Log price impact",1,"-0.057
+(0.202)
+q=1.000","-0.057
+(0.202)
+q=1.000"
+"Confidential tax
+Zero-return share",1,"+0.0093
+(0.0113)
+q=1.000","+0.0093
+(0.0113)
+q=1.000"
+"Other rules
+Log spread",4,"+0.041
+(0.020)
+q=1.000","+0.033
+(0.038)
+q=1.000"
+"Other rules
+Log price impact",4,"+0.039
+(0.053)
+q=1.000","+0.079
+(0.074)
+q=1.000"
+"Other rules
+Zero-return share",4,"+0.0030
+(0.0030)
+q=1.000","+0.0099
+(0.0066)
+q=1.000"
+"Public minus confidential
+Log spread",9,"-0.121
+(0.080)
+q=1.000","-0.145
+(0.081)
+q=1.000"
+"Public minus confidential
+Log price impact",9,"+0.088
+(0.199)
+q=1.000","+0.022
+(0.202)
+q=1.000"
+"Public minus confidential
+Zero-return share",9,"-0.0154
+(0.0113)
+q=1.000","-0.0118
+(0.0112)
+q=1.000"

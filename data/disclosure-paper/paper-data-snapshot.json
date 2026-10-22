@@ -1,56 +1,56 @@
 {
-  "pages": 31,
-  "prose_words": 5777,
+  "pages": 41,
+  "prose_words": 5770,
   "references": 34,
   "tables": 15,
   "estimated_regression_tables": 12,
   "figures": 3,
-  "PDF_sha256": "59740e612e3b4935d1fb8e62d50d7335f1a6a813a210e01c90e21d96858c080b",
+  "PDF_sha256": "0057a8e78d5dd5de6aeccdd2459516b0624b68dcecbb7d1f58320247f497abdf",
   "table_pages": {
     "1": [
-      15
-    ],
-    "2": [
-      16
-    ],
-    "3": [
-      17
-    ],
-    "4": [
-      18
-    ],
-    "5": [
-      19
-    ],
-    "6": [
-      20
-    ],
-    "7": [
-      21
-    ],
-    "8": [
-      22
-    ],
-    "9": [
-      23
-    ],
-    "10": [
       24
     ],
-    "11": [
+    "2": [
       25
     ],
-    "12": [
+    "3": [
       26
     ],
-    "13": [
+    "4": [
       27
     ],
-    "14": [
+    "5": [
       28
     ],
-    "15": [
+    "6": [
       29
+    ],
+    "7": [
+      30
+    ],
+    "8": [
+      31
+    ],
+    "9": [
+      32
+    ],
+    "10": [
+      33
+    ],
+    "11": [
+      34
+    ],
+    "12": [
+      35
+    ],
+    "13": [
+      36
+    ],
+    "14": [
+      37
+    ],
+    "15": [
+      38
     ]
   },
   "figure_notes": [
@@ -69,5 +69,8 @@
       "title": "Figure 3. Diffusion associations and common policy waves",
       "note": "Separate adoption-status linear probability models under both family weights. Compare country-family plus common year effects with country-family plus family-year effects on identical rows. Horizontal intervals are 95% country-clustered t intervals. Predictor units differ by panel and are stated in each heading. A change across fixed-effect structures is not evidence that either coefficient is causal."
     }
-  ]
+  ],
+  "format": "12-point Times-style, double-spaced manuscript with one-inch margins",
+  "source": "latex/paper.tex",
+  "bibliography": "latex/ref.bib"
 }

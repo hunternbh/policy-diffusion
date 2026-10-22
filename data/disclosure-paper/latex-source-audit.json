@@ -1,0 +1,224 @@
+{
+  "abstract_words": 136,
+  "main_source": "paper.tex",
+  "bibliography": "ref.bib",
+  "asset_folder": "figure_tables",
+  "extra_tex_inputs": false,
+  "custom_class_or_style": false,
+  "body_font_points": 12,
+  "body_spacing": "double",
+  "margin_inches": 1,
+  "tables": 15,
+  "figures": 3,
+  "references": 34,
+  "citation_keys": 34,
+  "all_references_cited_in_body": true,
+  "authors_metadata": [
+    {
+      "key": "diamond1991",
+      "citation": "Diamond and Verrecchia (1991)",
+      "authors": "Diamond, Douglas W. and Verrecchia, Robert E.",
+      "source_url": "https://doi.org/10.1111/j.1540-6261.1991.tb04620.x"
+    },
+    {
+      "key": "leuz2000",
+      "citation": "Leuz and Verrecchia (2000)",
+      "authors": "{Leuz} and {Verrecchia}",
+      "source_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=248411"
+    },
+    {
+      "key": "leuz2016",
+      "citation": "Leuz and Wysocki (2016)",
+      "authors": "{Leuz} and {Wysocki}",
+      "source_url": "https://doi.org/10.1111/1475-679X.12115"
+    },
+    {
+      "key": "christensen2021",
+      "citation": "Christensen, Hail and Leuz (2021)",
+      "authors": "Christensen, Hans B. and Hail, Luzi and Leuz, Christian",
+      "source_url": "https://doi.org/10.1007/s11142-021-09609-5"
+    },
+    {
+      "key": "daske2008",
+      "citation": "Daske et al. (2008)",
+      "authors": "Daske, Holger and Hail, Luzi and Leuz, Christian and Verdi, Rodrigo",
+      "source_url": "https://doi.org/10.1111/j.1475-679X.2008.00306.x"
+    },
+    {
+      "key": "christensen2013",
+      "citation": "Christensen, Hail and Leuz (2013)",
+      "authors": "{Christensen} and {Hail} and {Leuz}",
+      "source_url": "https://www.sciencedirect.com/science/article/abs/pii/S0165410113000645"
+    },
+    {
+      "key": "christensen2016",
+      "citation": "Christensen, Hail and Leuz (2016)",
+      "authors": "Christensen, Hans and Hail, Luzi and Leuz, Christian",
+      "source_url": "https://www.nber.org/papers/w16737"
+    },
+    {
+      "key": "krueger2024",
+      "citation": "Krueger et al. (2024)",
+      "authors": "Krueger, Philipp and Sautner, Zacharias and Tang, Dragon Yongjun and Zhong, Rui",
+      "source_url": "https://doi.org/10.1111/1475-679X.12548"
+    },
+    {
+      "key": "dube2021",
+      "citation": "Dube and Zhu (2021)",
+      "authors": "{Dube} and {Zhu}",
+      "source_url": "https://doi.org/10.1111/1475-679X.12393"
+    },
+    {
+      "key": "blankespoor2020",
+      "citation": "Blankespoor, deHaan and Marinovic (2020)",
+      "authors": "{Blankespoor} and {deHaan} and {Marinovic}",
+      "source_url": "https://www.gsb.stanford.edu/faculty-research/publications/disclosure-processing-costs-investors-information-choice-equity"
+    },
+    {
+      "key": "bhattacharya2002",
+      "citation": "Bhattacharya and Daouk (2002)",
+      "authors": "{Bhattacharya} and {Daouk}",
+      "source_url": "https://doi.org/10.1111/1540-6261.00416"
+    },
+    {
+      "key": "desimone2022",
+      "citation": "De Simone and Olbert (2022)",
+      "authors": "De Simone, Lisa and Olbert, Marcel",
+      "source_url": "https://doi.org/10.2308/TAR-2020-0714"
+    },
+    {
+      "key": "lennox2023",
+      "citation": "Lennox, Schmidt and Thompson (2023)",
+      "authors": "{Lennox} and {Schmidt} and {Thompson}",
+      "source_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2619785"
+    },
+    {
+      "key": "blankespoor2014",
+      "citation": "Blankespoor, Miller and White (2014)",
+      "authors": "{Blankespoor} and {Miller} and {White}",
+      "source_url": "https://www.gsb.stanford.edu/faculty-research/publications/initial-evidence-market-impact-xbrl-mandate"
+    },
+    {
+      "key": "muller2024",
+      "citation": "M\u00fcller, Spengel and Weck (2024)",
+      "authors": "M\u00fcller, Raphael and Spengel, Christoph and Weck, Stefan",
+      "source_url": "https://doi.org/10.1111/1911-3846.12965"
+    },
+    {
+      "key": "nessa2025",
+      "citation": "Nessa et al. (2025)",
+      "authors": "Nessa, Michelle L. and Persson, Anh V. and Song, Jane Z. and Towery, Erin M. and Vernon, Mary E.",
+      "source_url": "https://doi.org/10.1111/1475-679X.12594"
+    },
+    {
+      "key": "rauter2020",
+      "citation": "Rauter (2020)",
+      "authors": "{Rauter}",
+      "source_url": "https://doi.org/10.1111/1475-679X.12332"
+    },
+    {
+      "key": "koning2018",
+      "citation": "Koning, Mertens and Roosenboom (2018)",
+      "authors": "Koning, Miriam and Mertens, Gerard and Roosenboom, Peter",
+      "source_url": "https://doi.org/10.1057/s41267-017-0123-7"
+    },
+    {
+      "key": "simmons2004",
+      "citation": "Simmons and Elkins (2004)",
+      "authors": "{Simmons} and {Elkins}",
+      "source_url": "https://doi.org/10.1017/S0003055404001078"
+    },
+    {
+      "key": "simmons2006",
+      "citation": "Simmons, Dobbin and Garrett (2006)",
+      "authors": "{Simmons} and {Dobbin} and {Garrett}",
+      "source_url": "https://doi.org/10.1017/S0020818306060267"
+    },
+    {
+      "key": "callaway2021",
+      "citation": "Callaway and Sant\u2019Anna (2021)",
+      "authors": "{Callaway} and {Sant'Anna}",
+      "source_url": "https://doi.org/10.1016/j.jeconom.2020.12.001"
+    },
+    {
+      "key": "sun2021",
+      "citation": "Sun and Abraham (2021)",
+      "authors": "{Sun} and {Abraham}",
+      "source_url": "https://doi.org/10.1016/j.jeconom.2020.09.006"
+    },
+    {
+      "key": "goodmanbacon2021",
+      "citation": "Goodman-Bacon (2021)",
+      "authors": "{Goodman-Bacon}",
+      "source_url": "https://doi.org/10.1016/j.jeconom.2021.03.014"
+    },
+    {
+      "key": "baker2022",
+      "citation": "Baker, Larcker and Wang (2022)",
+      "authors": "{Baker} and {Larcker} and {Wang}",
+      "source_url": "https://doi.org/10.1016/j.jfineco.2022.01.004"
+    },
+    {
+      "key": "rambachan2023",
+      "citation": "Rambachan and Roth (2023)",
+      "authors": "{Rambachan} and {Roth}",
+      "source_url": "https://doi.org/10.1093/restud/rdad018"
+    },
+    {
+      "key": "roth2023",
+      "citation": "Roth et al. (2023)",
+      "authors": "Roth, Jonathan and Sant'Anna, Pedro H. C. and Bilinski, Alyssa and Poe, John",
+      "source_url": "https://doi.org/10.1016/j.jeconom.2023.03.008"
+    },
+    {
+      "key": "amihud2002",
+      "citation": "Amihud (2002)",
+      "authors": "{Amihud}",
+      "source_url": "https://doi.org/10.1016/S1386-4181(01)00024-6"
+    },
+    {
+      "key": "lesmond1999",
+      "citation": "Lesmond, Ogden and Trzcinka (1999)",
+      "authors": "{Lesmond} and {Ogden} and {Trzcinka}",
+      "source_url": "https://doi.org/10.1093/rfs/12.5.1113"
+    },
+    {
+      "key": "holm1979",
+      "citation": "Holm (1979)",
+      "authors": "{Holm}",
+      "source_url": "https://www.jstor.org/stable/4615733"
+    },
+    {
+      "key": "welker1995",
+      "citation": "Welker (1995)",
+      "authors": "Welker, Michael",
+      "source_url": "https://doi.org/10.1111/j.1911-3846.1995.tb00467.x"
+    },
+    {
+      "key": "healy1999",
+      "citation": "Healy, Hutton and Palepu (1999)",
+      "authors": "Healy, Paul M. and Hutton, Amy P. and Palepu, Krishna G.",
+      "source_url": "https://doi.org/10.1111/j.1911-3846.1999.tb00592.x"
+    },
+    {
+      "key": "healy2001",
+      "citation": "Healy and Palepu (2001)",
+      "authors": "Healy, Paul M. and Palepu, Krishna",
+      "source_url": "https://doi.org/10.1016/S0165-4101(01)00018-0"
+    },
+    {
+      "key": "beyer2010",
+      "citation": "Beyer et al. (2010)",
+      "authors": "Beyer, Anne and Cohen, Daniel and Lys, Thomas and Walther, Beverly",
+      "source_url": "https://www.gsb.stanford.edu/faculty-research/publications/financial-reporting-environment-review-recent-literature"
+    },
+    {
+      "key": "laporta2006",
+      "citation": "La Porta, Lopez-de-Silanes and Shleifer (2006)",
+      "authors": "{La Porta} and {Lopez-de-Silanes} and {Shleifer}",
+      "source_url": "https://doi.org/10.1111/j.1540-6261.2006.00828.x"
+    }
+  ],
+  "style_reference": "https://aaahq.org/Research/Journals/Manuscript-Preparation-Guide",
+  "source_sha256": "2e1a2f2b83ac3812f9e57dfc94f8be8427595247624ebbe089d05dd2e8d5f7bb"
+}

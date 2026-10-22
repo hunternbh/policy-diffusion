@@ -1,10 +1,10 @@
 {
-  "checks": 263,
-  "passed": 263,
-  "paper_sha256": "59740e612e3b4935d1fb8e62d50d7335f1a6a813a210e01c90e21d96858c080b",
+  "checks": 276,
+  "passed": 276,
+  "paper_sha256": "0057a8e78d5dd5de6aeccdd2459516b0624b68dcecbb7d1f58320247f497abdf",
   "details": [
     {
-      "check": "31 pages with substantive content",
+      "check": "41 pages with substantive content",
       "passed": true,
       "detail": null
     },
@@ -249,6 +249,56 @@
       "detail": null
     },
     {
+      "check": "PDF character bounds page 32",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF character bounds page 33",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF character bounds page 34",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF character bounds page 35",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF character bounds page 36",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF character bounds page 37",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF character bounds page 38",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF character bounds page 39",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF character bounds page 40",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "PDF character bounds page 41",
+      "passed": true,
+      "detail": null
+    },
+    {
       "check": "Published PDF is exact copy",
       "passed": true,
       "detail": null
@@ -370,6 +420,11 @@
     },
     {
       "check": "Local link downloads/manuscript.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Local link downloads/disclosure-paper-latex.zip",
       "passed": true,
       "detail": null
     },
@@ -1316,7 +1371,17 @@
     {
       "check": "All latest PDF pages visually inspected",
       "passed": true,
-      "detail": "Rendered pages 1\u201331 reviewed in contact sheets; table 12 panel confirmed on page 26."
+      "detail": "41 rendered pages reviewed in contact sheets."
+    },
+    {
+      "check": "Minimal LaTeX source bundle",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "One tex file and no custom class or style",
+      "passed": true,
+      "detail": null
     }
   ]
 }

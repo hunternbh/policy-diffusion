@@ -1,0 +1,53 @@
+Model / sample,"Country-family + year
+Equal","Country-family + year
+Market-cap","Country-family + family-year
+Equal","Country-family + family-year
+Market-cap"
+"Separate: Competition
+N=1,219; C=45; F=5","+0.010
+(0.006)
+q=1.000","+0.020
+(0.007)
+q=0.599","+0.007
+(0.005)
+q=1.000","+0.010
+(0.007)
+q=1.000"
+"Separate: Learning
+N=1,908; C=60; F=4","+0.006
+(0.056)
+q=1.000","+2.78e-05
+(0.058)
+q=1.000","-0.034
+(0.047)
+q=1.000","-0.059
+(0.050)
+q=1.000"
+"Separate: Emulation
+N=1,771; C=45; F=8","+0.029
+(0.007)
+q=0.016","+0.040
+(0.006)
+q<0.001","+0.021
+(0.024)
+q=1.000","+0.017
+(0.021)
+q=1.000"
+"Separate: External finance
+N=1,279; C=38; F=6","+0.002
+(0.001)
+q=1.000","+3.39e-05
+(0.003)
+q=1.000","-0.001
+(0.001)
+q=1.000","-0.002
+(0.003)
+q=1.000"
+"Joint: Competition
+N=432; C=18; F=1",Not estimated,Not estimated,Not estimated,Not estimated
+"Joint: Learning
+N=432; C=18; F=1",Not estimated,Not estimated,Not estimated,Not estimated
+"Joint: Emulation
+N=432; C=18; F=1",Not estimated,Not estimated,Not estimated,Not estimated
+"Joint: External finance
+N=432; C=18; F=1",Not estimated,Not estimated,Not estimated,Not estimated

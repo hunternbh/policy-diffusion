@@ -1,0 +1,88 @@
+Outcome and coefficient,"Families /
+country-cohort rows","Equal family
+Coefficient (SE), q","Market-cap family
+Coefficient (SE), q"
+"Log GDP per capita
+Log spread
+Treatment at mean",2 / 69,"-0.293
+(0.480)
+q=1.000","-0.525
+(0.678)
+q=1.000"
+"Log GDP per capita
+Log spread
+Treatment x moderator",2 / 69,"+0.391
+(0.462)
+q=1.000","+0.573
+(0.770)
+q=1.000"
+"Log GDP per capita
+Log price impact
+Treatment at mean",2 / 69,"-0.544
+(0.149)
+q=0.062","+0.067
+(0.243)
+q=1.000"
+"Log GDP per capita
+Log price impact
+Treatment x moderator",2 / 69,"-0.603
+(0.146)
+q=0.014","-0.429
+(0.241)
+q=1.000"
+"Log GDP per capita
+Zero-return share
+Treatment at mean",2 / 69,"-0.0288
+(0.0081)
+q=0.078","-0.0130
+(0.0119)
+q=1.000"
+"Log GDP per capita
+Zero-return share
+Treatment x moderator",2 / 69,"-0.0141
+(0.0099)
+q=1.000","-0.0081
+(0.0143)
+q=1.000"
+"Trade/GDP
+Log spread
+Treatment at mean",2 / 68,"+0.368
+(0.164)
+q=1.000","+0.029
+(0.149)
+q=1.000"
+"Trade/GDP
+Log spread
+Treatment x moderator",2 / 68,"+0.532
+(0.210)
+q=1.000","+0.261
+(0.254)
+q=1.000"
+"Trade/GDP
+Log price impact
+Treatment at mean",2 / 68,"+3.707
+(0.105)
+q<0.001","+1.093
+(0.179)
+q<0.001"
+"Trade/GDP
+Log price impact
+Treatment x moderator",2 / 68,"+5.608
+(0.065)
+q<0.001","+1.456
+(0.117)
+q<0.001"
+"Trade/GDP
+Zero-return share
+Treatment at mean",2 / 68,"+0.0905
+(0.0032)
+q<0.001","+0.0194
+(0.0046)
+q=0.010"
+"Trade/GDP
+Zero-return share
+Treatment x moderator",2 / 68,"+0.1575
+(0.0050)
+q<0.001","+0.0463
+(0.0077)
+q<0.001"
