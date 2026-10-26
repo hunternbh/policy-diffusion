@@ -1,23 +1,23 @@
 {
   "paper": {
-    "pages": 24,
+    "pages": 27,
     "tables": 6,
     "author_blank": true,
     "out_of_bounds": [],
-    "sha256": "0689e2574cd64eaab5aa1bf9aa7aa44592f1ebb30ba728cf25fb38d1bd5b4b7b"
+    "sha256": "a96e009cc42f19a7aa171c4007cb63cf04ef12cd94a44c1a31d84601a093961b"
   },
   "appendix": {
     "pages": 17,
     "tables": 11,
     "author_blank": true,
     "out_of_bounds": [],
-    "sha256": "5193eab03d5220953a4d732e455cce5775ebfbddd27aad1d7338a1ad6627122d"
+    "sha256": "498deeeda6412e8adbc0c63e25e7d429610a73c148ea90fdb7293b82f73f6ca3"
   },
   "appendix_excess": {
     "pages": 6,
     "tables": 4,
     "author_blank": true,
     "out_of_bounds": [],
-    "sha256": "0bc69fcb3e4af394bd4773e104d0e31b4d5b275409d80dcb1ad4bce965a04a06"
+    "sha256": "1f09e23e8c527a9edb7fbb9c551ebdec12b4dba690c8ac02a53d684eba1971e8"
   }
 }

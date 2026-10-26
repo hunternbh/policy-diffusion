@@ -1,0 +1,12 @@
+{
+  "register_implementations": 415,
+  "register_countries": 126,
+  "register_families": 17,
+  "public_implementations": 198,
+  "public_countries": 56,
+  "public_families": 10,
+  "primary_liquidity_implementations": 30,
+  "country_order": "Average-linkage clustering of Jaccard distance between binary public-policy coverage profiles; optimal leaf ordering. Uses no market outcomes.",
+  "empty_cell": "No implementation dated 2000-2025 documented in this register; does not establish nonadoption.",
+  "liquidity_plot": "100*(1-exp(beta)); lower bound uses beta upper interval and conversely. Positive values indicate lower trading costs, not a proportionate increase in liquidity."
+}

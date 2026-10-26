@@ -1,0 +1,22 @@
+{
+  "request": "Figures before tables; new policy-country overview; two-panel chronology/liquidity figure; liquidity terminology and explicit diffusion headings/findings.",
+  "models_unchanged": [
+    "C03169",
+    "C03173",
+    "C03177",
+    "C03181",
+    "C03185"
+  ],
+  "terminology": "Stock liquidity is the economic outcome. Bid-Ask Spread remains the named proxy. A 20% cost reduction is not described as a 20% liquidity increase.",
+  "reference_read": "Krueger et al. local working paper, introduction and sections 3.3 and 4; preserve differences in index construction and Zero Return denominator.",
+  "diffusion_channels": [
+    "Learning: liquidity, emissions and GDP-growth outcomes",
+    "Copying: fixed larger peer and language peers",
+    "Competition: export-pattern rivals",
+    "External pressure: financing dependence and coordinated obligations",
+    "Additional channel: cross-listing familiarity"
+  ],
+  "introduction": "Two findings paragraphs precede the literature discussion; nine paragraphs in total.",
+  "caption_format": "caption package: raggedright, singlelinecheck=false; explanatory paragraphs explicitly raggedright.",
+  "figure_order": "Main and Online Appendix figures precede their tables."
+}

@@ -1,0 +1,18 @@
+family,label,countries,audience
+ESG_MANDATORY_REVIEWED,Mandatory ESG reporting,37,public_disclosure
+AUDIT_REPORTING,Auditor reporting,36,public_disclosure
+IFRS,IFRS financial reporting,36,public_disclosure
+CBCR_BANK_PUBLIC,Public bank country reports,28,public_disclosure
+CBCR_PUBLIC,Public multinational country reports,28,public_disclosure
+EXTRACTIVE_PAYMENTS,Payments to governments,9,public_disclosure
+SUPPLY_CHAIN,Supply-chain reporting,8,public_disclosure
+CLIMATE_DISCLOSURE,Climate reporting,6,public_disclosure
+SUSTAINABILITY_FINANCIAL,Sustainability financial reporting,6,public_disclosure
+XBRL,Electronic financial reporting,4,public_disclosure
+CBCR_CONFIDENTIAL,Confidential tax country reports,120,confidential
+AUDIT_OVERSIGHT,Audit oversight,35,broader_regulation
+DIGITAL_ASSET,Digital-asset regulation,31,broader_regulation
+BENEFICIAL_OWNERSHIP,Beneficial ownership,18,broader_regulation
+GOVERNANCE,Governance regulation,11,broader_regulation
+CLIMATE_SECTORAL,Sectoral climate regulation,1,broader_regulation
+SUSTAINABILITY_INFORMED,Sustainability-informed regulation,1,broader_regulation
