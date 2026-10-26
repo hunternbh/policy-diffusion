@@ -1,0 +1,16 @@
+{
+  "same_primary_models_reconstructed": {
+    "stack_equal_family": -0.22252557848006618,
+    "stack_cap_family": -0.20602011642704438,
+    "average_equal_family": -0.19893939120991133,
+    "average_cap_family": -0.1992234767241146,
+    "gls_common_effect": -0.23772543433987325
+  },
+  "all_reconstructed_coefficients_match": true,
+  "rows": 1002,
+  "countries": 46,
+  "country_family_adoptions": 30,
+  "family_cohorts": 14,
+  "families": 5,
+  "descriptive_statistics_unit": "Country-stack-year mean of fixed pre-selected companies; repeated countries across policy stacks are distinct estimation rows, not unique stock-years."
+}

@@ -1,0 +1,15 @@
+{
+  "models_attempted": 688,
+  "coefficient_rows": 3075,
+  "focal_attempts": 1024,
+  "estimated_models": 422,
+  "statuses": {
+    "estimated": 422,
+    "insufficient_sample_support": 144,
+    "unstable_logit": 98,
+    "rank_or_absorbed_outcome": 22,
+    "estimation_failed": 2
+  },
+  "focal_Holm_below_05": 6,
+  "seconds": 19.604546546936035
+}

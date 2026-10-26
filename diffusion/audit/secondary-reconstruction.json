@@ -1,0 +1,60 @@
+{
+  "all_36_secondary_coefficients_reproduced": true,
+  "maximum_absolute_error": 1.7763568394002505e-15,
+  "sample_counts": [
+    {
+      "scope": "public_disclosure",
+      "post_window": "first_year",
+      "families": 8,
+      "country_family_cohort_rows": 342,
+      "countries": 50,
+      "family_cohorts": 25,
+      "adopting_country_family_cases": 84
+    },
+    {
+      "scope": "public_disclosure",
+      "post_window": "mean_0_2",
+      "families": 6,
+      "country_family_cohort_rows": 196,
+      "countries": 49,
+      "family_cohorts": 16,
+      "adopting_country_family_cases": 33
+    },
+    {
+      "scope": "public_and_confidential",
+      "post_window": "first_year",
+      "families": 9,
+      "country_family_cohort_rows": 412,
+      "countries": 50,
+      "family_cohorts": 29,
+      "adopting_country_family_cases": 126
+    },
+    {
+      "scope": "public_and_confidential",
+      "post_window": "mean_0_2",
+      "families": 7,
+      "country_family_cohort_rows": 237,
+      "countries": 49,
+      "family_cohorts": 18,
+      "adopting_country_family_cases": 66
+    },
+    {
+      "scope": "broader_17_families",
+      "post_window": "first_year",
+      "families": 13,
+      "country_family_cohort_rows": 540,
+      "countries": 50,
+      "family_cohorts": 42,
+      "adopting_country_family_cases": 148
+    },
+    {
+      "scope": "broader_17_families",
+      "post_window": "mean_0_2",
+      "families": 10,
+      "country_family_cohort_rows": 328,
+      "countries": 49,
+      "family_cohorts": 27,
+      "adopting_country_family_cases": 82
+    }
+  ]
+}

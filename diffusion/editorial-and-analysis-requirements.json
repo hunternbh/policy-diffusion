@@ -1,0 +1,30 @@
+{
+  "recorded_at": "2026-10-26T16:30:28.157287+00:00",
+  "latest_user_priority": "Retain the five previously presented liquidity models in the main paper, with identical numerical results.",
+  "locked_model_ids": [
+    "C03169",
+    "C03173",
+    "C03177",
+    "C03181",
+    "C03185"
+  ],
+  "main_liquidity": "Public disclosures; country exposure; three pre years versus years 1-3 after adoption; GDP within-country weighting; the five distinct pooling targets retain their names and definitions.",
+  "preserve": [
+    "User-pasted introduction and institutional logic where compatible with the broader disclosure sample",
+    "Current source files edited in place",
+    "Three TeX sources, four folders and one bibliography at project root",
+    "Existing results and underlying source documents"
+  ],
+  "diffusion_tasks": [
+    "Read Koning and Shipan-Volden methods and distinguish learning, copying, competition and external pressure",
+    "Reconstruct lagged portfolio exposure from dimensionally filtered IMF positions",
+    "Use first-adoption risk sets with documented histories",
+    "Separate exposure from observed liquidity success, with full lower-order interaction terms",
+    "Investigate temporal copying and larger-market leaders; distinguish coordinated mandates",
+    "Retain every prespecified comparison and source-defined unavailable term without invented results"
+  ],
+  "writing": "Connected findings; primary liquidity then diffusion; preserve association/treatment/mechanism distinction. State verified results directly. Put substantive identification assumptions in design, support diagnostics in appendix and limitations in conclusion.",
+  "exhibits": "Numbered columns, panels, stars, standard errors on separate lines, X for included controls, Country FE convention accurately labelled, self-contained This table reports paragraphs, Online Appendix variable definitions.",
+  "data_access": "Official legal sources are public/verifiable. Licensed Datastream and issuer data are not described as public. Pasted coefficients require underlying numerical reproduction before use.",
+  "evidence_integrity": "Do not claim unavailable controls, outcomes, first-law coverage, observed issuer filing dates or causal mechanisms. Preserve contrary and imprecise results in their correct main/appendix locations. No significance-based stopping."
+}

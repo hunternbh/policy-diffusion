@@ -1,0 +1,9 @@
+{
+  "ghg_observed_values_verified": 792,
+  "ghg_legacy_nonmissing_raw_missing": 0,
+  "conflicting_ghg_country_years": 0,
+  "ghg_units": "Source annual files identify kt or Gg CO2 equivalent, which are equal mass units; category Total GHG emissions excluding LULUCF/LUCF. Official UNFCCC interface help confirms source units.",
+  "unit_reference": "https://unfccc.int/process-and-meetings/transparency-and-reporting/reporting-and-review/transparency-data-and-tools/greenhouse-gas-data/data-interface-help",
+  "crosslisting_ratio_max_error": 5.551115123125783e-17,
+  "crosslisting_valid_ratio_rows": 1444
+}

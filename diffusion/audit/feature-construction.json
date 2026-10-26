@@ -1,0 +1,9 @@
+{
+  "rows": 5753,
+  "countries": 80,
+  "families": 15,
+  "same_company_pair_rows": 1125,
+  "no_imputed_success_used": true,
+  "maximum_signal_year_rule": "All signal years <= outcome adoption year-1; eligible prior donor adopters G<=t-2. Fixed 2001 portfolio starts t>=2003.",
+  "original_pasted_results": "Archived source inspected; historic code uses imputed success and fills unknown adoption indicators. Those supplied coefficients are not substituted for this reconstruction."
+}

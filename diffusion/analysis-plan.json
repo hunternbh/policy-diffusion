@@ -1,0 +1,43 @@
+{
+  "recorded_at": "2026-10-26T16:35:25.173051+00:00",
+  "existing_results_known": true,
+  "liquidity_lock": [
+    "C03169",
+    "C03173",
+    "C03177",
+    "C03181",
+    "C03185"
+  ],
+  "primary_diffusion_sample": "Country-family first documented adoption risk, 2002-2025, ten public disclosure families. Documented later adopters supply pre-adoption years; unknown histories stay missing. Independent national choices primary; all documented coordinated implementations secondary.",
+  "secondary_scope": "Public plus confidential country reports, eleven families.",
+  "time": "All adoption/exposure signals use t-1 or earlier. PIP annual assets at t-1, alternative t-2 and fixed-2001 weights. Observed spread improvement uses same pre-selected companies from t-2 to t-1. Peer must adopt by t-2 for an observed post-adoption success signal.",
+  "portfolio": "Reconstructed annual IMF Assets, Total economy and counterpart Total economy, total investment, USD; positive observed bilateral positions, excluding self positions; no zero filling unreported country pairs. Share of observed positive portfolio mass with documented policy history reported. Primary coverage >=50%; >=80% sensitivity.",
+  "success": "Positive improvement is a fall in mean log spread for fixed same-company pairs with >=30 companies; magnitude is negative Delta log spread. Prior adopters with observed post-adoption outcomes must cover >=80% of eligible-adopter portfolio mass. No eligible prior adopters yields zero signal, not a fabricated successful outcome.",
+  "copying": "Nearest larger economy among the ten geographic peers, using 2000 GDP to fix economic size; documented prior adoption, split into adoption last year and adoption at least two years ago. If no larger peer has valid baseline size/history, missing rather than a smaller-country substitute.",
+  "other_mechanisms": "Koning export-similarity adoption share, GDP-growth learning, language and legal-origin shares, aid+IMF/GDP; retain exact underlying definitions. Crosslisting share is familiarity/substitution, not proof of copying. Aggregate GHG reductions are a separate observed-outcome signal, not emissions attributable to a disclosure rule.",
+  "models": [
+    "portfolio_exposure",
+    "liquidity_success_exposure",
+    "liquidity_learning_double",
+    "liquidity_learning_triple",
+    "liquidity_learning_magnitude",
+    "liquidity_learning_threshold",
+    "ghg_learning_double",
+    "ghg_learning_triple",
+    "nearest_larger_copying",
+    "copying_recent_vs_old",
+    "trade_competition",
+    "language_copying",
+    "external_finance",
+    "crosslisting_substitution",
+    "joint_available_channels",
+    "gdp_learning_reference"
+  ],
+  "model_matrix": "Each model: both family weights; ten-public and combined-eleven scopes; independent choices and all documented choices; logit family+year FE and LPM Country FE x family plus family-year FE. Portfolio models additionally rerun fixed-2001, t-2 and >=80% coverage in an explicit sensitivity matrix.",
+  "controls": "Lagged log GDP per capita, GDP growth and trade/GDP; learning triple adds prior domestic liquidity (minus mean log spread) and every lower-order product. Crosslisting/IVS/LSEG controls added only where raw-source construction is verified, not invented.",
+  "weights": "Equal family likelihood mass, and pre-adoption market-cap family mass from country-year g-1 company-cap totals for documented adopting cases. All supported public families eligible; do not restrict diffusion to the five liquidity families.",
+  "support": "At least 15 countries, 10 events and 10 nonevents, >=50 rows; full rank and positive residual outcome/cluster variance; retain all failures. Logit fixed-effect groups without outcome variation iteratively removed to handle separation, with original support logged.",
+  "inference": "Country-cluster sandwich; LPM absorbed FE rank from graph components; t critical values G-1. Report odds/log-odds separately from probability-point associations; no causal mechanism label from coefficient alone.",
+  "multiplicity": "Holm across every prespecified focal coefficient attempt within the diffusion model matrix; unestimated tests p=1. All lower-order coefficients, standardizations and sample memberships saved.",
+  "writing": "Keep the five main liquidity models and the user-introduction/institutional reasoning. No claims from pasted numerical results without independent reconstruction. Design and conclusion explain actual assumptions; results state estimates and substantive meanings directly."
+}

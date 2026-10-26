@@ -1,0 +1,25 @@
+{
+  "Koning_2018": {
+    "unit": "Country-year IFRS adoption status and ordinal adoption extent, 2002-2012; excludes EU/EEA collective mandates.",
+    "competition": "Adopter fraction among five peers selected by export-share correlation; alternative same-risk-class peers.",
+    "learning": "Visible success measured by GDP or per-capita growth among ten geographic peers, adopter versus nonadopter median.",
+    "emulation": "Cultural/administrative proximity and professional IFAC membership, not merely portfolio contact.",
+    "coercion": "Aid and IMF credit relative to GDP; a dependence proxy, not an observed conditionality contract."
+  },
+  "Shipan_Volden_2008": {
+    "unit": "Pooled city-year-policy observations for three antismoking policies; local adoptions can occur in any order.",
+    "learning": "Population share already covered by local restrictions; broad adoption exposure.",
+    "competition": "Potential outflow to nearby unregulated populations relative to focal population.",
+    "imitation": "Nearest larger city prior adoption; fallback for largest city differs from our missing-peer rule.",
+    "coercion": "State law and preemption can reduce need/opportunity for local adoption.",
+    "extensions": "Separate and joint channels, recent/older effects, size interactions."
+  },
+  "current_adaptation": {
+    "target": "Public disclosure country-family first documented implementation risk; policy-phase chronology, not a fully observed first-law census.",
+    "learning_extension": "Separates portfolio exposure from observed same-company spread changes and observed emissions changes. Does not treat filled outcomes as observed foreign success.",
+    "copying_extension": "Nearest larger economy fixed by 2000 GDP and geographic ranks; recent versus older implementation. Missing peer/history remains missing.",
+    "within_design": "Country FE x family and Family FE x year linear probability models complement Family FE and Year FE logit; estimator/sample differences are retained, not attributed solely to one FE change.",
+    "retained_liquidity": "The five user-selected models remain the primary Table 3, with numerical reconstruction of all five coefficients.",
+    "writing": "Mechanisms motivate tests; numerical associations and institutional templates are reported as distinct evidence."
+  }
+}

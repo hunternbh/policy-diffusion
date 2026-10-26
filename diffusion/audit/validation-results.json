@@ -1,0 +1,7 @@
+{
+  "passed": true,
+  "checks": 3013,
+  "independent_refits": 10,
+  "all_model_inference_reconstructed": true,
+  "source_coverage_and_timing_checked": true
+}
