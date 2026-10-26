@@ -1,0 +1,26 @@
+{
+  "paper": {
+    "pages": 21,
+    "out_of_bounds": [],
+    "author": "",
+    "sha256": "738d473796699c8e43540b3bf0fcd45025750854c7c6e6eec3dc115abe0c9caf",
+    "contact_sheets": [
+      "C:\\Users\\hia_n\\Documents\\Codex\\2026-10-15\\go-2\\outputs\\collective-grid\\paper-contact-1.jpg",
+      "C:\\Users\\hia_n\\Documents\\Codex\\2026-10-15\\go-2\\outputs\\collective-grid\\paper-contact-2.jpg",
+      "C:\\Users\\hia_n\\Documents\\Codex\\2026-10-15\\go-2\\outputs\\collective-grid\\paper-contact-3.jpg",
+      "C:\\Users\\hia_n\\Documents\\Codex\\2026-10-15\\go-2\\outputs\\collective-grid\\paper-contact-4.jpg",
+      "C:\\Users\\hia_n\\Documents\\Codex\\2026-10-15\\go-2\\outputs\\collective-grid\\paper-contact-5.jpg",
+      "C:\\Users\\hia_n\\Documents\\Codex\\2026-10-15\\go-2\\outputs\\collective-grid\\paper-contact-6.jpg"
+    ]
+  },
+  "appendix_excess": {
+    "pages": 8,
+    "out_of_bounds": [],
+    "author": "",
+    "sha256": "2f54235561a5fa2680974212655b8d1eb4a7cac49016dbd39cb5cb14eccd403a",
+    "contact_sheets": [
+      "C:\\Users\\hia_n\\Documents\\Codex\\2026-10-15\\go-2\\outputs\\collective-grid\\appendix_excess-contact-1.jpg",
+      "C:\\Users\\hia_n\\Documents\\Codex\\2026-10-15\\go-2\\outputs\\collective-grid\\appendix_excess-contact-2.jpg"
+    ]
+  }
+}

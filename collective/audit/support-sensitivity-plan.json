@@ -1,0 +1,21 @@
+{
+  "recorded_at": "2026-10-26T06:03:07.108516+00:00",
+  "prior_grid_results_seen": true,
+  "reason": "The benchmark GLS assigns 59.6% to a climate family with one adopting country. Check adoption support systematically; no choice made from coefficient signs.",
+  "fixed_design": {
+    "lag": 1,
+    "window": 3,
+    "country_weight": "baseline_gdp"
+  },
+  "vary": [
+    "all three winsorization rules",
+    "both controls",
+    "all three scopes",
+    "minimum 2 and minimum 5 adopting countries per family",
+    "all four outcomes",
+    "equal family, cap family, GLS, nonnegative minimum variance"
+  ],
+  "planned_cells": 576,
+  "multiplicity": "Holm across all 576 diagnostic cells; original 5184-cell results retained unchanged.",
+  "inference": "Conditional country-score covariance. The support restriction changes the family target, and passing a lead test is not proof of parallel trends."
+}

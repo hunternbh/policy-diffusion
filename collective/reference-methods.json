@@ -1,0 +1,49 @@
+{
+  "source": "2023-krueger-et-al-effects-of-esg-reporting-around-the-world.pdf",
+  "sha256": "43db04cdce6a1c80804d64da5369c21cae3658bdceb89d3edfbb3456acc9716f",
+  "physical_pages": 75,
+  "review": "Methods, variable appendix, baseline and alternative-estimator tables inspected; not a claim to have replicated the original dataset.",
+  "baseline": {
+    "equation": "Liquidity_i,c,t+1 = beta MandatoryDisclosure_c,t + X_i,c,t-1 theta + firm FE + industry-by-year FE",
+    "outcomes": [
+      "log annual median bid-ask spread",
+      "log annual median Amihud price impact",
+      "fraction zero-return days",
+      "single-factor illiquidity score"
+    ],
+    "timing": "12 months following fiscal year end; policy status in t, outcome t+1, controls t-1",
+    "inference": "Firm clustering in baseline; alternative clustering in robustness",
+    "screening": "Annual spread outside [0,1] missing; price impact requires >=120 observations and price variation; annual spread/impact winsorized at 1/99.",
+    "esg_definition": "Complete mandatory E, S and G; staggered topic introduction requires all three. Comply-or-explain is mandatory in baseline."
+  },
+  "table8": {
+    "physical_page": 58,
+    "estimators": [
+      "Callaway-SantAnna without/with controls",
+      "stacked without/with controls"
+    ],
+    "stack_definition": "Clean never/not-yet-treated controls, firm-by-stack and year-by-stack effects; uses pre/post observations.",
+    "reported_coefficients": [
+      -0.05,
+      -0.105,
+      -0.137,
+      -0.129
+    ]
+  },
+  "other_tests": [
+    "event dynamics/parallel trends",
+    "government versus exchange mandate",
+    "full compliance versus comply-or-explain",
+    "formal/informal institutions",
+    "voluntary disclosure environment",
+    "alternative FE and clustering",
+    "alternative staggered estimators"
+  ],
+  "adaptation": {
+    "unit": "Country means of fixed companies; no claim to reproduce firm financial controls, fiscal-year timing or industry-by-year effects.",
+    "outcomes": "Three original individual proxies plus baseline-2000 standardized equal-sign illiquidity index; index is not the reference latent factor.",
+    "stack_FE": "Country-by-family-cohort and year-by-family-cohort. Controls must remain documented not-yet treated through entire window; unknown histories excluded.",
+    "all_disclosures": "Ten public families, combined eleven including confidential tax, and all recorded seventeen as broader sensitivity.",
+    "pooling": "Direct stacked slopes and explicit family averages target different exposure distributions. GLS is a conditional common-effect minimum-distance diagnostic, not a cure for confounding or a direct SUR replication."
+  }
+}

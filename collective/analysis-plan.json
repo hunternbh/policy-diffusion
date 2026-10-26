@@ -1,0 +1,74 @@
+{
+  "recorded_at": "2026-10-26T05:54:39.920471+00:00",
+  "client_date": "2026-10-26",
+  "status": "Retrospective grid frozen before these new fits. Existing results and earlier grids already known; not preregistration.",
+  "winsorization": [
+    "screened_untrimmed",
+    "year_p01_p99",
+    "year_p025_p975"
+  ],
+  "policy_outcome_lag": [
+    0,
+    1
+  ],
+  "pre_and_post_years": [
+    2,
+    3
+  ],
+  "country_weights": [
+    "equal_country",
+    "baseline_gdp",
+    "baseline_cap"
+  ],
+  "controls": [
+    "none",
+    "lagged_country_macro"
+  ],
+  "scopes": [
+    "public_disclosure",
+    "public_and_confidential",
+    "broader_recorded"
+  ],
+  "outcomes": [
+    "log_spread",
+    "log_impact",
+    "zero_fraction",
+    "illiquidity_index"
+  ],
+  "pooling": [
+    "stack_equal_family",
+    "stack_cap_family",
+    "average_equal_family",
+    "average_cap_family",
+    "gls_common_effect",
+    "minimum_variance_positive"
+  ],
+  "expected_cells": 5184,
+  "calendar": "reviewed_G documented phases. Pre years g-L,...,g-1; post years g+lag,...,g+lag+L-1. Omit g as transition for lag=1.",
+  "company_selection": "Largest positive-cap security per vendor company at g-1, fixed line/country/company through all window years; complete all three outcomes; >=30 companies per country-stack.",
+  "never_treated": "No unsupported never-treated coding. Documented later adoption G>end is required for controls; >=3 comparison countries per cohort.",
+  "censor": "USA beneficial ownership and Germany supply-chain if window ends >=2025.",
+  "controls_timing": "Prior-calendar-year log real GDP per capita, GDP growth and trade/GDP. Complete all window years; no filling missing controls.",
+  "index": "Equal mean of three proxies standardized using complete, deduplicated 2000 companies, with direction higher=less liquid; no optimized outcome weights.",
+  "stack_weight": "Constant within country-stack. Within-stack country weights normalized to unit total; cohorts weighted by adopting-country baseline mass. Normalize family total mass to requested equal/cap family mass. Direct stack slope additionally reflects residualized treatment information.",
+  "inference": "Country-cluster sandwich, shared-country covariance retained across families/stacks, t with G-1 df; HC1 includes absorbed stack-country and stack-year df. Conditional on sample, phase calendar and GLS estimated weights.",
+  "gls": "Inverse cross-family country-score covariance only if full rank and condition<1e8. Positive variant minimizes same variance subject to nonnegative weights sum=1. Estimated weights conditional; not population policy averages.",
+  "diagnostics": [
+    "Every family/cohort support or failure retained",
+    "Event-study pre-lead Wald test on identical sample",
+    "Country and family weights",
+    "Joint outcome Wald tests",
+    "Leave-one-family-out ranges",
+    "Independent dense-FE numerical reconstruction"
+  ],
+  "multiplicity": "Holm across all 5184 attempted focal cells, including failures assigned p=1; BH also descriptive. Within-public following-year spread priority set includes all winsor/window/within/controls/pooling choices, not chosen by sign.",
+  "stopping": "Complete declared grid and diagnostics regardless of significance; report candidates with qualifications and full matrix. Do not continue until a favourable p-value is found.",
+  "limitations": [
+    "Calendar rather than fiscal-year outcomes",
+    "National phase exposure rather than verified issuer eligibility",
+    "Simultaneous other reforms not ruled out",
+    "Balanced-company selection uses future survival",
+    "Country clustering does not prove independence across supranational legal waves",
+    "GLS common-effect restriction may fail across heterogeneous families"
+  ]
+}

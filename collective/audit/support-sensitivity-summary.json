@@ -1,0 +1,7 @@
+{
+  "cells": 576,
+  "estimated": 576,
+  "holm_below_05": 26,
+  "negative_holm_pretrend_above_05": 0,
+  "focal_grid_bitwise_numeric_reproducibility": true
+}

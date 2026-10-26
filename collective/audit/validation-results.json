@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "checks": 18162,
+  "grid_cells": 5184,
+  "estimated_cells": 5184,
+  "independent_numeric_method": "Full weighted dummy-variable OLS and projections versus balanced within transformation for static and event models; all-cell inference and coefficient aggregation reconstructed.",
+  "scope_limit": "Numerical validation does not establish parallel trends, issuer eligibility or causal effects."
+}

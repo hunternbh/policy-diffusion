@@ -1,0 +1,14 @@
+{
+  "planned": 5184,
+  "recorded": 5184,
+  "estimated": 5184,
+  "status_counts": {
+    "estimated_country_exposure": 5184
+  },
+  "negative_estimates": 4362,
+  "holm_all_below_05": 391,
+  "priority_cells": 216,
+  "priority_holm_below_05": 42,
+  "elapsed_seconds": 113.7371780872345,
+  "not_a_significance_stopping_rule": true
+}

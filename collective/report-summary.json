@@ -1,0 +1,39 @@
+{
+  "focal_grid": {
+    "planned": 5184,
+    "recorded": 5184,
+    "estimated": 5184,
+    "status_counts": {
+      "estimated_country_exposure": 5184
+    },
+    "negative_estimates": 4362,
+    "holm_all_below_05": 391,
+    "priority_cells": 216,
+    "priority_holm_below_05": 42,
+    "elapsed_seconds": 113.7371780872345,
+    "not_a_significance_stopping_rule": true
+  },
+  "support_diagnostic": {
+    "cells": 576,
+    "estimated": 576,
+    "holm_below_05": 26,
+    "negative_holm_pretrend_above_05": 0,
+    "focal_grid_bitwise_numeric_reproducibility": true
+  },
+  "benchmark_ids": [
+    "C03169",
+    "C03173",
+    "C03177",
+    "C03181",
+    "C03185",
+    "C03189",
+    "C03241",
+    "C03245",
+    "C03249",
+    "C03253",
+    "C03257",
+    "C03261"
+  ],
+  "validation_checks": 18162,
+  "selection": "Benchmark fixed at reference-aligned 1% following-year three-year GDP/public settings; all six pooling methods and both controls shown. No best-p-value headline selected."
+}
