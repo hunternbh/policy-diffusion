@@ -1,0 +1,19 @@
+{
+  "data_years": [
+    2000,
+    2025
+  ],
+  "market_data_jurisdictions": 90,
+  "selected_legal_provision_jurisdictions": 81,
+  "public_milestones": 211,
+  "public_milestone_countries": 65,
+  "adoption_risk_countries_including_confidential_tax": 82,
+  "public_adoption_risk_countries": 66,
+  "primary_liquidity_countries": 47,
+  "primary_liquidity_implementations": 61,
+  "primary_country_stack_years": 1404,
+  "liquidity_models": 64,
+  "diffusion_fits_attempted": 160,
+  "regression_tables": 12,
+  "source_review_is_not_complete_national_history": true
+}

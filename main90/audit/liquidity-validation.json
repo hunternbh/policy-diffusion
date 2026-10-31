@@ -1,0 +1,6 @@
+{
+  "created_at": "2026-10-31T06:46:50.685912+00:00",
+  "passed": true,
+  "models": 64,
+  "scope_limit": "Checks verify numeric reconstruction, declared model coverage and documented rollout timing. They do not prove parallel trends, every issuer eligibility or actual filing dates."
+}

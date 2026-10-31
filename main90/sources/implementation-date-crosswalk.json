@@ -1,0 +1,1090 @@
+{
+  "created_at": "2026-10-31T05:40:41.270787+00:00",
+  "scope_years": [
+    2000,
+    2025
+  ],
+  "decisions": [
+    {
+      "iso3": "CAN",
+      "family": "AUDIT_REPORTING",
+      "instrument_id": "CAN_AASB_CAS700_701_2017",
+      "phase_id": "CAN_CAS701_P1",
+      "change": "add_missing_mandatory_rollout",
+      "prior_rows": [],
+      "new_G": 2020,
+      "clock": "first_covered_period_end",
+      "clock_value": "2020-12-15",
+      "scope": {
+        "listing_venue": "Toronto Stock Exchange",
+        "excluded_entities": "Entities complying with NI 81-106 Investment Fund Continuous Disclosure"
+      },
+      "note": "TSX mandatory KAM; NI81-106 investment funds excluded.2018 general standard/voluntary framework is not the2020 mandate.",
+      "evidence": [
+        {
+          "source_id": "SRC_cd13049bf559c9f00478",
+          "url": "https://www.auditor.on.ca/en/content/downloads/Accounting_Assurance_Standards_Update_archive/onlineAAS/2020-05_AAS-EN.pdf",
+          "source_sha256": "3f8231af091bc4a9f2edc8fd0228f444cbfbc3162237a5810c89717431229fa8",
+          "locator": "PDF p.15, Assurance Standards CAS 701",
+          "text_character_offset": 49562,
+          "PDF_page": 15,
+          "anchor": "CAS 701 - Communicating Key",
+          "anchor_normalization": "literal/whitespace-flexible match",
+          "reviewed_at": "2026-10-31T03:03:53.831324+00:00",
+          "reviewer": "Codex source reading",
+          "review_type": "specific legal date and coverage assertions, not completeness certification"
+        },
+        {
+          "source_id": "SRC_e5670b967950cdcc09a0",
+          "url": "https://www.bccpa.ca/kbase/kbase-search/assurance-standards/audit/resources-tools/audit-and-assurance-alert-cas-701-communicating-key-audit-matters-in-the-independent-auditors-rpt/",
+          "source_sha256": "1331f569fe5da531bdeaa6a477321f83d363ea59db8ed5b9a7b12695819979f0",
+          "locator": "CPA Canada alert 2019; final TSX phase vs proposed extension",
+          "text_character_offset": 1067,
+          "PDF_page": null,
+          "anchor": "December 15, 2020",
+          "anchor_normalization": "literal/whitespace-flexible match",
+          "reviewed_at": "2026-10-31T03:03:54.171489+00:00",
+          "reviewer": "Codex source reading",
+          "review_type": "specific legal date and coverage assertions, not completeness certification"
+        }
+      ],
+      "actual_filing_date_inferred": false,
+      "complete_national_history_required": false,
+      "decision_independent_of_results": true,
+      "statutory_filing_rule": null,
+      "first_mandatory_publication_year": null,
+      "first_observed_filing": null
+    },
+    {
+      "iso3": "CHN",
+      "family": "AUDIT_REPORTING",
+      "instrument_id": "CHN_CAIKUAI_2016_24",
+      "phase_id": "CHN_CAIKUAI_2016_24_P1",
+      "change": "add_missing_mandatory_rollout",
+      "prior_rows": [],
+      "new_G": 2017,
+      "clock": "mandatory_application",
+      "clock_value": "2017-01-01",
+      "scope": {
+        "categories": [
+          "A+H company reports for mainland use",
+          "A+H reports for overseas use if Chinese auditing standards used",
+          "H-share financial statement audits if Chinese auditing standards used"
+        ]
+      },
+      "note": "Initial A+H/H-share CAS-audit phase; broader listed/deemed-listed phase follows2018. This is partial country exposure.",
+      "evidence": [
+        {
+          "source_id": "SRC_b0152f5e27abdfb40d9a",
+          "url": "https://www.mof.gov.cn/zcsjtsgb/gfxwj/201612/t20161223_3583473.htm",
+          "source_sha256": "49fc83c15122528ab40c47894e49d68a66c0f0efbaa78e6648b3e401e06ab920",
+          "locator": "Notification paragraphs 1–5",
+          "text_character_offset": 568,
+          "PDF_page": null,
+          "anchor": "2017\n年\n1\n月\n1\n日",
+          "anchor_normalization": "literal/whitespace-flexible match",
+          "reviewed_at": "2026-10-31T03:03:53.422131+00:00",
+          "reviewer": "Codex source reading",
+          "review_type": "specific legal date and coverage assertions, not completeness certification"
+        },
+        {
+          "source_id": "SRC_b0152f5e27abdfb40d9a",
+          "url": "https://www.mof.gov.cn/zcsjtsgb/gfxwj/201612/t20161223_3583473.htm",
+          "source_sha256": "49fc83c15122528ab40c47894e49d68a66c0f0efbaa78e6648b3e401e06ab920",
+          "locator": "Notification paragraphs 2–4",
+          "text_character_offset": 831,
+          "PDF_page": null,
+          "anchor": "2018\n年\n1\n月\n1\n日",
+          "anchor_normalization": "literal/whitespace-flexible match",
+          "reviewed_at": "2026-10-31T03:03:53.422131+00:00",
+          "reviewer": "Codex source reading",
+          "review_type": "specific legal date and coverage assertions, not completeness certification"
+        },
+        {
+          "source_id": "SRC_e2cc8bd6b124e9a62fd6",
+          "url": "https://www.mof.gov.cn/zhengwuxinxi/zhengcefabu/201612/W020161229380915020654.pdf",
+          "source_sha256": "f8d261d778691cd773857f41ae40743ceca893cbd4d2f1f7344b448a1b223b52",
+          "locator": "Originalstandard1504reportingexceptions",
+          "text_character_offset": 2365,
+          "PDF_page": 4,
+          "anchor": "法律法规禁止公开披露",
+          "anchor_normalization": "literal/whitespace-flexible match",
+          "reviewed_at": "2026-10-31T03:08:07.227045+00:00",
+          "reviewer": "Codex source reading",
+          "review_type": "specific legal date and coverage assertions, not completeness certification"
+        }
+      ],
+      "actual_filing_date_inferred": false,
+      "complete_national_history_required": false,
+      "decision_independent_of_results": true,
+      "statutory_filing_rule": null,
+      "first_mandatory_publication_year": null,
+      "first_observed_filing": null
+    },
+    {
+      "iso3": "BRA",
+      "family": "AUDIT_REPORTING",
+      "instrument_id": "BRA_CFC_NBCTA701_2016",
+      "phase_id": "BRA_NBCTA701_P1",
+      "change": "add_missing_mandatory_rollout",
+      "prior_rows": [],
+      "new_G": 2016,
+      "clock": "first_covered_period_end",
+      "clock_value": "2016-12-31",
+      "scope": {
+        "scope": "Audits of complete general-purpose financial statements of listed entities; other audits if required by law/regulation or auditor elects",
+        "source_provisions": "NBC TA 701 paragraphs 5 and 6"
+      },
+      "note": "Listed-entity KAM; other entities only where law requires or auditor elects.",
+      "evidence": [
+        {
+          "source_id": "SRC_8b6b3e3d2263711f242c",
+          "url": "https://www1.cfc.org.br/sisweb/SRE/docs/NBCTA701.pdf",
+          "source_sha256": "e087d6b3872b60e829f4700a206fd10cdf19e3b245125527a8a915356f54be43",
+          "locator": "Original NBC TA 701 paragraphs 5,6 and final entry provision",
+          "text_character_offset": 6544,
+          "PDF_page": 2,
+          "anchor": "31 de dezembro de 2016",
+          "anchor_normalization": "literal/whitespace-flexible match",
+          "reviewed_at": "2026-10-31T03:03:55.453944+00:00",
+          "reviewer": "Codex source reading",
+          "review_type": "specific legal date and coverage assertions, not completeness certification"
+        },
+        {
+          "source_id": "SRC_8b6b3e3d2263711f242c",
+          "url": "https://www1.cfc.org.br/sisweb/SRE/docs/NBCTA701.pdf",
+          "source_sha256": "e087d6b3872b60e829f4700a206fd10cdf19e3b245125527a8a915356f54be43",
+          "locator": "Scope paragraph 5",
+          "text_character_offset": 5629,
+          "PDF_page": 2,
+          "anchor": "fins gerais de entidades listadas",
+          "anchor_normalization": "literal/whitespace-flexible match",
+          "reviewed_at": "2026-10-31T03:03:55.454945+00:00",
+          "reviewer": "Codex source reading",
+          "review_type": "specific legal date and coverage assertions, not completeness certification"
+        },
+        {
+          "source_id": "SRC_aa5e275030a884b98a8f",
+          "url": "https://www2.cfc.org.br/sisweb/sre/detalhes_sre.aspx?Codigo=2016/NBCTA701",
+          "source_sha256": "5720017ace2d40dfb5a12a609f65b1b93c398493fd03a9cff68b16532ec0053e",
+          "locator": "CFC resolution registry publication date",
+          "text_character_offset": 198,
+          "PDF_page": null,
+          "anchor": "04/07/2016",
+          "anchor_normalization": "literal/whitespace-flexible match",
+          "reviewed_at": "2026-10-31T03:03:55.615223+00:00",
+          "reviewer": "Codex source reading",
+          "review_type": "specific legal date and coverage assertions, not completeness certification"
+        }
+      ],
+      "actual_filing_date_inferred": false,
+      "complete_national_history_required": false,
+      "decision_independent_of_results": true,
+      "statutory_filing_rule": null,
+      "first_mandatory_publication_year": null,
+      "first_observed_filing": null
+    },
+    {
+      "iso3": "ISR",
+      "family": "AUDIT_REPORTING",
+      "instrument_id": "ISR_ICPA_AUDIT701_2021",
+      "phase_id": "ISR_701_P1",
+      "change": "add_missing_mandatory_rollout",
+      "prior_rows": [],
+      "new_G": 2022,
+      "clock": "first_covered_period_end",
+      "clock_value": "2022-12-31",
+      "scope": {
+        "scope": "Entities required at 31 December 2022 to apply Israeli Auditing Standard 911 or 910, except paragraph 6(b) banking/clearing cases; entities whose statements are attached to those entities’ statements",
+        "definitions": "Standards 910/911 and underlying statutory applicability require issuer matching"
+      },
+      "note": "Initial mandatory internal-control-audit/attached-statement perimeter; voluntary banking2021 and later2023 expansion are distinct.",
+      "evidence": [
+        {
+          "source_id": "SRC_ef69d5ec8f987e977bd6",
+          "url": "https://icpas.org.il/wp-content/uploads/2026/02/Professional-publications-Part-A.pdf",
+          "source_sha256": "d3059e0d7c46a9fc7eddc7a67655e7b50d40ce3d3addffc7d7f4bd1def5bd3d1",
+          "locator": "Official professional standards collection PDF p.573, paragraphs 5 and 6(a), 31 December2022; year anchor avoids bidi control-order ambiguity",
+          "text_character_offset": 1605496,
+          "PDF_page": 573,
+          "anchor": "2022",
+          "anchor_normalization": "literal/whitespace-flexible match",
+          "reviewed_at": "2026-10-31T03:03:57.250477+00:00",
+          "reviewer": "Codex source reading",
+          "review_type": "specific legal date and coverage assertions, not completeness certification"
+        },
+        {
+          "source_id": "SRC_ef69d5ec8f987e977bd6",
+          "url": "https://icpas.org.il/wp-content/uploads/2026/02/Professional-publications-Part-A.pdf",
+          "source_sha256": "d3059e0d7c46a9fc7eddc7a67655e7b50d40ce3d3addffc7d7f4bd1def5bd3d1",
+          "locator": "PDF p.574, paragraph 6(b), 31 December2021 optional early banking application",
+          "text_character_offset": 1607422,
+          "PDF_page": 574,
+          "anchor": "2021",
+          "anchor_normalization": "literal/whitespace-flexible match",
+          "reviewed_at": "2026-10-31T03:03:57.259191+00:00",
+          "reviewer": "Codex source reading",
+          "review_type": "specific legal date and coverage assertions, not completeness certification"
+        },
+        {
+          "source_id": "SRC_ef69d5ec8f987e977bd6",
+          "url": "https://icpas.org.il/wp-content/uploads/2026/02/Professional-publications-Part-A.pdf",
+          "source_sha256": "d3059e0d7c46a9fc7eddc7a67655e7b50d40ce3d3addffc7d7f4bd1def5bd3d1",
+          "locator": "PDF p.574, paragraph 6(c), 31 December2023",
+          "text_character_offset": 1607730,
+          "PDF_page": 574,
+          "anchor": "2023",
+          "anchor_normalization": "literal/whitespace-flexible match",
+          "reviewed_at": "2026-10-31T03:03:57.278534+00:00",
+          "reviewer": "Codex source reading",
+          "review_type": "specific legal date and coverage assertions, not completeness certification"
+        }
+      ],
+      "actual_filing_date_inferred": false,
+      "complete_national_history_required": false,
+      "decision_independent_of_results": true,
+      "statutory_filing_rule": null,
+      "first_mandatory_publication_year": null,
+      "first_observed_filing": null
+    },
+    {
+      "iso3": "SAU",
+      "family": "AUDIT_REPORTING",
+      "instrument_id": "SAU_SOCPA_ISA701_2017",
+      "phase_id": "SAU_ISA701_ENGAGEMENT2017",
+      "change": "add_missing_mandatory_rollout",
+      "prior_rows": [],
+      "new_G": 2017,
+      "clock": "first_covered_audit_engagement_date",
+      "clock_value": "2017-01-01",
+      "scope": {
+        "entities": "Complete general-purpose financial-statement audits of listed entities, plus other entities where law/regulation requires KAM; voluntary auditor communications remain distinct",
+        "engagement_date_not_period_start": true
+      },
+      "note": "Engagements entered into from1January2017. This is not a financial-period start or observed report filing.",
+      "evidence": [
+        {
+          "source_id": "SRC_be0c5e01145ba9bf6238",
+          "url": "https://socpa.org.sa/getattachment/Socpa/Professional-standards/Auditing-Standards/2002/33-ISA-701-2025.pdf.aspx?lang=ar-SA",
+          "source_sha256": "db271f698280988b148e0303a1d8e56fe6ce62f758a91c050a69c83a6d95f7a8",
+          "locator": "Saudi-specific effective clause; ISA701p3visually checked",
+          "text_character_offset": 10291,
+          "PDF_page": 3,
+          "anchor": "2017/1/1",
+          "anchor_normalization": "literal/whitespace-flexible match",
+          "reviewed_at": "2026-10-31T03:05:31.199446+00:00",
+          "reviewer": "Codex source reading",
+          "review_type": "specific legal date and coverage assertions, not completeness certification"
+        }
+      ],
+      "actual_filing_date_inferred": false,
+      "complete_national_history_required": false,
+      "decision_independent_of_results": true,
+      "statutory_filing_rule": null,
+      "first_mandatory_publication_year": null,
+      "first_observed_filing": null
+    },
+    {
+      "iso3": "NLD",
+      "family": "AUDIT_REPORTING",
+      "instrument_id": "NLD_NBA_702N_2014",
+      "phase_id": "NLD_NBA_702N_2014_P1",
+      "change": "replace_existing_milestone",
+      "prior_rows": [
+        {
+          "event_id": "NLD_AUDIT_REPORTING_0086",
+          "iso3": "NLD",
+          "regulation_family": "AUDIT_REPORTING",
+          "mandate": "EU Article 10 expanded PIE audit report",
+          "event_type": "implementation",
+          "event_year": 2016,
+          "event_date": "2016-06-17",
+          "date_basis": "regulation_application_date",
+          "date_precision": "day",
+          "mandatory_status": "mandatory_in_scope",
+          "scope": "Statutory audit reports of public-interest entities; significant assessed risks and auditor responses",
+          "disclosure_audience": "public",
+          "supranational_group": "EU_AUDIT_2014",
+          "independent_national_choice": false,
+          "jurisdiction_level": "national",
+          "source_id": "A01",
+          "source_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014R0537",
+          "source_locator": "Articles 10, 17, 41 and 44; applies 17 June 2016",
+          "verification_status": "official_source_fact_checked",
+          "notes": "Directly applicable common EU obligation. This dates Article 10 report expansion, not national ISA 701 incorporation or the first audit report issued.",
+          "as_of": "2026-10-14",
+          "jurisdiction": "Netherlands",
+          "announcement_date": "",
+          "enactment_date": "",
+          "legal_effective_date": "",
+          "first_reporting_period_start": "",
+          "first_reporting_period_end": "",
+          "first_mandatory_filing_date": "",
+          "enforcement": "not_scored",
+          "standard_similarity": "not_scored; see mandate and scope",
+          "evidence_tier": "",
+          "first_calendar_reporting_year": "",
+          "G": 2016,
+          "independent": false,
+          "assignment_cluster": "EU_AUDIT_2014",
+          "case_basis": "Inherited dated case; chronology retained unless explicit reviewed revision.",
+          "original_regulation_family": "AUDIT_REPORTING",
+          "classification_rule": "Topic and audience classification, independent of liquidity outcomes.",
+          "underlying_event_ids": "NLD_AUDIT_REPORTING_0086",
+          "merged_same_country_topic_records": 1,
+          "inherited_G": 2016,
+          "reviewed_G": 2016,
+          "timing_review": "Original documented implementation phase retained; no actual company filing date inferred.",
+          "review_source_url": "",
+          "dates_not_interchangeable": true,
+          "confidential_not_public": false,
+          "filing_date_observed": false
+        }
+      ],
+      "new_G": 2014,
+      "clock": "first_covered_period_end",
+      "clock_value": "2014-12-15",
+      "scope": {
+        "entity_type": "Organisaties van openbaar belang (public-interest entities)",
+        "scope_confirmation": "Contemporaneous Minister of Finance explanation confirms intended mandatory FY-end boundary; final standard text remains to be matched"
+      },
+      "note": "Earlier national expanded-reporting milestone replaces2016 EU milestone for this broad expanded-auditor-reporting series;2013 pilots are voluntary.",
+      "evidence": [
+        {
+          "source_id": "SRC_1457d8cf2cde25f3cfd6",
+          "url": "https://zoek.officielebekendmakingen.nl/kst-33977-4.html",
+          "source_sha256": "73aad6be046aa187baae09981044d4f792be236d7de28d743fa2365d0474e256",
+          "locator": "Minister response on extended auditor report, 7 November 2014",
+          "text_character_offset": 89585,
+          "PDF_page": null,
+          "anchor": "boekjaren die afsluiten op of na 15 december 2014",
+          "anchor_normalization": "literal/whitespace-flexible match",
+          "reviewed_at": "2026-10-31T03:03:53.459162+00:00",
+          "reviewer": "Codex source reading",
+          "review_type": "specific legal date and coverage assertions, not completeness certification"
+        },
+        {
+          "source_id": "SRC_2836c23eec2254b38536",
+          "url": "https://www.accountant.nl/siteassets/nba/uitgebreide-controleverklaring/nba_rapport-inzicht-uitgebreide-controleverklaring_web.pdf",
+          "source_sha256": "d3d12de61518da8bcf98f4a2e2143aff59ade0bb92aa4546196aef3baa683340",
+          "locator": "Reproduced Standard702N paragraph3, PDFp30; source page image inspected",
+          "text_character_offset": 67324,
+          "PDF_page": 30,
+          "anchor": "15 december 2014",
+          "anchor_normalization": "literal/whitespace-flexible match",
+          "reviewed_at": "2026-10-31T03:08:08.318008+00:00",
+          "reviewer": "Codex source reading",
+          "review_type": "specific legal date and coverage assertions, not completeness certification"
+        },
+        {
+          "source_id": "SRC_2836c23eec2254b38536",
+          "url": "https://www.accountant.nl/siteassets/nba/uitgebreide-controleverklaring/nba_rapport-inzicht-uitgebreide-controleverklaring_web.pdf",
+          "source_sha256": "d3d12de61518da8bcf98f4a2e2143aff59ade0bb92aa4546196aef3baa683340",
+          "locator": "Reproduced Standard702N paragraphs1 and4, PDFp30",
+          "text_character_offset": 66856,
+          "PDF_page": 30,
+          "anchor": "overeenstemming met artikel 2:393",
+          "anchor_normalization": "literal/whitespace-flexible match",
+          "reviewed_at": "2026-10-31T03:08:08.318008+00:00",
+          "reviewer": "Codex source reading",
+          "review_type": "specific legal date and coverage assertions, not completeness certification"
+        },
+        {
+          "source_id": "SRC_2836c23eec2254b38536",
+          "url": "https://www.accountant.nl/siteassets/nba/uitgebreide-controleverklaring/nba_rapport-inzicht-uitgebreide-controleverklaring_web.pdf",
+          "source_sha256": "d3d12de61518da8bcf98f4a2e2143aff59ade0bb92aa4546196aef3baa683340",
+          "locator": "Reproduced Standard702N paragraph3 acknowledged UK input, PDFp30",
+          "text_character_offset": 67949,
+          "PDF_page": 30,
+          "anchor": "ontwikkelingen in het Verenigd Koninkrijk",
+          "anchor_normalization": "literal/whitespace-flexible match",
+          "reviewed_at": "2026-10-31T03:08:08.318008+00:00",
+          "reviewer": "Codex source reading",
+          "review_type": "specific legal date and coverage assertions, not completeness certification"
+        },
+        {
+          "source_id": "SRC_2836c23eec2254b38536",
+          "url": "https://www.accountant.nl/siteassets/nba/uitgebreide-controleverklaring/nba_rapport-inzicht-uitgebreide-controleverklaring_web.pdf",
+          "source_sha256": "d3d12de61518da8bcf98f4a2e2143aff59ade0bb92aa4546196aef3baa683340",
+          "locator": "NBA report section3.1 confirms mandatory2014 implementation, PDFp9",
+          "text_character_offset": 10775,
+          "PDF_page": 9,
+          "anchor": "Standaard 702N vanaf boekjaar 2014",
+          "anchor_normalization": "literal/whitespace-flexible match",
+          "reviewed_at": "2026-10-31T03:08:08.319008+00:00",
+          "reviewer": "Codex source reading",
+          "review_type": "specific legal date and coverage assertions, not completeness certification"
+        }
+      ],
+      "actual_filing_date_inferred": false,
+      "complete_national_history_required": false,
+      "decision_independent_of_results": true,
+      "statutory_filing_rule": null,
+      "first_mandatory_publication_year": null,
+      "first_observed_filing": null
+    },
+    {
+      "iso3": "COL",
+      "family": "IFRS",
+      "instrument_id": "COL_IFRS2784_2012",
+      "phase_id": "COL_IFRS2784_2012_GROUP1",
+      "change": "add_missing_mandatory_rollout",
+      "prior_rows": [],
+      "new_G": 2015,
+      "clock": "first_annual_period_end",
+      "clock_value": "2015-12-31",
+      "scope": {
+        "scope": "Public securities issuers;public-interestentities;otherentities satisfying workforce>200 OR assets>30000SMMLV AND one specified international/group/trade connection",
+        "not_universal_all_companies": true
+      },
+      "note": "Group1: securities issuers, public-interest entities and other entities meeting the stated size/international-connection tests.2014 opening balances are transition, not first annual statements.",
+      "evidence": [
+        {
+          "source_id": "SRC_f0a0f7c246d9c7b46ba9",
+          "url": "https://www.mincit.gov.co/temas-interes/documentos/decreto2784-2012-p.aspx",
+          "source_sha256": "da2ad5f93b2c2819df9269bd56233821c40623251c3b8d99d7e1a4495c661456",
+          "locator": "Size threshold",
+          "text_character_offset": 6373,
+          "PDF_page": 2,
+          "anchor": "30.000",
+          "anchor_normalization": "literal/whitespace-flexible match",
+          "reviewed_at": "2026-10-31T03:07:48.580349+00:00",
+          "reviewer": "Codex source reading",
+          "review_type": "specific legal date and coverage assertions, not completeness certification"
+        },
+        {
+          "source_id": "SRC_f0a0f7c246d9c7b46ba9",
+          "url": "https://www.mincit.gov.co/temas-interes/documentos/decreto2784-2012-p.aspx",
+          "source_sha256": "da2ad5f93b2c2819df9269bd56233821c40623251c3b8d99d7e1a4495c661456",
+          "locator": "First annual statements",
+          "text_character_offset": 16495,
+          "PDF_page": 5,
+          "anchor": "31 de diciembre de 2015",
+          "anchor_normalization": "literal/whitespace-flexible match",
+          "reviewed_at": "2026-10-31T03:07:48.580349+00:00",
+          "reviewer": "Codex source reading",
+          "review_type": "specific legal date and coverage assertions, not completeness certification"
+        },
+        {
+          "source_id": "SRC_f0a0f7c246d9c7b46ba9",
+          "url": "https://www.mincit.gov.co/temas-interes/documentos/decreto2784-2012-p.aspx",
+          "source_sha256": "da2ad5f93b2c2819df9269bd56233821c40623251c3b8d99d7e1a4495c661456",
+          "locator": "Opening transition",
+          "text_character_offset": 13040,
+          "PDF_page": 4,
+          "anchor": "enero de 2014",
+          "anchor_normalization": "literal/whitespace-flexible match",
+          "reviewed_at": "2026-10-31T03:07:48.581348+00:00",
+          "reviewer": "Codex source reading",
+          "review_type": "specific legal date and coverage assertions, not completeness certification"
+        }
+      ],
+      "actual_filing_date_inferred": false,
+      "complete_national_history_required": false,
+      "decision_independent_of_results": true,
+      "statutory_filing_rule": null,
+      "first_mandatory_publication_year": null,
+      "first_observed_filing": null
+    },
+    {
+      "iso3": "ECU",
+      "family": "IFRS",
+      "instrument_id": "ECU_NIIF2008",
+      "phase_id": "ECU_NIIF2008_FIRST",
+      "change": "add_missing_mandatory_rollout",
+      "prior_rows": [],
+      "new_G": 2010,
+      "clock": "first_application",
+      "clock_value": "2010-01-01",
+      "scope": {
+        "scope": "Companies/entities regulated under Securities Market Law and companies conducting external audit",
+        "not_2010_first_KAM_rule": true
+      },
+      "note": "Initial securities-law entities/external-audit-company phase under the2008 schedule;2009 transition and superseded2006 plan are not mandatory2010 reporting.",
+      "evidence": [
+        {
+          "source_id": "SRC_63698757063be2ff9b20",
+          "url": "https://esacc.corteconstitucional.gob.ec/storage/api/v1/10_DWL_FL/eyJjYXJwZXRhIjoicm8iLCJ1dWlkIjoiODQzOTBmYWUtZWJhZC00YjdjLWFlYmItMTdmYzk3MWMyOTZhLnBkZiJ9",
+          "source_sha256": "ac7106d91e8fafee9a4bc99a84ce9d35bacd00d7b967fc2cca8c1782289df1ff",
+          "locator": "First group",
+          "text_character_offset": 132665,
+          "PDF_page": 23,
+          "anchor": "1 de enero del 2010",
+          "anchor_normalization": "literal/whitespace-flexible match",
+          "reviewed_at": "2026-10-31T03:07:53.115763+00:00",
+          "reviewer": "Codex source reading",
+          "review_type": "specific legal date and coverage assertions, not completeness certification"
+        },
+        {
+          "source_id": "SRC_63698757063be2ff9b20",
+          "url": "https://esacc.corteconstitucional.gob.ec/storage/api/v1/10_DWL_FL/eyJjYXJwZXRhIjoicm8iLCJ1dWlkIjoiODQzOTBmYWUtZWJhZC00YjdjLWFlYmItMTdmYzk3MWMyOTZhLnBkZiJ9",
+          "source_sha256": "ac7106d91e8fafee9a4bc99a84ce9d35bacd00d7b967fc2cca8c1782289df1ff",
+          "locator": "Original asset date",
+          "text_character_offset": 134199,
+          "PDF_page": 23,
+          "anchor": "2007",
+          "anchor_normalization": "literal/whitespace-flexible match",
+          "reviewed_at": "2026-10-31T03:07:53.115763+00:00",
+          "reviewer": "Codex source reading",
+          "review_type": "specific legal date and coverage assertions, not completeness certification"
+        },
+        {
+          "source_id": "SRC_63698757063be2ff9b20",
+          "url": "https://esacc.corteconstitucional.gob.ec/storage/api/v1/10_DWL_FL/eyJjYXJwZXRhIjoicm8iLCJ1dWlkIjoiODQzOTBmYWUtZWJhZC00YjdjLWFlYmItMTdmYzk3MWMyOTZhLnBkZiJ9",
+          "source_sha256": "ac7106d91e8fafee9a4bc99a84ce9d35bacd00d7b967fc2cca8c1782289df1ff",
+          "locator": "Third group",
+          "text_character_offset": 136086,
+          "PDF_page": 23,
+          "anchor": "1 de enero del 2012",
+          "anchor_normalization": "literal/whitespace-flexible match",
+          "reviewed_at": "2026-10-31T03:07:53.116763+00:00",
+          "reviewer": "Codex source reading",
+          "review_type": "specific legal date and coverage assertions, not completeness certification"
+        },
+        {
+          "source_id": "SRC_63698757063be2ff9b20",
+          "url": "https://esacc.corteconstitucional.gob.ec/storage/api/v1/10_DWL_FL/eyJjYXJwZXRhIjoicm8iLCJ1dWlkIjoiODQzOTBmYWUtZWJhZC00YjdjLWFlYmItMTdmYzk3MWMyOTZhLnBkZiJ9",
+          "source_sha256": "ac7106d91e8fafee9a4bc99a84ce9d35bacd00d7b967fc2cca8c1782289df1ff",
+          "locator": "Cancels earlier NEC repeal",
+          "text_character_offset": 137299,
+          "PDF_page": 24,
+          "anchor": "artículo tercero",
+          "anchor_normalization": "literal/whitespace-flexible match",
+          "reviewed_at": "2026-10-31T03:07:53.117763+00:00",
+          "reviewer": "Codex source reading",
+          "review_type": "specific legal date and coverage assertions, not completeness certification"
+        },
+        {
+          "source_id": "SRC_63698757063be2ff9b20",
+          "url": "https://esacc.corteconstitucional.gob.ec/storage/api/v1/10_DWL_FL/eyJjYXJwZXRhIjoicm8iLCJ1dWlkIjoiODQzOTBmYWUtZWJhZC00YjdjLWFlYmItMTdmYzk3MWMyOTZhLnBkZiJ9",
+          "source_sha256": "ac7106d91e8fafee9a4bc99a84ce9d35bacd00d7b967fc2cca8c1782289df1ff",
+          "locator": "Early use",
+          "text_character_offset": 144168,
+          "PDF_page": 24,
+          "anchor": "adoptar anticipadamente",
+          "anchor_normalization": "literal/whitespace-flexible match",
+          "reviewed_at": "2026-10-31T03:07:53.117763+00:00",
+          "reviewer": "Codex source reading",
+          "review_type": "specific legal date and coverage assertions, not completeness certification"
+        }
+      ],
+      "actual_filing_date_inferred": false,
+      "complete_national_history_required": false,
+      "decision_independent_of_results": true,
+      "statutory_filing_rule": null,
+      "first_mandatory_publication_year": null,
+      "first_observed_filing": null
+    },
+    {
+      "iso3": "JOR",
+      "family": "ESG_MANDATORY_REVIEWED",
+      "instrument_id": "JOR_ASE_SUST2022",
+      "phase_id": "JOR_ASE_SUST2022_REPORT",
+      "change": "add_missing_mandatory_rollout",
+      "prior_rows": [],
+      "new_G": 2022,
+      "clock": "first_covered_information_year",
+      "clock_value": "2022",
+      "scope": {
+        "entities": "ASE20 index companies; historical initial sample and subsequent inclusion rules require full listing-directive review",
+        "components": [
+          "E",
+          "S",
+          "G"
+        ],
+        "GRI": "Required sustainability report; exact metric and materiality duties must be read item by item",
+        "SDG_Impact_Standards": "Recommended, expressly not mandatory"
+      },
+      "note": "ASE20 companies report2022 information fromJanuary2023. Mandatory GRI report is separate from recommended SDG Impact Standards.",
+      "evidence": [
+        {
+          "source_id": "SRC_cc9a11bba02e3161c608",
+          "url": "https://www.ase.com.jo/sites/default/files/2022-10/Guidance%20on%20Sustainability%20Reporting.pdf",
+          "source_sha256": "dda17db03a9d2f2e4ef009b254f244467b75e7de854ff99b2c882c7c08617246",
+          "locator": "Main guide distinguishes mandatory GRI and optional SDG Impact Standards",
+          "text_character_offset": 24187,
+          "PDF_page": 14,
+          "anchor": "From January 2023",
+          "anchor_normalization": "literal/whitespace-flexible match",
+          "reviewed_at": "2026-10-31T03:05:28.460651+00:00",
+          "reviewer": "Codex source reading",
+          "review_type": "specific legal date and coverage assertions, not completeness certification"
+        },
+        {
+          "source_id": "SRC_cc9a11bba02e3161c608",
+          "url": "https://www.ase.com.jo/sites/default/files/2022-10/Guidance%20on%20Sustainability%20Reporting.pdf",
+          "source_sha256": "dda17db03a9d2f2e4ef009b254f244467b75e7de854ff99b2c882c7c08617246",
+          "locator": "AppendixB mandatory2022report",
+          "text_character_offset": 48642,
+          "PDF_page": 24,
+          "anchor": "year 2022",
+          "anchor_normalization": "literal/whitespace-flexible match",
+          "reviewed_at": "2026-10-31T03:05:28.460651+00:00",
+          "reviewer": "Codex source reading",
+          "review_type": "specific legal date and coverage assertions, not completeness certification"
+        }
+      ],
+      "actual_filing_date_inferred": false,
+      "complete_national_history_required": false,
+      "decision_independent_of_results": true,
+      "statutory_filing_rule": {
+        "rule": "Guide p14 says from January2023prepare report for2022; exact statutory first publication deadline unresolved"
+      },
+      "first_mandatory_publication_year": null,
+      "first_observed_filing": null
+    },
+    {
+      "iso3": "MAR",
+      "family": "ESG_MANDATORY_REVIEWED",
+      "instrument_id": "MAR_AMMC0319_2019",
+      "phase_id": "MAR0319_ESG_MAIN",
+      "change": "add_missing_mandatory_rollout",
+      "prior_rows": [],
+      "new_G": 2020,
+      "clock": "officially_reported_first_implementation_deadline",
+      "clock_value": "2020-04-30",
+      "scope": {
+        "entities": "Covered issuers outside alternative-market relief",
+        "components": [
+          "E",
+          "S",
+          "G"
+        ],
+        "content_condition": "Article2.59requires explaining inability to supply annex information"
+      },
+      "note": "First authority-reported implementation deadline30April2020; content can require explanation for unavailable items. This is a statutory deadline, not an observed issuer filing.",
+      "evidence": [
+        {
+          "source_id": "SRC_efdebe132252e702c15d",
+          "url": "https://www.carrotsandsticks.org/api/download-pdf?pdfName=122_5%20Morrocco%202019.pdf",
+          "source_sha256": "e6f4ed76552ae2cf7424febb84711cb765910cfce679e6183dc6370996cd9095",
+          "locator": "Original Gazette date/title",
+          "text_character_offset": 10,
+          "PDF_page": 1,
+          "anchor": "6784 bis",
+          "anchor_normalization": "literal/whitespace-flexible match",
+          "reviewed_at": "2026-10-31T03:03:58.909115+00:00",
+          "reviewer": "Codex source reading",
+          "review_type": "specific legal date and coverage assertions, not completeness certification"
+        },
+        {
+          "source_id": "SRC_efdebe132252e702c15d",
+          "url": "https://www.carrotsandsticks.org/api/download-pdf?pdfName=122_5%20Morrocco%202019.pdf",
+          "source_sha256": "e6f4ed76552ae2cf7424febb84711cb765910cfce679e6183dc6370996cd9095",
+          "locator": "Article2.9annual four-month and alternative five-month rules, visually checked",
+          "text_character_offset": 61728,
+          "PDF_page": 19,
+          "anchor": "quatre (4) mois",
+          "anchor_normalization": "literal/whitespace-flexible match",
+          "reviewed_at": "2026-10-31T03:03:58.924385+00:00",
+          "reviewer": "Codex source reading",
+          "review_type": "specific legal date and coverage assertions, not completeness certification"
+        },
+        {
+          "source_id": "SRC_efdebe132252e702c15d",
+          "url": "https://www.carrotsandsticks.org/api/download-pdf?pdfName=122_5%20Morrocco%202019.pdf",
+          "source_sha256": "e6f4ed76552ae2cf7424febb84711cb765910cfce679e6183dc6370996cd9095",
+          "locator": "Alternative-market governance-only relief, visually checked",
+          "text_character_offset": 64125,
+          "PDF_page": 20,
+          "anchor": "informations relatives à la gouvernance",
+          "anchor_normalization": "literal/whitespace-flexible match",
+          "reviewed_at": "2026-10-31T03:03:58.925745+00:00",
+          "reviewer": "Codex source reading",
+          "review_type": "specific legal date and coverage assertions, not completeness certification"
+        },
+        {
+          "source_id": "SRC_efdebe132252e702c15d",
+          "url": "https://www.carrotsandsticks.org/api/download-pdf?pdfName=122_5%20Morrocco%202019.pdf",
+          "source_sha256": "e6f4ed76552ae2cf7424febb84711cb765910cfce679e6183dc6370996cd9095",
+          "locator": "Article2.59explain inability and2.60private auditor notification, visually checked",
+          "text_character_offset": 92325,
+          "PDF_page": 29,
+          "anchor": "il doit en expliquer les raisons",
+          "anchor_normalization": "literal/whitespace-flexible match",
+          "reviewed_at": "2026-10-31T03:03:58.928658+00:00",
+          "reviewer": "Codex source reading",
+          "review_type": "specific legal date and coverage assertions, not completeness certification"
+        },
+        {
+          "source_id": "SRC_fa00d16a60aa4fd1e012",
+          "url": "https://www.ammc.ma/sites/default/files/Rapport%20annuel%20AMMC%202019%20-%20VF.pdf",
+          "source_sha256": "7e30542eb86aa2393b986854de63237defbc8be0b6ab602b32e927b5757794a9",
+          "locator": "Official2019annual report first implementation date",
+          "text_character_offset": 239460,
+          "PDF_page": 94,
+          "anchor": "30 avril 2020",
+          "anchor_normalization": "literal/whitespace-flexible match",
+          "reviewed_at": "2026-10-31T03:03:58.976334+00:00",
+          "reviewer": "Codex source reading",
+          "review_type": "specific legal date and coverage assertions, not completeness certification"
+        }
+      ],
+      "actual_filing_date_inferred": false,
+      "complete_national_history_required": false,
+      "decision_independent_of_results": true,
+      "statutory_filing_rule": {
+        "rule": "Included in annual financial report; ordinarily4monthsFYend. AMMC2019annual report specifies30April2020as first implementation deadline; COVIDwaiver history pending"
+      },
+      "first_mandatory_publication_year": null,
+      "first_observed_filing": null
+    },
+    {
+      "iso3": "OMN",
+      "family": "ESG_MANDATORY_REVIEWED",
+      "instrument_id": "OMN_MSX_ESG_GUIDELINE",
+      "phase_id": "OMN_MSX_MAND_FY2024",
+      "change": "add_missing_mandatory_rollout",
+      "prior_rows": [],
+      "new_G": 2024,
+      "clock": "first_covered_information_year",
+      "clock_value": "2024",
+      "scope": {
+        "entities": "Companies publicly listed on MSX and registered as SOAG as stated; historical legal-form eligibility needs matching",
+        "components": [
+          "E",
+          "S",
+          "G"
+        ],
+        "metrics": "30MSXmetrics have mandatory/optional fields; report content also depends on materiality"
+      },
+      "note": "MSX listed SOAG reporting for2024 activities, published2025. Report-level obligation does not make every metric mandatory; materiality and item-specific optionality retained. GHG component is not counted as a second reform.",
+      "evidence": [
+        {
+          "source_id": "SRC_3fc65da27b56d77817d3",
+          "url": "https://www.msx.om/MSMDOCS/downloads/ESG-MSX-E.pdf",
+          "source_sha256": "c7e2c79a677183b91c6a193153f7d4bf8ad97bd3e2784b7b25a27e5ead700e93",
+          "locator": "Company scope and2024/2025cycle",
+          "text_character_offset": 4281,
+          "PDF_page": 5,
+          "anchor": "2024 fiscal",
+          "anchor_normalization": "literal/whitespace-flexible match",
+          "reviewed_at": "2026-10-31T03:05:29.240254+00:00",
+          "reviewer": "Codex source reading",
+          "review_type": "specific legal date and coverage assertions, not completeness certification"
+        },
+        {
+          "source_id": "SRC_3fc65da27b56d77817d3",
+          "url": "https://www.msx.om/MSMDOCS/downloads/ESG-MSX-E.pdf",
+          "source_sha256": "c7e2c79a677183b91c6a193153f7d4bf8ad97bd3e2784b7b25a27e5ead700e93",
+          "locator": "Metrics include item-specific mandatory and optional status",
+          "text_character_offset": 14652,
+          "PDF_page": 9,
+          "anchor": "E1.1",
+          "anchor_normalization": "literal/whitespace-flexible match",
+          "reviewed_at": "2026-10-31T03:05:29.240254+00:00",
+          "reviewer": "Codex source reading",
+          "review_type": "specific legal date and coverage assertions, not completeness certification"
+        },
+        {
+          "source_id": "SRC_3fc65da27b56d77817d3",
+          "url": "https://www.msx.om/MSMDOCS/downloads/ESG-MSX-E.pdf",
+          "source_sha256": "c7e2c79a677183b91c6a193153f7d4bf8ad97bd3e2784b7b25a27e5ead700e93",
+          "locator": "Report placement and mandatory publication year",
+          "text_character_offset": 27587,
+          "PDF_page": 12,
+          "anchor": "Starting 2025",
+          "anchor_normalization": "literal/whitespace-flexible match",
+          "reviewed_at": "2026-10-31T03:05:29.240254+00:00",
+          "reviewer": "Codex source reading",
+          "review_type": "specific legal date and coverage assertions, not completeness certification"
+        }
+      ],
+      "actual_filing_date_inferred": false,
+      "complete_national_history_required": false,
+      "decision_independent_of_results": true,
+      "statutory_filing_rule": {
+        "rule": "Reporting starts2025for2024activities. Exact annual deadline not verified from this preserved guideline; international summary31March2025remains a lead."
+      },
+      "first_mandatory_publication_year": "2025",
+      "first_observed_filing": null
+    },
+    {
+      "iso3": "KWT",
+      "family": "ESG_MANDATORY_REVIEWED",
+      "instrument_id": "KWT_CMA_CIRC4_2025",
+      "phase_id": "KWT_PREMIER_ESG_FY2025",
+      "change": "add_missing_mandatory_rollout",
+      "prior_rows": [],
+      "new_G": 2025,
+      "clock": "first_covered_information_year",
+      "clock_value": "2025",
+      "scope": {
+        "entities": "Boursa Kuwait Premier Market companies",
+        "not_automatic_scope": "Main Market companies are not included by this circular",
+        "non_calendar_financial_years": "Circular expressly requires taking different financial periods into account"
+      },
+      "note": "Premier Market only; first report covers2025 and publication is due2026. No post-implementation liquidity effect can be estimated for this rollout from data ending2025.",
+      "evidence": [
+        {
+          "source_id": "SRC_914274367b5f6618c521",
+          "url": "https://www.cma.gov.kw/en/web/cma/cma-board-releases/resolutions-and-regulations/-/cmaboardreleases/detail/1627102",
+          "source_sha256": "cfcaecc79a663aee3eadd8ccec05b70e0992d32f681bc204f9f8dc04a6e6abd4",
+          "locator": "Official circular English explanation",
+          "text_character_offset": 573,
+          "PDF_page": null,
+          "anchor": "12 February 2025",
+          "anchor_normalization": "literal/whitespace-flexible match",
+          "reviewed_at": "2026-10-31T03:05:30.283668+00:00",
+          "reviewer": "Codex source reading",
+          "review_type": "specific legal date and coverage assertions, not completeness certification"
+        },
+        {
+          "source_id": "SRC_914274367b5f6618c521",
+          "url": "https://www.cma.gov.kw/en/web/cma/cma-board-releases/resolutions-and-regulations/-/cmaboardreleases/detail/1627102",
+          "source_sha256": "cfcaecc79a663aee3eadd8ccec05b70e0992d32f681bc204f9f8dc04a6e6abd4",
+          "locator": "First year and deadline",
+          "text_character_offset": 1949,
+          "PDF_page": null,
+          "anchor": "end of June 2026",
+          "anchor_normalization": "literal/whitespace-flexible match",
+          "reviewed_at": "2026-10-31T03:05:30.284667+00:00",
+          "reviewer": "Codex source reading",
+          "review_type": "specific legal date and coverage assertions, not completeness certification"
+        },
+        {
+          "source_id": "SRC_8d74920641e487087f09",
+          "url": "https://www.cma.gov.kw/documents/55799/1627092/تعميم رقم (04) لسنة 2025.pdf/0ca59dc0-b168-451a-4744-7b2d911e4ccf",
+          "source_sha256": "34fe83874c74d0fb4f05f2b8943be59f60ad80133d0322a4b9510f3988a62bc9",
+          "locator": "Original signed Arabic circular, visually checked",
+          "text_character_offset": 1055,
+          "PDF_page": 1,
+          "anchor": "2026",
+          "anchor_normalization": "literal/whitespace-flexible match",
+          "reviewed_at": "2026-10-31T03:05:30.392861+00:00",
+          "reviewer": "Codex source reading",
+          "review_type": "specific legal date and coverage assertions, not completeness certification"
+        }
+      ],
+      "actual_filing_date_inferred": false,
+      "complete_national_history_required": false,
+      "decision_independent_of_results": true,
+      "statutory_filing_rule": {
+        "rule": "By end of second quarter of financial year; circular says endJune2026for2025reports while recognising differing financial periods",
+        "not_universal_fixed_day_for_all_issuers": true
+      },
+      "first_mandatory_publication_year": "2026",
+      "first_observed_filing": null
+    },
+    {
+      "iso3": "VNM",
+      "family": "ESG_MANDATORY_REVIEWED",
+      "instrument_id": "VNM_TT155_2015",
+      "phase_id": "VNM_TT155_ES2016",
+      "change": "add_missing_mandatory_rollout",
+      "prior_rows": [],
+      "new_G": 2016,
+      "clock": "legal_entry_into_force",
+      "clock_value": "2016-01-01",
+      "scope": {
+        "scope": "Public companies subject to periodic annual reporting; separate issuer,listing and sector exceptions require matching",
+        "location": "Public annual report following prescribed AnnexIV",
+        "scope_warning": "TheVND120bn large-public-company threshold is not the general annual-report eligibility boundary."
+      },
+      "note": "Public-company annual-report E/S content. Calendar uses legal force1January2016; first annual-report financial-year transition is not imputed.",
+      "evidence": [
+        {
+          "source_id": "SRC_5b76f8389a738dafd8a1",
+          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2015/12/155-btc.signed.pdf",
+          "source_sha256": "8c8568307166a4692487c7d713421da0c1775a0793aa6b9d4ed3021a37b51df0",
+          "locator": "Article8(2)original annual-report deadline",
+          "text_character_offset": 17949,
+          "PDF_page": 9,
+          "anchor": "120\nngày",
+          "anchor_normalization": "literal/whitespace-flexible match",
+          "reviewed_at": "2026-10-31T03:04:00.875243+00:00",
+          "reviewer": "Codex source reading",
+          "review_type": "specific legal date and coverage assertions, not completeness certification"
+        },
+        {
+          "source_id": "SRC_5b76f8389a738dafd8a1",
+          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2015/12/155-btc.signed.pdf",
+          "source_sha256": "8c8568307166a4692487c7d713421da0c1775a0793aa6b9d4ed3021a37b51df0",
+          "locator": "Article36force and replacement",
+          "text_character_offset": 77899,
+          "PDF_page": 34,
+          "anchor": "01 tháng 01 năm 2016",
+          "anchor_normalization": "literal/whitespace-flexible match",
+          "reviewed_at": "2026-10-31T03:04:00.876523+00:00",
+          "reviewer": "Codex source reading",
+          "review_type": "specific legal date and coverage assertions, not completeness certification"
+        },
+        {
+          "source_id": "SRC_a8c760521b9c5809f484",
+          "url": "https://vanban.chinhphu.vn/?docid=182551&pageid=27160",
+          "source_sha256": "2a9c7c2a73f30707b646a14c2a6c098d735dd7f58069128b330827c8608096b5",
+          "locator": "Official making date",
+          "text_character_offset": 1411,
+          "PDF_page": null,
+          "anchor": "06-10-2015",
+          "anchor_normalization": "literal/whitespace-flexible match",
+          "reviewed_at": "2026-10-31T03:04:00.925852+00:00",
+          "reviewer": "Codex source reading",
+          "review_type": "specific legal date and coverage assertions, not completeness certification"
+        }
+      ],
+      "actual_filing_date_inferred": false,
+      "complete_national_history_required": false,
+      "decision_independent_of_results": true,
+      "statutory_filing_rule": {
+        "annual_report": "No later than20days after audited annual financial-statements disclosure AND no later than120days afterFYend",
+        "source": "Article8(2)"
+      },
+      "first_mandatory_publication_year": null,
+      "first_observed_filing": null
+    },
+    {
+      "iso3": "VNM",
+      "family": "CLIMATE_DISCLOSURE",
+      "instrument_id": "VNM_TT96_2020",
+      "phase_id": "VNM_TT96_GHG2021",
+      "change": "add_missing_mandatory_rollout",
+      "prior_rows": [],
+      "new_G": 2021,
+      "clock": "first_covered_annual_report_financial_year_label",
+      "clock_value": "2021",
+      "scope": {
+        "scope": "Public companies subject to periodic annual reporting; separate issuer,listing and sector exceptions require matching",
+        "location": "Public annual report following prescribed AnnexIV",
+        "scope_warning": "TheVND120bn large-public-company threshold is not the general annual-report eligibility boundary."
+      },
+      "note": "AnnexIV GHG additions apply after FY2020 grandfathering; FY2021 report is distinct from the2016 E/S rule. Annual report deadline110days, not120.",
+      "evidence": [
+        {
+          "source_id": "SRC_7f8155cc2bd24faff941",
+          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2020/12/96-btc.pdf",
+          "source_sha256": "ae1dee6f0e0aba2b3346270868e048177d5c3fc9332443c6f2467d1694f52dbe",
+          "locator": "Article10(2)annual-report deadline",
+          "text_character_offset": 18882,
+          "PDF_page": 9,
+          "anchor": "110 ngày",
+          "anchor_normalization": "literal/whitespace-flexible match",
+          "reviewed_at": "2026-10-31T03:04:00.985471+00:00",
+          "reviewer": "Codex source reading",
+          "review_type": "specific legal date and coverage assertions, not completeness certification"
+        },
+        {
+          "source_id": "SRC_7f8155cc2bd24faff941",
+          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2020/12/96-btc.pdf",
+          "source_sha256": "ae1dee6f0e0aba2b3346270868e048177d5c3fc9332443c6f2467d1694f52dbe",
+          "locator": "Article40(2)FY2020grandfathering",
+          "text_character_offset": 86783,
+          "PDF_page": 36,
+          "anchor": "năm tài chính\n2020",
+          "anchor_normalization": "literal/whitespace-flexible match",
+          "reviewed_at": "2026-10-31T03:04:00.986471+00:00",
+          "reviewer": "Codex source reading",
+          "review_type": "specific legal date and coverage assertions, not completeness certification"
+        },
+        {
+          "source_id": "SRC_7f8155cc2bd24faff941",
+          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2020/12/96-btc.pdf",
+          "source_sha256": "ae1dee6f0e0aba2b3346270868e048177d5c3fc9332443c6f2467d1694f52dbe",
+          "locator": "AnnexIV6.1GHG",
+          "text_character_offset": 112003,
+          "PDF_page": 54,
+          "anchor": "Tổng phát thải khí nhà kính",
+          "anchor_normalization": "literal/whitespace-flexible match",
+          "reviewed_at": "2026-10-31T03:04:00.987471+00:00",
+          "reviewer": "Codex source reading",
+          "review_type": "specific legal date and coverage assertions, not completeness certification"
+        },
+        {
+          "source_id": "SRC_164a49136caff6f8634b",
+          "url": "https://vanban.chinhphu.vn/?docid=201902&pageid=27160",
+          "source_sha256": "f1be15792f115dc7d41ecd8fdfff71ee10b00ab311c4dab72a48b10daa9898e7",
+          "locator": "Official making date",
+          "text_character_offset": 1408,
+          "PDF_page": null,
+          "anchor": "16-11-2020",
+          "anchor_normalization": "literal/whitespace-flexible match",
+          "reviewed_at": "2026-10-31T03:04:01.025961+00:00",
+          "reviewer": "Codex source reading",
+          "review_type": "specific legal date and coverage assertions, not completeness certification"
+        }
+      ],
+      "actual_filing_date_inferred": false,
+      "complete_national_history_required": false,
+      "decision_independent_of_results": true,
+      "statutory_filing_rule": {
+        "annual_report": "Within20days after audited annual financial-statements disclosure AND no later than110days afterFYend",
+        "source": "Article10(2)",
+        "annual_FS_separate": "Within10days of audit-report signing and no later90daysFYend under10(1)(c)"
+      },
+      "first_mandatory_publication_year": null,
+      "first_observed_filing": null
+    },
+    {
+      "iso3": "KOR",
+      "family": "AUDIT_REPORTING",
+      "instrument_id": "KOR_KICPA_GUIDE2016_1",
+      "phase_id": "KOR_KAM_P0",
+      "change": "add_missing_mandatory_rollout",
+      "prior_rows": [],
+      "new_G": 2016,
+      "clock": "first_covered_period_start",
+      "clock_value": "2016-01-01",
+      "scope": {
+        "scope": "Production-to-order entities subject toExternalAuditAct andFSCMAannualbusiness-report duties,including qualifying unlisted entities",
+        "contract_definition": "HistoricalKoreanaccounting-standard additional-disclosure contracts usingcost-basedinputmethod; not everyconstruction/service contract",
+        "not_all_listed_companies": true,
+        "definition_vintage": "2016leftcolumn in official2018comparison; laterKIFRS1115references and701coordination are not automatically backdated."
+      },
+      "note": "Production-to-order sector key-audit-item disclosures precede the2018 largest-listed and2020 broad listed KAM phases. Country exposure is partial and is not described as universal ISA701 coverage.",
+      "evidence": [
+        {
+          "source_id": "SRC_1deeb8907d547e9aa296",
+          "url": "https://www.kicpa.or.kr/board/fileMngr?cmd=down&boardId=acc11&bltnNo=11524552284356&fileSeq=3&subId=sub06",
+          "source_sha256": "2f9258f9712fc7d88bef086e28d3fc778af47a3d1b0b47a6e7489379b1fae802",
+          "locator": "Oldcolumnclause20financial-period start",
+          "text_character_offset": 19701,
+          "PDF_page": 14,
+          "anchor": "2016년 1월 1일",
+          "anchor_normalization": "literal/whitespace-flexible match",
+          "reviewed_at": "2026-10-31T03:04:51.222390+00:00",
+          "reviewer": "Codex source reading",
+          "review_type": "specific legal date and coverage assertions, not completeness certification"
+        },
+        {
+          "source_id": "SRC_1deeb8907d547e9aa296",
+          "url": "https://www.kicpa.or.kr/board/fileMngr?cmd=down&boardId=acc11&bltnNo=11524552284356&fileSeq=3&subId=sub06",
+          "source_sha256": "2f9258f9712fc7d88bef086e28d3fc778af47a3d1b0b47a6e7489379b1fae802",
+          "locator": "Oldcolumnclause20interim-report submission",
+          "text_character_offset": 19879,
+          "PDF_page": 14,
+          "anchor": "2016년 7월 1일",
+          "anchor_normalization": "literal/whitespace-flexible match",
+          "reviewed_at": "2026-10-31T03:04:51.223390+00:00",
+          "reviewer": "Codex source reading",
+          "review_type": "specific legal date and coverage assertions, not completeness certification"
+        },
+        {
+          "source_id": "SRC_a4e22274d05ba60fd892",
+          "url": "https://www.fsc.go.kr/comm/getFile?srvcId=BBSTY1&upperNo=72953&fileTy=ATTACH&fileNo=2",
+          "source_sha256": "e4cc575db1343bb5485080107ab20c66cd494d43db12652f65af23041ecf65fd",
+          "locator": "2017regulator confirmsJune2016sector introduction",
+          "text_character_offset": 4521,
+          "PDF_page": 4,
+          "anchor": "16.6",
+          "anchor_normalization": "literal/whitespace-flexible match",
+          "reviewed_at": "2026-10-31T03:04:51.648262+00:00",
+          "reviewer": "Codex source reading",
+          "review_type": "specific legal date and coverage assertions, not completeness certification"
+        }
+      ],
+      "actual_filing_date_inferred": false,
+      "complete_national_history_required": false,
+      "decision_independent_of_results": true,
+      "statutory_filing_rule": null,
+      "first_mandatory_publication_year": null,
+      "first_observed_filing": null
+    }
+  ],
+  "not_adjudicated_as_clean_controls": [
+    "MUS2018 financial-sector extension versus earlier listed-entity adoption",
+    "PAK2016 professional adoption versus2018 statutory report format",
+    "MYS original local applicability provision pending"
+  ],
+  "first_actual_filing_years_not_imputed": true,
+  "earlier_other_reporting_rules_not_assumed_absent": true
+}
