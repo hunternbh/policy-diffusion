@@ -14,6 +14,6 @@
   "primary_country_stack_years": 1404,
   "liquidity_models": 64,
   "diffusion_fits_attempted": 160,
-  "regression_tables": 12,
+  "regression_tables": 14,
   "source_review_is_not_complete_national_history": true
 }

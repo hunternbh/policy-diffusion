@@ -1,0 +1,160 @@
+{
+  "records": [
+    {
+      "country": "Argentina",
+      "published_esg_year": 2008
+    },
+    {
+      "country": "Australia",
+      "published_esg_year": 2003
+    },
+    {
+      "country": "Austria",
+      "published_esg_year": 2016
+    },
+    {
+      "country": "Belgium",
+      "published_esg_year": 2009
+    },
+    {
+      "country": "Bulgaria",
+      "published_esg_year": 2016
+    },
+    {
+      "country": "Canada",
+      "published_esg_year": 2004
+    },
+    {
+      "country": "Chile",
+      "published_esg_year": 2015
+    },
+    {
+      "country": "China",
+      "published_esg_year": 2008
+    },
+    {
+      "country": "Cyprus",
+      "published_esg_year": 2016
+    },
+    {
+      "country": "Denmark",
+      "published_esg_year": 2016
+    },
+    {
+      "country": "Finland",
+      "published_esg_year": 2016
+    },
+    {
+      "country": "France",
+      "published_esg_year": 2001
+    },
+    {
+      "country": "Germany",
+      "published_esg_year": 2016
+    },
+    {
+      "country": "Greece",
+      "published_esg_year": 2006
+    },
+    {
+      "country": "Hong Kong",
+      "published_esg_year": 2015
+    },
+    {
+      "country": "Hungary",
+      "published_esg_year": 2016
+    },
+    {
+      "country": "India",
+      "published_esg_year": 2015
+    },
+    {
+      "country": "Indonesia",
+      "published_esg_year": 2012
+    },
+    {
+      "country": "Ireland",
+      "published_esg_year": 2016
+    },
+    {
+      "country": "Italy",
+      "published_esg_year": 2016
+    },
+    {
+      "country": "Malaysia",
+      "published_esg_year": 2007
+    },
+    {
+      "country": "Malta",
+      "published_esg_year": 2016
+    },
+    {
+      "country": "Netherlands",
+      "published_esg_year": 2016
+    },
+    {
+      "country": "Norway",
+      "published_esg_year": 2013
+    },
+    {
+      "country": "Pakistan",
+      "published_esg_year": 2009
+    },
+    {
+      "country": "Peru",
+      "published_esg_year": 2015
+    },
+    {
+      "country": "Philippines",
+      "published_esg_year": 2011
+    },
+    {
+      "country": "Poland",
+      "published_esg_year": 2016
+    },
+    {
+      "country": "Portugal",
+      "published_esg_year": 2010
+    },
+    {
+      "country": "Romania",
+      "published_esg_year": 2016
+    },
+    {
+      "country": "Singapore",
+      "published_esg_year": 2016
+    },
+    {
+      "country": "Slovenia",
+      "published_esg_year": 2017
+    },
+    {
+      "country": "South Africa",
+      "published_esg_year": 2010
+    },
+    {
+      "country": "Spain",
+      "published_esg_year": 2012
+    },
+    {
+      "country": "Sweden",
+      "published_esg_year": 2016
+    },
+    {
+      "country": "Taiwan",
+      "published_esg_year": 2019
+    },
+    {
+      "country": "Turkey",
+      "published_esg_year": 2014
+    },
+    {
+      "country": "United Kingdom",
+      "published_esg_year": 2013
+    }
+  ],
+  "source_url": "https://onlinelibrary.wiley.com/doi/10.1111/1475-679X.12548",
+  "locator": "Published Table 1 Panel A; 38 printed treatment-country rows",
+  "definition": "All three E/S/G disclosure topics required; comply-or-explain included; not a universal global census through 2025",
+  "not_automatically_promoted_to_current_legal_calendar": true
+}

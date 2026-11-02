@@ -1,0 +1,32 @@
+{
+  "countries": [
+    "Australia",
+    "Austria",
+    "Belgium",
+    "Czech Republic",
+    "Denmark",
+    "Finland",
+    "France",
+    "Germany",
+    "Greece",
+    "Hong Kong",
+    "Hungary",
+    "Ireland",
+    "Italy",
+    "Luxembourg",
+    "The Netherlands",
+    "Norway",
+    "Philippines",
+    "Poland",
+    "Portugal",
+    "Singapore",
+    "South Africa",
+    "Spain",
+    "Sweden",
+    "Switzerland",
+    "United Kingdom",
+    "Venezuela"
+  ],
+  "source": "Daske et al. (2008), Table 1 Panel A",
+  "source_scope": "Historical treatment sample; not all global IFRS adoptions through 2025"
+}

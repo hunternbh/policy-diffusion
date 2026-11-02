@@ -1,40 +1,25 @@
 {
   "documents": {
     "paper": {
-      "pages": 22,
-      "tables": 5,
-      "sha256": "ecbe2c48e3918fc69a296182df4c7ab399152f70b6ebc49475a293ea1f5efda1",
-      "bytes": 423471,
+      "pages": 25,
+      "bytes": 461691,
+      "sha256": "472b85b105a54dfbb65b5b6a2a439ae0513ca358910abb62d80992fa954dd1b0",
       "author_blank": true,
-      "no_text_out_of_bounds": true,
-      "all_references_resolved": true,
-      "visual_review_complete": true,
-      "visual_review_notes": "All rendered pages inspected via contact sheets; figures, table captions, source crosswalk and margins checked."
+      "references_resolved": true,
+      "text_within_page": true,
+      "visual_review_complete": true
     },
-    "appendix": {
-      "pages": 11,
-      "tables": 9,
-      "sha256": "21590af7a70e32d9517647f07c9995ba483316ae276ad258865826ac14b48ddc",
-      "bytes": 122707,
+    "OA": {
+      "pages": 26,
+      "bytes": 189010,
+      "sha256": "591fb935dce75cecdd278d6231f003cd57bfbb6d0eea8c7b859478cfaabe457d",
       "author_blank": true,
-      "no_text_out_of_bounds": true,
-      "all_references_resolved": true,
-      "visual_review_complete": true,
-      "visual_review_notes": "All rendered pages inspected via contact sheets; figures, table captions, source crosswalk and margins checked."
-    },
-    "appendix_excess": {
-      "pages": 4,
-      "tables": 1,
-      "sha256": "91ac6bd5da123186cb6db0ab78c841632f563d4ecdcb3536cb04850855ee1271",
-      "bytes": 42146,
-      "author_blank": true,
-      "no_text_out_of_bounds": true,
-      "all_references_resolved": true,
-      "visual_review_complete": true,
-      "visual_review_notes": "All rendered pages inspected via contact sheets; figures, table captions, source crosswalk and margins checked."
+      "references_resolved": true,
+      "text_within_page": true,
+      "visual_review_complete": true
     }
   },
-  "regression_tables": 12,
+  "regression_tables": 14,
   "source_layout_matches_request": true,
   "visual_review_complete": true
 }

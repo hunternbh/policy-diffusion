@@ -1,0 +1,167 @@
+{
+  "definitions": [
+    {
+      "term": "Cleaned daily returns",
+      "definition": "Retain returns between $-1$ and $2$. Exclude an adjacent-return pair when either daily return exceeds one and the compounded two-return change is below 0.2. The retained price is finite and at least US\\$0.10; a country trading date requires at least five securities with positive volume and sufficient price."
+    },
+    {
+      "term": "Country--family milestone, $g$",
+      "definition": "Source-supported implementation year for a country and family. The date-basis field distinguishes legal force, covered period, audit engagement and filing obligation. Unknown dates are not untreated observations."
+    },
+    {
+      "term": "Reporting family and audience",
+      "definition": "Ten public categories in Table 1. Confidential tax CbCR remains separate. A category does not establish universal issuer eligibility or mandatory disclosure of every item."
+    },
+    {
+      "term": "Treated country, $D_{cg}$",
+      "definition": "One for the implementing country in its family--cohort stack; zero for an eligible documented later adopter whose milestone follows the outcome window. Require at least one adopting and three comparison countries per stack."
+    },
+    {
+      "term": "Post-implementation, $Post_{gt}$",
+      "definition": "One in years $g+1$ to $g+3$ and zero in years $g-3$ to $g-1$. Omit year $g$. The shorter comparison uses two years on either side."
+    },
+    {
+      "term": "Treatment interaction",
+      "definition": "Product $D_{cg}Post_{gt}$. Event-time regressors replace Post with relative-year indicators. Year $-1$ is the reference; year zero is omitted."
+    },
+    {
+      "term": "Fixed-company sample",
+      "definition": "Select each company\\textquotesingle{}s largest positive-market-value security line in $g-1$. Retain the same company identifier, country and all four annual outcomes throughout the window. Require at least 30 companies per country--cohort."
+    },
+    {
+      "term": "Daily relative trading cost",
+      "definition": "Datastream quotes give $2(Ask-Bid)/(Ask+Bid)$ when $Bid\\geq0$, $Ask\\geq Bid$ and $Ask+Bid>0$. The annual measure is the median of eligible daily observations."
+    },
+    {
+      "term": "Log trading costs",
+      "definition": "Log of the positive annual median relative trading cost, with at least 120 eligible observations. Winsorize positive annual medians at the year-specific first and ninety-ninth percentiles before logging. Country outcomes average company logs."
+    },
+    {
+      "term": "Dollar volume",
+      "definition": "US-dollar closing price times volume, with positive volume and a product of at least US$100. Missing price or volume remains missing."
+    },
+    {
+      "term": "Log price impact",
+      "definition": "Log of $10^8$ times the annual median absolute cleaned daily return divided by dollar volume. Require at least 120 eligible observations and more than one distinct price; winsorize positive annual medians as above before logging."
+    },
+    {
+      "term": "Zero-return days",
+      "definition": "Fraction of observed cleaned daily returns equal to zero, with at least 120 eligible returns and more than one distinct price. Missing returns are not zeros. Country outcomes average company fractions."
+    },
+    {
+      "term": "Illiquidity index",
+      "definition": "Equal average of standardized log trading costs, log price impact and zero-return fraction. Calibration uses positive-cap, one-line-per-company observations in 2000. All components must exist. Higher values indicate less liquidity."
+    },
+    {
+      "term": "Country GDP weights",
+      "definition": "Constant-US-dollar GDP in $g-1$ from the archived World Bank series, normalized within stack. Cohort mass within family reflects the GDP represented by adopting countries."
+    },
+    {
+      "term": "Equal family mass",
+      "definition": "Give each supported family equal normalized objective mass. Residual treatment variation also affects a stacked coefficient; an explicit average uses family masses directly."
+    },
+    {
+      "term": "Market-cap family mass",
+      "definition": "Alternative mass from baseline sample market value represented by adopting-country companies. It is not a census of every covered issuer or all global market value. Liquidity and diffusion use their stated supported cases."
+    },
+    {
+      "term": "Fixed effects",
+      "definition": "Liquidity absorbs country and year effects within cohort stack. Diffusion logit includes family and year effects. Within-country diffusion absorbs country--family and family--year effects."
+    },
+    {
+      "term": "First implementation event",
+      "definition": "One in the documented country--family implementation year; zero in its documented pre-event risk years. Later cases can provide right-censored pre-event observations through 2025. Unknown histories remain missing."
+    },
+    {
+      "term": "Independent national choice",
+      "definition": "The primary diffusion sample excludes observations classified as coordinated obligations. The all-documented comparison retains them. This is a legal classification, not an estimated policymaker motive."
+    },
+    {
+      "term": "Portfolio exposure, $P$",
+      "definition": "Sum of prior-year portfolio weights on partners implementing by $t-1$. Use positive observed IMF total-economy asset positions, exclude self positions and normalize over partners with documented family histories."
+    },
+    {
+      "term": "Known-history portfolio coverage",
+      "definition": "Positive portfolio mass in documented-history partners divided by all observed positive foreign portfolio mass. The core tests require at least 50\\%. Unreported bilateral positions are not imputed zeros."
+    },
+    {
+      "term": "Foreign liquidity improvement",
+      "definition": "Negative change in mean company log trading costs from $t-2$ to $t-1$, holding companies and mapping fixed with at least 30 pairs. Positive means lower observed costs, not an estimated policy-caused gain."
+    },
+    {
+      "term": "Successful-adopter share, $S$",
+      "definition": "Unweighted share of observed eligible foreign adopters with positive liquidity improvement. Partners must implement by $t-2$; outcome-observed partners must cover at least 80\\% of eligible-adopter portfolio mass. No eligible adopters gives zero signal; missing required outcomes remain missing."
+    },
+    {
+      "term": "Successful-adopter exposure, $Lexp$",
+      "definition": "Sum of portfolio weights on eligible earlier adopters with positive observed liquidity improvement. This weighted exposure differs from the unweighted share $S$."
+    },
+    {
+      "term": "Learning interaction, $P\\times S$",
+      "definition": "Product of standardized exposure and success primitives, with both lower-order terms included. The logit coefficient is a log-odds interaction, not a percentage-point probability effect."
+    },
+    {
+      "term": "Larger peer, $B$",
+      "definition": "Whether the first larger-GDP peer among fixed geographic neighbours implemented by $t-1$. Fix size with GDP in 2000. An absent peer or undocumented history is not coded zero."
+    },
+    {
+      "term": "Recent and older copying",
+      "definition": "For that same larger peer, $Bnew=1$ if implementation is in $t-1$; $Bold=1$ if earlier than $t-1$. Retain the documented-history requirement."
+    },
+    {
+      "term": "Language-peer implementation",
+      "definition": "Prior-year adoption share among official-language peers with documented histories; require at least three observed peers. The proxy does not establish actual copying."
+    },
+    {
+      "term": "Trade-competitor implementation",
+      "definition": "Prior adoption share among export-pattern peers selected with the archived 2000 network. Require at least three documented histories; do not reselect peers based on current outcomes."
+    },
+    {
+      "term": "Growth learning",
+      "definition": "Indicator that median prior-year GDP growth among earlier adopters exceeds the median among later adopters in the ten nearest documented peers. Require at least 80\\% macro coverage in each group. No earlier adopters gives zero; if all peers adopted, compare their median with focal-country growth. Other missing support remains missing."
+    },
+    {
+      "term": "External financial dependence",
+      "definition": "Archived prior-year aid plus IMF credit and SDR allocations relative to GDP. The proxy does not identify actual financing conditions imposed by lenders."
+    },
+    {
+      "term": "Income per capita",
+      "definition": "Lagged log positive constant-price GDP per capita from the archived World Bank series; included in diffusion and controlled liquidity models."
+    },
+    {
+      "term": "GDP growth",
+      "definition": "Lagged annual GDP-growth percentage from the archived country series. Missing values are not replaced by assumed growth."
+    },
+    {
+      "term": "Trade openness",
+      "definition": "Lagged exports plus imports as a percentage of GDP from the archived World Bank series."
+    },
+    {
+      "term": "Standardized primitives",
+      "definition": "Within each diffusion sample, centre and scale nonbinary primitives and controls using population standard deviations. Binary variables retain their scale. Build interactions afterwards. Paired weights use identical samples and scaling."
+    },
+    {
+      "term": "Joint channel model",
+      "definition": "Exposure, successful-adopter exposure, larger-peer adoption, trade peers, language peers and financial dependence, with three country controls; estimated only on a supported data intersection."
+    },
+    {
+      "term": "Support and inference",
+      "definition": "Diffusion requires at least 50 rows, 15 countries, 10 events and 10 nonevents, suitable rank and variance. Logit drops fixed-effect groups without event variation. Standard errors cluster by country; nominal inference uses $G-1$ degrees of freedom."
+    },
+    {
+      "term": "Lead test and adjusted p-values",
+      "definition": "Liquidity uses a joint country-cluster Wald test of pre-event coefficients. Diffusion Holm adjustment covers 256 focal attempts in 160 fits; unestimated attempts receive $p=1$ for adjustment only."
+    },
+    {
+      "term": "Restricted five-model benchmark",
+      "definition": "Historical 30-implementation estimates retain stacked equal/cap mass, explicit family averages and covariance-weighted GLS. They are distinct historical benchmarks, not estimates on the expanded sample."
+    }
+  ],
+  "count": 39,
+  "verified_against": [
+    "collective-grid/estimate.py",
+    "09-expanded-policy-paper/scripts/build_liquidity.py",
+    "main90_generated_features.py",
+    "main90_generated_fit_models.py"
+  ]
+}

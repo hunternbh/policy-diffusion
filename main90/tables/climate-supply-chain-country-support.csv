@@ -1,0 +1,16 @@
+family,iso3,country,milestone_year,primary_liquidity_adopter,design_status,interpretation,source_url
+CLIMATE_DISCLOSURE,AUS,Australia,2025,False,outside_annual_data_window,,https://asic.gov.au/about-asic/news-centre/find-a-media-release/2024-releases/24-205mr-asic-urges-businesses-to-prepare-for-mandatory-climate-reporting/
+CLIMATE_DISCLOSURE,GBR,United Kingdom,2013,True,included,"GHG emissions reporting, not every climate-risk framework",https://www.legislation.gov.uk/uksi/2013/1970/made
+CLIMATE_DISCLOSURE,NZL,New Zealand,2023,False,outside_annual_data_window,,https://www.fma.govt.nz/news/all-releases/media-releases/fma-encouraged-by-first-climate-statements/
+CLIMATE_DISCLOSURE,HKG,Hong Kong,2025,False,outside_annual_data_window,,https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-profiles/hong-kong-sar-ifrs-profile.pdf
+CLIMATE_DISCLOSURE,MYS,Malaysia,2025,False,outside_annual_data_window,,https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-profiles/malaysia-ifrs-profile.pdf
+CLIMATE_DISCLOSURE,SGP,Singapore,2025,False,outside_annual_data_window,,https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-profiles/singapore-ifrs-profile.pdf
+SUPPLY_CHAIN,AUS,Australia,2019,True,included,,https://www.ag.gov.au/crime/modern-slavery/modern-slavery-act
+SUPPLY_CHAIN,CAN,Canada,2024,False,outside_annual_data_window,,https://lois-laws.justice.gc.ca/eng/acts/F-10.6/index.html
+SUPPLY_CHAIN,CHE,Switzerland,2023,False,outside_annual_data_window,,https://www.nap-bhr.admin.ch/dam/napbhr/en/dokumente/der-nap/slides-webinaire-intro-diligence-raisonnable.pdf.download.pdf/Slides_webinar_Introduction%20to%20human%20rights%20due%20diligence_EN.pdf
+SUPPLY_CHAIN,DEU,Germany,2023,False,outside_annual_data_window,,https://www.gesetze-im-internet.de/lksg/
+SUPPLY_CHAIN,FRA,France,2017,True,included,,https://www.legifrance.gouv.fr/jorf/id/JORFARTI000034290630
+SUPPLY_CHAIN,GBR,United Kingdom,2016,True,included,,https://www.torbay.gov.uk/DemocraticServices/documents/s33898/Modern%20Slavery%20Statement%20Appendix%206.pdf
+SUPPLY_CHAIN,NOR,Norway,2022,False,insufficient_clean_comparison_countries,,https://lovdata.no/dokument/NLE/lov/2021-06-18-99
+SUPPLY_CHAIN,USA,United States,2012,True,included,"California subnational rule; partial national-market exposure, not a US federal mandate",https://oag.ca.gov/sites/all/files/agweb/pdfs/cybersafety/sb_657_bill_ch556.pdf
+CLIMATE_DISCLOSURE,VNM,Viet Nam,2021,True,included,"GHG emissions reporting, not every climate-risk framework",https://datafiles.chinhphu.vn/cpp/files/vbpq/2020/12/96-btc.pdf

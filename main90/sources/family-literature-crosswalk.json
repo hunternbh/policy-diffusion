@@ -1,0 +1,94 @@
+{
+  "scope": "Ten public families and the separate confidential-tax comparison",
+  "complete_global_country_census_claimed": false,
+  "rows": [
+    {
+      "family": "AUDIT_REPORTING",
+      "name": "Expanded auditor reports",
+      "citation_keys": "lennox2023",
+      "journals": "Review of Accounting Studies",
+      "published_scope": "UK expanded reports; not a worldwide KAM/CAM adoption list.",
+      "calendar_countries": 42
+    },
+    {
+      "family": "CBCR_BANK_PUBLIC",
+      "name": "Public bank country reports",
+      "citation_keys": "joshi2020",
+      "journals": "Contemporary Accounting Research",
+      "published_scope": "EU bank public CbCR; covered banks and staged content differ from all listed firms.",
+      "calendar_countries": 28
+    },
+    {
+      "family": "CBCR_PUBLIC",
+      "name": "Public multinational country reports",
+      "citation_keys": "muller2024",
+      "journals": "Contemporary Accounting Research",
+      "published_scope": "European public tax-reporting legislation; not every subsequent country implementation.",
+      "calendar_countries": 28
+    },
+    {
+      "family": "CLIMATE_DISCLOSURE",
+      "name": "Climate-related disclosure",
+      "citation_keys": "downar2021",
+      "journals": "Review of Accounting Studies",
+      "published_scope": "UK GHG mandate with European comparison firms; not a global emissions-and-risk reporting census.",
+      "calendar_countries": 7
+    },
+    {
+      "family": "ESG_MANDATORY_REVIEWED",
+      "name": "Environmental, social and governance reports",
+      "citation_keys": "krueger2024",
+      "journals": "Journal of Accounting Research",
+      "published_scope": "Published Table 1: 38 treated countries and 27 controls. Mandatory ESG requires all three topics. Our broader episode register has different content and clock definitions.",
+      "calendar_countries": 42
+    },
+    {
+      "family": "EXTRACTIVE_PAYMENTS",
+      "name": "Payments to governments",
+      "citation_keys": "rauter2020",
+      "journals": "Journal of Accounting Research",
+      "published_scope": "Table 1: 32 jurisdictions in Europe and Canada; entry into force and covered financial periods are distinct. Wider than our current calendar.",
+      "calendar_countries": 9
+    },
+    {
+      "family": "IFRS",
+      "name": "IFRS financial statements",
+      "citation_keys": "daske2008",
+      "journals": "Journal of Accounting Research",
+      "published_scope": "Table 1 Panel A: 26 historical adoption countries; not all subsequent mandatory-IFRS jurisdictions.",
+      "calendar_countries": 38
+    },
+    {
+      "family": "SUPPLY_CHAIN",
+      "name": "Supply-chain disclosure",
+      "citation_keys": "she2022,baik2024",
+      "journals": "The Accounting Review; Journal of Accounting Research",
+      "published_scope": "California transparency and US conflict-mineral reporting are different mandates; neither paper is an exhaustive global due-diligence list.",
+      "calendar_countries": 8
+    },
+    {
+      "family": "SUSTAINABILITY_FINANCIAL",
+      "name": "Sustainability financial reporting",
+      "citation_keys": "christensen2021,issb2025",
+      "journals": "Review of Accounting Studies; IFRS Foundation",
+      "published_scope": "The review predates ISSB implementation. No verified top-journal paper supplies a complete 2025 list; use dated official profiles and national rules.",
+      "calendar_countries": 5
+    },
+    {
+      "family": "XBRL",
+      "name": "Electronic financial reporting",
+      "citation_keys": "blankespoor2014",
+      "journals": "Review of Accounting Studies",
+      "published_scope": "US SEC XBRL mandate; not a worldwide electronic-reporting adoption list.",
+      "calendar_countries": 4
+    },
+    {
+      "family": "CBCR_CONFIDENTIAL",
+      "name": "Confidential tax reports",
+      "citation_keys": "desimone2022,nessa2025",
+      "journals": "The Accounting Review; Journal of Accounting Research",
+      "published_scope": "Tax-authority CbCR settings, including OECD and US implementation; not disclosures available to investors.",
+      "calendar_countries": 0
+    }
+  ]
+}
