@@ -1,9 +1,9 @@
 {
   "documents": {
     "paper": {
-      "pages": 25,
-      "bytes": 472975,
-      "sha256": "c36c20040e2023a4080d5d5ad520ff54ab5aa1140b2863b02a3e1210fdb8f0c8",
+      "pages": 21,
+      "bytes": 423663,
+      "sha256": "c5ddec0d6d368a4eda4e7df4c659d937cb98e770c89c62bb15713962da4100a2",
       "author_blank": true,
       "references_resolved": true,
       "text_within_page": true,
@@ -21,5 +21,8 @@
   },
   "regression_tables": 16,
   "source_layout_matches_request": true,
-  "visual_review_complete": true
+  "visual_review_complete": true,
+  "background_removed": true,
+  "figure1_native_Times": true,
+  "figure1_family_citations": 10
 }
