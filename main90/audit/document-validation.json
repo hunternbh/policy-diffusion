@@ -2,24 +2,24 @@
   "documents": {
     "paper": {
       "pages": 25,
-      "bytes": 461691,
-      "sha256": "472b85b105a54dfbb65b5b6a2a439ae0513ca358910abb62d80992fa954dd1b0",
+      "bytes": 472975,
+      "sha256": "c36c20040e2023a4080d5d5ad520ff54ab5aa1140b2863b02a3e1210fdb8f0c8",
       "author_blank": true,
       "references_resolved": true,
       "text_within_page": true,
       "visual_review_complete": true
     },
     "OA": {
-      "pages": 26,
-      "bytes": 189010,
-      "sha256": "591fb935dce75cecdd278d6231f003cd57bfbb6d0eea8c7b859478cfaabe457d",
+      "pages": 29,
+      "bytes": 194504,
+      "sha256": "e23a03a1beceaeb183035221d396b917f51a67ac7b9aeee3ae58f4fc4f80e1cb",
       "author_blank": true,
       "references_resolved": true,
       "text_within_page": true,
       "visual_review_complete": true
     }
   },
-  "regression_tables": 14,
+  "regression_tables": 16,
   "source_layout_matches_request": true,
   "visual_review_complete": true
 }

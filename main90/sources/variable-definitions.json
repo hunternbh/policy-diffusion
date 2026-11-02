@@ -155,9 +155,13 @@
     {
       "term": "Restricted five-model benchmark",
       "definition": "Historical 30-implementation estimates retain stacked equal/cap mass, explicit family averages and covariance-weighted GLS. They are distinct historical benchmarks, not estimates on the expanded sample."
+    },
+    {
+      "term": "Pooled-eligible implementation",
+      "definition": "A documented country--family milestone retained for pooling. A climate tag is excluded when the same NFRD country-year reform is represented under ESG. Full climate-family estimates retain those topic tags; histories remain available for peer signals."
     }
   ],
-  "count": 39,
+  "count": 40,
   "verified_against": [
     "collective-grid/estimate.py",
     "09-expanded-policy-paper/scripts/build_liquidity.py",

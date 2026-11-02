@@ -31,32 +31,32 @@
       "name": "Climate-related disclosure",
       "citation_keys": "downar2021",
       "journals": "Review of Accounting Studies",
-      "published_scope": "UK GHG mandate with European comparison firms; not a global emissions-and-risk reporting census.",
-      "calendar_countries": 7
+      "published_scope": "UK GHG benchmark plus official EU NFRD, France public inventories and CSRD/ESRS successor phases. Full climate results include EU reporting; overlapping NFRD country reforms enter the pooled model once.",
+      "calendar_countries": 34
     },
     {
       "family": "ESG_MANDATORY_REVIEWED",
       "name": "Environmental, social and governance reports",
       "citation_keys": "krueger2024",
       "journals": "Journal of Accounting Research",
-      "published_scope": "Published Table 1: 38 treated countries and 27 controls. Mandatory ESG requires all three topics. Our broader episode register has different content and clock definitions.",
-      "calendar_countries": 42
+      "published_scope": "All 38 published Krueger Table 1 treatment countries matched. Four missing country episodes added; existing source-reviewed implementation clocks retained where they differ from the published adoption year. Argentina is a subnational law.",
+      "calendar_countries": 46
     },
     {
       "family": "EXTRACTIVE_PAYMENTS",
       "name": "Payments to governments",
       "citation_keys": "rauter2020",
       "journals": "Journal of Accounting Research",
-      "published_scope": "Table 1: 32 jurisdictions in Europe and Canada; entry into force and covered financial periods are distinct. Wider than our current calendar.",
-      "calendar_countries": 9
+      "published_scope": "All 32 Rauter Table 1 jurisdictions recorded; 31 belong to the existing market universe. First covered fiscal periods used, with Greece end-boundary and retrospective application retained. Current calendar additionally includes Switzerland and the US.",
+      "calendar_countries": 33
     },
     {
       "family": "IFRS",
       "name": "IFRS financial statements",
       "citation_keys": "daske2008",
       "journals": "Journal of Accounting Research",
-      "published_scope": "Table 1 Panel A: 26 historical adoption countries; not all subsequent mandatory-IFRS jurisdictions.",
-      "calendar_countries": 38
+      "published_scope": "Daske historical list reconciled: Norway and Philippines 2005 added; Singapore IFRS-identical 2018 phase distinguished from 2003 convergence. Switzerland alternative-GAAP scope and Venezuela conflicting historical clock remain explicit exclusions.",
+      "calendar_countries": 41
     },
     {
       "family": "SUPPLY_CHAIN",

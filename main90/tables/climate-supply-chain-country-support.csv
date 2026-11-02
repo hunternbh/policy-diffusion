@@ -1,16 +1,43 @@
-family,iso3,country,milestone_year,primary_liquidity_adopter,design_status,interpretation,source_url
-CLIMATE_DISCLOSURE,AUS,Australia,2025,False,outside_annual_data_window,,https://asic.gov.au/about-asic/news-centre/find-a-media-release/2024-releases/24-205mr-asic-urges-businesses-to-prepare-for-mandatory-climate-reporting/
-CLIMATE_DISCLOSURE,GBR,United Kingdom,2013,True,included,"GHG emissions reporting, not every climate-risk framework",https://www.legislation.gov.uk/uksi/2013/1970/made
-CLIMATE_DISCLOSURE,NZL,New Zealand,2023,False,outside_annual_data_window,,https://www.fma.govt.nz/news/all-releases/media-releases/fma-encouraged-by-first-climate-statements/
-CLIMATE_DISCLOSURE,HKG,Hong Kong,2025,False,outside_annual_data_window,,https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-profiles/hong-kong-sar-ifrs-profile.pdf
-CLIMATE_DISCLOSURE,MYS,Malaysia,2025,False,outside_annual_data_window,,https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-profiles/malaysia-ifrs-profile.pdf
-CLIMATE_DISCLOSURE,SGP,Singapore,2025,False,outside_annual_data_window,,https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-profiles/singapore-ifrs-profile.pdf
-SUPPLY_CHAIN,AUS,Australia,2019,True,included,,https://www.ag.gov.au/crime/modern-slavery/modern-slavery-act
-SUPPLY_CHAIN,CAN,Canada,2024,False,outside_annual_data_window,,https://lois-laws.justice.gc.ca/eng/acts/F-10.6/index.html
-SUPPLY_CHAIN,CHE,Switzerland,2023,False,outside_annual_data_window,,https://www.nap-bhr.admin.ch/dam/napbhr/en/dokumente/der-nap/slides-webinaire-intro-diligence-raisonnable.pdf.download.pdf/Slides_webinar_Introduction%20to%20human%20rights%20due%20diligence_EN.pdf
-SUPPLY_CHAIN,DEU,Germany,2023,False,outside_annual_data_window,,https://www.gesetze-im-internet.de/lksg/
-SUPPLY_CHAIN,FRA,France,2017,True,included,,https://www.legifrance.gouv.fr/jorf/id/JORFARTI000034290630
-SUPPLY_CHAIN,GBR,United Kingdom,2016,True,included,,https://www.torbay.gov.uk/DemocraticServices/documents/s33898/Modern%20Slavery%20Statement%20Appendix%206.pdf
-SUPPLY_CHAIN,NOR,Norway,2022,False,insufficient_clean_comparison_countries,,https://lovdata.no/dokument/NLE/lov/2021-06-18-99
-SUPPLY_CHAIN,USA,United States,2012,True,included,"California subnational rule; partial national-market exposure, not a US federal mandate",https://oag.ca.gov/sites/all/files/agweb/pdfs/cybersafety/sb_657_bill_ch556.pdf
-CLIMATE_DISCLOSURE,VNM,Viet Nam,2021,True,included,"GHG emissions reporting, not every climate-risk framework",https://datafiles.chinhphu.vn/cpp/files/vbpq/2020/12/96-btc.pdf
+iso3,family,implementation_year,pooled_liquidity_adopter,full_climate_liquidity_adopter,pooled_eligible,source_url,notes
+AUS,CLIMATE_DISCLOSURE,2025,False,False,True,https://asic.gov.au/about-asic/news-centre/find-a-media-release/2024-releases/24-205mr-asic-urges-businesses-to-prepare-for-mandatory-climate-reporting/,Post-horizon and clean-comparison requirements apply.
+GBR,CLIMATE_DISCLOSURE,2013,True,True,True,https://www.legislation.gov.uk/uksi/2013/1970/made,Post-horizon and clean-comparison requirements apply.
+NZL,CLIMATE_DISCLOSURE,2023,False,False,True,https://www.fma.govt.nz/news/all-releases/media-releases/fma-encouraged-by-first-climate-statements/,Post-horizon and clean-comparison requirements apply.
+HKG,CLIMATE_DISCLOSURE,2025,False,False,True,https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-profiles/hong-kong-sar-ifrs-profile.pdf,Post-horizon and clean-comparison requirements apply.
+MYS,CLIMATE_DISCLOSURE,2025,False,False,True,https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-profiles/malaysia-ifrs-profile.pdf,Post-horizon and clean-comparison requirements apply.
+SGP,CLIMATE_DISCLOSURE,2025,False,False,True,https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-profiles/singapore-ifrs-profile.pdf,Post-horizon and clean-comparison requirements apply.
+AUS,SUPPLY_CHAIN,2019,True,False,True,https://www.ag.gov.au/crime/modern-slavery/modern-slavery-act,Post-horizon and clean-comparison requirements apply.
+CAN,SUPPLY_CHAIN,2024,False,False,True,https://lois-laws.justice.gc.ca/eng/acts/F-10.6/index.html,Post-horizon and clean-comparison requirements apply.
+CHE,SUPPLY_CHAIN,2023,False,False,True,https://www.nap-bhr.admin.ch/dam/napbhr/en/dokumente/der-nap/slides-webinaire-intro-diligence-raisonnable.pdf.download.pdf/Slides_webinar_Introduction%20to%20human%20rights%20due%20diligence_EN.pdf,Post-horizon and clean-comparison requirements apply.
+DEU,SUPPLY_CHAIN,2023,False,False,True,https://www.gesetze-im-internet.de/lksg/,Post-horizon and clean-comparison requirements apply.
+FRA,SUPPLY_CHAIN,2017,True,False,True,https://www.legifrance.gouv.fr/jorf/id/JORFARTI000034290630,Post-horizon and clean-comparison requirements apply.
+GBR,SUPPLY_CHAIN,2016,True,False,True,https://www.torbay.gov.uk/DemocraticServices/documents/s33898/Modern%20Slavery%20Statement%20Appendix%206.pdf,Post-horizon and clean-comparison requirements apply.
+NOR,SUPPLY_CHAIN,2022,False,False,True,https://lovdata.no/dokument/NLE/lov/2021-06-18-99,Post-horizon and clean-comparison requirements apply.
+USA,SUPPLY_CHAIN,2012,True,False,True,https://oag.ca.gov/sites/all/files/agweb/pdfs/cybersafety/sb_657_bill_ch556.pdf,Post-horizon and clean-comparison requirements apply.
+VNM,CLIMATE_DISCLOSURE,2021,True,True,True,https://datafiles.chinhphu.vn/cpp/files/vbpq/2020/12/96-btc.pdf,Post-horizon and clean-comparison requirements apply.
+AUT,CLIMATE_DISCLOSURE,2017,False,True,False,https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014L0095,Same NFRD implementation counted once under ESG in pooled models; retained in full climate-family estimate.
+BEL,CLIMATE_DISCLOSURE,2017,False,True,False,https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014L0095,Same NFRD implementation counted once under ESG in pooled models; retained in full climate-family estimate.
+BGR,CLIMATE_DISCLOSURE,2017,False,False,False,https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014L0095,Same NFRD implementation counted once under ESG in pooled models; retained in full climate-family estimate.
+HRV,CLIMATE_DISCLOSURE,2017,False,False,True,https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014L0095,Post-horizon and clean-comparison requirements apply.
+CYP,CLIMATE_DISCLOSURE,2017,False,False,False,https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014L0095,Same NFRD implementation counted once under ESG in pooled models; retained in full climate-family estimate.
+CZE,CLIMATE_DISCLOSURE,2017,False,False,True,https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014L0095,Post-horizon and clean-comparison requirements apply.
+DNK,CLIMATE_DISCLOSURE,2016,False,True,False,https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014L0095,Same NFRD implementation counted once under ESG in pooled models; retained in full climate-family estimate.
+EST,CLIMATE_DISCLOSURE,2017,False,False,False,https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014L0095,Same NFRD implementation counted once under ESG in pooled models; retained in full climate-family estimate.
+FIN,CLIMATE_DISCLOSURE,2017,False,True,False,https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014L0095,Same NFRD implementation counted once under ESG in pooled models; retained in full climate-family estimate.
+FRA,CLIMATE_DISCLOSURE,2012,True,True,True,https://www.hauts-de-france.developpement-durable.gouv.fr/message-a9182.html,Post-horizon and clean-comparison requirements apply.
+DEU,CLIMATE_DISCLOSURE,2017,False,True,False,https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014L0095,Same NFRD implementation counted once under ESG in pooled models; retained in full climate-family estimate.
+GRC,CLIMATE_DISCLOSURE,2016,False,True,False,https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014L0095,Same NFRD implementation counted once under ESG in pooled models; retained in full climate-family estimate.
+HUN,CLIMATE_DISCLOSURE,2017,False,False,False,https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014L0095,Same NFRD implementation counted once under ESG in pooled models; retained in full climate-family estimate.
+IRL,CLIMATE_DISCLOSURE,2017,False,False,False,https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014L0095,Same NFRD implementation counted once under ESG in pooled models; retained in full climate-family estimate.
+ITA,CLIMATE_DISCLOSURE,2017,False,True,False,https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014L0095,Same NFRD implementation counted once under ESG in pooled models; retained in full climate-family estimate.
+LVA,CLIMATE_DISCLOSURE,2017,False,False,True,https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014L0095,Post-horizon and clean-comparison requirements apply.
+LTU,CLIMATE_DISCLOSURE,2017,False,False,True,https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014L0095,Post-horizon and clean-comparison requirements apply.
+LUX,CLIMATE_DISCLOSURE,2017,False,False,True,https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014L0095,Post-horizon and clean-comparison requirements apply.
+MLT,CLIMATE_DISCLOSURE,2017,False,False,False,https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014L0095,Same NFRD implementation counted once under ESG in pooled models; retained in full climate-family estimate.
+NLD,CLIMATE_DISCLOSURE,2017,False,True,False,https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014L0095,Same NFRD implementation counted once under ESG in pooled models; retained in full climate-family estimate.
+POL,CLIMATE_DISCLOSURE,2017,False,True,False,https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014L0095,Same NFRD implementation counted once under ESG in pooled models; retained in full climate-family estimate.
+PRT,CLIMATE_DISCLOSURE,2017,False,False,False,https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014L0095,Same NFRD implementation counted once under ESG in pooled models; retained in full climate-family estimate.
+ROU,CLIMATE_DISCLOSURE,2017,False,False,False,https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014L0095,Same NFRD implementation counted once under ESG in pooled models; retained in full climate-family estimate.
+SVK,CLIMATE_DISCLOSURE,2017,False,False,True,https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014L0095,Post-horizon and clean-comparison requirements apply.
+SVN,CLIMATE_DISCLOSURE,2017,False,False,False,https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014L0095,Same NFRD implementation counted once under ESG in pooled models; retained in full climate-family estimate.
+ESP,CLIMATE_DISCLOSURE,2017,False,True,False,https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014L0095,Same NFRD implementation counted once under ESG in pooled models; retained in full climate-family estimate.
+SWE,CLIMATE_DISCLOSURE,2017,False,True,False,https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014L0095,Same NFRD implementation counted once under ESG in pooled models; retained in full climate-family estimate.

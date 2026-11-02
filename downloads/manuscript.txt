@@ -2,17 +2,17 @@ Disclosure Regulation, Stock Liquidity, and
 International Policy Diffusion
 Abstract
 We examine stock liquidity around public-disclosure requirements and the international spread
-of these requirements. The policy calendar contains 211 country–family implementation mile-
-stones in 65 countries during 2000–2025. A common three-year comparison supports five fam-
-ilies, 61 implementations and 47 countries. The equal-family stacked estimate corresponds to
-17.3% lower trading costs after implementation. Market-cap alternatives, reported in the On-
-line Appendix, are smaller and less precise. We then distinguish exposure to foreign rules,
-observed outcomes among earlier adopters, copying, competition and external financial de-
-pendence. Foreign-policy exposure has a more positive association with implementation when
-earlier adopters experience lower trading costs in the implementation-hazard models. This
-interaction is not confirmed by the within-country specifications or the full multiple-testing
-adjustment. The findings support a comparison of liquidity patterns across reporting require-
-ments while identifying the limits of a common liquidity effect and a learning interpretation.
+of these requirements. The calendar contains 269 country–family topic milestones in 66 coun-
+tries during 2000–2025, including EU climate reporting. After removing overlapping NFRD
+topic tags from the pool, the three-year comparison supports 6 families, 64 implementations
+and 47 countries. Equal-family stacked estimates correspond to 10.2% lower trading costs
+(p=0.268); the market-cap-weighted family average corresponds to 17.1% lower trading
+costs (p=0.043). The EU-inclusive climate comparison covers 14 adopting countries. We
+then examine learning, copying, competition and external finance. Adoption is positively asso-
+ciated with favourable growth among earlier adopters in the equal-family hazard model, while
+liquidity-based learning is imprecisely estimated. The evidence indicates differences across
+reporting families and pooling targets rather than a uniform market response or an established
+diffusion mechanism.
 Keywords:disclosure regulation; stock liquidity; policy diffusion; international reporting.
 1 Introduction
 Governments increasingly require companies to publish information beyond their annual finan-
@@ -21,23 +21,22 @@ supply-chain statements address different information needs. We ask two related 
 these public-disclosure requirements improve stock liquidity on average? What explains their
 international implementation? Figure 1 connects the source evidence to these two empirical com-
 parisons.
-Our primary country-level comparison covers 61 country–family implementations in 47 coun-
-tries. Trading costs are 17.3% lower after implementation when each supported disclosure family
-receives equal weight. This target answers the question of an average across different types of
+Our primary comparison covers 64 country–family implementations in 47 countries. The
+equal-family stacked estimate corresponds to 10.2% lower trading costs (p=0.268), while the ex-
+plicit market-cap-weighted family average corresponds to 17.1% lower trading costs (p=0.043).
 1
 
-reporting requirements. Market-cap alternatives in the Online Appendix give smaller, less precise
-estimates. The comparison therefore provides evidence of lower trading costs under an equal-
-family target, rather than an established common benefit for all reporting requirements. The sup-
-ported climate estimate concerns two selected greenhouse-gas reporting episodes, rather than every
-jurisdiction with climate-related reporting.
-The diffusion tests relate implementation to information available from other countries. In the
-hazard models, the interaction between portfolio exposure to foreign requirements and observed
-liquidity improvements among earlier adopters is positive under both family weights. This pattern
-is consistent with countries responding to favourable foreign experience. It remains exploratory:
-the corresponding within-country interaction is not positive, and the hazard interaction does not
-survive the adjustment across all focal diffusion tests. We distinguish this conditional pattern from
-unconditional exposure, copying of larger economies, competition and financial dependence.
+These targets ask different questions: an average across reporting families and an average weighted
+by the market value represented in each family. Their different precision cautions against treating
+all reporting requirements as having a common effect. A separate climate comparison includes EU
+reporting and covers 14 adopting countries.
+The diffusion tests relate implementation to information available from other countries. Fol-
+lowing Koning et al. (2018), favourable growth among earlier adopters is positively associated with
+implementation in the equal-family hazard model (coefficient 0.936,p=0.026). The liquidity-
+learning interaction is positive but imprecise (coefficient 0.277,p=0.406). Neither compari-
+son survives the full multiple-testing adjustment. We therefore distinguish a suggestive growth-
+learning association from established evidence that governments learn from disclosure-induced
+liquidity improvements.
 Disclosure research provides the basis for these questions. Information can reduce investors’
 trading costs by limiting differences in information and improving the precision and comparability
 of public reports (Diamond and Verrecchia 1991, Welker 1995, Healy et al. 1999, Leuz and Verrec-
@@ -53,9 +52,9 @@ reports, electronic reporting, extractive payments and country-by-country tax in
 et al. 2023, Blankespoor et al. 2014, Rauter 2020, De Simone and Olbert 2022, Müller et al. 2024,
 Nessa et al. 2025). These studies motivate a common comparison across reporting families. We
 bring the requirements into one framework while retaining their different audiences, legal scopes
+and implementation dates. The analysis asks about the average pattern across supported require-
 2
 
-and implementation dates. The analysis asks about the average pattern across supported require-
 ments; it does not assume that all disclosure rules are equivalent.
 The second question connects capital-market research to policy diffusion. Governments can
 learn from outcomes abroad, follow a visible example, respond to competitors or face external
@@ -80,9 +79,9 @@ mentation, rather than a separate country-specific research topic.
 The information differs substantially. Financial-reporting reforms change the basis on which
 reported numbers are prepared. Expanded auditor reports explain matters such as significant audit
 risks and key or critical audit matters. Environmental and social requirements can mandate a report
+while allowing materiality judgements or explanations for particular omitted items. We therefore
 3
 
-while allowing materiality judgements or explanations for particular omitted items. We therefore
 distinguish a mandatory report from a mandate for every environmental, social and governance
 metric. Optional guidance and recommended reporting frameworks do not become mandatory
 simply because an exchange publishes them.
@@ -98,19 +97,24 @@ Preparation costs, limited enforcement, boilerplate reporting, existing informat
 issuer coverage can weaken that response. A country-level estimate also includes firms outside the
 legal perimeter and possible spillovers. It measures a market-level response to a requirement, not
 an effect on every covered issuer.
-Climate content cuts across reporting families. The EU Non-Financial Reporting Directive
-requires relevant environmental information and explicitly discusses greenhouse-gas emissions.
-National scope and materiality provisions matter. ESRS E1 under the CSRD subsequently speci-
-fies Scope 1, 2, 3 and total emissions, with materiality and transition provisions (European Parlia-
-ment and Council 2014, European Commission 2023). Broader sustainability episodes must not
-be interpreted as an absence of climate reporting simply because they are not separate entries in
-the selected climate series. The two-country estimate is a selected episode comparison, not an
-exhaustive global climate-disclosure effect.
+Climate content cuts across reporting families. We include the environmental and climate
+component of the EU Non-Financial Reporting Directive (NFRD), which discusses greenhouse-
+gas emissions and requires material environmental information from covered large public-interest
+entities. This is a mandatory reporting obligation with materiality provisions, not an unconditional
+mandate for every emissions metric. Earlier Danish and Greek phases are retained where docu-
+mented; other NFRD cases use FY2017. France's public emissions inventories begin in 2012 and
+the UK's quoted-company rule in 2013. CSRD/ESRS E1-6 subsequently specifies Scope 1, 2, 3
+and total emissions, with materiality and transition reliefs; the EU first wave concerns FY2024
+reports published in 2025 (European Parliament and Council 2014, European Commission 2023,
+EFRAG European Lab Project Task Force 2021, European Securities and Markets Authority 2024).
+These successor phases are retained in the legal inventory but lack three post years by 2025. When
+one NFRD implementation is tagged under both ESG and climate, the pooled model counts that
+4
+
+country-year reform once under ESG; the separate climate estimate retains the full topic coverage.
 Related studies supply institutional benchmarks. Downar et al. (2021) examine UK carbon
 reporting, Joshi et al. (2020) examine public bank country reports, and She (2022) studies Califor-
 nia transparency. Baik et al. (2024) studies a different US supply-chain requirement concerning
-4
-
 conflict minerals. Published samples do not cover identical countries, rules or years. The Online
 Appendix links every family to the literature and separates historical published country lists from
 the current source calendar.
@@ -130,17 +134,19 @@ when examining the channels proposed by Koning et al. (2018).
 The research universe contains 90 Datastream jurisdictions and market data for 2000–2025. Se-
 lected source-reviewed legal provisions are available for 81 of those jurisdictions. We retain
 statutes, standards, official notices, amendments and successor references, with document hashes
+5
+
 and links between the sources and coded facts. Scanned passages used in the review are checked
 with OCR and page images. The archive records uncertainty rather than treating an unresolved
 date or scope as nonadoption.
-The empirical public-disclosure calendar contains 211 dated country–family milestones in 65
-5
-
-countries during 2000–2025 (Table 1 and Figure 2). It records implementation phases rather than
-an exhaustive census of first-ever national disclosure laws. The full adoption risk panel, includ-
-ing the separate confidential-tax comparison, covers 82 countries; the public-reporting risk panel
-covers 66. Regression samples are smaller where a particular channel or market measure is un-
-available.
+The public-disclosure calendar contains 269 dated country–family topic milestones in 66 coun-
+tries during 2000–2025 (Table 1 and Figure 2). Twenty NFRD climate tags overlap an ESG mile-
+stone and are excluded from pooled estimation under climate. The inventory records reporting
+phases rather than an exhaustive census of first-ever laws. The full risk panel covers 82 countries
+including confidential tax reports and 67 for public reporting. The source extension matches all
+38 Krueger treatment countries and records all 32 Rauter jurisdictions; 31 of the latter belong to
+our market universe. Published adoption years, legal force and first covered fiscal periods remain
+distinct (Krueger et al. 2024, Rauter 2020).
 We distinguish legal adoption, entry into force, the first covered financial period, an engage-
 ment boundary and a statutory filing deadline. The calendar preserves the clock supported by the
 source. For example, China’s initial cross-listed audit phase differs from its later broader phase;
@@ -157,14 +163,14 @@ mediately; lower values indicate greater liquidity.Price Impactmeasures the asso
 absolute returns and dollar trading volume.Zero Returnsis the fraction of observed trading days
 without a price change. We use log trading costs and log price impact, screen for sufficient annual
 observations, and winsorize the first two measures at the annual first and ninety-ninth percentiles.
+6
+
 An additional illiquidity index averages the three standardized measures. Higher values of each
 outcome indicate less liquidity.
 World Bank data provide income, GDP growth, trade, aid and IMF credit measures. IMF bilat-
 eral portfolio positions measure financial exposure to foreign markets. Fixed geographic, language
 and export-pattern networks identify other peer groups. These public country data complement the
 licensed market observations; the firm-level Datastream files are not publicly redistributed.
-6
-
 3.2 Liquidity comparisons and weights
 We form a separate comparison for each supported family and implementation cohort. For a mile-
 stone in yearg, the primary window contains yearsg−3 throughg−1 andg+1 throughg+3. We
@@ -181,19 +187,18 @@ favour larger, more actively traded companies. Two-year windows assess this rest
 different horizon; they do not provide an identical sample.
 Within each cohort we estimate a country- and year-effect comparison, with country weights
 based on GDP ing−1. Cohort weights within a family reflect the baseline GDP represented
-by adopting countries. The primary sample contains 1,404 country–stack–years, 47 countries, 61
-country–family implementations and 18 family–cohorts. Country-cluster scores retain dependence
-when a country appears in several cohorts or families.
-The main presentation gives each supported family equal objective mass, so that the target re-
-flects the average across disclosure families. We report both a stacked common-coefficient regres-
-sion and an explicit average of separately estimated family coefficients. In the stacked regression,
-treatment variation also affects each family's coefficient contribution. The Online Appendix retains
-the market-cap alternatives, based on the baseline sample market value represented by adopting-
-country companies. These represent market value in the estimation sample, not a census of legally
-covered issuers. All weighting schemes, specifications and estimation outcomes remain in the
-coefficient registry.
+by adopting countries. The primary sample contains 1,704 country–stack–years, 47 countries, 64
+country–family implementations and 21 family–cohorts. The full climate comparison is reported
+separately because the same NFRD reform also contains ESG disclosure. Country-cluster scores
+retain dependence when a country appears in several cohorts or families.
 7
 
+The main presentation gives each supported family equal objective mass. We report a stacked
+common-coefficient regression and an explicit average of separately estimated family coefficients.
+The Online Appendix also reports market-cap family weights based on the baseline sample market
+value represented by adopting-country companies. These are different economic targets, not inter-
+changeable estimates. The sources and pooling rule are fixed before inspecting the revised results;
+the complete coefficient registry retains both weights and every declared specification.
 The secondary specifications add lagged log income per capita, GDP growth and trade/GDP;
 use two-year windows; and examine alternative liquidity proxies. Event-time coefficients show
 differences before and after implementation. These checks assess the comparison, but cannot
@@ -214,14 +219,14 @@ companies in earlier adopting countries. A donor must have implemented byt−2; 
 change ends int−1. This is an observed foreign outcome, not an estimated liquidity improvement
 caused by the foreign policy. We include exposure, success and their interaction together.
 Following Koning et al. (2018), growth learning compares prior-year growth among earlier
+8
+
 and later adopters in a geographic network with documented histories. Copying uses a larger
 geographic peer fixed with GDP in 2000, distinguishing recent and older implementation; language
 peers provide a second proxy. Competition uses export-pattern peers selected in 2000. Financial
 dependence adds aid to IMF credit and SDR allocations relative to GDP. It does not identify a
 lender’s policy conditions. Missing histories, portfolio positions and outcomes remain missing.
 Both family weights are applied to the same sample for each comparison. We require at least
-8
-
 15 countries and sufficient implementation and nonimplementation observations. Unstable or un-
 supported models remain in the full results registry. The finite core matrix contains 160 fits across
 channels, audiences, implementation types, estimators and weights. We report country-cluster in-
@@ -229,109 +234,108 @@ ference and retain the Holm adjustment across all 256 attempted focal tests (Hol
 channel estimates are exploratory.
 4 Liquidity Findings
 4.1 Liquidity around implementation
-Table 2 and Figure 3 report the equal-family comparisons. The stacked coefficient is−0.190 (p=
-0.011), corresponding to 17.3% lower trading costs. The explicit average of family coefficients
-is−0.177 (p=0.019), corresponding to 16.2% lower trading costs. The targets differ because
-the stacked regression also reflects treatment variation within families. Market-cap alternatives
-are reported in Online Appendix Table OA6; they are smaller and less precise, with confidence
-intervals containing zero.
-The family estimates show why the pooling target matters (Online Appendix Table OA1). Ex-
-panded auditor reporting includes 20 adopting countries and produces a coefficient close to zero.
-Public bank reporting and environmental and social reporting have negative but imprecise esti-
-mates. The climate-category liquidity estimate is supported by mandatory greenhouse-gas report-
-ing in the UK (2013) and the revised Vietnamese annual-report form (FY2021). It should not be
-read as an estimate for all climate-risk or sustainability reporting requirements. The supply-chain
-comparison includes Australia (2019), France (2017), the UK (2016) and the US market obser-
-vation based on California's 2012 rule. California is a subnational obligation with an eligibility
-perimeter, not a federal mandate covering every US issuer.
+Table 2 and Figure 3 report the equal-family comparisons. The stacked coefficient is−0.108
+(p=0.268), corresponding to 10.2% lower trading costs. The explicit family average is−0.061
+(p=0.378), corresponding to 5.9% lower trading costs. Both confidence intervals include zero.
+Under market-cap family weights, the stacked coefficient is−0.176 (p=0.071) and the explicit
+family average is−0.187 (p=0.043), or 17.1% lower trading costs (Online Appendix Table OA6).
+Weighting therefore affects the estimated average and its precision.
+The six-family comparison includes expanded auditor reports, public bank reports, climate
+reporting, ESG reporting, IFRS and supply-chain disclosure. Family estimates differ (Online
+Appendix Table OA1). Adding documented later IFRS implementation supplies an additional
+comparison country and supports a New Zealand cohort that did not meet the earlier comparison-
+country requirement. That single-adopter IFRS contrast is positive, while several other family
+estimates are negative. The pool should therefore be read as a weighted average across supported
 9
 
-4.2 Interpretation and supporting comparisons
-The country-condition specifications, two-year windows and other liquidity proxies are reported in
-the Online Appendix. The selected climate calendar contains seven jurisdictions with milestones
-during 2000–2025, but the primary liquidity comparison has only two adopting countries. New
-Zealand's 2023 milestone and the 2025 milestones in Australia, Hong Kong, Malaysia and Sin-
-gapore lack three subsequent years in data ending in 2025. Among supply-chain entries, Canada
-(2024), Germany (2023) and Switzerland (2023) are also too recent; Norway (2022) lacks eligible
-later-adopter comparison countries under the current design. These restrictions explain the regres-
-sion samples; they do not establish the absence of rules elsewhere. The shorter window admits
-IFRS as an additional supported family.
-Event-time coefficients assess the evolution around the milestone (Online Appendix Figure
-OA1). Differences before implementation and sensitivity to timing, sample composition and fam-
-ily weights limit a causal interpretation. Concurrent requirements present a further issue: the UK
-2013 auditor and greenhouse-gas rules share treated market observations. Country clustering ad-
-dresses dependence in inference, but cannot separate the economic effects of a simultaneous bun-
-dle. We interpret the estimates as conditional country-market comparisons around the documented
-requirements.
-Confidential tax reporting is reported separately in the Online Appendix. Its point estimates
-do not establish the same liquidity pattern as public disclosures. This comparison is informative
-about audience and reporting purpose, but does not isolate a tax-enforcement mechanism. It is not
-included in the public-disclosure headline average.
+comparisons, not evidence that each type of disclosure improves liquidity.
+4.2 Climate reporting and EU coverage
+The full climate comparison includes 14 adopting countries and 20 countries overall. Its trading-
+cost coefficient is−0.199 (p=0.086), corresponding to 18.0% lower trading costs, with a 95%
+interval from−0.429 to 0.031 in logs (Online Appendix Table OA18). Adopting countries are
+Austria, Belgium, Denmark, Finland, France, Germany, Greece, Italy, the Netherlands, Poland,
+Spain, Sweden, the UK and Vietnam. NFRD reporting is materiality-based environmental dis-
+closure; France's earlier inventories and the UK and Vietnamese rules have different content and
+perimeters. The estimate concerns this broad climate-reporting topic and cannot isolate a single
+emissions metric.
+NFRD observations already represented by an ESG milestone are omitted from the pooled cli-
+mate component to avoid counting the same reform twice. They remain in the separate climate
+estimate and in the complete source calendar. The pooled climate row consequently has three
+adopting countries: France, the UK and Vietnam. The broad calendar contains 34 climate juris-
+dictions; recent milestones lack the post years or documented comparison countries required by
+the design. The supply-chain comparison retains Australia, France, the UK and the US market
+observation based on California's rule, which is a subnational eligibility-based requirement rather
+than a federal obligation for every issuer.
+4.3 Interpretation and supporting comparisons
+Country-condition specifications, shorter windows, alternative liquidity measures and event-time
+estimates appear in the Online Appendix. Payments-to-governments coverage is substantially
+wider after reconciliation with Rauter (2020), but this family still lacks three qualifying later-
+adopter comparison countries for an eligible cohort under the fixed design. More legal coverage
+therefore does not automatically produce an identified liquidity comparison. Confidential tax re-
+porting remains outside the public-disclosure average.
 10
 
+Pre-implementation patterns, persistent-company selection, concurrent reforms and partial le-
+gal coverage limit causal interpretation. Country clustering preserves statistical dependence across
+stacks, but cannot separate simultaneous legal requirements or make a materiality-dependent report
+equivalent to a universal metric mandate. We interpret the results as country-market comparisons
+around documented reporting phases.
 5 International Policy Diffusion
 5.1 Diffusion Mechanism 1 – Learning from observed outcomes
-Table 3 asks whether foreign-policy exposure has a different association with implementation when
-earlier adopters experience better liquidity. Under equal family weights, the exposure–success in-
-teraction is 0.832 (p=0.013) in the hazard model. The comparison contains 202 country–family–
-years in 24 countries. Because continuous primitives are standardized, the interaction concerns
-their joint variation rather than a percentage-point effect on implementation probability. Online
-Appendix Table OA12 reports both family weights.
-The positive hazard interaction is consistent with outcome-based learning. The within-country
-interaction is not positive, however, and the hazard interaction does not survive the full multiple-
-testing adjustment. Observed foreign liquidity can also reflect developments unrelated to the pol-
-icy. The evidence therefore identifies an exploratory conditional association, rather than a demon-
-strated learning mechanism. Exposure to a foreign rule and observed success abroad convey dif-
-ferent information, even when neither alone provides a stable explanation of implementation.
+Table 3 relates implementation to foreign-policy exposure and observed liquidity among earlier
+adopters. The equal-family exposure–success interaction is 0.277 (p=0.406) in the hazard model,
+using 270 country–family–years in 26 countries. The market-cap counterpart is 0.422 (p=0.179).
+The within-country equal-family interaction is 0.010 (p=0.647). These estimates do not establish
+that governments respond to liquidity gains abroad; the full focal-test adjusted p-values are one.
+Following Koning et al. (2018), we also compare economic growth among earlier and later
+adopters. The equal-family hazard coefficient is 0.936 (p=0.026), with 851 country–family–years
+in 38 countries. Its market-cap counterpart is 0.912 (p=0.104); the equal-family within-country
+coefficient is 0.104 (p=0.058). This positive growth comparison is suggestive of learning from
+economic outcomes, but does not survive the full multiple-testing adjustment. It is different from
+evidence that disclosure itself caused growth or liquidity improvements.
 5.2 Diffusion Mechanism 2 – Copying larger or related economies
-Online Appendix Table OA2 distinguishes following a larger economy from responding to its
-outcomes. The geographic peer is fixed before the adoption period. Recent and older implementa-
-tions enter separately, following the timing distinction in Shipan and V olden (2008); language-peer
-adoption provides an additional familiarity measure. These comparisons do not show a consistent
-positive response across estimators and weights. Their coverage is narrower than the full policy
-calendar because the relevant peer’s history must be observed.
-The legal sources nevertheless identify concrete routes for international transmission. The
-Dutch standard setter’s account of expanded reporting expressly refers to developments in the
-United Kingdom. National auditing requirements draw on international standards, while sustain-
-ability rules use international reporting frameworks. Such source evidence establishes the avail-
+We distinguish following a larger economy from responding to its outcomes. Geographic peers are
+fixed before the adoption period; recent and older implementations enter separately. Language-
+peer adoption provides a second familiarity measure. The estimates are not precise enough to es-
+tablish a consistent copying effect across the two estimators and family weights (Online Appendix
 11
 
-ability and sometimes use of a template. It does not by itself establish that the template produced
-a liquidity benefit or that a country copied it because it was successful.
+Tables OA2 and OA13). Legal source references to foreign standards establish the availability of
+reporting templates, but do not identify policymakers' motives.
 5.3 Diffusion Mechanism 3 – Competition with economic rivals
-The competition test uses prior implementation among countries with similar export patterns. The
-independent-choice comparison has limited support. In the comparison including coordinated im-
-plementations, the logit association is negative and survives the full focal-test adjustment. It does
-not show the predicted positive competitive response. The corresponding within-country compari-
-son is different after absorbing persistent country-family differences and shared family-year waves.
-We therefore keep competition distinct from learning and from coordinated legal implementation.
+The competition test uses implementation among countries with similar export patterns in 2000.
+Neither weight establishes a positive competitive response in the independent-choice models. In-
+cluding coordinated European implementations changes the comparison; those estimates are re-
+tained separately. An externally coordinated legal wave is not an independent national response
+to rivals. Family-year effects and the independent-choice sample address different aspects of that
+distinction.
 5.4 Diffusion Mechanism 4 – External pressure and financial dependence
-Following Koning et al. (2018), the financing test relates implementation to prior financial de-
-pendence. The within-country estimates do not provide a stable positive association under both
-weights. This proxy combines distinct financing relationships and does not identify policy con-
-ditionality. The legal classification of coordinated requirements records a separate institutional
-source of external influence. Joint-channel models are reported only where the intersection of the
-data meets the support requirements; the registry retains failures as well as fitted comparisons.
+The financing test relates implementation to prior aid and IMF credit relative to GDP. The within-
+country estimates do not establish a positive financing-pressure association. This aggregate proxy
+combines different financing relationships and does not identify a lender's conditions. Joint-
+channel models lack sufficient common support in the independent-choice sample. We retain those
+failed attempts alongside the fitted models rather than filling missing histories or reporting an un-
+supported joint mechanism.
 6 Conclusion
-We bring public-disclosure requirements into a common country-level liquidity and implementa-
-tion framework. Equal-family comparisons indicate lower trading costs following implementation;
-market-cap weighting produces smaller and less precise estimates. The differences across fami-
-lies, timing and comparison samples prevent a conclusion that every disclosure rule generates a
-common liquidity improvement.
-The implementation tests distinguish the presence of foreign rules from the outcomes observed
+We bring public-disclosure requirements into a common country-level framework, extending the
+legal calendar with EU climate reporting and published country lists. The six-family liquidity
+comparison gives 10.2% lower trading costs under equal-family stacking and 17.1% under the
+market-cap family average, with different precision. The EU-inclusive climate comparison covers
+14 adopting countries. These findings describe averages across heterogeneous reporting require-
+ments and comparison samples, rather than a common benefit of every disclosure rule.
 12
 
-among earlier adopters. A positive exposure–liquidity-success interaction appears in the hazard
-models, but complementary within-country models and the full multiple-testing adjustment do not
-confirm it. Together, the analyses provide a global source-linked basis for studying the market
-consequences and international transmission of disclosure requirements, while leaving causal at-
-tribution to individual rules and policymakers’ learning unresolved.
+The implementation tests separate the presence of foreign rules from outcomes among ear-
+lier adopters. A positive growth-learning association appears in the equal-family hazard model,
+while the liquidity-learning interaction is imprecisely estimated. Neither establishes a diffusion
+mechanism after the full testing adjustment. The source-linked calendar makes these distinctions
+observable and provides a basis for more targeted issuer and policy comparisons.
 13
 
 Shared question
 Disclosure rules: liquidity effects and international adoption.
 1. Liquidity
-Official dates and coverage
+Legal and published dates
 Datastream company records
 Market data: 2000–2025
 2. International diffusion
@@ -349,11 +353,11 @@ Copying larger or related peers
 Competition; external finance
 Hazard and within-country tests
 Liquidity sample
-61 implementations; 47 countries
-Five public-reporting families
+64 implementations; 47 countries
+Six public-reporting families
 Adoption samples
-Public risk panel: 66 countries
-Learning hazard: 24 countries
+Public risk panel: 67 countries
+Learning hazard: 26 countries
 Source clocks, issuer scope and sample support remain explicit.
 Alternative weights, other models and legal-source details are retained in the OA.
 Figure 1.Disclosure regulation, liquidity and international diffusion
@@ -370,10 +374,10 @@ disclosures.
 15
 
 Figure 3.Public-disclosure implementation and stock liquidity
-Panel A reports 211 country–family milestones. Panel B shows two equal-family estimates of lower trading costs,
-100[1−exp( bβ)], with country-cluster 95% intervals. The supported liquidity sample contains 61 implementations
-and 47 countries. Positive values denote lower trading costs, not a proportionate increase in liquidity itself.
-Alternative family weights remain in Online Appendix Table OA6.
+Panel A reports 269 country–family topic milestones, including overlapping topic tags. Panel B shows two
+equal-family estimates of lower trading costs, 100[1−exp( bβ)], with country-cluster 95% intervals. The supported
+liquidity sample contains 64 implementations and 47 countries. Positive values denote lower trading costs, not a
+proportionate increase in liquidity itself. Alternative family weights remain in Online Appendix Table OA6.
 16
 
 Table 1.Public-disclosure implementation milestones
@@ -381,57 +385,60 @@ Family Countries Liquidity adopters
 Expanded auditor reports 42 20
 Public bank country reports 28 13
 Public multinational country reports 28 –
-Climate disclosure 7 2
-Environmental, social and governance reports 42 22
-Payments to governments 9 –
-IFRS financial statements 38 –
+Climate disclosure 34 3
+Environmental, social and governance reports 46 23
+Payments to governments 33 –
+IFRS financial statements 41 1
 Supply-chain disclosure 8 4
 Sustainability financial reporting 5 –
 Electronic financial reporting 4 –
 This table reports documented country–family implementation milestones dated 2000–2025, not counts of distinct
-laws. A country may appear in several families. The final column counts adopting countries in the three-year
-liquidity design. A dash means the design lacks a supported cohort, not that the rule has no effect. Only the initial
-milestone selected for each country–family series is tabulated; amendments, successor phases, voluntary guidance
-and later schedules remain in the source archive. The US supply-chain entry is California legislation, not a federal
-mandate. The ESG category includes mandated reports with different E, S and G content, materiality and
-disclosure-or-explanation provisions; it does not imply an unconditional mandate for every metric.
+laws. A country may appear in several families. Climate coverage includes EU NFRD materiality-based
+environmental reporting, not an unconditional mandate for every emissions metric. Duplicate NFRD climate tags are
+excluded from the pooled final column and reported separately in Table OA18. The final column counts adopting
+countries in the three-year liquidity design. A dash means the design lacks a supported cohort, not that the rule has no
+effect. Only the initial milestone selected for each country–family series is tabulated; amendments, successor phases,
+voluntary guidance and later schedules remain in the source archive. The ESG category includes mandated reports
+with different E, S and G content, materiality and disclosure-or-explanation provisions; it does not imply an
+unconditional mandate for every metric.
 17
 
 Table 2.Disclosure implementation and stock liquidity
 (1) (2)
 Family weights Equal Equal
 Aggregation Stacked Average
-Trading costs−0.190 ∗∗ −0.177∗∗
-(0.071) (0.073)
-Trading-cost change -17.3% -16.2%
-Country–stack–years 1404 1404
+Trading costs−0.108−0.061
+(0.096) (0.068)
+Trading-cost change -10.2% -5.9%
+Country–stack–years 1704 1704
 Countries 47 47
-Families 5 5
-Joint lead-test p 0.026 0.016
+Families 6 6
+Joint lead-test p 0.065 0.069
 This table reports country-level rollout estimates. The outcome is log Bid-Ask Spread; lower values indicate lower
 trading costs and greater stock liquidity. Each cohort uses fixed companies in three pre-implementation years and
 years one to three after the documented milestone, excluding the implementation year. Country weights use GDP in
-the preceding year. Each supported family receives equal objective mass. Market-cap alternatives are reported in
-Online Appendix Table OA6. Their estimates are smaller and less precise. A stacked objective and an explicit
-average of family coefficients are distinct pooling targets. Standard errors in parentheses cluster by country and
-preserve dependence across policy stacks. *, ** and *** denote unadjusted significance at 10%,5% and 1%. These
-are country-policy comparisons, not verified effects on every legally covered issuer.
+the preceding year. The main table gives equal family mass. Market-cap alternatives appear in Online Appendix
+Table OA6. A stacked objective and an explicit average of family coefficients are distinct pooling targets. Standard
+errors in parentheses cluster by country and preserve dependence across policy stacks. *, ** and *** denote
+unadjusted significance at 10%,5% and 1%. The pool excludes a climate tag when the identical NFRD country-year
+reform is already represented under ESG; full climate-family estimates retain those cases. These are country-policy
+comparisons, not verified effects on every legally covered issuer.
 18
 
 Table 3.Foreign policy exposure and observed liquidity outcomes
 (1) (2)
 Estimator Logit Within
 Family weights Equal Equal
-Foreign-policy exposure 0.372 0.084
-(0.554) (0.050)
-Successful foreign adopters−1.851 ∗∗ 0.002
-(0.740) (0.044)
-Exposure x successful adopters 0.832 ∗∗ −0.022
-(0.310) (0.023)
-Country–family–years 202 432
-Countries 24 24
-Implementations 25 26
-Families 5 6
+Foreign-policy exposure 0.023 0.016
+(0.378) (0.072)
+Successful foreign adopters−1.124 0.040
+(0.685) (0.056)
+Exposure x successful adopters 0.277 0.010
+(0.328) (0.023)
+Country–family–years 270 496
+Countries 26 26
+Implementations 28 29
+Families 6 6
 This table reports associations with documented implementation timing. Foreign-policy exposure is the lagged
 portfolio-weighted share of countries with the requirement. Successful foreign adopters are the share of observed
 earlier adopters with falling same-company log trading costs, measured before the focal implementation year; these
@@ -441,8 +448,8 @@ Logit includes family and year effects; Within denotes a linear probability mode
 family–year effects. Logit coefficients are log odds; within coefficients are probability changes. Country-cluster
 standard errors appear in parentheses. The samples differ because logit removes fixed-effect groups without outcome
 variation. Nominal stars use the conventions in Table 2; the full 160-model,256-focal-test adjustment is retained in
-the results files. Both family weights are reported in Online Appendix Table OA12. Decision dates are not available
-for all cases, so these models do not establish learning at the political decision date.
+the results files. Both family weights appear in Online Appendix Table OA12. Decision dates are not available for all
+cases, so these models do not establish learning at the political decision date.
 19
 
 A Variable Definitions
@@ -588,6 +595,12 @@ mark
 Historical 30-implementation estimates retain stacked equal/cap mass, explicit
 family averages and covariance-weighted GLS. They are distinct historical
 benchmarks, not estimates on the expanded sample.
+Pooled-eligible implementa-
+tion
+A documented country–family milestone retained for pooling. A climate tag is
+excluded when the same NFRD country-year reform is represented under ESG.
+Full climate-family estimates retain those topic tags; histories remain available
+for peer signals.
 22
 
 References
@@ -628,11 +641,15 @@ Zaklan. 2021. “The impact of carbon disclosure mandates on emissions and finan
 performance”.Review of Accounting Studies26 , 1137–1175.
 23
 
+EFRAG European Lab Project Task Force. 2021. “Current non-financial reporting formats and
+practices, Appendix 4.6, stream a6 assessment report”. Technical report, EFRAG.
 European Commission. 2023. “Delegated regulation (eu) 2023/2772, European sustainability re-
 porting standards”. ESRS 1 materiality and phase-ins, ESRS E1-6 emissions disclosures.
 European Parliament and Council. 2014. “Directive 2014/95/eu, disclosure of non-financial and
 diversity information”. Article 1 and recital 7, national implementation and covered periods
 remain separate.
+European Securities and Markets Authority. 2024. “2023 corporate reporting enforcement and
+regulatory activities”. Technical Report ESMA32-193237008-8269, ESMA.
 Goodman-Bacon. 2021. “Difference-in-differences with variation in treatment timing”.Journal of
 Econometrics225 , 254–277.
 Healy, Paul M., Amy P. Hutton, and Krishna G. Palepu. 1999. “Stock Performance and Inter-
@@ -660,11 +677,11 @@ Leuz and Verrecchia. 2000. “The Economic Consequences of Increased Disclosure�
 Accounting Research38 , 91–124.
 Leuz and Wysocki. 2016. “The Economics of Disclosure and Financial Reporting Regulation,
 Evidence and Suggestions for Future Research”.Journal of Accounting Research54 , 525–622.
+24
+
 Müller, Raphael, Christoph Spengel, and Stefan Weck. 2024. “How do investors value the publi-
 cation of tax information? Evidence from the European public country-by-country reporting”.
 Contemporary Accounting Research41 , 1893–1924.
-24
-
 Nessa, Michelle L., Anh V . Persson, Jane Z. Song, Erin M. Towery, and Mary E. Vernon. 2025.
 “The Effect of U.S. Country-by-Country Reporting on U.S. Multinationals’ Tax-Motivated In-
 come Shifting and Real Activities”.Journal of Accounting Research63 , 951–988.
